@@ -10,6 +10,10 @@ namespace GenetickyAlgoritmus
             Invidual result = Algorithm.start();
             Console.ReadLine();
 
+            Console.WriteLine("Nejlepší jedinec: " + result.getSequence() + "\tVzdálenost:" + result.getDistance());
+
+            Console.ReadLine();
+
         }
     }
 }

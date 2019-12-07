@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukáš Míšek\\Desktop\\bakalar\\GenetickyAlgoritmusPalety\\GenetickyAlgoritmusMista\\GenetickyAlgoritmus\\GenetickyAlgoritmus.csproj",
+      "projectUniqueName": "C:\\Users\\Lukáš Míšek\\Desktop\\Bakalarka\\Program\\GenetickyAlgoritmus\\GenetickyAlgoritmus.csproj",
       "projectName": "GenetickyAlgoritmus",
-      "projectPath": "C:\\Users\\Lukáš Míšek\\Desktop\\bakalar\\GenetickyAlgoritmusPalety\\GenetickyAlgoritmusMista\\GenetickyAlgoritmus\\GenetickyAlgoritmus.csproj",
+      "projectPath": "C:\\Users\\Lukáš Míšek\\Desktop\\Bakalarka\\Program\\GenetickyAlgoritmus\\GenetickyAlgoritmus.csproj",
       "packagesPath": "C:\\Users\\Lukáš Míšek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lukáš Míšek\\Desktop\\bakalar\\GenetickyAlgoritmusPalety\\GenetickyAlgoritmusMista\\GenetickyAlgoritmus\\obj\\",
+      "outputPath": "C:\\Users\\Lukáš Míšek\\Desktop\\Bakalarka\\Program\\GenetickyAlgoritmus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

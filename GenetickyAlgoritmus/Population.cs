@@ -123,6 +123,11 @@ namespace GenetickyAlgoritmus
             return this.best;
         }
 
+        public string getBestString()
+        {
+            return "(" + best.getDistance() + ")" + "\t" + best.getSequence();
+        }
+
         /// <summary>
         /// Pomocí Console.WriteLine zobrazím jedince v populaci
         /// </summary>
@@ -133,12 +138,13 @@ namespace GenetickyAlgoritmus
             */
 
             // Zobrazím jedince v populaci (1 řádek 1 jedinec)
-            for (int i = 0; i < pCurrent.Count; i = i + 1)
+            for (int i = 0; i < pCurrent.Count-2; i = i + 3)
             {
                 Console.WriteLine(
-                    "Invidual" + i + "(" + pCurrent[i].getDistance() + ")" + "\t" + pCurrent[i].getSequence() + "\t Duplicity: " + pCurrent[i].getDuplicity() );
-
-            }
+                    "Invidual" + (i) + "(" + pCurrent[i].getDistance() + ")" + "\t" + pCurrent[i].getSequence() + "\t" +
+                    "Invidual" + (i+1) + "(" + pCurrent[i+1].getDistance() + ")" + "\t" + pCurrent[i+1].getSequence() + "\t" +
+                    "Invidual" + (i+2) + "(" + pCurrent[i+2].getDistance() + ")" + "\t" + pCurrent[i+2].getSequence());
+        }
             
             /*
             // Zobrazím jedince v poopulaci (1 řádek 4 jedinci)

@@ -16,6 +16,8 @@ namespace GenetickyAlgoritmus
 
             generateCityNames();
             loadFromFile();
+            generateMatrix();
+            saveMAtrix();
 
         }
 
@@ -118,5 +120,48 @@ namespace GenetickyAlgoritmus
             }
         }
 
+        /// <summary>
+        /// Vygeneruje náhodnou matici vzdáleností
+        /// </summary>
+        public void generateMatrix()
+        {
+            var rnd = new Random();
+
+            for (int i = 0; i < Algorithm.LENGTH; i++)
+            {
+                for (int j = 0; j < Algorithm.LENGTH; j++)
+                {
+                    lengthMatrix[i, j] = rnd.Next(1, 10);
+                    lengthMatrix[j, i] = lengthMatrix[i, j];
+                }
+            }
+
+            for (int i = 0; i < Algorithm.LENGTH; i++) lengthMatrix[i, i] = 0;
+
+        }
+
+        /// <summary>
+        /// Uloží matici vzdáleností do souboru
+        /// Cesta do složky s projektem: ...Projekt\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0.\Files
+        /// Příklad: C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\Files
+        /// </summary>
+        public void saveMAtrix()
+        {
+            System.IO.TextWriter writeFile = new StreamWriter(Path.Combine(Environment.CurrentDirectory, "Files\\") + "file.txt");
+
+            string s = null;
+
+            for (int i = 0; i < Algorithm.LENGTH; i++)
+            {
+                for (int j = 0; j < Algorithm.LENGTH; j++) s = s + lengthMatrix[i, j] + "\t";
+                s = s + "\n";
+            }
+
+            writeFile.Write(s);
+            writeFile.Flush();
+            writeFile.Close();
+            writeFile = null;
+        }
+        
     }
 }
