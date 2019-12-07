@@ -1,0 +1,33 @@
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csprojResolveAssemblyReference.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfo.cs
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.deps.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.dev.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\cen65065\source\repos\GenetickyAlgoritmus\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.deps.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.dev.json
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csprojResolveAssemblyReference.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfo.cs
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\cen65065\source\repos\GenetickyAlgoritmusPalety\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.deps.json
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.json
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.dev.json
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csprojAssemblyReference.cache
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfo.cs
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\bakalar\GenetickyAlgoritmusPalety\GenetickyAlgoritmusMista\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
