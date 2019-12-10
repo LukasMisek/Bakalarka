@@ -109,7 +109,7 @@ namespace GenetickyAlgoritmus
 
                 else
                 {
-                    if (iTmp.getFitness() > this.best.getFitness()) this.best = iTmp;
+                    if (iTmp.getDistance() < this.best.getDistance()) this.best = iTmp;
                 }
             }
         }

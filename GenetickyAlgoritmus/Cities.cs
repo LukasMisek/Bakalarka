@@ -142,12 +142,12 @@ namespace GenetickyAlgoritmus
 
         /// <summary>
         /// Uloží matici vzdáleností do souboru
-        /// Cesta do složky s projektem: ...Projekt\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0.\Files
-        /// Příklad: C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\Files
+        /// Cesta do složky s projektem: ...Projekt\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0.\
+        /// Příklad: C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\LengthMatrix.txt
         /// </summary>
         public void saveMAtrix()
         {
-            System.IO.TextWriter writeFile = new StreamWriter(Path.Combine(Environment.CurrentDirectory, "Files\\") + "file.txt");
+            System.IO.TextWriter writeFile = new StreamWriter(Path.Combine(AppDomain.CurrentDomain.BaseDirectory) + "LengthMatrix.txt");
 
             string s = null;
 
