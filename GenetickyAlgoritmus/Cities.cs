@@ -5,8 +5,9 @@ using System.Text;
 
 namespace GenetickyAlgoritmus
 {
-    class Cities
+    public class Cities
     {
+        // Seznam měst, mezi kterými bud jezdit
         public char[] cities = new char[Algorithm.LENGTH];
 
         private int[,] lengthMatrix = new int[Algorithm.LENGTH, Algorithm.LENGTH];
@@ -14,11 +15,19 @@ namespace GenetickyAlgoritmus
         public Cities()
         {
 
+
             generateCityNames();
             loadFromFile();
-            generateMatrix();
+            //generateMatrix();
             saveMAtrix();
 
+        }
+
+        public Cities(string s)
+        {
+            generateCityNames(s);
+            generateMatrix(s);
+            showMatrix();
         }
 
         /// <summary>
@@ -26,8 +35,31 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void generateCityNames()
         {
-            for (int i = 0; i < Algorithm.LENGTH; i++) cities[i] = Convert.ToChar(65 + i);
+            for (int i = 0; i < Algorithm.LENGTH; i++) this.cities[i] = Convert.ToChar(65 + i);
         }
+
+        public void generateCityNames(string s)
+        {
+            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
+        }
+
+        public void generateMatrix(string s)
+        {
+            var rnd = new Random();
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                for (int j = 0; j < s.Length; j++)
+                {
+                    lengthMatrix[i, j] = rnd.Next(1, 10);
+                    lengthMatrix[j, i] = lengthMatrix[i, j];
+                }
+            }
+
+            for (int i = 0; i < Algorithm.LENGTH; i++) lengthMatrix[i, i] = 0;
+
+        }
+
 
         /// <summary>
         /// Načtu ze soubory matici vzdáleností ze souboru. Matice je nazvaná lengthMatrix.
@@ -41,7 +73,9 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void loadFromFile()
         {
-            string[] lines = File.ReadAllLines(@"c:\text.txt");
+            string address = Path.Combine(AppDomain.CurrentDomain.BaseDirectory) + "LengthMatrix.txt";
+
+            string[] lines = File.ReadAllLines(@address);
 
             int i = 0;
             foreach (string line in lines)
@@ -62,7 +96,11 @@ namespace GenetickyAlgoritmus
         {
             string output = null;
 
-            foreach (char s in cities) output = output + s;
+            foreach (char s in cities)
+            {
+                output = output + s;
+
+            }
 
             return output;
         }
