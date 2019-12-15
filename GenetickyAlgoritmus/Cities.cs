@@ -8,26 +8,30 @@ namespace GenetickyAlgoritmus
     public class Cities
     {
         // Seznam měst, mezi kterými bud jezdit
-        public char[] cities = new char[Algorithm.LENGTH];
+        public char[] cities;
 
-        private int[,] lengthMatrix = new int[Algorithm.LENGTH, Algorithm.LENGTH];
+        private int[,] lengthMatrix;
 
         public Cities()
         {
-
-
+            cities = new char[Algorithm.LENGTH];
+            lengthMatrix = new int[Algorithm.LENGTH, Algorithm.LENGTH];
             generateCityNames();
-            loadFromFile();
-            //generateMatrix();
-            saveMAtrix();
+            generateMatrix();
+            //loadFromFile();
+            //saveMAtrix();
 
         }
 
-        public Cities(string s)
+        public Cities(string sequence)
         {
-            generateCityNames(s);
-            generateMatrix(s);
-            showMatrix();
+            cities = new char[Algorithm.LENGTH];
+            lengthMatrix = new int[Algorithm.LENGTH, Algorithm.LENGTH];
+            generateCityNames(sequence);
+            generateMatrix();
+            //loadFromFile();
+            //saveMAtrix();
+
         }
 
         /// <summary>
@@ -35,29 +39,12 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void generateCityNames()
         {
-            for (int i = 0; i < Algorithm.LENGTH; i++) this.cities[i] = Convert.ToChar(65 + i);
+            for (int i = 0; i < Algorithm.LENGTH; i++) this.cities[i] = Convert.ToChar(35 + i);
         }
 
         public void generateCityNames(string s)
         {
             for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
-        }
-
-        public void generateMatrix(string s)
-        {
-            var rnd = new Random();
-
-            for (int i = 0; i < s.Length; i++)
-            {
-                for (int j = 0; j < s.Length; j++)
-                {
-                    lengthMatrix[i, j] = rnd.Next(1, 10);
-                    lengthMatrix[j, i] = lengthMatrix[i, j];
-                }
-            }
-
-            for (int i = 0; i < Algorithm.LENGTH; i++) lengthMatrix[i, i] = 0;
-
         }
 
 
@@ -175,6 +162,23 @@ namespace GenetickyAlgoritmus
             }
 
             for (int i = 0; i < Algorithm.LENGTH; i++) lengthMatrix[i, i] = 0;
+
+        }
+
+        public void generateMatrix(string s)
+        {
+            var rnd = new Random();
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                for (int j = 0; j < s.Length; j++)
+                {
+                    lengthMatrix[i, j] = rnd.Next(1, 10);
+                    lengthMatrix[j, i] = lengthMatrix[i, j];
+                }
+            }
+
+            for (int i = 0; i < s.Length; i++) lengthMatrix[i, i] = 0;
 
         }
 

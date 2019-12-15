@@ -52,16 +52,13 @@ namespace GenetickyAlgoritmus
             {
                 Invidual iNew;
                
-                
                 if (rnd.Next(1, 100) < Algorithm.P_CROSSOVER) iNew = new Invidual(this.select(), this.select());
   
                 else iNew = this.select();
                 
-
                 if (rnd.Next(1, 100) < Algorithm.P_MUTATION) iNew.mutate();
 
                 this.pNext.Add(iNew);
-
 
             }
 
@@ -144,7 +141,7 @@ namespace GenetickyAlgoritmus
                     "Invidual" + (i) + "(" + pCurrent[i].getDistance() + ")" + "\t" + pCurrent[i].getSequence() + "\t" +
                     "Invidual" + (i+1) + "(" + pCurrent[i+1].getDistance() + ")" + "\t" + pCurrent[i+1].getSequence() + "\t" +
                     "Invidual" + (i+2) + "(" + pCurrent[i+2].getDistance() + ")" + "\t" + pCurrent[i+2].getSequence());
-        }
+            }
             
             /*
             // Zobrazím jedince v poopulaci (1 řádek 4 jedinci)

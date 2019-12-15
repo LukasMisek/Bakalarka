@@ -11,7 +11,7 @@ namespace GenetickyAlgoritmus
         public static int POPULATION_SIZE = 10;
 
         // Počet generací (Počet cyklů)
-        public static int GENERATION_COUNT = 50;
+        public static int GENERATION_COUNT = 5;
 
         // Šance ke křížení (80 = 80%)
         public static int P_CROSSOVER = 80;
@@ -20,34 +20,59 @@ namespace GenetickyAlgoritmus
         public static int P_MUTATION = 10;
 
         // Délka genů (počet alel/genů/měst)
-        public static int LENGTH = 10;
+        public static int LENGTH = 80;
 
         // Bod křížení (10 = na místě 10. jedince provedu křížení)
         public static int CROSSIN_POINT = 5;
 
         // Císlová vzdálenost mezi všemi městy (jak jedna vzdálenost je menší než cílová, tak algoritmus končí)
-        public static int GOAL_DISTANCE = 10;
+        public static int GOAL_DISTANCE = 0;
 
         // Města mezi kterými počítám vzdálenosti
-        public static Cities cities = new Cities();
+        public static Cities cities;
 
-        public static int ORDER_CAPACITY = 32;
+        public static int ORDER_CAPACITY = 64;
 
-        public static Invidual start()
+        public Algorithm()
+        {
+            cities = new Cities();
+        }
+
+        public Algorithm(string sequence, int length)
+        {
+            LENGTH = sequence.Length;
+            CROSSIN_POINT = sequence.Length / 2;
+            cities = new Cities(sequence);
+        }
+
+
+        public Invidual start()
 
         {
             // Objekt s městy a maticí vzdáleností
+            /*
             cities.showMatrix();
+            Console.WriteLine("mesta jsem udelal uspesne");
+            Console.ReadLine();
+            */
 
             // Objekt s populací            
             Population population = new Population();
+
+            /*
+            Console.WriteLine("populaci jsem udelal uspesne");
+            population.showMe();
+            Console.ReadLine();
+            */
 
             for (int i = 0; i < Algorithm.GENERATION_COUNT; i++)
             {
                 population.improve();
 
+                /*
                 Console.WriteLine("Generation = " + i);
                 population.showMe();
+                */
 
                 if (algorithmEnd(population.GetBest().getDistance(), Algorithm.GOAL_DISTANCE)) break;
 
@@ -55,25 +80,6 @@ namespace GenetickyAlgoritmus
             
             return population.GetBest();
             
-        }
-
-        public static void start(string s)
-        {
-            cities = new Cities(s);
-
-            LENGTH = s.Length;
-            CROSSIN_POINT = LENGTH / 2;
-
-            Population population = new Population();
-
-            for (int i = 0; i < Algorithm.GENERATION_COUNT; i++)
-            {
-                population.improve();
-
-                Console.WriteLine("Generation = " + i);
-                population.showMe();
-
-            }
         }
 
         /// <summary>

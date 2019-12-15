@@ -18,9 +18,14 @@ namespace GenetickyAlgoritmus
             setCities();
             generateCitiyValues();
             generateOrders();
-
         }
         
+        public string getCitiesString()
+        {
+            string s = "";
+            for (int i = 0; i < this.cities.Length; i++) s = s + this.cities[i];
+            return s;
+        }
 
         /// <summary>
         /// Vygeneruje požadavky pro města
@@ -57,9 +62,9 @@ namespace GenetickyAlgoritmus
 
         private void generateOrders()
         {
-            char[] unused = new char[Algorithm.LENGTH];
+            char[] unused = new char[cities.Length];
             unused = this.cities;
-            int[] unusedValues = new int[Algorithm.LENGTH];
+            int[] unusedValues = new int[cities.Length];
             unusedValues = this.cityOrders;
 
             var rnd = new Random();
@@ -78,7 +83,6 @@ namespace GenetickyAlgoritmus
                     newOrder = newOrder + unused[a];
                     newValue = newValue + unusedValues[a];
                     unused[a] = ' ';
-                    
 
                 }
                 else

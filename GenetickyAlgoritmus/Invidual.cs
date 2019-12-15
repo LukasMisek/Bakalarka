@@ -120,46 +120,7 @@ namespace GenetickyAlgoritmus
             }
 
         }
-
-        /// <summary>
-        /// Zjistí, jestli jedinec obsahuje prvek "Element".
-        /// Vrátí True/False
-        /// </summary>
-        /// <param name="element"></param>
-        /// <returns></returns>
-        private bool containsElement(char element)
-        {
-            bool output = false;
-            foreach(char c in this.sequence) if (c == element) output = true;
-
-            return output;
-
-        }
         
-        /// <summary>
-        /// Ohodnotí Jedince a vrátí jeho fitness skóre
-        /// Fitness skóre = "A" jsou kladné body
-        /// </summary>
-        /// <returns>Int Fitness</returns>
-        public int getFitness()
-        {
-            int score = 0;
-
-            foreach (char c in this.sequence)
-            {
-                switch (c)
-                {
-                    case 'A':
-                        score++;
-                        break;
-                    default:
-                        break;
-                }
-            }
-
-            return score;
-        }
-
         /// <summary>
         /// Ohodnotí jedince a vrátí počet duplicit
         /// Stejný prvek = kladné body
@@ -182,61 +143,6 @@ namespace GenetickyAlgoritmus
             }
             return score;
             
-        }
-
-        /// <summary>
-        /// Vrátí nejčastější gen (znak), který jedinec obsahuje
-        /// </summary>
-        /// <returns>String element</returns>
-        public char getMostFrequentElement()
-        {
-            int max = 0;
-            char elementOut = this.sequence[0];
-
-            char[] sequenceTmp = this.sequence.Distinct().ToArray();
-
-            foreach (char elementTmp in sequenceTmp)
-            {
-                int count = 0;
-
-                foreach (char element in this.sequence)
-                {
-                    if (elementTmp == element) count++;
-                    if (count > max)
-                    {
-                        max = count;
-                        elementOut = elementTmp;
-                    }
-                }
-            }
-
-            return elementOut;
-        }
-
-        /// <summary>
-        /// Smaže z jedince gen (prvek) podle vstupu
-        /// </summary>
-        /// <param name="element">element = prvek ke smazání</param>
-        public void removeElement(char element)
-        {
-            for (int i = 0; i < this.sequence.Length; i++)
-            {
-                if (this.sequence[i] == element) this.sequence[i] = getRandomChar();
-            }
-        }
-
-        /// <summary>
-        /// Vygeneruje náhodný znak
-        /// Vybírá z množiny A ... Z
-        /// </summary>
-        /// <returns></returns>
-        private char getRandomChar()
-        {
-            var rnd = new Random();
-            
-            int a = rnd.Next(65, 67);
-
-            return Convert.ToChar(a);
         }
 
         /// <summary>
