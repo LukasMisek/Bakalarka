@@ -2,6 +2,7 @@
 Zatím funkční:
   - Samotný algoritmus
     - Nalezení nejkratší cesty
+    - Algoritmus je nyní možné pusit pro libovolnou kombinaci měst
   - Jedinec:
     - Tvorba Jedince podle Třídy Cities
     - Křížení (2 rodiče)
@@ -19,11 +20,11 @@ Zatím funkční:
   - Orders
     - Tvorba ze třídy Cities
     - Vytvoření s ohledem na Maximální kapacitu auta
+    - Vytvoření kombinací měst
     
 Nutno dodělat:
-  - Algoritmus potřebuje třídu Cities, ze které vygeneruje města a na těch hledá nejkratší cestu
-    - Algoritmus musí přebírat vstup (města a z těch vytvořit matici vzdáleností a seznam měst) Array => List
-    - OOP OBECNOST, PREPOUZITELNOST
+  - Je potřeba celý program hezky zaobalit
+    - Jsem schopen vygenerovat z měst kombinaci cest => je potřeba pro každou cestu umožnit spustit algoritmus
   
   - GUI
     - Průběžné vykreslování
