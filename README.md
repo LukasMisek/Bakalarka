@@ -25,6 +25,7 @@ Zatím funkční:
 Nutno dodělat:
   - Je potřeba celý program hezky zaobalit
     - Jsem schopen vygenerovat z měst kombinaci cest => je potřeba pro každou cestu umožnit spustit algoritmus
+    - Třída/logika pro nahrávání vstupů. Inicializace a potom start algoritmu.
   
   - GUI
     - Průběžné vykreslování
