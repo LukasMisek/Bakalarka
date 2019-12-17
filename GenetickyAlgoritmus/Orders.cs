@@ -7,19 +7,40 @@ namespace GenetickyAlgoritmus
     public class Orders
     {
 
-        private char[] cities = new char[Algorithm.LENGTH];
-        private int[] cityOrders = new int[Algorithm.LENGTH];
+
+        // Města mezi kterými počítám vzdálenosti
+        public static Cities C_cities;
+
+        public static int ORDER_CAPACITY = 64;
+
+        private char[] cities;
+        private int[] cityOrders;
 
         private List<string> orders = new List<string>();
         private List<int> ordersValue = new List<int>();
 
+        public static int counter = 0;
+
         public Orders()
         {
+            cities = new char[Algorithm.LENGTH];
+            cityOrders = new int[Algorithm.LENGTH];
+            C_cities = new Cities();
             setCities();
             generateCitiyValues();
             generateOrders();
         }
-        
+
+        public Orders(string sequence)
+        {
+            cities = new char[sequence.Length];
+            cityOrders = new int[sequence.Length];
+            C_cities = new Cities(sequence);
+            setCities();
+            generateCitiyValues();
+            generateOrders();
+        }
+
         public string getCitiesString()
         {
             string s = "";
@@ -49,7 +70,7 @@ namespace GenetickyAlgoritmus
         /// </summary>
         private void setCities()
         {
-            string s = Algorithm.cities.getCityNames();
+            string s = C_cities.getCityNames();
 
             for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
         }
@@ -75,10 +96,10 @@ namespace GenetickyAlgoritmus
             
             for(int i = 0; i < unused.Length; i++)
             {
-                a = rnd.Next(0, Algorithm.LENGTH);
-                while (unused[a] == ' ') a = rnd.Next(0, Algorithm.LENGTH);
+                a = rnd.Next(0, unused.Length);
+                while (unused[a] == ' ') a = rnd.Next(0, unused.Length);
 
-                if (newValue + unusedValues[a] < Algorithm.ORDER_CAPACITY)
+                if (newValue + unusedValues[a] < ORDER_CAPACITY)
                 {
                     newOrder = newOrder + unused[a];
                     newValue = newValue + unusedValues[a];
@@ -117,11 +138,10 @@ namespace GenetickyAlgoritmus
 
         public void showMatrix()
         {
-            string cities = Algorithm.cities.getCityNames();
-
             for (int i = 0; i < this.orders.Count; i++)
             {
-                Console.WriteLine(this.orders[i] + " Hodnota nákladu: " + this.ordersValue[i]);
+                Console.WriteLine(counter + " " + this.orders[i] + " Hodnota nákladu: " + this.ordersValue[i]);
+                counter++;
             }
         }
 

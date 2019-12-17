@@ -103,24 +103,24 @@ namespace GenetickyAlgoritmus
             for (int i = 0; i < this.sequence.Length; i++)
                 for (int j = 0; j < unused.Count; j++)
                     if (unused[j] == this.sequence[i]) unused.RemoveAt(j);
-            
+
             for (int i = 0; i < this.sequence.Length; i++)
-            {
-                int counter = 0;
-                for (int j = 0; j < this.sequence.Length; j++)
                 {
-                    if (this.sequence[i] == this.sequence[j]) counter++;
-                    if (counter > 1)
+                    int counter = 0;
+                    for (int j = 0; j < this.sequence.Length; j++)
                     {
-                        this.sequence[j] = unused[unused.Count-1];
-                        unused.RemoveAt(unused.Count-1);
-                        counter = 0;
+                        if (this.sequence[i] == this.sequence[j]) counter++;
+                        if (counter > 1)
+                        {
+                            this.sequence[j] = unused[unused.Count - 1];
+                            unused.RemoveAt(unused.Count - 1);
+                            counter = 0;
+                        }
                     }
                 }
-            }
 
         }
-        
+
         /// <summary>
         /// Ohodnotí jedince a vrátí počet duplicit
         /// Stejný prvek = kladné body

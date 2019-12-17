@@ -31,8 +31,6 @@ namespace GenetickyAlgoritmus
         // Města mezi kterými počítám vzdálenosti
         public static Cities cities;
 
-        public static int ORDER_CAPACITY = 64;
-
         public Algorithm()
         {
             cities = new Cities();
@@ -95,6 +93,42 @@ namespace GenetickyAlgoritmus
             if (bestDistance <= goalDistance) return true;
             else return false;
         }
+
+        public void setLength(int a)
+        {
+            LENGTH = a;
+        }
+        public void setCrossingPoint(int a)
+        {
+            CROSSIN_POINT = a;
+        }
+
+        public void setPopulationSize(int a)
+        {
+            POPULATION_SIZE = a;
+        }
+        public void setGenerationCount(int a)
+        {
+            GENERATION_COUNT = a;
+        }
+
+        public void setCrossover(int a)
+        {
+            P_CROSSOVER = a;
+        }
+        public void setMutation(int a)
+        {
+            P_MUTATION = a;
+        }
+
+        public void setCities(string s)
+        {
+            cities = new Cities(s);
+        }
+
+
+
+
 
     }
 }
