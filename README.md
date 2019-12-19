@@ -5,6 +5,7 @@ Zatím funkční:
     - Algoritmus je nyní možné pusit pro libovolnou kombinaci měst
     - Mesta a objednavky maji jsou nyni tvoreny pro kazdy algoritmus zvlast (vytvorim 1x seznam objednavek a pro kazdou polozku v seznamu objednavek pustim algoritmus. Algoritmus potom pocita pouze s mesty, ktere jsou v objednavce)
     - Mesta se jiz nemuzou jmenovat "´´\/ a podobne znaky, ktere mohou zpusobit, ze vznikne netisknutelny retezec
+    - Program nyni vypise skupiny objednavek a je schopen spocitat nejkratsi vzdalenosti. Nasledne oznaci nejlepsi ksupinu
   - Jedinec:
     - Tvorba Jedince podle Třídy Cities
     - Křížení (2 rodiče)
@@ -29,7 +30,9 @@ Nutno dodělat:
     - Jsem schopen vygenerovat z měst kombinaci cest => je potřeba pro každou cestu umožnit spustit algoritmus
     - Třída/logika pro nahrávání vstupů. Inicializace a potom start algoritmu.
     - Mozna bude vhodne jinak reprezentovat mesta. Takto jsem omezen na max cca 86 zakazniku (chary)
-    - ZKULTURNIT
+    - Je nutne nacitat mesta ze souboru a pracovat pouze s jednim objektem
+    - Musim vychazet pouze z jedne matice vzdalenosti -> budu tvorit podmatice podle prvku, ktere mam
+    - ZKULTURNIT ZKULTURNIT
   
   - GUI
     - Průběžné vykreslování
