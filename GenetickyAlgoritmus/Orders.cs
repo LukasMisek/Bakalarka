@@ -18,6 +18,7 @@ namespace GenetickyAlgoritmus
 
         private List<string> orders = new List<string>();
         private List<int> ordersValue = new List<int>();
+        private List<Invidual> ordersRoutes = new List<Invidual>();
 
         public static int counter = 0;
 
@@ -93,8 +94,8 @@ namespace GenetickyAlgoritmus
             string newOrder = "";
             int newValue = 0;
             int a = 0;
-            
-            for(int i = 0; i < unused.Length; i++)
+
+            for (int i = 0; i < unused.Length; i++)
             {
                 a = rnd.Next(0, unused.Length);
                 while (unused[a] == ' ') a = rnd.Next(0, unused.Length);
@@ -140,7 +141,7 @@ namespace GenetickyAlgoritmus
         {
             for (int i = 0; i < this.orders.Count; i++)
             {
-                Console.WriteLine(counter + " " + this.orders[i] + " Hodnota nákladu: " + this.ordersValue[i]);
+                Console.WriteLine(counter + " " + this.orders[i] + " \tHodnota nákladu: " + this.ordersValue[i]);
                 counter++;
             }
         }
@@ -153,20 +154,36 @@ namespace GenetickyAlgoritmus
             return output;
         }
 
-        public void calculateRoute()
-        {
-            foreach(string order in this.orders)
-            {
-
-                Console.WriteLine("order = " + order);
-
-            }
-
-        }
-
         public List<string> getOrdersList()
         {
             return orders;
+        }
+
+        public void calculateRoutes()
+        {
+            Algorithm algoritmus;
+            Invidual result;
+            for (int i = 0; i < this.orders.Count; i++)
+            {
+                algoritmus = new Algorithm(this.orders[i], this.orders[i].Length);
+                result = algoritmus.start();
+                ordersRoutes.Add(result);
+            }
+        }
+
+        public void showBest()
+        {
+            Console.WriteLine("jedinec:");
+            for(int i = 0; i < ordersRoutes.Count; i++)
+            {
+                Console.WriteLine(" Nejlepší jedinec: " + ordersRoutes[i].getSequence() + "\tVzdálenost:" + ordersRoutes[i].getDistance());
+            }
+            
+        }
+
+        public int orderCount()
+        {
+            return orders.Count;
         }
 
     }

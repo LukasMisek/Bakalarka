@@ -5,15 +5,11 @@ namespace GenetickyAlgoritmus
 {
     class Program
     {
-
+        
         static void Main(string[] args)
         {
-            // Města mezi kterými počítám vzdálenosti
-
             Algorithm algoritmus;
             Invidual result;
-
-            // Objekt s objednavkami
 
             // Pole jedinců, kteří tvoří objednávku (10 variant objednávek)
             Orders[] vysledek = new Orders[10];
@@ -22,7 +18,8 @@ namespace GenetickyAlgoritmus
             List<string> orderList = new List<string>();
 
             // Seznam názvů měst
-            string cities = "!#$%&()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";
+            //string cities = "!#$%&()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";
+            string cities = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 
             // Vytvořím 10 skupin objednávek - 10 variant, kudy mohou vést cesty
             for (int i = 0; i < vysledek.Length; i++) vysledek[i] = new Orders(cities);
@@ -36,7 +33,61 @@ namespace GenetickyAlgoritmus
                 Console.WriteLine("Jedinec cislo "+i+":");
                 vysledek[i].showMatrix();
             }
-            Console.ReadLine();
+
+            int topVzdalenost = 12345675;
+            int delka;
+            int index = 0;
+            List<int> vzdalenostiVysledek = new List<int>();
+            List<string> jedinci = new List<string>();
+            List<Invidual> topJedinci = new List<Invidual>();
+
+            List<Invidual> currentJedinci = new List<Invidual>();
+
+            int citac = 0;
+
+            Console.WriteLine("\n\n\nVypocital jsem tyto nejkratsi cesty:");
+            for (int i = 0; i < vysledek.Length; i++)
+            {
+                jedinci = vysledek[i].getOrdersList();
+                delka = 0;
+                Console.WriteLine("Skupina cislo:" + i);
+                for (int j = 0; j < jedinci.Count; j++)
+                {
+                    if (jedinci[j].Length > 1)
+                    {
+                        citac++;
+                        algoritmus = new Algorithm(jedinci[j], jedinci[j].Length);
+                        result = algoritmus.start();
+                        delka = delka + result.getDistance();
+                        currentJedinci.Add(result);
+
+                        Console.WriteLine(citac + " " + result.getSequence() + "\tVzdalenost: " + result.getDistance());
+                    }
+
+                }
+
+                Console.WriteLine("Celkova delka:" + delka + "\n");
+                vzdalenostiVysledek.Add(delka);
+
+                if (delka < topVzdalenost)
+                {
+                    topVzdalenost = delka;
+                    topJedinci.Clear();
+                    topJedinci.AddRange(currentJedinci);
+                    index = i;
+                }
+                jedinci.Clear();
+                currentJedinci.Clear();
+            }
+
+            Console.WriteLine("\n\n\nMyslim ze tohle je top skupina: (" + index + ")");
+            for (int i = 0; i < topJedinci.Count; i++)
+            {
+                Console.WriteLine(topJedinci[i].getSequence());
+            }
+            Console.WriteLine("Celkova vzdalenost: " + topVzdalenost);
+
+            Console.WriteLine("\n\n\nVypocet vzdalenosti po jednom: " + topVzdalenost);
 
             int counter = 0;
 
@@ -60,28 +111,7 @@ namespace GenetickyAlgoritmus
             Console.ReadLine();
 
 
-
-            /*
-            // tvorba prikazu
-            for (int i = 0; i < vysledek.Length; i++)
-            {
-                vysledek[i] = new Orders();
-            }
-
-            for (int i = 0; i <vysledek.Length; i++)
-            {
-                orderList.AddRange(vysledek[i].getOrdersList());
-            }
-
-            foreach (string s in orderList)
-            {
-                Console.WriteLine(s.Trim());
-                Algorithm.start(s.Trim());
-                Console.ReadLine();
-            }
-
-    */
-
         }
+
     }
 }
