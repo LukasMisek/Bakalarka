@@ -1,5 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.IO;
+using System.Net;
+using System.Text;
 
 namespace GenetickyAlgoritmus
 {
@@ -8,9 +12,15 @@ namespace GenetickyAlgoritmus
         
         static void Main(string[] args)
         {
+
+            InputOutput prog = new InputOutput();
+            Console.ReadLine();
+
+
+            /*
             Algorithm algoritmus;
             Invidual result;
-
+            
             // Pole jedinců, kteří tvoří objednávku (10 variant objednávek)
             Orders[] vysledek = new Orders[10];
 
@@ -109,7 +119,7 @@ namespace GenetickyAlgoritmus
             }
 
             Console.ReadLine();
-
+*/
 
         }
 
