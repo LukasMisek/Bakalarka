@@ -17,7 +17,7 @@ namespace GenetickyAlgoritmus
             Console.ReadLine();
 
 
-            /*
+            
             Algorithm algoritmus;
             Invidual result;
             
@@ -43,6 +43,10 @@ namespace GenetickyAlgoritmus
                 Console.WriteLine("Jedinec cislo "+i+":");
                 vysledek[i].showMatrix();
             }
+
+            Console.ReadLine();
+
+            
 
             int topVzdalenost = 12345675;
             int delka;
@@ -119,7 +123,7 @@ namespace GenetickyAlgoritmus
             }
 
             Console.ReadLine();
-*/
+
 
         }
 

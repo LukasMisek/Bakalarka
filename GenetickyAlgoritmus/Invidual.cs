@@ -10,17 +10,17 @@ namespace GenetickyAlgoritmus
     /// </summary>
     public class Invidual
     {
-        private char[] sequence = new char[Algorithm.LENGTH];
+        private string[] sequence = new string[Algorithm.LENGTH];
 
         /// <summary>
         /// Konstruktor bez argumentu -> Náhodna tvorba jedince (Používá se na začátku)
         /// </summary>
         public Invidual()
         {
-            string stringCities = Algorithm.cities.getCityNames();
-            List<char> unusedCities = new List<char>();
+            string[] stringCities = Algorithm.cities.getCityNames();
+            List<string> unusedCities = new List<string>();
 
-            foreach (char city in stringCities) unusedCities.Add(city);
+            foreach (string city in stringCities) unusedCities.Add(city);
 
             var rnd = new Random();
 
@@ -59,7 +59,7 @@ namespace GenetickyAlgoritmus
             int b = rnd.Next(0, this.sequence.Length);
             while (a == b) b = rnd.Next(0, this.sequence.Length);
 
-            char tmp;
+            string tmp;
             tmp = this.sequence[a];
             this.sequence[a] = this.sequence[b];
             this.sequence[b] = tmp;
@@ -96,8 +96,8 @@ namespace GenetickyAlgoritmus
         private void fixMe()
         {
             // Stáhnu seznam měst
-            string unusedCities = Algorithm.cities.getCityNames();
-            List<char> unused = new List<char>(unusedCities);
+            string[] unusedCities = Algorithm.cities.getCityNames();
+            List<string> unused = new List<string>(unusedCities);
 
             // Smažu použitá města
             for (int i = 0; i < this.sequence.Length; i++)
@@ -128,11 +128,11 @@ namespace GenetickyAlgoritmus
         /// <returns>Int Duplicity</returns>
         public int getDuplicity()
         {
-            char[] occurences = this.sequence.Distinct().ToArray();
+            string[] occurences = this.sequence.Distinct().ToArray();
 
             int score = 0;
 
-            foreach(char c in occurences)
+            foreach(string c in occurences)
             {
                 int occurence = -1;
                 for (int i = 0; i < this.sequence.Length; i++)

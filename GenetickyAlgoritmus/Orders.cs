@@ -13,7 +13,7 @@ namespace GenetickyAlgoritmus
 
         public static int ORDER_CAPACITY = 64;
 
-        private char[] cities;
+        private string[] cities;
         private int[] cityOrders;
 
         private List<string> orders = new List<string>();
@@ -24,7 +24,7 @@ namespace GenetickyAlgoritmus
 
         public Orders()
         {
-            cities = new char[Algorithm.LENGTH];
+            cities = new string[Algorithm.LENGTH];
             cityOrders = new int[Algorithm.LENGTH];
             C_cities = new Cities();
             setCities();
@@ -34,7 +34,7 @@ namespace GenetickyAlgoritmus
 
         public Orders(string sequence)
         {
-            cities = new char[sequence.Length];
+            cities = new string[sequence.Length];
             cityOrders = new int[sequence.Length];
             C_cities = new Cities(sequence);
             setCities();
@@ -71,20 +71,20 @@ namespace GenetickyAlgoritmus
         /// </summary>
         private void setCities()
         {
-            string s = C_cities.getCityNames();
+            string[] s = C_cities.getCityNames();
 
-            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
+            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i]+"";
         }
 
         private void setCities(string s)
         {
 
-            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
+            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i]+"";
         }
 
         private void generateOrders()
         {
-            char[] unused = new char[cities.Length];
+            string[] unused = new string[cities.Length];
             unused = this.cities;
             int[] unusedValues = new int[cities.Length];
             unusedValues = this.cityOrders;
@@ -98,13 +98,13 @@ namespace GenetickyAlgoritmus
             for (int i = 0; i < unused.Length; i++)
             {
                 a = rnd.Next(0, unused.Length);
-                while (unused[a] == ' ') a = rnd.Next(0, unused.Length);
+                while (unused[a] == " ") a = rnd.Next(0, unused.Length);
 
                 if (newValue + unusedValues[a] < ORDER_CAPACITY)
                 {
                     newOrder = newOrder + unused[a];
                     newValue = newValue + unusedValues[a];
-                    unused[a] = ' ';
+                    unused[a] = " ";
 
                 }
                 else
@@ -113,7 +113,7 @@ namespace GenetickyAlgoritmus
                     this.ordersValue.Add(newValue);
                     newOrder = unused[a] + "";
                     newValue = unusedValues[a];
-                    unused[a] = ' ';
+                    unused[a] = " ";
                 }
             }
 

@@ -8,7 +8,7 @@ namespace GenetickyAlgoritmus
     public class Cities
     {
         // Seznam měst, mezi kterými bud jezdit
-        public char[] cities;
+        public string[] cities;
 
         private int[,] lengthMatrix;
 
@@ -17,7 +17,7 @@ namespace GenetickyAlgoritmus
         public Cities()
         {
             this.cityCount = Algorithm.LENGTH;
-            cities = new char[cityCount];
+            cities = new string[cityCount];
             lengthMatrix = new int[cityCount, cityCount];
             generateCityNames();
             generateMatrix();
@@ -29,7 +29,7 @@ namespace GenetickyAlgoritmus
         public Cities(string sequence)
         {
             this.cityCount = sequence.Length;
-            cities = new char[cityCount];
+            cities = new string[cityCount];
             lengthMatrix = new int[cityCount, cityCount];
             generateCityNames(sequence);
             generateMatrix();
@@ -43,12 +43,12 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void generateCityNames()
         {
-            for (int i = 0; i < this.cityCount; i++) this.cities[i] = Convert.ToChar(32 + i);
+            for (int i = 0; i < this.cityCount; i++) this.cities[i] = Convert.ToChar(32 + i)+"";
         }
 
         public void generateCityNames(string s)
         {
-            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i];
+            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i]+"";
         }
 
 
@@ -83,11 +83,13 @@ namespace GenetickyAlgoritmus
         /// Vrátí seznam měst jako 1 string
         /// </summary>
         /// <returns></returns>
-        public string getCityNames()
+        public string[] getCityNames()
         {
-            string output = null;
+            List<string> tmpList = new List<string>();
 
-            foreach (char s in cities) output = output + s;
+            foreach (string s in cities) tmpList.Add(s);
+
+            string[] output = tmpList.ToArray();
 
             return output;
         }
@@ -99,7 +101,7 @@ namespace GenetickyAlgoritmus
         /// <param name="city1"></param>
         /// <param name="city2"></param>
         /// <returns>Int Distance</returns>
-        public int getCityDistance(char cityA, char cityB)
+        public int getCityDistance(string cityA, string cityB)
         {
             int a = 0;
             int b = 0;
@@ -117,7 +119,7 @@ namespace GenetickyAlgoritmus
         /// </summary>
         /// <param name="i"></param>
         /// <returns></returns>
-        public char getCityName(int i)
+        public string getCityName(int i)
         {
             return cities[i];
         }
@@ -127,11 +129,11 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void showMatrix()
         {
-            string cityNames = getCityNames();
+            string[] cityNames = getCityNames();
 
             string s = "\t";
 
-            foreach (char city in cityNames) s = s + city + "\t";
+            foreach (string city in cityNames) s = s + city + "\t";
 
             Console.WriteLine(s);
 
