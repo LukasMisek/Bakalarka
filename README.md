@@ -11,10 +11,7 @@ https://en.wikipedia.org/wiki/Longitude a https://en.wikipedia.org/wiki/Latitude
     - Seznam měst je použit z existujícího projektu 33dbdd na GitHub.com https://github.com/33bcdd/souradnice-mest
     - Přidána třída InputOutput. V této třídě jsou metody pro práci se soubory (načítání dat a ukládání)
     - Přidána třída Functions (pomocné funkce)
-________________________________________________________________________________________________________________
-    - Algoritmus je nyní možné pustit pro libovolnou sekvenci měst s různými parametry. Tohle je za cenu rychlosti, což je poměrně znát.
-Bude potřeba to poupravit, protože nebudu chtít pustit algoritmus s různými parametry pro různé cesty.
-________________________________________________________________________________________________________________
+    - Algoritmus je nyní možné pustit pro libovolnou sekvenci měst s různými parametry. Tohle je za cenu rychlosti, což je poměrně znát. Bude potřeba to poupravit, protože nebudu chtít pustit algoritmus s různými parametry pro různé cesty.
   - Jedinec:
     - Tvorba Jedince podle Třídy Cities
     - Křížení (2 rodiče)
@@ -49,9 +46,7 @@ Nutno dodělat:
     - Výpočty pomocí souřadnic a matice vzdáleností HOTOVO
     - Mozna bude vhodne jinak reprezentovat mesta. Takto jsem omezen na max cca 86 zakazniku (chary) HOTOVO
     - Nutno použít nové názvy (přímé názvy, nebo HEX reprezentace) HOTOVO
-    ________________________________________________________________________________________________________________
     - Opět sjednotit Algoritmus a jeho parametry. Tohle bude stejné pro všechny 
-    ________________________________________________________________________________________________________________
     - ZKULTURNIT ZKULTURNIT
 
   - GUI
