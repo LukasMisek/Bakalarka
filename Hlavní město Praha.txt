@@ -1,0 +1,2 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0FA5	Praha	Praha	Hlavní město Praha	11000	14437	50075

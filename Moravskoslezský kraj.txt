@@ -1,0 +1,301 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0005	Albrechtice	Karviná	Moravskoslezský kraj	73543	18524	49786
+000A	Albrechtičky	Nový Jičín	Moravskoslezský kraj	74255	18095	49701
+000D	Andělská Hora	Bruntál	Moravskoslezský kraj	79331	17389	50060
+002D	Bartošovice	Nový Jičín	Moravskoslezský kraj	74254	18054	49668
+0031	Baška	Frýdek-Místek	Moravskoslezský kraj	73901	18372	49645
+004D	Bělá	Opava	Moravskoslezský kraj	74723	18144	49972
+006F	Bernartice nad Odrou	Nový Jičín	Moravskoslezský kraj	74101	17947	49610
+0088	Bílá	Frýdek-Místek	Moravskoslezský kraj	73915	18453	49442
+008D	Bílčice	Bruntál	Moravskoslezský kraj	79368	17565	49869
+0094	Bílov	Nový Jičín	Moravskoslezský kraj	74301	18001	49734
+0096	Bílovec	Nový Jičín	Moravskoslezský kraj	74301	18015	49756
+00AA	Bítov	Nový Jičín	Moravskoslezský kraj	74301	18047	49800
+00CF	Bocanovice	Frýdek-Místek	Moravskoslezský kraj	73991	18738	49569
+00DE	Bohumín	Karviná	Moravskoslezský kraj	73581	18357	49904
+00E6	Bohuslavice	Opava	Moravskoslezský kraj	74719	18128	49942
+00ED	Bohušov	Bruntál	Moravskoslezský kraj	79399	17713	50243
+00FB	Bolatice	Opava	Moravskoslezský kraj	74723	18083	49951
+0106	Bordovice	Nový Jičín	Moravskoslezský kraj	74401	18152	49546
+0152	Branka u Opavy	Opava	Moravskoslezský kraj	74741	17882	49888
+0158	Brantice	Bruntál	Moravskoslezský kraj	79393	17629	50063
+0163	Bratříkovice	Opava	Moravskoslezský kraj	74752	17687	49932
+0165	Bravantice	Nový Jičín	Moravskoslezský kraj	74281	18082	49757
+0183	Brumovice	Opava	Moravskoslezský kraj	74771	17749	50015
+0184	Bruntál	Bruntál	Moravskoslezský kraj	79201	17463	49988
+0186	Brušperk	Frýdek-Místek	Moravskoslezský kraj	73944	18222	49700
+0187	Bruzovice	Frýdek-Místek	Moravskoslezský kraj	73936	18409	49717
+01AB	Březová	Opava	Moravskoslezský kraj	74744	17865	49791
+01BA	Břidličná	Bruntál	Moravskoslezský kraj	79351	17371	49911
+01CF	Budišov nad Budišovkou	Opava	Moravskoslezský kraj	74787	17629	49795
+01D0	Budišovice	Opava	Moravskoslezský kraj	74764	18039	49861
+01E3	Bukovec	Frýdek-Místek	Moravskoslezský kraj	73984	18821	49556
+01FF	Býkov-Láryšov	Bruntál	Moravskoslezský kraj	79401	17687	50052
+020B	Bystřice	Frýdek-Místek	Moravskoslezský kraj	73995	18720	49636
+0244	Čaková	Bruntál	Moravskoslezský kraj	79316	17548	50051
+0250	Čavisov	Ostrava-město	Moravskoslezský kraj	74764	18080	49829
+0263	Čeladná	Frýdek-Místek	Moravskoslezský kraj	73912	18337	49548
+0277	Čermná ve Slezsku	Opava	Moravskoslezský kraj	74901	17702	49782
+02C2	Český Těšín	Karviná	Moravskoslezský kraj	73701	18623	49747
+02F6	Darkovice	Opava	Moravskoslezský kraj	74717	18222	49936
+0302	Děhylov	Opava	Moravskoslezský kraj	74794	18163	49869
+0313	Dětmarovice	Karviná	Moravskoslezský kraj	73571	18460	49894
+0316	Dětřichov nad Bystřicí	Bruntál	Moravskoslezský kraj	79303	17401	49834
+031C	Dívčí Hrad	Bruntál	Moravskoslezský kraj	79399	17633	50243
+032A	Dlouhá Stráň	Bruntál	Moravskoslezský kraj	79201	17500	49960
+0338	Dobrá	Frýdek-Místek	Moravskoslezský kraj	73951	18414	49673
+033E	Dobratice	Frýdek-Místek	Moravskoslezský kraj	73951	18492	49660
+034C	Dobroslavice	Opava	Moravskoslezský kraj	74794	18141	49880
+0375	Dolní Benešov	Opava	Moravskoslezský kraj	74722	18101	49923
+0381	Dolní Domaslavice	Frýdek-Místek	Moravskoslezský kraj	73938	18481	49712
+0394	Dolní Lhota	Ostrava-město	Moravskoslezský kraj	74766	18092	49842
+0398	Dolní Lomná	Frýdek-Místek	Moravskoslezský kraj	73991	18706	49547
+039B	Dolní Lutyně	Karviná	Moravskoslezský kraj	73553	18428	49898
+039E	Dolní Moravice	Bruntál	Moravskoslezský kraj	79501	17322	49978
+03B4	Dolní Tošanovice	Frýdek-Místek	Moravskoslezský kraj	73953	18488	49684
+03BF	Dolní Životice	Opava	Moravskoslezský kraj	74756	17779	49897
+03D2	Doubrava	Karviná	Moravskoslezský kraj	73533	18480	49858
+043C	Dvorce	Bruntál	Moravskoslezský kraj	79368	17547	49833
+0454	Frenštát pod Radhoštěm	Nový Jičín	Moravskoslezský kraj	74401	18210	49548
+0455	Fryčovice	Frýdek-Místek	Moravskoslezský kraj	73945	18223	49666
+0456	FRÝDEK-MÍSTEK	Frýdek-Místek	Moravskoslezský kraj	73801	18367	49682
+0458	Frýdlant nad Ostravicí	Frýdek-Místek	Moravskoslezský kraj	73911	18358	49591
+045E	Fulnek	Nový Jičín	Moravskoslezský kraj	74245	17903	49712
+0470	Háj ve Slezsku	Opava	Moravskoslezský kraj	74792	18089	49899
+048B	Hať	Opava	Moravskoslezský kraj	74716	18239	49946
+048D	HAVÍŘOV	Karviná	Moravskoslezský kraj	73601	18430	49780
+04A5	Heřmanice u Oder	Nový Jičín	Moravskoslezský kraj	74235	17805	49713
+04A8	Heřmánky	Nový Jičín	Moravskoslezský kraj	74235	17768	49707
+04AC	Heřmanovice	Bruntál	Moravskoslezský kraj	79374	17397	50193
+04AF	Hladké Životice	Nový Jičín	Moravskoslezský kraj	74247	17957	49683
+04B9	Hlavnice	Opava	Moravskoslezský kraj	74752	17727	49924
+04BE	Hlinka	Bruntál	Moravskoslezský kraj	79399	17672	50280
+04C8	Hlubočec	Opava	Moravskoslezský kraj	74769	17970	49840
+04D1	Hlučín	Opava	Moravskoslezský kraj	74801	18190	49896
+04DD	Hněvošice	Opava	Moravskoslezský kraj	74735	18008	50003
+04E0	Hnojník	Frýdek-Místek	Moravskoslezský kraj	73953	18541	49682
+04ED	Hodslavice	Nový Jičín	Moravskoslezský kraj	74271	18023	49538
+04F3	Holasovice	Opava	Moravskoslezský kraj	74774	17808	49998
+04F4	Holčovice	Bruntál	Moravskoslezský kraj	79371	17486	50156
+0519	Horní Benešov	Bruntál	Moravskoslezský kraj	79312	17602	49966
+051D	Horní Bludovice	Karviná	Moravskoslezský kraj	73937	18436	49749
+0527	Horní Domaslavice	Frýdek-Místek	Moravskoslezský kraj	73951	18461	49694
+0539	Horní Lhota	Ostrava-město	Moravskoslezský kraj	74764	18068	49853
+053F	Horní Lomná	Frýdek-Místek	Moravskoslezský kraj	73991	18637	49527
+0543	Horní Město	Bruntál	Moravskoslezský kraj	79344	17211	49908
+0563	Horní Suchá	Karviná	Moravskoslezský kraj	73535	18481	49797
+0566	Horní Tošanovice	Frýdek-Místek	Moravskoslezský kraj	73953	18505	49692
+056F	Horní Životice	Bruntál	Moravskoslezský kraj	79312	17640	49968
+058D	Hostašovice	Nový Jičín	Moravskoslezský kraj	74101	17997	49534
+05A1	Hošťálkovy	Bruntál	Moravskoslezský kraj	79401	17599	50111
+05B2	Hrabyně	Opava	Moravskoslezský kraj	74763	18054	49882
+05BC	Hradec nad Moravicí	Opava	Moravskoslezský kraj	74741	17875	49871
+05C2	Hrádek	Frýdek-Místek	Moravskoslezský kraj	73997	18737	49616
+05D8	Hrčava	Frýdek-Místek	Moravskoslezský kraj	73998	18833	49520
+0608	Hukvaldy	Frýdek-Místek	Moravskoslezský kraj	73946	18221	49623
+0638	Chlebičov	Opava	Moravskoslezský kraj	74731	17967	49959
+0674	Chotěbuz	Karviná	Moravskoslezský kraj	73561	18569	49768
+06B5	Chuchelná	Opava	Moravskoslezský kraj	74724	18116	49986
+06BB	Chvalíkovice	Opava	Moravskoslezský kraj	74706	17911	49885
+06DB	Jablunkov	Frýdek-Místek	Moravskoslezský kraj	73991	18764	49576
+06DE	Jakartovice	Opava	Moravskoslezský kraj	74753	17684	49915
+06DF	Jakubčovice nad Odrou	Nový Jičín	Moravskoslezský kraj	74236	17787	49695
+06EF	Janov	Bruntál	Moravskoslezský kraj	79384	17481	50244
+06F5	Janovice	Frýdek-Místek	Moravskoslezský kraj	73911	18406	49621
+0731	Jeseník nad Odrou	Nový Jičín	Moravskoslezský kraj	74233	17905	49612
+0743	Jezdkovice	Opava	Moravskoslezský kraj	74755	17774	49923
+075F	Jindřichov	Bruntál	Moravskoslezský kraj	79383	17519	50251
+0773	Jiříkov	Bruntál	Moravskoslezský kraj	79351	17277	49854
+0777	Jistebník	Nový Jičín	Moravskoslezský kraj	74282	18130	49754
+07BB	Kaňovice	Frýdek-Místek	Moravskoslezský kraj	73936	18396	49744
+07C5	Karlova Studánka	Bruntál	Moravskoslezský kraj	79324	17306	50073
+07C8	Karlovice	Bruntál	Moravskoslezský kraj	79326	17445	50105
+07CE	KARVINÁ	Karviná	Moravskoslezský kraj	73301	18543	49856
+07D6	Kateřinice	Nový Jičín	Moravskoslezský kraj	74258	18188	49669
+080D	Klimkovice	Ostrava-město	Moravskoslezský kraj	74283	18125	49788
+0833	Kobeřice	Opava	Moravskoslezský kraj	74727	18052	49985
+0864	Komorní Lhotka	Frýdek-Místek	Moravskoslezský kraj	73953	18527	49658
+0873	Kopřivnice	Nový Jičín	Moravskoslezský kraj	74221	18144	49599
+08A6	Košařiska	Frýdek-Místek	Moravskoslezský kraj	73981	18695	49589
+08D0	Kozlovice	Frýdek-Místek	Moravskoslezský kraj	73947	18256	49590
+08D4	Kozmice	Opava	Moravskoslezský kraj	74711	18155	49912
+0901	Krásná	Frýdek-Místek	Moravskoslezský kraj	73904	18481	49582
+090F	Krasov	Bruntál	Moravskoslezský kraj	79401	17546	50091
+0919	Kravaře	Opava	Moravskoslezský kraj	74721	18004	49932
+0926	Krmelín	Frýdek-Místek	Moravskoslezský kraj	73924	18235	49729
+0928	Krnov	Bruntál	Moravskoslezský kraj	79401	17703	50090
+093C	Kružberk	Opava	Moravskoslezský kraj	74786	17683	49831
+0962	Křišťanovice	Bruntál	Moravskoslezský kraj	79368	17511	49850
+097E	Kujavy	Nový Jičín	Moravskoslezský kraj	74245	17972	49703
+0985	Kunčice pod Ondřejníkem	Frýdek-Místek	Moravskoslezský kraj	73913	18261	49550
+098F	Kunín	Nový Jičín	Moravskoslezský kraj	74253	17989	49633
+09B7	Kyjovice	Opava	Moravskoslezský kraj	74768	18042	49832
+09FB	Leskovec nad Moravicí	Bruntál	Moravskoslezský kraj	79368	17574	49905
+0A2C	Lhotka	Frýdek-Místek	Moravskoslezský kraj	73947	18298	49597
+0A31	Lhotka u Litultovic	Opava	Moravskoslezský kraj	74755	17730	49872
+0A4D	Libhošť	Nový Jičín	Moravskoslezský kraj	74257	18077	49626
+0A78	Lichnov	Bruntál	Moravskoslezský kraj	79315	17626	50007
+0A79	Lichnov	Nový Jičín	Moravskoslezský kraj	74275	18170	49563
+0A96	Liptaň	Bruntál	Moravskoslezský kraj	79399	17605	50222
+0ABC	Litultovice	Opava	Moravskoslezský kraj	74755	17751	49903
+0AD5	Lomnice	Bruntál	Moravskoslezský kraj	79302	17415	49871
+0B07	Luboměř	Nový Jičín	Moravskoslezský kraj	74235	17706	49688
+0B0C	Lučina	Frýdek-Místek	Moravskoslezský kraj	73939	18449	49716
+0B0D	Ludgeřovice	Opava	Moravskoslezský kraj	74714	18240	49890
+0B12	Ludvíkov	Bruntál	Moravskoslezský kraj	79326	17342	50107
+0B4D	Malá Morávka	Bruntál	Moravskoslezský kraj	79336	17311	50021
+0B50	Malá Štáhle	Bruntál	Moravskoslezský kraj	79501	17341	49951
+0B61	Malenovice	Frýdek-Místek	Moravskoslezský kraj	73911	18398	49579
+0B78	Mankovice	Nový Jičín	Moravskoslezský kraj	74235	17880	49637
+0B80	Markvartovice	Opava	Moravskoslezský kraj	74714	18236	49906
+0BA7	Melč	Opava	Moravskoslezský kraj	74784	17757	49850
+0BB9	Město Albrechtice	Bruntál	Moravskoslezský kraj	79395	17574	50163
+0BBF	Metylovice	Frýdek-Místek	Moravskoslezský kraj	73949	18339	49606
+0BC8	Mezina	Bruntál	Moravskoslezský kraj	79201	17477	49958
+0BD5	Mikolajice	Opava	Moravskoslezský kraj	74784	17793	49877
+0BF0	Milíkov	Frýdek-Místek	Moravskoslezský kraj	73981	18719	49585
+0BFA	Milotice nad Opavou	Bruntál	Moravskoslezský kraj	79201	17542	49995
+0C1C	Mladecko	Opava	Moravskoslezský kraj	74754	17708	49898
+0C4C	Mokré Lazce	Opava	Moravskoslezský kraj	74762	18029	49904
+0C5D	Moravice	Opava	Moravskoslezský kraj	74784	17720	49857
+0C5F	Morávka	Frýdek-Místek	Moravskoslezský kraj	73904	18524	49596
+0C66	Moravskoslezský Kočov	Bruntál	Moravskoslezský kraj	79201	17441	49960
+0C70	Mořkov	Nový Jičín	Moravskoslezský kraj	74272	18059	49536
+0C75	Mosty u Jablunkova	Frýdek-Místek	Moravskoslezský kraj	73998	18754	49527
+0C76	Mošnov	Nový Jičín	Moravskoslezský kraj	74251	18132	49689
+0CB8	Návsí	Frýdek-Místek	Moravskoslezský kraj	73992	18759	49587
+0CF5	Neplachovice	Opava	Moravskoslezský kraj	74774	17809	49992
+0D33	Nižní Lhoty	Frýdek-Místek	Moravskoslezský kraj	73951	18433	49648
+0D37	Nošovice	Frýdek-Místek	Moravskoslezský kraj	73951	18426	49660
+0D41	Nová Pláň	Bruntál	Moravskoslezský kraj	79201	17475	49922
+0D69	Nové Heřminovy	Bruntál	Moravskoslezský kraj	79201	17528	50023
+0D6D	Nové Lublice	Opava	Moravskoslezský kraj	74901	17678	49862
+0D75	Nové Sedlice	Opava	Moravskoslezský kraj	74706	18001	49902
+0D87	Nový Jičín	Nový Jičín	Moravskoslezský kraj	74101	18013	49594
+0D98	Nýdek	Frýdek-Místek	Moravskoslezský kraj	73995	18756	49656
+0DA6	Oborná	Bruntál	Moravskoslezský kraj	79201	17497	50003
+0DB6	Odry	Nový Jičín	Moravskoslezský kraj	74235	17830	49662
+0DD6	Olbramice	Ostrava-město	Moravskoslezský kraj	74283	18089	49789
+0DE1	Oldřišov	Opava	Moravskoslezský kraj	74733	17960	49991
+0E10	Opava	Opava	Moravskoslezský kraj	74601	17894	49940
+0E20	Orlová	Karviná	Moravskoslezský kraj	73511	18425	49870
+0E3F	Osoblaha	Bruntál	Moravskoslezský kraj	79399	17715	50275
+0E47	Ostrava	Ostrava-město	Moravskoslezský kraj	70200	18262	49821
+0E48	Ostravice	Frýdek-Místek	Moravskoslezský kraj	73914	18391	49535
+0E65	Otice	Opava	Moravskoslezský kraj	74781	17869	49916
+0E84	Palkovice	Frýdek-Místek	Moravskoslezský kraj	73941	18315	49634
+0E96	Paskov	Frýdek-Místek	Moravskoslezský kraj	73921	18290	49731
+0EAB	Pazderna	Frýdek-Místek	Moravskoslezský kraj	73951	18434	49704
+0ED5	Petrovice	Bruntál	Moravskoslezský kraj	79384	17448	50239
+0EDC	Petrovice u Karviné	Karviná	Moravskoslezský kraj	73572	18547	49895
+0EE3	Petřvald	Karviná	Moravskoslezský kraj	73541	18389	49831
+0EE4	Petřvald	Nový Jičín	Moravskoslezský kraj	74260	18151	49707
+0EEB	Písečná	Frýdek-Místek	Moravskoslezský kraj	73991	18787	49574
+0EF2	Písek	Frýdek-Místek	Moravskoslezský kraj	73984	18802	49559
+0EF8	Píšť	Opava	Moravskoslezský kraj	74718	18193	49978
+0FB4	Pražmo	Frýdek-Místek	Moravskoslezský kraj	73904	18486	49608
+0FD8	Pržno	Frýdek-Místek	Moravskoslezský kraj	73911	18361	49613
+1008	Příbor	Nový Jičín	Moravskoslezský kraj	74258	18145	49641
+1029	Pstruží	Frýdek-Místek	Moravskoslezský kraj	73911	18347	49564
+1037	Pustá Polom	Opava	Moravskoslezský kraj	74769	17998	49849
+1039	Pustějov	Nový Jičín	Moravskoslezský kraj	74243	18004	49700
+1069	Radkov	Opava	Moravskoslezský kraj	74784	17770	49825
+1089	Raduň	Opava	Moravskoslezský kraj	74761	17943	49892
+10A6	Raškovice	Frýdek-Místek	Moravskoslezský kraj	73904	18472	49619
+10B5	Razová	Bruntál	Moravskoslezský kraj	79201	17532	49931
+10C5	Rohov	Opava	Moravskoslezský kraj	74725	18071	50015
+10DD	Ropice	Frýdek-Místek	Moravskoslezský kraj	73961	18613	49705
+10EF	Roudno	Bruntál	Moravskoslezský kraj	79201	17513	49896
+1121	Rudná pod Pradědem	Bruntál	Moravskoslezský kraj	79331	17377	50020
+1129	Rusín	Bruntál	Moravskoslezský kraj	79397	17734	50209
+112E	Rybí	Nový Jičín	Moravskoslezský kraj	74265	18076	49600
+113E	Rychvald	Karviná	Moravskoslezský kraj	73532	18376	49866
+1140	Rýmařov	Bruntál	Moravskoslezský kraj	79501	17271	49931
+1145	Ryžoviště	Bruntál	Moravskoslezský kraj	79356	17358	49875
+114C	Řeka	Frýdek-Místek	Moravskoslezský kraj	73955	18571	49641
+1153	Řepiště	Frýdek-Místek	Moravskoslezský kraj	73932	18317	49733
+1199	Sedliště	Frýdek-Místek	Moravskoslezský kraj	73936	18368	49718
+119C	Sedlnice	Nový Jičín	Moravskoslezský kraj	74256	18087	49657
+11E2	Skotnice	Nový Jičín	Moravskoslezský kraj	74258	18134	49657
+11EC	Skřipov	Opava	Moravskoslezský kraj	74745	17910	49818
+11FE	Slatina	Nový Jičín	Moravskoslezský kraj	74293	17979	49790
+1216	Slavkov	Opava	Moravskoslezský kraj	74757	17836	49921
+121F	Slezské Pavlovice	Bruntál	Moravskoslezský kraj	79399	17700	50309
+1220	Slezské Rudoltice	Bruntál	Moravskoslezský kraj	79397	17681	50207
+122F	Služovice	Opava	Moravskoslezský kraj	74728	17994	49988
+1235	Smilovice	Frýdek-Místek	Moravskoslezský kraj	73955	18571	49660
+1254	Soběšovice	Frýdek-Místek	Moravskoslezský kraj	73938	18466	49724
+1266	Sosnová	Opava	Moravskoslezský kraj	79312	17663	49998
+126E	Spálov	Nový Jičín	Moravskoslezský kraj	74237	17722	49704
+1295	Stará Ves	Bruntál	Moravskoslezský kraj	79501	17236	49958
+1297	Stará Ves nad Ondřejnicí	Ostrava-město	Moravskoslezský kraj	73923	18193	49727
+129C	Staré Hamry	Frýdek-Místek	Moravskoslezský kraj	73915	18445	49472
+129D	Staré Heřminovy	Bruntál	Moravskoslezský kraj	79312	17625	49933
+12A5	Staré Město	Bruntál	Moravskoslezský kraj	79201	17432	50003
+12A6	Staré Město	Frýdek-Místek	Moravskoslezský kraj	73801	18363	49670
+12B0	Staré Těchanovice	Opava	Moravskoslezský kraj	74901	17692	49818
+12B9	Starý Jičín	Nový Jičín	Moravskoslezský kraj	74231	17961	49576
+12C3	Staříč	Frýdek-Místek	Moravskoslezský kraj	73943	18272	49686
+12CB	Stěbořice	Opava	Moravskoslezský kraj	74751	17805	49937
+12D6	Stonava	Karviná	Moravskoslezský kraj	73534	18525	49817
+12DD	Strahovice	Opava	Moravskoslezský kraj	74724	18087	50002
+1329	Střítež	Frýdek-Místek	Moravskoslezský kraj	73959	18569	49679
+1338	Studénka	Nový Jičín	Moravskoslezský kraj	74213	18078	49723
+1344	Sudice	Opava	Moravskoslezský kraj	74725	18068	50031
+1353	Suchdol nad Odrou	Nový Jičín	Moravskoslezský kraj	74201	17928	49655
+1371	Svatoňovice	Opava	Moravskoslezský kraj	74787	17667	49793
+1383	Světlá Hora	Bruntál	Moravskoslezský kraj	79331	17399	50046
+1388	Sviadnov	Frýdek-Místek	Moravskoslezský kraj	73925	18327	49689
+1396	Svobodné Heřmanice	Bruntál	Moravskoslezský kraj	79313	17674	49946
+13C5	Šenov	Ostrava-město	Moravskoslezský kraj	73934	18376	49793
+13C6	Šenov u Nového Jičína	Nový Jičín	Moravskoslezský kraj	74242	18003	49604
+13CC	Šilheřovice	Opava	Moravskoslezský kraj	74715	18270	49926
+13D1	Široká Niva	Bruntál	Moravskoslezský kraj	79201	17480	50063
+13E1	Štáblovice	Opava	Moravskoslezský kraj	74782	17818	49880
+13EC	Štěpánkovice	Opava	Moravskoslezský kraj	74728	18037	49957
+13FA	Štítina	Opava	Moravskoslezský kraj	74791	18012	49914
+13FF	Štramberk	Nový Jičín	Moravskoslezský kraj	74266	18117	49591
+1439	Těrlicko	Karviná	Moravskoslezský kraj	73542	18483	49752
+143E	Těškovice	Opava	Moravskoslezský kraj	74764	18021	49814
+1446	Tichá	Nový Jičín	Moravskoslezský kraj	74274	18221	49570
+144C	Tísek	Nový Jičín	Moravskoslezský kraj	74301	18014	49792
+1471	Trnávka	Nový Jičín	Moravskoslezský kraj	74258	18178	49684
+1478	Trojanovice	Nový Jičín	Moravskoslezský kraj	74401	18238	49520
+1490	Třanovice	Frýdek-Místek	Moravskoslezský kraj	73953	18529	49712
+14A8	Třebom	Opava	Moravskoslezský kraj	74725	18025	50046
+14B2	Třemešná	Bruntál	Moravskoslezský kraj	79382	17575	50205
+14C0	Třinec	Frýdek-Místek	Moravskoslezský kraj	73961	18670	49677
+14E3	Tvrdkov	Bruntál	Moravskoslezský kraj	79344	17178	49895
+1503	Uhlířov	Opava	Moravskoslezský kraj	74784	17841	49897
+155A	Úvalno	Bruntál	Moravskoslezský kraj	79391	17744	50047
+1562	Václavov u Bruntálu	Bruntál	Moravskoslezský kraj	79201	17371	49979
+1563	Václavovice	Ostrava-město	Moravskoslezský kraj	73934	18372	49755
+1575	Valšov	Bruntál	Moravskoslezský kraj	79201	17438	49933
+15BC	Velká Polom	Ostrava-město	Moravskoslezský kraj	74764	18093	49863
+15BE	Velká Štáhle	Bruntál	Moravskoslezský kraj	79351	17357	49929
+15C0	Velké Albrechtice	Nový Jičín	Moravskoslezský kraj	74291	18044	49750
+15C4	Velké Heraltice	Opava	Moravskoslezský kraj	74775	17728	49975
+15C6	Velké Hoštice	Opava	Moravskoslezský kraj	74731	17973	49936
+15EB	Vělopolí	Frýdek-Místek	Moravskoslezský kraj	73959	18571	49700
+15F2	Vendryně	Frýdek-Místek	Moravskoslezský kraj	73994	18713	49666
+15FB	Veřovice	Nový Jičín	Moravskoslezský kraj	74273	18114	49539
+1612	Větřkovice	Opava	Moravskoslezský kraj	74743	17820	49780
+165A	Vítkov	Opava	Moravskoslezský kraj	74901	17749	49774
+1696	Vojkovice	Frýdek-Místek	Moravskoslezský kraj	73951	18468	49682
+16C3	Vratimov	Ostrava-město	Moravskoslezský kraj	73932	18310	49770
+16CB	Vražné	Nový Jičín	Moravskoslezský kraj	74235	17866	49628
+16DB	Vrbno pod Pradědem	Bruntál	Moravskoslezský kraj	79326	17383	50121
+16E7	Vrchy	Nový Jičín	Moravskoslezský kraj	74245	17871	49751
+16EB	Vršovice	Opava	Moravskoslezský kraj	74761	17935	49884
+16EF	Vřesina	Opava	Moravskoslezský kraj	74720	18190	49945
+16F0	Vřesina	Ostrava-město	Moravskoslezský kraj	74285	18125	49824
+1724	Vysoká	Bruntál	Moravskoslezský kraj	79399	17590	50261
+1743	Vyšní Lhoty	Frýdek-Místek	Moravskoslezský kraj	73951	18457	49635
+1796	Zátor	Bruntál	Moravskoslezský kraj	79316	17593	50034
+1797	Závada	Opava	Moravskoslezský kraj	74719	18165	49954
+179A	Závišice	Nový Jičín	Moravskoslezský kraj	74221	18103	49613
+17B0	Zbyslavice	Ostrava-město	Moravskoslezský kraj	74283	18075	49805
+17FD	Žabeň	Frýdek-Místek	Moravskoslezský kraj	73925	18304	49708
+1840	Ženklava	Nový Jičín	Moravskoslezský kraj	74267	18107	49563
+1846	Žermanice	Frýdek-Místek	Moravskoslezský kraj	73937	18442	49738
+1865	Životice u Nového Jičína	Nový Jičín	Moravskoslezský kraj	74272	18047	49557

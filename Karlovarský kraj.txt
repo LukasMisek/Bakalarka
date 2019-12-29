@@ -1,0 +1,135 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0000	Abertamy	Karlovy Vary	Karlovarský kraj	36235	12818	50368
+000C	Andělská Hora	Karlovy Vary	Karlovarský kraj	36471	12962	50204
+0013	Aš	Cheb	Karlovarský kraj	35201	12195	50223
+003E	Bečov nad Teplou	Karlovy Vary	Karlovarský kraj	36464	12838	50083
+00F4	Bochov	Karlovy Vary	Karlovarský kraj	36471	13045	50151
+0141	Boží Dar	Karlovy Vary	Karlovarský kraj	36301	12924	50409
+0143	Božičany	Karlovy Vary	Karlovarský kraj	36225	12769	50258
+0167	Bražec	Karlovy Vary	Karlovarský kraj	36471	13046	50172
+01A9	Březová	Karlovy Vary	Karlovarský kraj	36001	12870	50197
+01AA	Březová	Sokolov	Karlovarský kraj	35601	12643	50145
+01BF	Bublava	Sokolov	Karlovarský kraj	35801	12505	50374
+01DF	Bukovany	Sokolov	Karlovarský kraj	35755	12572	50166
+022E	Citice	Sokolov	Karlovarský kraj	35601	12613	50162
+027D	Černava	Karlovy Vary	Karlovarský kraj	36221	12711	50291
+02CD	Čichalov	Karlovy Vary	Karlovarský kraj	36452	13171	50124
+02F0	Dalovice	Karlovy Vary	Karlovarský kraj	36263	12895	50247
+02F8	Dasnice	Sokolov	Karlovarský kraj	35709	12567	50146
+0305	Děpoltovice	Karlovy Vary	Karlovarský kraj	36225	12814	50294
+03A1	Dolní Nivy	Sokolov	Karlovarský kraj	35601	12637	50243
+03AC	Dolní Rychnov	Sokolov	Karlovarský kraj	35604	12645	50164
+03BD	Dolní Žandov	Cheb	Karlovarský kraj	35493	12551	50018
+03DE	Doupovské Hradiště	Karlovy Vary	Karlovarský kraj	36272	13000	50250
+0400	Drmoul	Cheb	Karlovarský kraj	35301	12665	49939
+0453	Františkovy Lázně	Cheb	Karlovarský kraj	35101	12349	50120
+0466	Habartov	Sokolov	Karlovarský kraj	35709	12550	50183
+0476	Hájek	Karlovy Vary	Karlovarský kraj	36301	12919	50283
+0493	Hazlov	Cheb	Karlovarský kraj	35132	12272	50156
+051C	Horní Blatná	Karlovy Vary	Karlovarský kraj	36235	12771	50390
+055D	Horní Slavkov	Sokolov	Karlovarský kraj	35731	12807	50138
+0579	Hory	Karlovy Vary	Karlovarský kraj	36001	12789	50213
+05CD	Hradiště (vojenský újezd)	Karlovy Vary	Karlovarský kraj	36006	13046	50174
+05D4	Hranice	Cheb	Karlovarský kraj	35124	12175	50304
+05E9	Hroznětín	Karlovy Vary	Karlovarský kraj	36233	12871	50309
+0635	Cheb	Cheb	Karlovarský kraj	35002	12369	50079
+0647	Chlum Svaté Maří	Sokolov	Karlovarský kraj	35709	12535	50149
+065F	Chodov	Karlovy Vary	Karlovarský kraj	36464	12863	50068
+0660	Chodov	Sokolov	Karlovarský kraj	35735	12747	50239
+06CA	Chyše	Karlovy Vary	Karlovarský kraj	36453	13249	50104
+06DD	Jáchymov	Karlovy Vary	Karlovarský kraj	36251	12934	50358
+0724	Jenišov	Karlovy Vary	Karlovarský kraj	36001	12800	50226
+0762	Jindřichovice	Sokolov	Karlovarský kraj	35801	12602	50282
+0782	Josefov	Sokolov	Karlovarský kraj	35709	12579	50211
+0787	Kaceřov	Sokolov	Karlovarský kraj	35751	12504	50148
+07CA	Karlovy Vary	Karlovy Vary	Karlovarský kraj	36001	12872	50231
+0859	Kolová	Karlovy Vary	Karlovarský kraj	36001	12903	50187
+08E7	Krajková	Sokolov	Karlovarský kraj	35709	12534	50216
+08F5	Královské Poříčí	Sokolov	Karlovarský kraj	35601	12679	50194
+08FF	Kraslice	Sokolov	Karlovarský kraj	35801	12517	50323
+0900	Krásná	Cheb	Karlovarský kraj	35201	12168	50234
+0908	Krásné Údolí	Karlovy Vary	Karlovarský kraj	36401	12921	50072
+090A	Krásno	Sokolov	Karlovarský kraj	35731	12786	50109
+090C	Krásný Les	Karlovy Vary	Karlovarský kraj	36301	13002	50344
+096E	Křižovatka	Cheb	Karlovarský kraj	35134	12393	50194
+09B9	Kynšperk nad Ohří	Sokolov	Karlovarský kraj	35751	12530	50119
+09BA	Kyselka	Karlovy Vary	Karlovarský kraj	36272	13000	50262
+09DB	Lázně Kynžvart	Cheb	Karlovarský kraj	35491	12624	50010
+0A37	Libá	Cheb	Karlovarský kraj	35131	12230	50128
+0A3A	Libavské Údolí	Sokolov	Karlovarský kraj	35751	12552	50128
+0A8C	Lipová	Cheb	Karlovarský kraj	35002	12448	50036
+0ACC	Loket	Sokolov	Karlovarský kraj	35733	12754	50186
+0AD4	Lomnice	Sokolov	Karlovarský kraj	35601	12632	50211
+0B09	Luby	Cheb	Karlovarský kraj	35137	12406	50252
+0B7A	Mariánské Lázně	Cheb	Karlovarský kraj	35301	12701	49964
+0BB0	Merklín	Karlovy Vary	Karlovarský kraj	36234	12863	50328
+0BEB	Milhostov	Cheb	Karlovarský kraj	35002	12453	50156
+0BEF	Milíkov	Cheb	Karlovarský kraj	35002	12547	50055
+0C0A	Mírová	Karlovy Vary	Karlovarský kraj	35735	12770	50237
+0C30	Mnichov	Cheb	Karlovarský kraj	35301	12787	50036
+0CBA	Nebanice	Cheb	Karlovarský kraj	35002	12472	50115
+0CD1	Nejdek	Karlovy Vary	Karlovarský kraj	36221	12729	50322
+0D42	Nová Role	Karlovy Vary	Karlovarský kraj	36225	12784	50271
+0D4B	Nová Ves	Sokolov	Karlovarský kraj	36464	12775	50084
+0D68	Nové Hamry	Karlovy Vary	Karlovarský kraj	36221	12719	50360
+0D76	Nové Sedlo	Sokolov	Karlovarský kraj	35734	12738	50206
+0D8A	Nový Kostel	Cheb	Karlovarský kraj	35134	12445	50217
+0DB4	Odrava	Cheb	Karlovarský kraj	35002	12484	50103
+0DCC	Okrouhlá	Cheb	Karlovarský kraj	35002	12487	50062
+0DF4	Oloví	Sokolov	Karlovarský kraj	35707	12558	50251
+0E4B	Ostrov	Karlovy Vary	Karlovarský kraj	36301	12939	50306
+0E6D	Otovice	Karlovy Vary	Karlovarský kraj	36001	12871	50255
+0E70	Otročín	Karlovy Vary	Karlovarský kraj	36401	12892	50032
+0E7B	Ovesné Kladruby	Cheb	Karlovarský kraj	35301	12779	49953
+0EBD	Pernink	Karlovy Vary	Karlovarský kraj	36236	12783	50365
+0EE8	Pila	Karlovy Vary	Karlovarský kraj	36001	12925	50179
+0F0C	Plesná	Cheb	Karlovarský kraj	35135	12346	50220
+0F31	Podhradí	Cheb	Karlovarský kraj	35201	12201	50255
+0F7A	Pomezí nad Ohří	Cheb	Karlovarský kraj	35002	12279	50086
+0F96	Potůčky	Karlovy Vary	Karlovarský kraj	36235	12736	50428
+0F98	Poustka	Cheb	Karlovarský kraj	35002	12298	50140
+0FA9	Prameny	Cheb	Karlovarský kraj	35301	12732	50050
+0FDC	Přebuz	Sokolov	Karlovarský kraj	35801	12620	50365
+102B	Pšov	Karlovy Vary	Karlovarský kraj	36452	13170	50051
+10E9	Rotava	Sokolov	Karlovarský kraj	35701	12573	50296
+10F9	Rovná	Sokolov	Karlovarský kraj	35601	12668	50104
+1170	Sadov	Karlovy Vary	Karlovarský kraj	36001	12897	50267
+11CE	Skalná	Cheb	Karlovarský kraj	35134	12361	50170
+123A	Smolné Pece	Karlovy Vary	Karlovarský kraj	36225	12765	50291
+1260	Sokolov	Sokolov	Karlovarský kraj	35601	12659	50174
+128D	Stanovice	Karlovy Vary	Karlovarský kraj	36001	12874	50165
+1298	Stará Voda	Cheb	Karlovarský kraj	35301	12595	49991
+12AD	Staré Sedlo	Sokolov	Karlovarský kraj	35601	12719	50181
+12F5	Stráž nad Ohří	Karlovy Vary	Karlovarský kraj	36301	13051	50337
+130D	Stružná	Karlovy Vary	Karlovarský kraj	36471	13005	50183
+131C	Stříbrná	Sokolov	Karlovarský kraj	35801	12526	50356
+136D	Svatava	Sokolov	Karlovarský kraj	35703	12625	50192
+13B1	Šabina	Sokolov	Karlovarský kraj	35601	12582	50135
+13C4	Šemnice	Karlovy Vary	Karlovarský kraj	36272	12976	50237
+13CF	Šindelová	Sokolov	Karlovarský kraj	35801	12603	50318
+13E4	Štědrá	Karlovy Vary	Karlovarský kraj	36452	13114	50058
+141C	Tatrovice	Sokolov	Karlovarský kraj	35735	12697	50276
+1430	Teplá	Cheb	Karlovarský kraj	36461	12863	49981
+1434	Teplička	Karlovy Vary	Karlovarský kraj	36464	12851	50148
+1440	Těšovice	Sokolov	Karlovarský kraj	35601	12676	50182
+1463	Toužim	Karlovy Vary	Karlovarský kraj	36401	12985	50060
+1487	Trstěnice	Cheb	Karlovarský kraj	35301	12676	49919
+1496	Třebeň	Cheb	Karlovarský kraj	35134	12400	50128
+14BD	Tři Sekery	Cheb	Karlovarský kraj	35301	12616	49942
+14D9	Tuřany	Cheb	Karlovarský kraj	35002	12522	50084
+1559	Útvina	Karlovy Vary	Karlovarský kraj	36401	12954	50070
+1571	Valeč	Karlovy Vary	Karlovarský kraj	36453	13254	50174
+1578	Valy	Cheb	Karlovarský kraj	35301	12654	49976
+15A6	Velichov	Karlovy Vary	Karlovarský kraj	36301	13009	50284
+15B3	Velká Hleďsebe	Cheb	Karlovarský kraj	35301	12666	49966
+15DF	Velký Luh	Cheb	Karlovarský kraj	35134	12372	50199
+15FA	Verušičky	Karlovy Vary	Karlovarský kraj	36452	13173	50141
+1648	Vintířov	Sokolov	Karlovarský kraj	35735	12717	50233
+1686	Vlkovice	Cheb	Karlovarský kraj	35301	12739	49948
+1695	Vojkovice	Karlovy Vary	Karlovarský kraj	36273	13016	50303
+169B	Vojtanov	Cheb	Karlovarský kraj	35134	12317	50166
+16D2	Vrbice	Karlovy Vary	Karlovarský kraj	36453	13233	50149
+16F3	Vřesová	Sokolov	Karlovarský kraj	35735	12696	50259
+172A	Vysoká Pec	Karlovy Vary	Karlovarský kraj	36221	12696	50348
+175D	Zádub-Závišín	Cheb	Karlovarský kraj	35301	12744	49971
+186E	Žlutice	Karlovy Vary	Karlovarský kraj	36452	13163	50092

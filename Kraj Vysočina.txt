@@ -1,0 +1,705 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0010	Arneštovice	Pelhřimov	Kraj Vysočina	39501	15117	49531
+0011	Arnolec	Jihlava	Kraj Vysočina	58827	15823	49436
+0015	Babice	Třebíč	Kraj Vysočina	67544	15770	49135
+001D	Bácovice	Pelhřimov	Kraj Vysočina	39301	15158	49455
+0020	Bačice	Třebíč	Kraj Vysočina	67555	16027	49081
+0021	Bačkov	Havlíčkův Brod	Kraj Vysočina	58291	15462	49735
+0022	Bačkovice	Třebíč	Kraj Vysočina	67532	15589	48965
+0024	Baliny	Žďár nad Sázavou	Kraj Vysočina	59401	15952	49332
+002F	Bartoušov	Havlíčkův Brod	Kraj Vysočina	58001	15618	49601
+0034	Batelov	Jihlava	Kraj Vysočina	58851	15410	49290
+004A	Bělá	Havlíčkův Brod	Kraj Vysočina	58401	15240	49754
+004B	Bělá	Pelhřimov	Kraj Vysočina	39301	15260	49312
+0068	Benetice	Třebíč	Kraj Vysočina	67506	15867	49297
+007A	Bezděkov	Havlíčkův Brod	Kraj Vysočina	58301	15730	49732
+009D	Bílý Kámen	Jihlava	Kraj Vysočina	58841	15560	49417
+00A7	Biskupice-Pulkov	Třebíč	Kraj Vysočina	67558	16009	49038
+00AC	Bítovčice	Jihlava	Kraj Vysočina	58822	15734	49368
+00B3	Blatnice	Třebíč	Kraj Vysočina	67551	15871	49070
+00BE	Blažkov	Žďár nad Sázavou	Kraj Vysočina	59251	16185	49473
+00C2	Blízkov	Žďár nad Sázavou	Kraj Vysočina	59442	15908	49400
+00CD	Bobrová	Žďár nad Sázavou	Kraj Vysočina	59255	16118	49482
+00CE	Bobrůvka	Žďár nad Sázavou	Kraj Vysočina	59255	16093	49448
+00D4	Bohdalec	Žďár nad Sázavou	Kraj Vysočina	59255	16059	49474
+00D6	Bohdalín	Pelhřimov	Kraj Vysočina	39491	15015	49307
+00D7	Bohdalov	Žďár nad Sázavou	Kraj Vysočina	59213	15876	49480
+00E0	Bohuňov	Žďár nad Sázavou	Kraj Vysočina	59301	16202	49560
+00E4	Bohuslavice	Jihlava	Kraj Vysočina	58856	15575	49149
+00EC	Bohušice	Třebíč	Kraj Vysočina	67551	15852	49085
+00F5	Bochovice	Třebíč	Kraj Vysočina	67505	15896	49320
+00F9	Bojiště	Havlíčkův Brod	Kraj Vysočina	58401	15286	49667
+0102	Boňkov	Havlíčkův Brod	Kraj Vysočina	58255	15447	49547
+0109	Borek	Havlíčkův Brod	Kraj Vysočina	58282	15590	49791
+0119	Borovná	Jihlava	Kraj Vysočina	58856	15394	49164
+011B	Borovnice	Žďár nad Sázavou	Kraj Vysočina	59242	16202	49667
+0125	Boršov	Jihlava	Kraj Vysočina	58805	15434	49404
+0128	Bory	Žďár nad Sázavou	Kraj Vysočina	59461	16026	49425
+012C	Bořetice	Pelhřimov	Kraj Vysočina	39501	15110	49496
+012E	Bořetín	Pelhřimov	Kraj Vysočina	39470	14947	49310
+013F	Božejov	Pelhřimov	Kraj Vysočina	39461	15155	49362
+0157	Bransouze	Třebíč	Kraj Vysočina	67521	15751	49302
+0162	Bratřice	Pelhřimov	Kraj Vysočina	39501	15001	49516
+017D	Brtnice	Jihlava	Kraj Vysočina	58832	15676	49307
+017E	Brtnička	Jihlava	Kraj Vysočina	67527	15624	49237
+018A	Brzkov	Jihlava	Kraj Vysočina	58813	15727	49526
+0191	Břevnice	Havlíčkův Brod	Kraj Vysočina	58001	15612	49631
+0192	Březejc	Žďár nad Sázavou	Kraj Vysočina	59401	16091	49346
+0195	Březí	Žďár nad Sázavou	Kraj Vysočina	59453	16216	49343
+0197	Březí nad Oslavou	Žďár nad Sázavou	Kraj Vysočina	59214	15935	49502
+01A5	Březník	Třebíč	Kraj Vysočina	67574	16194	49172
+01B2	Březské	Žďár nad Sázavou	Kraj Vysočina	59453	16238	49330
+01C6	Budeč	Žďár nad Sázavou	Kraj Vysočina	59214	15912	49536
+01C9	Budíkov	Pelhřimov	Kraj Vysočina	39601	15362	49579
+01CE	Budišov	Třebíč	Kraj Vysočina	67503	16003	49271
+01D2	Budkov	Třebíč	Kraj Vysočina	67542	15659	49054
+01DA	Bukov	Žďár nad Sázavou	Kraj Vysočina	59251	16223	49454
+01F2	Buřenice	Pelhřimov	Kraj Vysočina	39501	15066	49552
+0202	Bystrá	Pelhřimov	Kraj Vysočina	39601	15371	49508
+020D	Bystřice nad Pernštejnem	Žďár nad Sázavou	Kraj Vysočina	59301	16261	49523
+0213	Býšovec	Žďár nad Sázavou	Kraj Vysočina	59301	16289	49475
+021B	Cejle	Jihlava	Kraj Vysočina	58851	15472	49369
+0220	Cerekvička-Rosice	Jihlava	Kraj Vysočina	58833	15587	49334
+0227	Cetoraz	Pelhřimov	Kraj Vysočina	39411	14957	49455
+0229	Cidlina	Třebíč	Kraj Vysočina	67544	15735	49128
+022A	Cikháj	Žďár nad Sázavou	Kraj Vysočina	59102	15967	49644
+023F	Čachotín	Havlíčkův Brod	Kraj Vysočina	58301	15608	49695
+0248	Čáslavice	Třebíč	Kraj Vysočina	67524	15772	49152
+0249	Čáslavsko	Pelhřimov	Kraj Vysočina	39501	15002	49592
+024C	Častohostice	Třebíč	Kraj Vysočina	67602	15819	49014
+024E	Častrov	Pelhřimov	Kraj Vysočina	39463	15180	49307
+0254	Čečkovice	Havlíčkův Brod	Kraj Vysočina	58301	15664	49784
+0257	Čechočovice	Třebíč	Kraj Vysočina	67522	15793	49202
+0259	Čechtín	Třebíč	Kraj Vysočina	67507	15819	49293
+0262	Čejov	Pelhřimov	Kraj Vysočina	39601	15379	49565
+0268	Čelistná	Pelhřimov	Kraj Vysočina	39301	15206	49360
+0278	Černá	Žďár nad Sázavou	Kraj Vysočina	59442	15863	49426
+0282	Černíč	Jihlava	Kraj Vysočina	58856	15459	49127
+0291	Černov	Pelhřimov	Kraj Vysočina	39301	15314	49344
+0293	Černovice	Pelhřimov	Kraj Vysočina	39494	14960	49372
+029D	Červená Lhota	Třebíč	Kraj Vysočina	67507	15806	49284
+029E	Červená Řečice	Pelhřimov	Kraj Vysočina	39446	15178	49511
+02AA	Česká Bělá	Havlíčkův Brod	Kraj Vysočina	58261	15691	49643
+02CA	Číhalín	Třebíč	Kraj Vysočina	67507	15812	49268
+02CC	Číhošť	Havlíčkův Brod	Kraj Vysočina	58287	15335	49741
+02CE	Číchov	Třebíč	Kraj Vysočina	67521	15762	49284
+02CF	Čikov	Třebíč	Kraj Vysočina	67578	16141	49269
+02D5	Číměř	Třebíč	Kraj Vysočina	67501	15998	49200
+02DF	Čížkov	Pelhřimov	Kraj Vysočina	39301	15118	49440
+02E3	Čížov	Jihlava	Kraj Vysočina	58601	15575	49387
+02EC	Dalečín	Žďár nad Sázavou	Kraj Vysočina	59241	16240	49591
+02EE	Dalešice	Třebíč	Kraj Vysočina	67554	16082	49129
+02F5	Daňkovice	Žďár nad Sázavou	Kraj Vysočina	59203	16148	49654
+02FF	Dědice	Třebíč	Kraj Vysočina	67541	15727	49029
+0301	Dehtáře	Pelhřimov	Kraj Vysočina	39301	15275	49486
+030B	Dešov	Třebíč	Kraj Vysočina	67533	15701	48985
+0323	Dlouhá Brtnice	Jihlava	Kraj Vysočina	58834	15604	49236
+032C	Dlouhá Ves	Havlíčkův Brod	Kraj Vysočina	58222	15674	49578
+032E	Dlouhé	Žďár nad Sázavou	Kraj Vysočina	59255	16123	49509
+0339	Dobrá Voda	Pelhřimov	Kraj Vysočina	39301	15270	49358
+033A	Dobrá Voda	Žďár nad Sázavou	Kraj Vysočina	59451	16065	49393
+033D	Dobrá Voda u Pacova	Pelhřimov	Kraj Vysočina	39501	15027	49404
+034B	Dobronín	Jihlava	Kraj Vysočina	58812	15650	49478
+034D	Dobroutov	Jihlava	Kraj Vysočina	58813	15736	49462
+037E	Dolní Cerekev	Jihlava	Kraj Vysočina	58845	15456	49344
+0388	Dolní Heřmanice	Žďár nad Sázavou	Kraj Vysočina	59401	16060	49304
+0390	Dolní Krupá	Havlíčkův Brod	Kraj Vysočina	58271	15603	49660
+0393	Dolní Lažany	Třebíč	Kraj Vysočina	67551	15822	49100
+0396	Dolní Libochová	Žďár nad Sázavou	Kraj Vysočina	59253	16184	49408
+039C	Dolní Město	Havlíčkův Brod	Kraj Vysočina	58233	15382	49627
+03AB	Dolní Rožínka	Žďár nad Sázavou	Kraj Vysočina	59251	16210	49477
+03B0	Dolní Sokolovec	Havlíčkův Brod	Kraj Vysočina	58301	15715	49726
+03B9	Dolní Vilémovice	Třebíč	Kraj Vysočina	67552	15977	49153
+03BA	Dolní Vilímeč	Jihlava	Kraj Vysočina	58856	15520	49135
+03C2	Domamil	Třebíč	Kraj Vysočina	67543	15695	49083
+03DD	Doupě	Jihlava	Kraj Vysočina	58856	15434	49236
+040D	Druhanov	Havlíčkův Brod	Kraj Vysočina	58291	15410	49698
+0431	Dubovice	Pelhřimov	Kraj Vysočina	39301	15216	49424
+0432	Dudín	Jihlava	Kraj Vysočina	58805	15397	49451
+0434	Dukovany	Třebíč	Kraj Vysočina	67556	16192	49081
+0435	Důl	Pelhřimov	Kraj Vysočina	39501	15030	49452
+0438	Dušejov	Jihlava	Kraj Vysočina	58805	15432	49408
+043B	Dvorce	Jihlava	Kraj Vysočina	58851	15490	49375
+0444	Dyjice	Jihlava	Kraj Vysočina	58856	15493	49174
+044D	Eš	Pelhřimov	Kraj Vysočina	39501	15001	49434
+045C	Fryšava pod Žákovou horou	Žďár nad Sázavou	Kraj Vysočina	59204	16044	49630
+045F	Golčův Jeníkov	Havlíčkův Brod	Kraj Vysočina	58282	15476	49816
+046A	Habry	Havlíčkův Brod	Kraj Vysočina	58281	15484	49756
+0481	Hamry nad Sázavou	Žďár nad Sázavou	Kraj Vysočina	59101	15901	49566
+0489	Hartvíkovice	Třebíč	Kraj Vysočina	67576	16090	49171
+048E	Havlíčkova Borová	Havlíčkův Brod	Kraj Vysočina	58223	15781	49635
+048F	Havlíčkův Brod	Havlíčkův Brod	Kraj Vysočina	58001	15579	49604
+0499	Herálec	Havlíčkův Brod	Kraj Vysočina	58255	15457	49530
+049A	Herálec	Žďár nad Sázavou	Kraj Vysočina	59201	15994	49689
+049B	Heraltice	Třebíč	Kraj Vysočina	67521	15730	49230
+04A2	Heřmanice	Havlíčkův Brod	Kraj Vysočina	58282	15547	49824
+04A9	Heřmanov	Žďár nad Sázavou	Kraj Vysočina	59458	16181	49379
+04B0	Hladov	Jihlava	Kraj Vysočina	58833	15611	49214
+04CC	Hluboké	Třebíč	Kraj Vysočina	67571	16227	49226
+04DB	Hněvkovice	Havlíčkův Brod	Kraj Vysočina	58294	15202	49685
+04E4	Hodice	Jihlava	Kraj Vysočina	58901	15480	49270
+04E5	Hodíškov	Žďár nad Sázavou	Kraj Vysočina	59101	16038	49503
+04EC	Hodov	Třebíč	Kraj Vysočina	67504	15983	49294
+04EE	Hojanovice	Pelhřimov	Kraj Vysočina	39601	15265	49597
+04EF	Hojkov	Jihlava	Kraj Vysočina	58805	15413	49389
+04F0	Hojovice	Pelhřimov	Kraj Vysočina	39501	14919	49328
+0525	Horní Cerekev	Pelhřimov	Kraj Vysočina	39403	15327	49320
+0528	Horní Dubenky	Jihlava	Kraj Vysočina	58852	15317	49259
+052D	Horní Heřmanice	Třebíč	Kraj Vysočina	67505	15920	49329
+0536	Horní Krupá	Havlíčkův Brod	Kraj Vysočina	58001	15588	49672
+053C	Horní Libochová	Žďár nad Sázavou	Kraj Vysočina	59451	16148	49407
+0546	Horní Myslová	Jihlava	Kraj Vysočina	58856	15422	49165
+054B	Horní Paseka	Havlíčkův Brod	Kraj Vysočina	58401	15293	49629
+0555	Horní Radslavice	Žďár nad Sázavou	Kraj Vysočina	59401	15902	49338
+0556	Horní Rápotice	Pelhřimov	Kraj Vysočina	39601	15320	49575
+0557	Horní Rožínka	Žďár nad Sázavou	Kraj Vysočina	59251	16193	49500
+055F	Horní Smrčné	Třebíč	Kraj Vysočina	67507	15756	49328
+0568	Horní Újezd	Třebíč	Kraj Vysočina	67522	15842	49142
+056B	Horní Ves	Pelhřimov	Kraj Vysočina	39301	15307	49293
+056D	Horní Vilémovice	Třebíč	Kraj Vysočina	67507	15880	49291
+0570	Hornice	Třebíč	Kraj Vysočina	67532	15680	48995
+057D	Hořepník	Pelhřimov	Kraj Vysočina	39421	15107	49512
+0581	Hořice	Pelhřimov	Kraj Vysočina	39601	15185	49599
+0592	Hostětice	Jihlava	Kraj Vysočina	58856	15414	49191
+05B9	Hradec	Havlíčkův Brod	Kraj Vysočina	58401	15295	49707
+05E6	Hrotovice	Třebíč	Kraj Vysočina	67555	16060	49107
+05E8	Hroznatín	Třebíč	Kraj Vysočina	67505	15908	49297
+05F8	Hrutov	Jihlava	Kraj Vysočina	67527	15680	49255
+0605	Hubenov	Jihlava	Kraj Vysočina	58805	15469	49392
+060C	Humpolec	Pelhřimov	Kraj Vysočina	39601	15359	49541
+060F	Hurtova Lhota	Havlíčkův Brod	Kraj Vysočina	58001	15508	49596
+061C	Hvězdoňovice	Třebíč	Kraj Vysočina	67521	15762	49220
+0628	Hybrálec	Jihlava	Kraj Vysočina	58601	15589	49409
+063D	Chlístov	Třebíč	Kraj Vysočina	67522	15743	49202
+0642	Chlum	Třebíč	Kraj Vysočina	67507	15767	49313
+064F	Chlumek	Žďár nad Sázavou	Kraj Vysočina	59442	15854	49374
+0650	Chlumětín	Žďár nad Sázavou	Kraj Vysočina	59202	16003	49727
+0652	Chlum-Korouhvice	Žďár nad Sázavou	Kraj Vysočina	59265	16320	49575
+0672	Chotěboř	Havlíčkův Brod	Kraj Vysočina	58301	15671	49720
+0673	Chotěbudice	Třebíč	Kraj Vysočina	67531	15574	49058
+06A4	Chrtníč	Havlíčkův Brod	Kraj Vysočina	58282	15443	49767
+06AA	Chřenovice	Havlíčkův Brod	Kraj Vysočina	58401	15216	49716
+06C9	Chýstovice	Pelhřimov	Kraj Vysočina	39501	15079	49585
+06CC	Chyšná	Pelhřimov	Kraj Vysočina	39501	15100	49586
+06D9	Jabloňov	Žďár nad Sázavou	Kraj Vysočina	59401	16089	49324
+06E0	Jakubov u Moravských Budějovic	Třebíč	Kraj Vysočina	67544	15761	49081
+06E3	Jamné	Jihlava	Kraj Vysočina	58827	15723	49431
+06E6	Jámy	Žďár nad Sázavou	Kraj Vysočina	59232	16005	49530
+06E8	Jankov	Pelhřimov	Kraj Vysočina	39301	15386	49415
+0700	Jaroměřice nad Rokytnou	Třebíč	Kraj Vysočina	67551	15893	49094
+0708	Jasenice	Třebíč	Kraj Vysočina	67571	16163	49258
+070C	Javorek	Žďár nad Sázavou	Kraj Vysočina	59203	16173	49650
+0714	Jedlá	Havlíčkův Brod	Kraj Vysočina	58401	15234	49738
+071C	Jemnice	Třebíč	Kraj Vysočina	67531	15570	49019
+0728	Jersín	Jihlava	Kraj Vysočina	58825	15830	49421
+072A	Jeřišno	Havlíčkův Brod	Kraj Vysočina	58274	15641	49792
+0744	Jezdovice	Jihlava	Kraj Vysočina	58901	15484	49323
+0747	Ježená	Jihlava	Kraj Vysočina	58841	15465	49416
+074A	Ježov	Pelhřimov	Kraj Vysočina	39601	15233	49613
+074F	Jihlava	Jihlava	Kraj Vysočina	58601	15595	49415
+0750	Jihlávka	Jihlava	Kraj Vysočina	58851	15292	49261
+0753	Jilem	Havlíčkův Brod	Kraj Vysočina	58301	15583	49713
+075C	Jimramov	Žďár nad Sázavou	Kraj Vysočina	59242	16226	49637
+0763	Jindřichovice	Jihlava	Kraj Vysočina	67526	15638	49137
+0769	Jinošov	Třebíč	Kraj Vysočina	67571	16193	49231
+076A	Jiratice	Třebíč	Kraj Vysočina	67532	15612	48983
+076F	Jiřice	Pelhřimov	Kraj Vysočina	39601	15318	49553
+0778	Jitkov	Havlíčkův Brod	Kraj Vysočina	58301	15727	49662
+077E	Jívoví	Žďár nad Sázavou	Kraj Vysočina	59451	16090	49405
+078E	Kadolec	Žďár nad Sázavou	Kraj Vysočina	59451	16141	49374
+0791	Kadov	Žďár nad Sázavou	Kraj Vysočina	59203	16079	49632
+0796	Kalhov	Jihlava	Kraj Vysočina	58842	15441	49481
+0797	Kaliště	Jihlava	Kraj Vysočina	58851	15301	49241
+0798	Kaliště	Pelhřimov	Kraj Vysočina	39451	15304	49592
+079D	Kámen	Havlíčkův Brod	Kraj Vysočina	58242	15519	49711
+079E	Kámen	Pelhřimov	Kraj Vysočina	39413	15015	49423
+07A2	Kamenice	Jihlava	Kraj Vysočina	58823	15780	49366
+07A4	Kamenice nad Lipou	Pelhřimov	Kraj Vysočina	39470	15075	49303
+07A9	Kamenná	Jihlava	Kraj Vysočina	58813	15652	49510
+07AA	Kamenná	Třebíč	Kraj Vysočina	67503	16060	49272
+07AD	Kamenná Lhota	Havlíčkův Brod	Kraj Vysočina	58292	15275	49643
+07C4	Karlov	Žďár nad Sázavou	Kraj Vysočina	59101	15914	49647
+07E1	Kdousov	Třebíč	Kraj Vysočina	67532	15647	48986
+07E6	Kejžlice	Pelhřimov	Kraj Vysočina	39452	15392	49590
+07EE	Kladeruby nad Oslavou	Třebíč	Kraj Vysočina	67575	16171	49144
+0801	Klatovec	Jihlava	Kraj Vysočina	58851	15294	49222
+0815	Klokočov	Havlíčkův Brod	Kraj Vysočina	58301	15674	49801
+0819	Klučov	Třebíč	Kraj Vysočina	67552	15935	49167
+0822	Kněževes	Žďár nad Sázavou	Kraj Vysočina	59444	15980	49456
+0825	Kněžice	Jihlava	Kraj Vysočina	67529	15672	49270
+082C	Knínice	Jihlava	Kraj Vysočina	58856	15604	49094
+0830	Knyk	Havlíčkův Brod	Kraj Vysočina	58001	15578	49647
+0831	Koberovice	Pelhřimov	Kraj Vysočina	39601	15262	49587
+0844	Kochánov	Havlíčkův Brod	Kraj Vysočina	58253	15540	49534
+0845	Kojatice	Třebíč	Kraj Vysočina	67532	15703	48998
+0846	Kojatín	Třebíč	Kraj Vysočina	67503	16010	49242
+0848	Kojčice	Pelhřimov	Kraj Vysočina	39409	15255	49476
+0849	Kojetice	Třebíč	Kraj Vysočina	67523	15818	49157
+084B	Kojetín	Havlíčkův Brod	Kraj Vysočina	58001	15658	49657
+0861	Komárovice	Třebíč	Kraj Vysočina	67526	15701	49070
+0865	Komorovice	Pelhřimov	Kraj Vysočina	39601	15345	49508
+086B	Koněšín	Třebíč	Kraj Vysočina	67502	16041	49190
+0879	Koroužné	Žďár nad Sázavou	Kraj Vysočina	59301	16347	49527
+088E	Kostelec	Jihlava	Kraj Vysočina	58861	15490	49361
+089C	Kostelní Myslová	Jihlava	Kraj Vysočina	58856	15428	49147
+08A1	Kostníky	Třebíč	Kraj Vysočina	67532	15639	48974
+08A8	Košetice	Pelhřimov	Kraj Vysočina	39422	15116	49558
+08B2	Kotlasy	Žďár nad Sázavou	Kraj Vysočina	59214	15946	49492
+08BC	Kouty	Havlíčkův Brod	Kraj Vysočina	58401	15293	49648
+08BD	Kouty	Třebíč	Kraj Vysočina	67508	15792	49314
+08CB	Kozlany	Třebíč	Kraj Vysočina	67502	16061	49179
+08CC	Kozlov	Havlíčkův Brod	Kraj Vysočina	58401	15293	49734
+08CD	Kozlov	Jihlava	Kraj Vysočina	58821	15700	49413
+08CF	Kozlov	Žďár nad Sázavou	Kraj Vysočina	59451	16078	49379
+08DD	Kožichovice	Třebíč	Kraj Vysočina	67401	15922	49199
+08E0	Kožlí	Havlíčkův Brod	Kraj Vysočina	58293	15253	49670
+08E4	Kraborovice	Havlíčkův Brod	Kraj Vysočina	58282	15571	49800
+08E5	Krahulčí	Jihlava	Kraj Vysočina	58856	15414	49181
+08E6	Krahulov	Třebíč	Kraj Vysočina	67521	15808	49223
+08ED	Kralice nad Oslavou	Třebíč	Kraj Vysočina	67573	16201	49199
+08F8	Kramolín	Třebíč	Kraj Vysočina	67577	16132	49134
+08FE	Krasíkovice	Pelhřimov	Kraj Vysočina	39301	15228	49461
+0902	Krásná Hora	Havlíčkův Brod	Kraj Vysočina	58234	15470	49602
+0906	Krásné	Žďár nad Sázavou	Kraj Vysočina	59203	16145	49677
+0909	Krásněves	Žďár nad Sázavou	Kraj Vysočina	59444	15981	49444
+090E	Krasonice	Jihlava	Kraj Vysočina	58864	15616	49115
+0913	Krátká Ves	Havlíčkův Brod	Kraj Vysočina	58222	15684	49625
+091F	Krhov	Třebíč	Kraj Vysočina	67555	16019	49100
+092A	Krokočín	Třebíč	Kraj Vysočina	67571	16233	49244
+0934	Krucemburk	Havlíčkův Brod	Kraj Vysočina	58266	15852	49688
+0941	Křeč	Pelhřimov	Kraj Vysočina	39495	14917	49389
+0947	Křelovice	Pelhřimov	Kraj Vysočina	39445	15168	49536
+0958	Křešín	Pelhřimov	Kraj Vysočina	39424	15043	49581
+095C	Křídla	Žďár nad Sázavou	Kraj Vysočina	59231	16122	49527
+0965	Křižánky	Žďár nad Sázavou	Kraj Vysočina	59202	16064	49687
+0967	Křižanov	Žďár nad Sázavou	Kraj Vysočina	59451	16109	49388
+096F	Křoví	Žďár nad Sázavou	Kraj Vysočina	59454	16264	49306
+0980	Kuklík	Žďár nad Sázavou	Kraj Vysočina	59203	16113	49630
+0988	Kundratice	Žďár nad Sázavou	Kraj Vysočina	59451	16134	49402
+098A	Kunemil	Havlíčkův Brod	Kraj Vysočina	58291	15431	49707
+099C	Kuroslepy	Třebíč	Kraj Vysočina	67575	16210	49154
+09A9	Květinov	Havlíčkův Brod	Kraj Vysočina	58001	15507	49564
+09B4	Kyjov	Havlíčkův Brod	Kraj Vysočina	58001	15623	49629
+09B5	Kyjov	Žďár nad Sázavou	Kraj Vysočina	59214	15881	49443
+09B8	Kynice	Havlíčkův Brod	Kraj Vysočina	58401	15360	49739
+09CB	Lány	Havlíčkův Brod	Kraj Vysočina	58301	15712	49759
+09D4	Lavičky	Žďár nad Sázavou	Kraj Vysočina	59401	15968	49380
+09D6	Láz	Třebíč	Kraj Vysočina	67541	15785	49012
+09EF	Ledeč nad Sázavou	Havlíčkův Brod	Kraj Vysočina	58401	15277	49695
+09FC	Leskovice	Pelhřimov	Kraj Vysočina	39414	15081	49430
+09FE	Lesná	Pelhřimov	Kraj Vysočina	39501	15057	49518
+09FF	Lesná	Třebíč	Kraj Vysočina	67526	15679	49171
+0A02	Lesní Jakubov	Třebíč	Kraj Vysočina	67573	16243	49205
+0A05	Lesonice	Třebíč	Kraj Vysočina	67544	15755	49107
+0A07	Lesůňky	Třebíč	Kraj Vysočina	67551	15842	49107
+0A0B	Leškovice	Havlíčkův Brod	Kraj Vysočina	58282	15537	49762
+0A0F	Leština u Světlé	Havlíčkův Brod	Kraj Vysočina	58286	15397	49761
+0A1A	Lhánice	Třebíč	Kraj Vysočina	67575	16223	49109
+0A28	Lhota-Vlasenice	Pelhřimov	Kraj Vysočina	39470	15124	49302
+0A29	Lhotice	Třebíč	Kraj Vysočina	67531	15607	49019
+0A2A	Lhotka	Jihlava	Kraj Vysočina	58856	15385	49209
+0A2B	Lhotka	Žďár nad Sázavou	Kraj Vysočina	59101	16002	49582
+0A51	Libice nad Doubravou	Havlíčkův Brod	Kraj Vysočina	58277	15704	49745
+0A58	Libkova Voda	Pelhřimov	Kraj Vysočina	39462	15191	49376
+0A76	Lidmaň	Pelhřimov	Kraj Vysočina	39501	15036	49381
+0A7D	Lípa	Havlíčkův Brod	Kraj Vysočina	58257	15542	49554
+0A84	Lipnice nad Sázavou	Havlíčkův Brod	Kraj Vysočina	58232	15413	49613
+0A85	Lipník	Třebíč	Kraj Vysočina	67552	15950	49144
+0A98	Lísek	Žďár nad Sázavou	Kraj Vysočina	59301	16201	49586
+0AA0	Líšná	Žďár nad Sázavou	Kraj Vysočina	59203	16151	49640
+0AB3	Litohoř	Třebíč	Kraj Vysočina	67544	15768	49066
+0AB4	Litohošť	Pelhřimov	Kraj Vysočina	39501	15091	49449
+0ABA	Litovany	Třebíč	Kraj Vysočina	67557	16044	49055
+0AD9	Lomy	Třebíč	Kraj Vysočina	67531	15601	49065
+0AEF	Loukovice	Třebíč	Kraj Vysočina	67522	15793	49137
+0AF8	Lovčovice	Třebíč	Kraj Vysočina	67531	15534	48981
+0B0B	Lučice	Havlíčkův Brod	Kraj Vysočina	58235	15496	49662
+0B17	Luka nad Jihlavou	Jihlava	Kraj Vysočina	58822	15702	49374
+0B18	Lukavec	Pelhřimov	Kraj Vysočina	39426	14990	49565
+0B20	Lukov	Třebíč	Kraj Vysočina	67602	15824	49073
+0B4B	Malá Losenice	Žďár nad Sázavou	Kraj Vysočina	59211	15796	49600
+0B55	Malčín	Havlíčkův Brod	Kraj Vysočina	58291	15465	49688
+0B5E	Maleč	Havlíčkův Brod	Kraj Vysočina	58276	15676	49772
+0B74	Malý Beranov	Jihlava	Kraj Vysočina	58603	15637	49396
+0B7C	Markvartice	Jihlava	Kraj Vysočina	58856	15617	49178
+0B7D	Markvartice	Třebíč	Kraj Vysočina	67522	15767	49200
+0B86	Martinice	Žďár nad Sázavou	Kraj Vysočina	59401	16038	49371
+0B88	Martinice u Onšova	Pelhřimov	Kraj Vysočina	39501	15115	49579
+0B8A	Martínkov	Třebíč	Kraj Vysočina	67544	15711	49096
+0B90	Mastník	Třebíč	Kraj Vysočina	67522	15827	49180
+0B93	Matějov	Žďár nad Sázavou	Kraj Vysočina	59212	15863	49528
+0BAC	Menhartice	Třebíč	Kraj Vysočina	67531	15552	48990
+0BB5	Měřín	Žďár nad Sázavou	Kraj Vysočina	59442	15883	49393
+0BBD	Měšín	Jihlava	Kraj Vysočina	58601	15657	49437
+0BC5	Mezilesí	Pelhřimov	Kraj Vysočina	39501	14949	49541
+0BCA	Meziříčko	Třebíč	Kraj Vysočina	67526	15660	49109
+0BCB	Meziříčko	Žďár nad Sázavou	Kraj Vysočina	58827	15844	49405
+0BCD	Mezná	Pelhřimov	Kraj Vysočina	39301	15211	49347
+0BD2	Michalovice	Havlíčkův Brod	Kraj Vysočina	58001	15524	49577
+0BDC	Mikulovice	Třebíč	Kraj Vysočina	67522	15846	49161
+0BE0	Milasín	Žďár nad Sázavou	Kraj Vysočina	59251	16228	49466
+0BE6	Milešín	Žďár nad Sázavou	Kraj Vysočina	59451	16201	49368
+0BED	Milíčov	Jihlava	Kraj Vysočina	58805	15393	49395
+0C04	Mirošov	Jihlava	Kraj Vysočina	58805	15463	49389
+0C05	Mirošov	Žďár nad Sázavou	Kraj Vysočina	59255	16155	49465
+0C1A	Mladé Bříště	Pelhřimov	Kraj Vysočina	39443	15335	49491
+0C22	Mladoňovice	Třebíč	Kraj Vysočina	67532	15643	49010
+0C2E	Mnich	Pelhřimov	Kraj Vysočina	39492	14965	49298
+0C3B	Modlíkov	Havlíčkův Brod	Kraj Vysočina	58222	15770	49608
+0C45	Mohelno	Třebíč	Kraj Vysočina	67575	16190	49114
+0C5A	Moravec	Žďár nad Sázavou	Kraj Vysočina	59254	16143	49440
+0C5B	Moravecké Pavlovice	Žďár nad Sázavou	Kraj Vysočina	59262	16256	49425
+0C5C	Moraveč	Pelhřimov	Kraj Vysočina	39301	15076	49409
+0C63	Moravské Budějovice	Třebíč	Kraj Vysočina	67602	15808	49052
+0C7B	Mrákotín	Jihlava	Kraj Vysočina	58854	15376	49189
+0C91	Mysletice	Jihlava	Kraj Vysočina	58856	15389	49142
+0C92	Mysletín	Pelhřimov	Kraj Vysočina	39601	15368	49476
+0C93	Mysliboř	Jihlava	Kraj Vysočina	58862	15484	49209
+0C94	Myslibořice	Třebíč	Kraj Vysočina	67560	15984	49102
+0CA3	Nadějov	Jihlava	Kraj Vysočina	58827	15773	49422
+0CAA	Naloučany	Třebíč	Kraj Vysočina	67571	16135	49233
+0CAE	Náměšť nad Oslavou	Třebíč	Kraj Vysočina	67571	16155	49205
+0CB0	Nárameč	Třebíč	Kraj Vysočina	67503	15974	49264
+0CD2	Nejepín	Havlíčkův Brod	Kraj Vysočina	58301	15600	49744
+0D07	Netín	Žďár nad Sázavou	Kraj Vysočina	59444	15950	49413
+0D13	Nevcehle	Jihlava	Kraj Vysočina	58862	15534	49225
+0D2B	Nimpšov	Třebíč	Kraj Vysočina	67541	15747	49022
+0D31	Nížkov	Žďár nad Sázavou	Kraj Vysočina	59212	15805	49532
+0D38	Nová Buková	Pelhřimov	Kraj Vysočina	39301	15297	49346
+0D3A	Nová Cerekev	Pelhřimov	Kraj Vysočina	39415	15116	49417
+0D43	Nová Říše	Jihlava	Kraj Vysočina	58865	15563	49139
+0D4C	Nová Ves	Třebíč	Kraj Vysočina	67521	15803	49248
+0D4D	Nová Ves	Žďár nad Sázavou	Kraj Vysočina	59451	16196	49391
+0D5B	Nová Ves u Chotěboře	Havlíčkův Brod	Kraj Vysočina	58273	15648	49756
+0D5E	Nová Ves u Leštiny	Havlíčkův Brod	Kraj Vysočina	58282	15404	49785
+0D60	Nová Ves u Nového Města na Moravě	Žďár nad Sázavou	Kraj Vysočina	59231	16084	49540
+0D61	Nová Ves u Světlé	Havlíčkův Brod	Kraj Vysočina	58291	15437	49648
+0D64	Nové Dvory	Žďár nad Sázavou	Kraj Vysočina	59212	15808	49564
+0D6F	Nové Město na Moravě	Žďár nad Sázavou	Kraj Vysočina	59231	16074	49561
+0D74	Nové Sady	Žďár nad Sázavou	Kraj Vysočina	59501	16193	49293
+0D79	Nové Syrovice	Třebíč	Kraj Vysočina	67541	15773	49017
+0D7A	Nové Veselí	Žďár nad Sázavou	Kraj Vysočina	59214	15908	49519
+0D88	Nový Jimramov	Žďár nad Sázavou	Kraj Vysočina	59242	16187	49634
+0D91	Nový Rychnov	Pelhřimov	Kraj Vysočina	39404	15366	49383
+0D93	Nový Telečkov	Třebíč	Kraj Vysočina	67505	15938	49321
+0D99	Nyklovice	Žďár nad Sázavou	Kraj Vysočina	59265	16345	49603
+0DA9	Obrataň	Pelhřimov	Kraj Vysočina	39412	14943	49425
+0DAE	Obyčtov	Žďár nad Sázavou	Kraj Vysočina	59101	16001	49499
+0DB0	Ocmanice	Třebíč	Kraj Vysočina	67571	16125	49233
+0DB8	Odunec	Třebíč	Kraj Vysočina	67555	16014	49120
+0DC6	Okarec	Třebíč	Kraj Vysočina	67502	16088	49206
+0DCF	Okrouhlice	Havlíčkův Brod	Kraj Vysočina	58231	15490	49630
+0DD0	Okrouhlička	Havlíčkův Brod	Kraj Vysočina	58253	15556	49534
+0DD3	Okřešice	Třebíč	Kraj Vysočina	67401	15852	49259
+0DD5	Okříšky	Třebíč	Kraj Vysočina	67521	15769	49245
+0DE3	Olešenka	Havlíčkův Brod	Kraj Vysočina	58222	15765	49549
+0DE7	Olešná	Havlíčkův Brod	Kraj Vysočina	58001	15547	49681
+0DE8	Olešná	Pelhřimov	Kraj Vysočina	39301	15263	49445
+0DF7	Olšany	Jihlava	Kraj Vysočina	58856	15566	49186
+0DFC	Olší	Jihlava	Kraj Vysočina	58856	15373	49155
+0E02	Ondřejov	Pelhřimov	Kraj Vysočina	39301	15178	49393
+0E06	Onšov	Pelhřimov	Kraj Vysočina	39501	15136	49578
+0E08	Opatov	Jihlava	Kraj Vysočina	58805	15394	49431
+0E09	Opatov	Třebíč	Kraj Vysočina	67528	15661	49224
+0E18	Oponešice	Třebíč	Kraj Vysočina	67532	15652	49037
+0E24	Ořechov	Jihlava	Kraj Vysočina	58862	15532	49200
+0E25	Ořechov	Žďár nad Sázavou	Kraj Vysočina	59452	16139	49350
+0E3B	Oslavice	Žďár nad Sázavou	Kraj Vysočina	59401	15990	49340
+0E3C	Oslavička	Žďár nad Sázavou	Kraj Vysočina	67505	15966	49315
+0E41	Osová Bítýška	Žďár nad Sázavou	Kraj Vysočina	59453	16168	49325
+0E42	Osové	Žďár nad Sázavou	Kraj Vysočina	59401	16015	49325
+0E43	Ostašov	Třebíč	Kraj Vysočina	67552	15918	49155
+0E4C	Ostrov	Havlíčkův Brod	Kraj Vysočina	58401	15301	49693
+0E51	Ostrov nad Oslavou	Žďár nad Sázavou	Kraj Vysočina	59445	15990	49486
+0E66	Otín	Jihlava	Kraj Vysočina	58833	15569	49266
+0E67	Otín	Žďár nad Sázavou	Kraj Vysočina	59401	15906	49362
+0E77	Oudoleň	Havlíčkův Brod	Kraj Vysočina	58224	15755	49659
+0E7A	Ovesná Lhota	Havlíčkův Brod	Kraj Vysočina	58291	15384	49722
+0E80	Pacov	Pelhřimov	Kraj Vysočina	39501	15001	49470
+0E86	Pálovice	Třebíč	Kraj Vysočina	67531	15537	49005
+0E88	Panenská Rozsíčka	Jihlava	Kraj Vysočina	58901	15515	49252
+0E8C	Panské Dubenky	Jihlava	Kraj Vysočina	37853	15265	49219
+0EA0	Pavlínov	Žďár nad Sázavou	Kraj Vysočina	59401	15878	49348
+0EA2	Pavlov	Havlíčkův Brod	Kraj Vysočina	58401	15332	49699
+0EA3	Pavlov	Jihlava	Kraj Vysočina	58833	15557	49242
+0EA4	Pavlov	Pelhřimov	Kraj Vysočina	39301	15244	49398
+0EA5	Pavlov	Žďár nad Sázavou	Kraj Vysočina	59444	15913	49450
+0EB6	Pelhřimov	Pelhřimov	Kraj Vysočina	39301	15223	49430
+0ECA	Petráveč	Žďár nad Sázavou	Kraj Vysočina	59401	16041	49327
+0ED3	Petrovice	Třebíč	Kraj Vysočina	67521	15787	49241
+0EE0	Petrůvky	Třebíč	Kraj Vysočina	67552	15902	49159
+0EE7	Pikárec	Žďár nad Sázavou	Kraj Vysočina	59253	16122	49432
+0EEF	Písečné	Žďár nad Sázavou	Kraj Vysočina	59301	16236	49568
+0EF7	Píšť	Pelhřimov	Kraj Vysočina	39601	15203	49601
+0F02	Plandry	Jihlava	Kraj Vysočina	58841	15538	49420
+0F22	Počátky	Pelhřimov	Kraj Vysočina	39464	15240	49260
+0F26	Počítky	Žďár nad Sázavou	Kraj Vysočina	59101	15971	49588
+0F2D	Poděšín	Žďár nad Sázavou	Kraj Vysočina	59212	15800	49507
+0F3D	Podmoklany	Havlíčkův Brod	Kraj Vysočina	58264	15767	49721
+0F40	Podmoky	Havlíčkův Brod	Kraj Vysočina	58282	15439	49830
+0F46	Podolí	Žďár nad Sázavou	Kraj Vysočina	59255	16080	49484
+0F50	Pohled	Havlíčkův Brod	Kraj Vysočina	58221	15648	49606
+0F51	Pohleď	Havlíčkův Brod	Kraj Vysočina	58291	15648	49603
+0F5D	Pokojov	Žďár nad Sázavou	Kraj Vysočina	59214	15906	49481
+0F5E	Pokojovice	Třebíč	Kraj Vysočina	67521	15742	49219
+0F66	Polesí	Pelhřimov	Kraj Vysočina	39468	15246	49293
+0F69	Police	Třebíč	Kraj Vysočina	67534	15883	49214
+0F70	Polná	Jihlava	Kraj Vysočina	58813	15718	49487
+0F74	Polnička	Žďár nad Sázavou	Kraj Vysočina	59102	15916	49607
+0F86	Popůvky	Třebíč	Kraj Vysočina	67575	16127	49159
+0F90	Pošná	Pelhřimov	Kraj Vysočina	39501	15042	49458
+0F9B	Pozďatín	Třebíč	Kraj Vysočina	67503	16037	49235
+0FBB	Proseč	Pelhřimov	Kraj Vysočina	39601	15329	49600
+0FBE	Proseč pod Křemešníkem	Pelhřimov	Kraj Vysočina	39301	15295	49415
+0FC2	Prosetín	Žďár nad Sázavou	Kraj Vysočina	59264	16394	49526
+0FC4	Prosíčka	Havlíčkův Brod	Kraj Vysočina	58401	15323	49724
+0FDD	Přeckov	Třebíč	Kraj Vysočina	67505	15916	49275
+0FE1	Předín	Třebíč	Kraj Vysočina	67527	15673	49198
+1001	Přešovice	Třebíč	Kraj Vysočina	67557	16061	49050
+100C	Přibyslav	Havlíčkův Brod	Kraj Vysočina	58222	15738	49576
+100F	Přibyslavice	Třebíč	Kraj Vysočina	67521	15778	49260
+101C	Příseka	Havlíčkův Brod	Kraj Vysočina	58291	15425	49670
+1022	Příštpo	Třebíč	Kraj Vysočina	67551	15935	49073
+1032	Pucov	Třebíč	Kraj Vysočina	67571	16174	49247
+1034	Puklice	Jihlava	Kraj Vysočina	58831	15700	49374
+103E	Putimov	Pelhřimov	Kraj Vysočina	39301	15268	49413
+103F	Pyšel	Třebíč	Kraj Vysočina	67571	16066	49250
+1047	Rácovice	Třebíč	Kraj Vysočina	67532	15687	49021
+1049	Račice	Třebíč	Kraj Vysočina	67555	16024	49108
+104A	Račice	Žďár nad Sázavou	Kraj Vysočina	59255	16139	49497
+104F	Račín	Žďár nad Sázavou	Kraj Vysočina	59211	15866	49617
+1055	Radenice	Žďár nad Sázavou	Kraj Vysočina	59101	16064	49427
+1057	Radešín	Žďár nad Sázavou	Kraj Vysočina	59255	16087	49470
+1058	Radešínská Svratka	Žďár nad Sázavou	Kraj Vysočina	59233	16085	49508
+1067	Radkov	Jihlava	Kraj Vysočina	58856	15475	49145
+1068	Radkov	Žďár nad Sázavou	Kraj Vysočina	59253	16158	49423
+106D	Radkovice u Budče	Třebíč	Kraj Vysočina	38001	15621	49082
+106E	Radkovice u Hrotovic	Třebíč	Kraj Vysočina	67559	16007	49070
+1072	Radňoves	Žďár nad Sázavou	Kraj Vysočina	59451	16214	49388
+1073	Radňovice	Žďár nad Sázavou	Kraj Vysočina	59231	16034	49564
+1077	Radonín	Třebíč	Kraj Vysočina	67521	15724	49279
+1079	Radostín	Havlíčkův Brod	Kraj Vysočina	58001	15545	49661
+107A	Radostín	Žďár nad Sázavou	Kraj Vysočina	59101	15875	49652
+107B	Radostín nad Oslavou	Žďár nad Sázavou	Kraj Vysočina	59444	15965	49462
+107E	Radošov	Třebíč	Kraj Vysočina	67507	15786	49335
+1082	Radotice	Třebíč	Kraj Vysočina	67532	15590	48980
+109E	Rančířov	Jihlava	Kraj Vysočina	58601	15588	49362
+109F	Rantířov	Jihlava	Kraj Vysočina	58841	15515	49408
+10A0	Rapotice	Třebíč	Kraj Vysočina	67573	16253	49192
+10BD	Rodinov	Pelhřimov	Kraj Vysočina	39470	15103	49282
+10BE	Rodkov	Žďár nad Sázavou	Kraj Vysočina	59251	16227	49503
+10C9	Rohozná	Jihlava	Kraj Vysočina	58844	15399	49350
+10CD	Rohy	Třebíč	Kraj Vysočina	67505	16005	49305
+10D8	Rokytnice nad Rokytnou	Třebíč	Kraj Vysočina	67525	15772	49184
+10E3	Rosička	Žďár nad Sázavou	Kraj Vysočina	59212	15842	49538
+10F0	Rouchovany	Třebíč	Kraj Vysočina	67557	16107	49070
+10F4	Rousměrov	Žďár nad Sázavou	Kraj Vysočina	59101	16032	49457
+10F5	Rovečné	Žďár nad Sázavou	Kraj Vysočina	59265	16362	49577
+10FA	Rovná	Pelhřimov	Kraj Vysočina	39501	15129	49510
+10FF	Rozseč	Jihlava	Kraj Vysočina	58866	15616	49155
+1100	Rozseč	Žďár nad Sázavou	Kraj Vysočina	59451	16219	49360
+1103	Rozsochatec	Havlíčkův Brod	Kraj Vysočina	58272	15633	49672
+1104	Rozsochy	Žďár nad Sázavou	Kraj Vysočina	59257	16200	49520
+1110	Rožná	Žďár nad Sázavou	Kraj Vysočina	59252	16238	49477
+1116	Ruda	Žďár nad Sázavou	Kraj Vysočina	59401	16122	49322
+111B	Rudíkov	Třebíč	Kraj Vysočina	67505	15946	49288
+1123	Rudolec	Žďár nad Sázavou	Kraj Vysočina	59214	15830	49476
+112A	Rušinov	Havlíčkův Brod	Kraj Vysočina	58301	15683	49791
+112C	Růžená	Jihlava	Kraj Vysočina	58901	15428	49270
+1131	Rybné	Jihlava	Kraj Vysočina	58827	15736	49422
+1134	Rybníček	Havlíčkův Brod	Kraj Vysočina	58282	15509	49769
+1142	Rynárec	Pelhřimov	Kraj Vysočina	39401	15234	49389
+1146	Řásná	Jihlava	Kraj Vysočina	58856	15391	49221
+1148	Řečice	Pelhřimov	Kraj Vysočina	39601	15371	49602
+1149	Řečice	Žďár nad Sázavou	Kraj Vysočina	59233	16063	49513
+1162	Řídelov	Jihlava	Kraj Vysočina	58856	15406	49234
+1168	Římov	Třebíč	Kraj Vysočina	67522	15757	49170
+1173	Salačova Lhota	Pelhřimov	Kraj Vysočina	39501	14980	49524
+1177	Samšín	Pelhřimov	Kraj Vysočina	39501	15061	49485
+117A	Sázava	Žďár nad Sázavou	Kraj Vysočina	59211	15928	49565
+117D	Sázavka	Havlíčkův Brod	Kraj Vysočina	58244	15411	49734
+117F	Sazomín	Žďár nad Sázavou	Kraj Vysočina	59101	15981	49508
+1188	Sedlatice	Jihlava	Kraj Vysočina	58856	15613	49192
+118C	Sedlec	Třebíč	Kraj Vysočina	67571	16134	49167
+1193	Sedlejov	Jihlava	Kraj Vysočina	58862	15495	49227
+1194	Sedletín	Havlíčkův Brod	Kraj Vysočina	58301	15564	49708
+1196	Sedlice	Pelhřimov	Kraj Vysočina	39601	15256	49515
+119F	Sejřek	Žďár nad Sázavou	Kraj Vysočina	59262	16309	49436
+11B7	Senožaty	Pelhřimov	Kraj Vysočina	39456	15198	49569
+11C1	Sirákov	Žďár nad Sázavou	Kraj Vysočina	59212	15818	49504
+11D5	Sklené	Žďár nad Sázavou	Kraj Vysočina	59101	16006	49609
+11D7	Sklené nad Oslavou	Žďár nad Sázavou	Kraj Vysočina	59101	16057	49438
+11DB	Skorkov	Havlíčkův Brod	Kraj Vysočina	58253	15476	49508
+11DF	Skorotice	Žďár nad Sázavou	Kraj Vysočina	59262	16359	49457
+11E8	Skryje	Havlíčkův Brod	Kraj Vysočina	58282	15487	49843
+11EA	Skřinářov	Žďár nad Sázavou	Kraj Vysočina	59453	16172	49347
+11EF	Skuhrov	Havlíčkův Brod	Kraj Vysočina	58241	15532	49684
+120C	Slavětice	Třebíč	Kraj Vysočina	67555	16108	49103
+120D	Slavětín	Havlíčkův Brod	Kraj Vysočina	58263	15772	49668
+1213	Slavičky	Třebíč	Kraj Vysočina	67501	15967	49174
+1214	Slavíkov	Havlíčkův Brod	Kraj Vysočina	58265	15780	49742
+1215	Slavíkovice	Třebíč	Kraj Vysočina	67531	15624	49004
+121A	Slavníč	Havlíčkův Brod	Kraj Vysočina	58255	15452	49514
+1225	Sloupno	Havlíčkův Brod	Kraj Vysočina	58301	15749	49737
+122E	Služátky	Havlíčkův Brod	Kraj Vysočina	58291	15431	49684
+123E	Smrčná	Jihlava	Kraj Vysočina	58801	15537	49471
+123F	Smrk	Třebíč	Kraj Vysočina	67501	16001	49225
+1246	Sněžné	Žďár nad Sázavou	Kraj Vysočina	59203	16121	49645
+1256	Sobíňov	Havlíčkův Brod	Kraj Vysočina	58262	15766	49701
+1270	Spělkov	Žďár nad Sázavou	Kraj Vysočina	59203	16161	49674
+1286	Stáj	Jihlava	Kraj Vysočina	58827	15803	49458
+1294	Stará Říše	Jihlava	Kraj Vysočina	58867	15594	49179
+129A	Staré Bříště	Pelhřimov	Kraj Vysočina	39601	15362	49490
+12C1	Stařeč	Třebíč	Kraj Vysočina	67522	15828	49197
+12D2	Stojčín	Pelhřimov	Kraj Vysočina	39468	15222	49237
+12D5	Stonařov	Jihlava	Kraj Vysočina	58833	15585	49282
+12DE	Strachoňovice	Jihlava	Kraj Vysočina	58856	15488	49135
+12E1	Strachujov	Žďár nad Sázavou	Kraj Vysočina	59242	16226	49613
+12E6	Stránecká Zhoř	Žďár nad Sázavou	Kraj Vysočina	59442	15927	49380
+12F7	Strážek	Žďár nad Sázavou	Kraj Vysočina	59253	16193	49440
+1305	Stropešín	Třebíč	Kraj Vysočina	67555	16077	49154
+131E	Stříbrné Hory	Havlíčkův Brod	Kraj Vysočina	58222	15691	49601
+1325	Střítež	Jihlava	Kraj Vysočina	58811	15598	49443
+1326	Střítež	Pelhřimov	Kraj Vysočina	39301	15126	49364
+1327	Střítež	Třebíč	Kraj Vysočina	67401	15893	49191
+1328	Střítež	Žďár nad Sázavou	Kraj Vysočina	59251	16256	49440
+132C	Střítež pod Křemešníkem	Pelhřimov	Kraj Vysočina	39301	15320	49434
+1335	Studenec	Třebíč	Kraj Vysočina	67502	16064	49200
+133B	Studnice	Třebíč	Kraj Vysočina	67503	16029	49291
+1343	Sudice	Třebíč	Kraj Vysočina	67573	16238	49181
+134D	Suchá	Jihlava	Kraj Vysočina	58833	15577	49301
+1364	Sulkovec	Žďár nad Sázavou	Kraj Vysočina	59265	16309	49609
+1373	Svatoslav	Třebíč	Kraj Vysočina	67507	15848	49319
+137B	Svépravice	Pelhřimov	Kraj Vysočina	39301	15232	49495
+1384	Světlá nad Sázavou	Havlíčkův Brod	Kraj Vysočina	58291	15404	49668
+1387	Světnov	Žďár nad Sázavou	Kraj Vysočina	59102	15955	49620
+1392	Sviny	Žďár nad Sázavou	Kraj Vysočina	59451	16085	49364
+139C	Svojkovice	Jihlava	Kraj Vysočina	58856	15635	49166
+13A4	Svratka	Žďár nad Sázavou	Kraj Vysočina	59202	16032	49710
+13AB	Syrov	Pelhřimov	Kraj Vysočina	39601	15177	49578
+13C0	Šebkovice	Třebíč	Kraj Vysočina	67545	15813	49123
+13CD	Šimanov	Jihlava	Kraj Vysočina	58842	15450	49458
+13D5	Škrdlovice	Žďár nad Sázavou	Kraj Vysočina	59101	15926	49634
+13DA	Šlapanov	Havlíčkův Brod	Kraj Vysočina	58251	15657	49542
+13E9	Štěměchy	Třebíč	Kraj Vysočina	67527	15714	49193
+13EE	Štěpánov nad Svratkou	Žďár nad Sázavou	Kraj Vysočina	59263	16339	49504
+13F1	Štěpkov	Třebíč	Kraj Vysočina	67526	15650	49084
+13FE	Štoky	Havlíčkův Brod	Kraj Vysočina	58253	15588	49502
+140A	Švábov	Jihlava	Kraj Vysočina	58851	15357	49308
+1414	Tasov	Žďár nad Sázavou	Kraj Vysočina	67579	16094	49288
+1425	Těchobuz	Pelhřimov	Kraj Vysočina	39501	14930	49510
+1427	Telč	Jihlava	Kraj Vysočina	58856	15454	49183
+142E	Těmice	Pelhřimov	Kraj Vysočina	39496	15060	49351
+1449	Tis	Havlíčkův Brod	Kraj Vysočina	58243	15493	49705
+146F	Trnava	Třebíč	Kraj Vysočina	67401	15924	49254
+1485	Trpišovice	Havlíčkův Brod	Kraj Vysočina	58401	15332	49655
+1495	Třebelovice	Třebíč	Kraj Vysočina	67532	15666	49022
+1497	Třebenice	Třebíč	Kraj Vysočina	67552	16015	49163
+14A0	Třebíč	Třebíč	Kraj Vysočina	67401	15879	49214
+14B6	Třesov	Třebíč	Kraj Vysočina	67502	16082	49180
+14B9	Třešť	Jihlava	Kraj Vysočina	58901	15483	49290
+14BA	Třeštice	Jihlava	Kraj Vysočina	58856	15453	49245
+14BE	Tři Studně	Žďár nad Sázavou	Kraj Vysočina	59204	16036	49612
+14F4	Ubušínek	Žďár nad Sázavou	Kraj Vysočina	59265	16281	49610
+14F8	Uhelná Příbram	Havlíčkův Brod	Kraj Vysočina	58245	15585	49768
+1508	Úhořilka	Havlíčkův Brod	Kraj Vysočina	58253	15530	49524
+1510	Uhřínov	Žďár nad Sázavou	Kraj Vysočina	59441	15938	49349
+1512	Ujčov	Žďár nad Sázavou	Kraj Vysočina	59262	16331	49488
+1514	Újezd	Žďár nad Sázavou	Kraj Vysočina	59212	15870	49509
+1532	Unčín	Žďár nad Sázavou	Kraj Vysočina	59242	16245	49607
+1541	Urbanov	Jihlava	Kraj Vysočina	58862	15514	49214
+1545	Úsobí	Havlíčkův Brod	Kraj Vysočina	58254	15502	49514
+1548	Ústí	Jihlava	Kraj Vysočina	58842	15414	49473
+154F	Ústrašín	Pelhřimov	Kraj Vysočina	39301	15168	49382
+1554	Útěchovice	Pelhřimov	Kraj Vysočina	39501	15116	49478
+1555	Útěchovice pod Stražištěm	Pelhřimov	Kraj Vysočina	39501	15029	49538
+1556	Útěchovičky	Pelhřimov	Kraj Vysočina	39501	15099	49460
+1570	Valdíkov	Třebíč	Kraj Vysočina	67503	15985	49247
+1572	Valeč	Třebíč	Kraj Vysočina	67553	16035	49144
+157B	Vanov	Jihlava	Kraj Vysočina	58856	15413	49207
+157D	Vanůvek	Jihlava	Kraj Vysočina	58856	15422	49222
+1582	Vápovice	Jihlava	Kraj Vysočina	58856	15580	49154
+1585	Vatín	Žďár nad Sázavou	Kraj Vysočina	59101	15967	49525
+158E	Včelnička	Pelhřimov	Kraj Vysočina	39470	15042	49304
+158F	Věcov	Žďár nad Sázavou	Kraj Vysočina	59244	16170	49616
+1592	Věchnov	Žďár nad Sázavou	Kraj Vysočina	59301	16279	49499
+15AE	Velká Bíteš	Žďár nad Sázavou	Kraj Vysočina	59501	16225	49288
+15B5	Velká Chyška	Pelhřimov	Kraj Vysočina	39428	15037	49511
+15BA	Velká Losenice	Žďár nad Sázavou	Kraj Vysočina	59211	15836	49580
+15C9	Velké Janovice	Žďár nad Sázavou	Kraj Vysočina	59301	16220	49587
+15CD	Velké Meziříčí	Žďár nad Sázavou	Kraj Vysočina	59401	16013	49356
+15D7	Velké Tresné	Žďár nad Sázavou	Kraj Vysočina	59265	16380	49575
+15DA	Velký Beranov	Jihlava	Kraj Vysočina	58821	15667	49405
+15E4	Velký Rybník	Pelhřimov	Kraj Vysočina	39301	15308	49490
+15F3	Vepříkov	Havlíčkův Brod	Kraj Vysočina	58301	15571	49744
+15F4	Vepřová	Žďár nad Sázavou	Kraj Vysočina	59211	15827	49612
+15FE	Veselá	Pelhřimov	Kraj Vysočina	39470	15226	49319
+1609	Veselý Žďár	Havlíčkův Brod	Kraj Vysočina	58001	15526	49639
+160D	Věstín	Žďár nad Sázavou	Kraj Vysočina	59265	16340	49566
+1610	Větrný Jeníkov	Jihlava	Kraj Vysočina	58842	15478	49475
+1617	Věž	Havlíčkův Brod	Kraj Vysočina	58256	15459	49563
+161A	Věžná	Pelhřimov	Kraj Vysočina	39501	14988	49414
+161B	Věžná	Žďár nad Sázavou	Kraj Vysočina	59301	16271	49460
+161C	Věžnice	Havlíčkův Brod	Kraj Vysočina	58252	15695	49514
+161D	Věžnice	Jihlava	Kraj Vysočina	58827	15695	49480
+161E	Věžnička	Jihlava	Kraj Vysočina	58813	15705	49460
+1623	Vícenice	Třebíč	Kraj Vysočina	67602	15812	49089
+1624	Vícenice u Náměště nad Oslavou	Třebíč	Kraj Vysočina	67571	16126	49202
+1627	Vídeň	Žďár nad Sázavou	Kraj Vysočina	59401	16031	49392
+162E	Vidonín	Žďár nad Sázavou	Kraj Vysočina	59457	16222	49379
+1634	Vílanec	Jihlava	Kraj Vysočina	58835	15576	49334
+1636	Vilémov	Havlíčkův Brod	Kraj Vysočina	58283	15535	49815
+163B	Vilémovice	Havlíčkův Brod	Kraj Vysočina	58401	15321	49686
+1649	Vír	Žďár nad Sázavou	Kraj Vysočina	59266	16323	49557
+164A	Víska	Havlíčkův Brod	Kraj Vysočina	58301	15652	49770
+1661	Vladislav	Třebíč	Kraj Vysočina	67501	15988	49210
+1663	Vlachovice	Žďár nad Sázavou	Kraj Vysočina	59231	16041	49597
+166E	Vlčatín	Třebíč	Kraj Vysočina	67505	15949	49305
+167C	Vlkanov	Havlíčkův Brod	Kraj Vysočina	58291	15356	49715
+1683	Vlkov	Žďár nad Sázavou	Kraj Vysočina	59453	16200	49324
+1699	Vojnův Městec	Žďár nad Sázavou	Kraj Vysočina	59101	15878	49679
+169A	Vojslavice	Pelhřimov	Kraj Vysočina	39601	15229	49593
+169D	Vokov	Pelhřimov	Kraj Vysočina	39301	15219	49395
+16A5	Volevčice	Jihlava	Kraj Vysočina	58856	15444	49211
+1713	Výčapy	Třebíč	Kraj Vysočina	67401	15877	49143
+1716	Vyklantice	Pelhřimov	Kraj Vysočina	39427	15040	49554
+171D	Vyskytná	Pelhřimov	Kraj Vysočina	39405	15365	49428
+171E	Vyskytná nad Jihlavou	Jihlava	Kraj Vysočina	58841	15508	49419
+1723	Vysoká	Havlíčkův Brod	Kraj Vysočina	58001	15622	49562
+1727	Vysoká Lhota	Pelhřimov	Kraj Vysočina	39501	15042	49416
+172E	Vysoké	Žďár nad Sázavou	Kraj Vysočina	59101	15965	49581
+1734	Vysoké Studnice	Jihlava	Kraj Vysočina	58821	15730	49394
+173B	Vystrčenovice	Jihlava	Kraj Vysočina	58856	15530	49151
+173C	Vystrkov	Pelhřimov	Kraj Vysočina	39601	15348	49519
+174D	Záblatí	Žďár nad Sázavou	Kraj Vysočina	59453	16166	49320
+174E	Záborná	Jihlava	Kraj Vysočina	58813	15756	49486
+175A	Zadní Vydří	Jihlava	Kraj Vysočina	58856	15417	49134
+175B	Zadní Zhořec	Žďár nad Sázavou	Kraj Vysočina	59444	15939	49431
+176A	Zahrádka	Třebíč	Kraj Vysočina	67571	16098	49244
+1770	Zachotín	Pelhřimov	Kraj Vysočina	39301	15347	49462
+1777	Zajíčkov	Pelhřimov	Kraj Vysočina	39301	15258	49378
+178C	Zárubice	Třebíč	Kraj Vysočina	67552	15981	49124
+1795	Zašovice	Třebíč	Kraj Vysočina	67521	15725	49258
+17A1	Zbilidy	Jihlava	Kraj Vysočina	58842	15422	49443
+17A2	Zbinohy	Jihlava	Kraj Vysočina	58842	15480	49487
+17BA	Zdeňkov	Jihlava	Kraj Vysočina	58856	15620	49140
+17CD	Zhoř	Jihlava	Kraj Vysočina	58826	15771	49442
+17D1	Zhořec	Pelhřimov	Kraj Vysočina	39501	14962	49489
+17D9	Zlátenka	Pelhřimov	Kraj Vysočina	39501	15058	49423
+17E4	Znětínek	Žďár nad Sázavou	Kraj Vysočina	59444	15926	49469
+17EA	Zubří	Žďár nad Sázavou	Kraj Vysočina	59231	16123	49571
+17ED	Zvěrkovice	Třebíč	Kraj Vysočina	67602	15863	49025
+17F1	Zvěstovice	Havlíčkův Brod	Kraj Vysočina	58282	15512	49848
+17F6	Zvole	Žďár nad Sázavou	Kraj Vysočina	59256	16174	49494
+17FA	Zvolenovice	Jihlava	Kraj Vysočina	58856	15505	49163
+1811	Žatec	Jihlava	Kraj Vysočina	58862	15509	49206
+1814	Ždánice	Žďár nad Sázavou	Kraj Vysočina	59301	16262	49547
+181E	Žďár nad Sázavou	Žďár nad Sázavou	Kraj Vysočina	59101	15939	49564
+1823	Ždírec	Havlíčkův Brod	Kraj Vysočina	58001	15642	49629
+1824	Ždírec	Jihlava	Kraj Vysočina	58813	15678	49454
+1827	Ždírec nad Doubravou	Havlíčkův Brod	Kraj Vysočina	58263	15813	49696
+1833	Želetava	Třebíč	Kraj Vysočina	67526	15673	49141
+183B	Želiv	Pelhřimov	Kraj Vysočina	39444	15221	49529
+185D	Žirov	Pelhřimov	Kraj Vysočina	39301	15323	49464
+185E	Žirovnice	Pelhřimov	Kraj Vysočina	39468	15188	49253
+1869	Žižkovo Pole	Havlíčkův Brod	Kraj Vysočina	58222	15735	49610

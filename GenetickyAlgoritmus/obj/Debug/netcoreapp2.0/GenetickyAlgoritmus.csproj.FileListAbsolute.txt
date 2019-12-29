@@ -1,0 +1,22 @@
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.deps.json
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.json
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.dev.json
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csprojAssemblyReference.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfo.cs
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.deps.json
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.json
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.runtimeconfig.dev.json
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\bin\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csprojAssemblyReference.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfoInputs.cache
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.AssemblyInfo.cs
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.dll
+C:\Users\Lukáš Míšek\Desktop\Bakalářská práce\Bakalarka\Program\GenetickyAlgoritmus\obj\Debug\netcoreapp2.0\GenetickyAlgoritmus.pdb

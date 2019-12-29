@@ -47,7 +47,7 @@ namespace GenetickyAlgoritmus
         /// <param name="columnIndex"></param>
         /// <param name="filename"></param>
         /// <returns></returns>
-        public static List<string> getUniqueColumnsValuesFile(int columnIndex, string filename)
+        public static List<string> getUniqueColumnsValuesFile(int columnIndex, string filename, string area)
         {
             List<string> values = new List<string>();
 
@@ -85,10 +85,13 @@ namespace GenetickyAlgoritmus
         }
 
         /// <summary>
-        /// Zobrazím všechny data z tabulky tmpTable do Konzole
+        /// Zobrazím všechny data z tabulky allCitiesTable do Konzole
         /// </summary>
         public static void showDataAllCitiesTable()
         {
+            Console.WriteLine(
+                    "|{0,-25}|{1,-25}|{2,-25}|{3,-25}|{4,-25}|{5,-25}|{6,-25}|",
+                    "Id", "Obec", "Okres", "Kraj", "PSČ", "X", "Y");
             for (int i = 0; i < Controller.allCitiesTable.Rows.Count; i++)
             {
                 Console.WriteLine(
@@ -102,5 +105,26 @@ namespace GenetickyAlgoritmus
                     Controller.allCitiesTable.Rows[i][6].ToString());
             }
         }
+
+        /// <summary>
+        /// Zobrazím všechny data z tabulky activeOrdersTable do Konzole
+        /// </summary>
+        public static void showDataActiveOrdersTable()
+        {
+            Console.WriteLine(
+                "|{0,-25}|{1,-25}|{2,-25}|{3,-25}|{4,-25}",
+                "CustomerId", "Obec", "Okres", "Kraj", "Count");
+            for (int i = 0; i < Controller.activeOrdersTable.Rows.Count; i++)
+            {
+                Console.WriteLine(
+                    "|{0,-25}|{1,-25}|{2,-25}|{3,-25}|{4,-25}",
+                    Controller.activeOrdersTable.Rows[i][0].ToString(),
+                    Controller.activeOrdersTable.Rows[i][1].ToString(),
+                    Controller.activeOrdersTable.Rows[i][2].ToString(),
+                    Controller.activeOrdersTable.Rows[i][3].ToString(),
+                    Controller.activeOrdersTable.Rows[i][4].ToString());
+            }
+        }
+
     }
 }

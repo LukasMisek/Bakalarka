@@ -1,0 +1,216 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0009	Albrechtice v Jizerských horách	Jablonec nad Nisou	Liberecký kraj	46843	15275	50762
+0044	Bedřichov	Jablonec nad Nisou	Liberecký kraj	46812	15142	50791
+004C	Bělá	Semily	Liberecký kraj	51401	15445	50534
+0061	Benecko	Semily	Liberecký kraj	51237	15548	50666
+0066	Benešov u Semil	Semily	Liberecký kraj	51206	15368	50603
+0080	Bezděz	Česká Lípa	Liberecký kraj	47201	14722	50533
+0087	Bílá	Liberec	Liberecký kraj	46343	15035	50664
+009E	Bílý Kostel nad Nisou	Liberec	Liberecký kraj	46331	14924	50823
+009F	Bílý Potok	Liberec	Liberecký kraj	46362	15222	50873
+00B0	Blatce	Česká Lípa	Liberecký kraj	47201	14603	50502
+00C4	Blíževedly	Česká Lípa	Liberecký kraj	47104	14396	50608
+00D3	Bohatice	Česká Lípa	Liberecký kraj	47002	14679	50669
+013D	Bozkov	Semily	Liberecký kraj	51213	15337	50640
+0147	Bradlecká Lhota	Semily	Liberecký kraj	50713	15396	50488
+016F	Brniště	Česká Lípa	Liberecký kraj	47129	14703	50729
+01E9	Bukovina u Čisté	Semily	Liberecký kraj	51401	15583	50542
+01F1	Bulovka	Liberec	Liberecký kraj	46401	15123	50971
+0203	Bystrá nad Jizerou	Semily	Liberecký kraj	51301	15401	50604
+0225	Cetenov	Liberec	Liberecký kraj	46348	14917	50644
+023C	Cvikov	Česká Lípa	Liberecký kraj	47154	14633	50777
+0290	Černousy	Liberec	Liberecký kraj	46373	15050	51004
+02AF	Česká Lípa	Česká Lípa	Liberecký kraj	47001	14539	50678
+02BD	Český Dub	Liberec	Liberecký kraj	46343	14996	50661
+02DC	Čistá u Horek	Semily	Liberecký kraj	51235	15607	50531
+02E8	Čtveřín	Liberec	Liberecký kraj	46345	15100	50592
+02EF	Dalešice	Jablonec nad Nisou	Liberecký kraj	46802	15184	50681
+0306	Desná	Jablonec nad Nisou	Liberecký kraj	46861	15313	50754
+0314	Dětřichov	Liberec	Liberecký kraj	46401	15036	50892
+0332	Dlouhý Most	Liberec	Liberecký kraj	46312	15075	50711
+0367	Doksy	Česká Lípa	Liberecký kraj	47201	14654	50565
+03AD	Dolní Řasnice	Liberec	Liberecký kraj	46401	15168	50945
+0412	Držkov	Jablonec nad Nisou	Liberecký kraj	46824	15303	50687
+0424	Dubá	Česká Lípa	Liberecký kraj	47141	14540	50540
+042F	Dubnice	Česká Lípa	Liberecký kraj	47126	14808	50726
+0457	Frýdlant	Liberec	Liberecký kraj	46401	15079	50921
+0459	Frýdštejn	Jablonec nad Nisou	Liberecký kraj	46342	15158	50652
+0465	Habartice	Liberec	Liberecký kraj	46373	15065	51019
+0474	Háje nad Jizerou	Semily	Liberecký kraj	51301	15421	50613
+047E	Hamr na Jezeře	Česká Lípa	Liberecký kraj	47128	14838	50702
+0484	Harrachov	Semily	Liberecký kraj	51246	15431	50772
+0495	Hejnice	Liberec	Liberecký kraj	46362	15181	50877
+04A4	Heřmanice	Liberec	Liberecký kraj	46401	15006	50897
+04B8	Hlavice	Liberec	Liberecký kraj	46348	14926	50631
+04E6	Hodkovice nad Mohelkou	Liberec	Liberecký kraj	46342	15089	50665
+04F1	Holany	Česká Lípa	Liberecký kraj	47002	14493	50618
+04F6	Holenice	Semily	Liberecký kraj	50601	15300	50520
+0513	Horka u Staré Paky	Semily	Liberecký kraj	51234	15575	50526
+0520	Horní Branná	Semily	Liberecký kraj	51236	15571	50608
+053B	Horní Libchava	Česká Lípa	Liberecký kraj	47111	14493	50712
+0550	Horní Police	Česká Lípa	Liberecký kraj	47106	14404	50704
+0558	Horní Řasnice	Liberec	Liberecký kraj	46401	15201	50965
+05C6	Hrádek nad Nisou	Liberec	Liberecký kraj	46334	14844	50852
+05EB	Hrubá Skála	Semily	Liberecký kraj	51101	15200	50544
+0643	Chlum	Česká Lípa	Liberecký kraj	47201	14562	50578
+0683	Chotovice	Česká Lípa	Liberecký kraj	47301	14559	50740
+068A	Chotyně	Liberec	Liberecký kraj	46334	14869	50836
+0694	Chrastava	Liberec	Liberecký kraj	46331	14968	50817
+06B4	Chuchelna	Semily	Liberecký kraj	51301	15300	50602
+06D4	Jablonec nad Jizerou	Semily	Liberecký kraj	51243	15429	50703
+06D5	Jablonec nad Nisou	Jablonec nad Nisou	Liberecký kraj	46601	15170	50722
+06D8	Jablonné v Podještědí	Liberec	Liberecký kraj	47125	14760	50765
+06F3	Janov nad Nisou	Jablonec nad Nisou	Liberecký kraj	46811	15169	50772
+06F7	Janovice v Podještědí	Liberec	Liberecký kraj	46353	14824	50762
+06FA	Janův Důl	Liberec	Liberecký kraj	46352	14940	50704
+0725	Jenišovice	Jablonec nad Nisou	Liberecký kraj	46833	15136	50627
+072B	Jeřmanice	Liberec	Liberecký kraj	46312	15093	50699
+0732	Jesenný	Semily	Liberecký kraj	51212	15338	50660
+0735	Jestřabí v Krkonoších	Semily	Liberecký kraj	51401	15491	50680
+0737	Jestřebí	Česká Lípa	Liberecký kraj	47161	14584	50608
+0754	Jilemnice	Semily	Liberecký kraj	51401	15506	50608
+0756	Jílové u Držkova	Jablonec nad Nisou	Liberecký kraj	46822	15295	50670
+0764	Jindřichovice pod Smrkem	Liberec	Liberecký kraj	46365	15249	50960
+076D	Jiřetín pod Bukovou	Jablonec nad Nisou	Liberecký kraj	46843	15263	50755
+0783	Josefův Důl	Jablonec nad Nisou	Liberecký kraj	46844	15231	50782
+0786	Kacanovy	Semily	Liberecký kraj	51101	15145	50550
+07A5	Kamenický Šenov	Česká Lípa	Liberecký kraj	47114	14472	50773
+07C7	Karlovice	Semily	Liberecký kraj	51101	15207	50561
+0812	Klokočí	Semily	Liberecký kraj	51101	15221	50599
+0832	Koberovy	Jablonec nad Nisou	Liberecký kraj	46822	15228	50624
+083B	Kobyly	Liberec	Liberecký kraj	46345	15004	50610
+0882	Kořenov	Jablonec nad Nisou	Liberecký kraj	46849	15365	50759
+08AE	Košťálov	Semily	Liberecký kraj	51202	15404	50571
+08D2	Kozly	Česká Lípa	Liberecký kraj	47001	14456	50655
+090D	Krásný Les	Liberec	Liberecký kraj	46401	15127	50940
+0918	Kravaře	Česká Lípa	Liberecký kraj	47103	14392	50632
+092C	Krompach	Česká Lípa	Liberecký kraj	47157	14701	50828
+0935	Kruh	Semily	Liberecký kraj	51401	15480	50565
+093F	Kryštofovo Údolí	Liberec	Liberecký kraj	46001	14933	50774
+096B	Křižany	Liberec	Liberecký kraj	46353	14901	50738
+0976	Ktová	Semily	Liberecký kraj	51263	15246	50519
+0994	Kunratice	Liberec	Liberecký kraj	46401	15026	50921
+0996	Kunratice u Cvikova	Česká Lípa	Liberecký kraj	47155	14678	50768
+09B0	Kvítkov	Česká Lípa	Liberecký kraj	47001	14486	50655
+09DC	Lázně Libverda	Liberec	Liberecký kraj	46362	15190	50890
+09E5	Lažany	Liberec	Liberecký kraj	46345	15109	50601
+0A19	Levínská Olešnice	Semily	Liberecký kraj	51401	15540	50528
+0A45	Liberec	Liberec	Liberecký kraj	46001	15054	50766
+0A6F	Libštát	Semily	Liberecký kraj	51203	15416	50559
+0AA7	Líšný	Jablonec nad Nisou	Liberecký kraj	46822	15212	50645
+0AD7	Lomnice nad Popelkou	Semily	Liberecký kraj	51251	15373	50530
+0AE5	Loučky	Semily	Liberecký kraj	51101	15218	50617
+0AF4	Loužnice	Jablonec nad Nisou	Liberecký kraj	46822	15267	50679
+0B0A	Lučany nad Nisou	Jablonec nad Nisou	Liberecký kraj	46871	15220	50741
+0B15	Luka	Česká Lípa	Liberecký kraj	47201	14664	50512
+0B4F	Malá Skála	Jablonec nad Nisou	Liberecký kraj	46822	15195	50646
+0B83	Maršovice	Jablonec nad Nisou	Liberecký kraj	46801	15198	50696
+0B89	Martinice v Krkonoších	Semily	Liberecký kraj	51232	15533	50580
+0B8C	Mařenice	Česká Lípa	Liberecký kraj	47156	14678	50807
+0BFF	Mimoň	Česká Lípa	Liberecký kraj	47124	14724	50655
+0C0B	Mírová pod Kozákovem	Semily	Liberecký kraj	51101	15194	50591
+0C35	Mníšek	Liberec	Liberecký kraj	46331	15056	50831
+0C40	Modřišice	Semily	Liberecký kraj	51101	15119	50574
+0C83	Mříčná	Semily	Liberecký kraj	51204	15468	50600
+0D4F	Nová Ves	Liberec	Liberecký kraj	46331	15001	50831
+0D57	Nová Ves nad Nisou	Jablonec nad Nisou	Liberecký kraj	46827	15214	50725
+0D58	Nová Ves nad Popelkou	Semily	Liberecký kraj	51271	15411	50520
+0D71	Nové Město pod Smrkem	Liberec	Liberecký kraj	46365	15229	50925
+0D7B	Noviny pod Ralskem	Česká Lípa	Liberecký kraj	47124	14746	50692
+0D80	Nový Bor	Česká Lípa	Liberecký kraj	47301	14555	50757
+0D8D	Nový Oldřichov	Česká Lípa	Liberecký kraj	47113	14442	50765
+0DBF	Ohrazenice	Semily	Liberecký kraj	51101	15126	50597
+0DC7	Okna	Česká Lípa	Liberecký kraj	47162	14671	50527
+0DCD	Okrouhlá	Česká Lípa	Liberecký kraj	47301	14527	50766
+0DDE	Oldřichov v Hájích	Liberec	Liberecký kraj	46331	15083	50849
+0DEF	Olešnice	Semily	Liberecký kraj	51101	15119	50545
+0E29	Osečná	Liberec	Liberecký kraj	46352	14921	50694
+0E7E	Paceřice	Liberec	Liberecký kraj	46344	15113	50619
+0E95	Paseky nad Jizerou	Semily	Liberecký kraj	51247	15400	50724
+0EB7	Pěnčín	Jablonec nad Nisou	Liberecký kraj	46821	15236	50687
+0EB8	Pěnčín	Liberec	Liberecký kraj	46345	15076	50594
+0EC0	Pertoltice	Liberec	Liberecký kraj	46373	15076	50979
+0EC2	Pertoltice pod Ralskem	Česká Lípa	Liberecký kraj	47124	14719	50680
+0EC4	Peřimov	Semily	Liberecký kraj	51204	15444	50619
+0F09	Plavy	Jablonec nad Nisou	Liberecký kraj	46846	15317	50703
+0F68	Polevsko	Česká Lípa	Liberecký kraj	47116	14533	50786
+0F7E	Poniklá	Semily	Liberecký kraj	51242	15463	50661
+0FBD	Proseč pod Ještědem	Liberec	Liberecký kraj	46343	15017	50701
+0FCD	Provodín	Česká Lípa	Liberecký kraj	47167	14601	50617
+0FD7	Prysk	Česká Lípa	Liberecký kraj	47115	14468	50796
+0FF3	Přepeře	Semily	Liberecký kraj	51261	15112	50583
+1016	Příkrý	Semily	Liberecký kraj	51301	15364	50625
+1021	Příšovice	Liberec	Liberecký kraj	46346	15084	50578
+1035	Pulečný	Jablonec nad Nisou	Liberecký kraj	46802	15167	50675
+1051	Radčice	Jablonec nad Nisou	Liberecký kraj	46822	15277	50672
+1063	Radimovice	Liberec	Liberecký kraj	46344	15082	50626
+1070	Rádlo	Jablonec nad Nisou	Liberecký kraj	46803	15115	50698
+107C	Radostná pod Kozákovem	Semily	Liberecký kraj	51263	15245	50577
+108A	Radvanec	Česká Lípa	Liberecký kraj	47301	14592	50753
+1093	Rakousy	Semily	Liberecký kraj	51101	15187	50620
+109B	Ralsko	Česká Lípa	Liberecký kraj	47124	14803	50586
+10A4	Raspenava	Liberec	Liberecký kraj	46401	15114	50904
+10D7	Rokytnice nad Jizerou	Semily	Liberecký kraj	51244	15448	50729
+10DE	Roprachtice	Semily	Liberecký kraj	51301	15422	50647
+10F7	Rovensko pod Troskami	Semily	Liberecký kraj	51263	15259	50535
+1109	Roztoky u Jilemnice	Semily	Liberecký kraj	51231	15499	50563
+110A	Roztoky u Semil	Semily	Liberecký kraj	51301	15371	50658
+113C	Rychnov u Jablonce nad Nisou	Jablonec nad Nisou	Liberecký kraj	46802	15149	50683
+1144	Rynoltice	Liberec	Liberecký kraj	46353	14818	50789
+11A8	Semily	Semily	Liberecký kraj	51301	15328	50605
+11C8	Skalice u České Lípy	Česká Lípa	Liberecký kraj	47117	14530	50745
+11CD	Skalka u Doks	Česká Lípa	Liberecký kraj	47201	14619	50563
+11F0	Skuhrov	Jablonec nad Nisou	Liberecký kraj	46822	15213	50676
+11F7	Slaná	Semily	Liberecký kraj	51201	15329	50580
+1223	Sloup v Čechách	Česká Lípa	Liberecký kraj	47152	14588	50739
+122A	Slunečná	Česká Lípa	Liberecký kraj	47301	14482	50735
+1243	Smržovka	Jablonec nad Nisou	Liberecký kraj	46851	15246	50738
+1250	Soběslavice	Liberec	Liberecký kraj	46345	15034	50605
+1265	Sosnová	Česká Lípa	Liberecký kraj	47001	14532	50655
+12F4	Stráž nad Nisou	Liberec	Liberecký kraj	46303	15026	50791
+12F6	Stráž pod Ralskem	Česká Lípa	Liberecký kraj	47127	14801	50702
+130C	Stružinec	Semily	Liberecký kraj	51251	15358	50550
+130E	Stružnice	Česká Lípa	Liberecký kraj	47002	14450	50696
+1336	Studenec	Semily	Liberecký kraj	51233	15549	50553
+133F	Stvolínky	Česká Lípa	Liberecký kraj	47102	14428	50632
+1385	Světlá pod Ještědem	Liberec	Liberecký kraj	46343	14986	50711
+138B	Svijanský Újezd	Liberec	Liberecký kraj	46345	15043	50587
+138C	Svijany	Liberec	Liberecký kraj	46346	15063	50572
+1398	Svojek	Semily	Liberecký kraj	50791	15455	50553
+139B	Svojkov	Česká Lípa	Liberecký kraj	47153	14599	50719
+13A2	Svor	Česká Lípa	Liberecký kraj	47151	14596	50791
+13A7	Sychrov	Liberec	Liberecký kraj	46344	15088	50626
+13AF	Syřenov	Semily	Liberecký kraj	51251	15427	50498
+13CE	Šimonovice	Liberec	Liberecký kraj	46312	15052	50706
+140F	Tachov	Česká Lípa	Liberecký kraj	47201	14638	50543
+1412	Tanvald	Jablonec nad Nisou	Liberecký kraj	46841	15307	50737
+141B	Tatobity	Semily	Liberecký kraj	51253	15273	50571
+147C	Troskovice	Semily	Liberecký kraj	51263	15222	50511
+14C7	Tuhaň	Česká Lípa	Liberecký kraj	47201	14467	50536
+14D4	Turnov	Semily	Liberecký kraj	51101	15156	50587
+159D	Velenice	Česká Lípa	Liberecký kraj	47002	14664	50719
+15C3	Velké Hamry	Jablonec nad Nisou	Liberecký kraj	46845	15315	50713
+15E9	Velký Valtinov	Česká Lípa	Liberecký kraj	47125	14735	50743
+15FF	Veselá	Semily	Liberecký kraj	51252	15308	50546
+1631	Víchová nad Jizerou	Semily	Liberecký kraj	51241	15487	50630
+164F	Višňová	Liberec	Liberecký kraj	46401	15025	50966
+165B	Vítkovice	Semily	Liberecký kraj	51238	15531	50679
+166A	Vlastiboř	Jablonec nad Nisou	Liberecký kraj	46822	15311	50664
+166B	Vlastibořice	Liberec	Liberecký kraj	46344	15052	50618
+16A7	Volfartice	Česká Lípa	Liberecký kraj	47112	14453	50730
+16E5	Vrchovany	Česká Lípa	Liberecký kraj	47201	14571	50553
+1700	Všelibice	Liberec	Liberecký kraj	46348	14951	50646
+1703	Všeň	Semily	Liberecký kraj	51265	15105	50557
+171C	Vyskeř	Semily	Liberecký kraj	51264	15158	50529
+1731	Vysoké nad Jizerou	Semily	Liberecký kraj	51211	15401	50685
+1769	Záhoří	Semily	Liberecký kraj	51301	15274	50611
+176D	Zahrádky	Česká Lípa	Liberecký kraj	47101	14524	50634
+177A	Zákupy	Česká Lípa	Liberecký kraj	47123	14645	50684
+1790	Zásada	Jablonec nad Nisou	Liberecký kraj	46825	15270	50697
+17C1	Zdislava	Liberec	Liberecký kraj	46353	14876	50765
+17D7	Zlatá Olešnice	Jablonec nad Nisou	Liberecký kraj	46847	15353	50708
+180B	Žandov	Česká Lípa	Liberecký kraj	47107	14396	50714
+1820	Žďárek	Liberec	Liberecký kraj	46344	15111	50640
+1825	Ždírec	Česká Lípa	Liberecký kraj	47201	14624	50515
+183A	Železný Brod	Jablonec nad Nisou	Liberecký kraj	46822	15254	50642
+1848	Žernov	Semily	Liberecký kraj	51263	15269	50556

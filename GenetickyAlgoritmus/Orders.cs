@@ -17,8 +17,12 @@ namespace GenetickyAlgoritmus
         private int[] cityOrders;
 
         private List<string> orders = new List<string>();
-        private List<int> ordersValue = new List<int>();
         private List<Invidual> ordersRoutes = new List<Invidual>();
+
+
+        private List<string> ordersList = new List<string>();
+        private List<int> ordersValue = new List<int>();
+
 
         public static int counter = 0;
 
@@ -40,6 +44,51 @@ namespace GenetickyAlgoritmus
             setCities();
             generateCitiyValues();
             generateOrders();
+        }
+
+        public Orders(bool boolean)
+        {
+            generateRandomOrders();
+        }
+
+        public void generateRandomOrders()
+        {
+            List<string> remainingCities = InputOutput.getUniqueColumnsValuesActiveOrders(0);
+
+            var rnd = new Random();
+            int a = rnd.Next(0, remainingCities.Count);
+
+            string newOrder = Controller.activeOrdersTable.Rows[a]["Obec"].ToString();
+            remainingCities.RemoveAt(a);
+            int newOrderValue = Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString());
+            
+
+            for (int i = 0; i < remainingCities.Count; i++)
+            {
+                a = rnd.Next(0, remainingCities.Count);
+
+                if (newOrderValue + Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString()) < 30)
+                {
+                    newOrder = newOrder + "-" + Controller.activeOrdersTable.Rows[a]["Obec"].ToString();
+                    remainingCities.RemoveAt(a);
+                    newOrderValue = newOrderValue + Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString());
+
+                }
+                else
+                {
+                    newOrder = newOrder + ":" + newOrderValue;
+                    this.ordersList.Add(newOrder);
+                    newOrder = Controller.activeOrdersTable.Rows[a]["Obec"].ToString();
+                    remainingCities.RemoveAt(a);
+                    newOrderValue = Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString());
+                }
+            }
+
+            if (newOrder.Length > 0)
+            {
+                newOrder = newOrder + ":" + newOrderValue;
+                this.ordersList.Add(newOrder);
+            }
         }
 
         public string getCitiesString()
@@ -184,6 +233,19 @@ namespace GenetickyAlgoritmus
         public int orderCount()
         {
             return orders.Count;
+        }
+
+        public void showMe()
+        {
+                foreach (string item in ordersList)
+                {
+                    Console.WriteLine(item);
+                }
+
+            foreach (int i in this.ordersValue)
+            {
+                Console.WriteLine(i + "");
+            }
         }
 
     }

@@ -32,16 +32,28 @@ namespace GenetickyAlgoritmus
             Controller.allCitiesTable.Clear();
         }
 
+        public static void createTable()
+        {
+            createAllcitiesTable();
+            createActiveOrdersTable();
+        }
+
+        public static void loadData()
+        {
+            loadDataAllCities();
+            loadDataActiveOrders();
+        }
+
         /// <summary>
         /// Vytvori tabulku, ve které budu držet data
         /// </summary>
-        public static void createTable()
+        public static void createAllcitiesTable()
         {
             DataColumn column;
 
             column = new DataColumn();
             column.DataType = System.Type.GetType("System.String");
-            column.ColumnName = "ID";
+            column.ColumnName = "Id";
             Controller.allCitiesTable.Columns.Add(column);
 
             column = new DataColumn();
@@ -66,19 +78,53 @@ namespace GenetickyAlgoritmus
 
             column = new DataColumn();
             column.DataType = System.Type.GetType("System.Double");
-            column.ColumnName = "Latitude";
+            column.ColumnName = "X";
             Controller.allCitiesTable.Columns.Add(column);
 
             column = new DataColumn();
             column.DataType = System.Type.GetType("System.Double");
-            column.ColumnName = "Longtitude";
+            column.ColumnName = "Y";
             Controller.allCitiesTable.Columns.Add(column);
         }
 
         /// <summary>
-        /// Nactu surová data ze souboru a uložím je do tabulky tmpTable
+        /// Vytvori tabulku, ve které budu držet data
         /// </summary>
-        public static void loadData()
+        public static void createActiveOrdersTable()
+        {
+            DataColumn column;
+
+            column = new DataColumn();
+            column.DataType = System.Type.GetType("System.Int32");
+            column.ColumnName = "CustomerId";
+            Controller.activeOrdersTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = System.Type.GetType("System.String");
+            column.ColumnName = "Obec";
+            Controller.activeOrdersTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = System.Type.GetType("System.String");
+            column.ColumnName = "Okres";
+            Controller.activeOrdersTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = System.Type.GetType("System.String");
+            column.ColumnName = "Kraj";
+            Controller.activeOrdersTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = System.Type.GetType("System.Int32");
+            column.ColumnName = "Count";
+            Controller.activeOrdersTable.Columns.Add(column);
+        }
+
+
+        /// <summary>
+        /// Nactu surová data ze souboru a uložím je do tabulky AllCitiesTable
+        /// </summary>
+        public static void loadDataAllCities()
         {
             string[] lines = File.ReadAllLines(@Controller.pathAllCitiesTable);
             lines = lines.Skip(1).ToArray();
@@ -101,6 +147,30 @@ namespace GenetickyAlgoritmus
         }
 
         /// <summary>
+        /// Nactu surová data ze souboru a uložím je do tabulky ActiveOrdersTable
+        /// </summary>
+        public static void loadDataActiveOrders()
+        {
+            string[] lines = File.ReadAllLines(@Controller.pathActiveOrdersTable);
+            lines = lines.Skip(1).ToArray();
+            int i = 0;
+            DataRow row;
+            foreach (string line in lines)
+            {
+                row = Controller.activeOrdersTable.NewRow();
+                string[] columns = line.Trim().Split(',');
+                row[0] = columns[0];
+                row[1] = columns[1];
+                row[2] = columns[2];
+                row[3] = columns[3];
+                row[4] = columns[4];
+                Controller.activeOrdersTable.Rows.Add(row);
+                i++;
+            }
+            
+        }
+
+        /// <summary>
         /// Vytvoří soubory pro každý kraj
         /// Metoda si stáhne seznam unikátních hodnot ve sloupci Kraj - index 2
         /// Soubory uloží do kořenového adresáře (4 úrovně nad Debug adresářem)
@@ -108,12 +178,12 @@ namespace GenetickyAlgoritmus
         public static void createFiles()
         {
             List<string> values = new List<string>();
-            values = getUniqueColumnsValues(3);
+            values = getUniqueColumnsValuesAllcities(3);
 
             foreach (string s in values)
             {
                 string address = Controller.pathDistinctAreasTable + s + ".txt";
-                string write = "ID\tObec\tOkres\tKraj\tPSČ\tX\tY\n";
+                string write = "Id\tObec\tOkres\tKraj\tPSČ\tX\tY\n";
                 System.IO.TextWriter writeFile = new StreamWriter(address);
 
                 for (int i = 0; i < Controller.allCitiesTable.Rows.Count; i++)
@@ -142,7 +212,7 @@ namespace GenetickyAlgoritmus
         /// </summary>
         /// <param name="columnIndex"></param>
         /// <returns>List<string> values</returns>
-        private static List<string> getUniqueColumnsValues(int columnIndex)
+        public static List<string> getUniqueColumnsValuesAllcities(int columnIndex)
         {
             List<string> values = new List<string>();
 
@@ -154,6 +224,25 @@ namespace GenetickyAlgoritmus
 
         }
 
+        /// <summary>
+        /// Vrátím unikátní hodnoty ve sloupci jako List. 
+        /// Metoda přebírá číslo, které označuje index sloupce
+        /// </summary>
+        /// <param name="columnIndex"></param>
+        /// <returns>List<string> values</returns>
+        public static List<string> getUniqueColumnsValuesActiveOrders(int columnIndex)
+        {
+            List<string> values = new List<string>();
+
+            for (int i = 0; i < Controller.activeOrdersTable.Rows.Count; i++)
+                if (!values.Contains(Controller.activeOrdersTable.Rows[i][columnIndex].ToString()))
+                    values.Add(Controller.activeOrdersTable.Rows[i][columnIndex].ToString());
+
+            return values;
+
+        }
+
+
     }
-    
+
 }

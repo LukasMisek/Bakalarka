@@ -37,6 +37,13 @@ namespace GenetickyAlgoritmus
             //saveMAtrix();
 
         }
+
+        public Cities(string[] sequence)
+        {
+            this.cityCount = sequence.Length;
+            cities = new string[cityCount];
+            generateCityNames(sequence);
+        }
         
         /// <summary>
         /// Vygeneruje nazvy měst. Města nazvu jako písmena. Začnu od A.
@@ -49,6 +56,11 @@ namespace GenetickyAlgoritmus
         public void generateCityNames(string s)
         {
             for (int i = 0; i < s.Length; i++) this.cities[i] = s[i]+"";
+        }
+
+        public void generateCityNames(string[] s)
+        {
+            for (int i = 0; i < s.Length; i++) this.cities[i] = s[i] + "";
         }
 
 
@@ -234,10 +246,10 @@ namespace GenetickyAlgoritmus
             int index1 = getIndex(city1);
             int index2 = getIndex(city2);
 
-            int x1 = Convert.ToInt32(Controller.allCitiesTable.Rows[index1][5].ToString());
-            int x2 = Convert.ToInt32(Controller.allCitiesTable.Rows[index2][5].ToString());
-            int y1 = Convert.ToInt32(Controller.allCitiesTable.Rows[index1][6].ToString());
-            int y2 = Convert.ToInt32(Controller.allCitiesTable.Rows[index2][6].ToString());
+            int x1 = Convert.ToInt32(Controller.allCitiesTable.Rows[index1]["X"].ToString());
+            int x2 = Convert.ToInt32(Controller.allCitiesTable.Rows[index2]["X"].ToString());
+            int y1 = Convert.ToInt32(Controller.allCitiesTable.Rows[index1]["Y"].ToString());
+            int y2 = Convert.ToInt32(Controller.allCitiesTable.Rows[index2]["Y"].ToString());
 
             return Math.Round(Math.Pow(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2), 0.5), 4);
 
@@ -253,7 +265,9 @@ namespace GenetickyAlgoritmus
         {
             int coordinate = 0;
             for (int i = 0; i < Controller.allCitiesTable.Rows.Count; i++)
-                if (Controller.allCitiesTable.Rows[i][1].ToString() == city && Controller.allCitiesTable.Rows[i][3].ToString() == Controller.selectedArea)
+                if (Controller.allCitiesTable.Rows[i]["Obec"].ToString() == city && 
+                    Controller.allCitiesTable.Rows[i]["Kraj"].ToString() == Controller.selectedFile &&
+                    Controller.allCitiesTable.Rows[i]["Okres"].ToString() == Controller.selectedArea)
                     coordinate = i;
 
             return coordinate;

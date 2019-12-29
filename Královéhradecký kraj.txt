@@ -1,0 +1,449 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+0004	Adršpach	Náchod	Královéhradecký kraj	54957	16083	50624
+0007	Albrechtice nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51722	16064	50139
+0016	Babice	Hradec Králové	Královéhradecký kraj	50351	15585	50192
+001E	Bačalky	Jičín	Královéhradecký kraj	50723	15153	50385
+001F	Bačetín	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16233	50299
+002A	Barchov	Hradec Králové	Královéhradecký kraj	50401	15567	50197
+002E	Bartošovice v Orlických horách	Rychnov nad Kněžnou	Královéhradecký kraj	51761	16547	50164
+0032	Bašnice	Jičín	Královéhradecký kraj	50801	15605	50334
+0035	Batňovice	Trutnov	Královéhradecký kraj	54237	16036	50517
+0047	Běchary	Jičín	Královéhradecký kraj	50732	15292	50314
+0057	Běleč nad Orlicí	Hradec Králové	Královéhradecký kraj	50346	15942	50198
+005E	Benátky	Hradec Králové	Královéhradecký kraj	50303	15736	50310
+006C	Bernartice	Trutnov	Královéhradecký kraj	54204	15965	50644
+007E	Bezděkov nad Metují	Náchod	Královéhradecký kraj	54964	16229	50509
+008B	Bílá Třemešná	Trutnov	Královéhradecký kraj	54472	15741	50444
+008F	Bílé Poličany	Trutnov	Královéhradecký kraj	54452	15731	50390
+009C	Bílsko u Hořic	Jičín	Královéhradecký kraj	50801	15600	50369
+00A0	Bílý Újezd	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16225	50238
+00C0	Blešno	Hradec Králové	Královéhradecký kraj	50346	15930	50214
+00D0	Boháňka	Jičín	Královéhradecký kraj	50801	15708	50365
+00D1	Boharyně	Hradec Králové	Královéhradecký kraj	50323	15630	50203
+00DA	Bohdašín	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16225	50338
+00E5	Bohuslavice	Náchod	Královéhradecký kraj	54906	16088	50312
+00FD	Bolehošť	Rychnov nad Kněžnou	Královéhradecký kraj	51731	16077	50213
+010A	Borek	Jičín	Královéhradecký kraj	50771	15654	50438
+010F	Borohrádek	Rychnov nad Kněžnou	Královéhradecký kraj	51724	16093	50097
+0114	Borová	Náchod	Královéhradecký kraj	54701	16253	50386
+011C	Borovnice	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16245	50063
+011D	Borovnice	Trutnov	Královéhradecký kraj	54477	15617	50509
+011F	Borovnička	Trutnov	Královéhradecký kraj	54475	15667	50500
+013E	Božanov	Náchod	Královéhradecký kraj	54974	16365	50526
+0145	Brada-Rybníček	Jičín	Královéhradecký kraj	50601	15337	50465
+0179	Broumov	Náchod	Královéhradecký kraj	55001	16331	50585
+0189	Brzice	Náchod	Královéhradecký kraj	55205	15958	50444
+0199	Březina	Jičín	Královéhradecký kraj	50601	15313	50434
+01BC	Bříšťany	Jičín	Královéhradecký kraj	50801	15620	50316
+01C4	Budčeves	Jičín	Královéhradecký kraj	50732	15254	50308
+01E6	Bukovice	Náchod	Královéhradecký kraj	54954	16228	50549
+01EF	Bukvice	Jičín	Královéhradecký kraj	50601	15294	50412
+01F8	Butoves	Jičín	Královéhradecký kraj	50601	15427	50386
+0204	Bystré	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16255	50321
+020A	Bystřice	Jičín	Královéhradecký kraj	50723	15244	50392
+0215	Byzhradec	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16190	50215
+021E	Cerekvice nad Bystřicí	Jičín	Královéhradecký kraj	50777	15723	50333
+024D	Častolovice	Rychnov nad Kněžnou	Královéhradecký kraj	51750	16181	50129
+0274	Čermná	Trutnov	Královéhradecký kraj	54377	15769	50550
+0276	Čermná nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51725	16144	50080
+027E	Černčice	Náchod	Královéhradecký kraj	54901	16102	50335
+0284	Černíkovice	Rychnov nad Kněžnou	Královéhradecký kraj	51704	16207	50186
+0287	Černilov	Hradec Králové	Královéhradecký kraj	50343	15922	50262
+0297	Černožice	Hradec Králové	Královéhradecký kraj	50304	15874	50318
+029A	Černý Důl	Trutnov	Královéhradecký kraj	54344	15710	50635
+029C	Červená Hora	Náchod	Královéhradecký kraj	54941	16058	50450
+029F	Červená Třemešná	Jičín	Královéhradecký kraj	50801	15643	50399
+02A6	Červený Kostelec	Náchod	Královéhradecký kraj	54941	16093	50476
+02AC	Česká Čermná	Náchod	Královéhradecký kraj	54921	16229	50400
+02B0	Česká Metuje	Náchod	Královéhradecký kraj	54956	16180	50545
+02B2	Česká Skalice	Náchod	Královéhradecký kraj	55203	16042	50394
+02B9	České Meziříčí	Rychnov nad Kněžnou	Královéhradecký kraj	51771	16044	50286
+02C4	Čestice	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16145	50127
+02C7	Češov	Jičín	Královéhradecký kraj	50601	15360	50339
+02DD	Čistěves	Hradec Králové	Královéhradecký kraj	50315	15731	50288
+030E	Deštné v Orlických horách	Rychnov nad Kněžnou	Královéhradecký kraj	51791	16350	50304
+0310	Dětenice	Jičín	Královéhradecký kraj	50724	15170	50368
+0318	Dílce	Jičín	Královéhradecký kraj	50601	15359	50467
+031F	Divec	Hradec Králové	Královéhradecký kraj	50003	15921	50239
+033C	Dobrá Voda u Hořic	Jičín	Královéhradecký kraj	50773	15602	50348
+0340	Dobré	Rychnov nad Kněžnou	Královéhradecký kraj	51793	16263	50269
+0352	Dobruška	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16160	50292
+0353	Dobřany	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16285	50322
+0357	Dobřenice	Hradec Králové	Královéhradecký kraj	50325	15641	50147
+0365	Dohalice	Hradec Králové	Královéhradecký kraj	50313	15694	50287
+036A	Dolany	Náchod	Královéhradecký kraj	55201	15961	50380
+037A	Dolní Branná	Trutnov	Královéhradecký kraj	54362	15593	50593
+037B	Dolní Brusnice	Trutnov	Královéhradecký kraj	54472	15726	50458
+0385	Dolní Dvůr	Trutnov	Královéhradecký kraj	54342	15655	50652
+038D	Dolní Kalná	Trutnov	Královéhradecký kraj	54374	15639	50538
+0392	Dolní Lánov	Trutnov	Královéhradecký kraj	54341	15664	50587
+0397	Dolní Lochov	Jičín	Královéhradecký kraj	50601	15286	50452
+03A3	Dolní Olešnice	Trutnov	Královéhradecký kraj	54375	15712	50524
+03A8	Dolní Přím	Hradec Králové	Královéhradecký kraj	50316	15708	50239
+03A9	Dolní Radechová	Náchod	Královéhradecký kraj	54911	16151	50438
+03D6	Doubravice	Trutnov	Královéhradecký kraj	54451	15761	50405
+03DC	Doudleby nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51742	16261	50107
+0419	Dřevěnice	Jičín	Královéhradecký kraj	50713	15447	50452
+0427	Dubenec	Trutnov	Královéhradecký kraj	54455	15795	50377
+0440	Dvůr Králové nad Labem	Trutnov	Královéhradecký kraj	54401	15814	50431
+046C	Habřina	Hradec Králové	Královéhradecký kraj	50303	15826	50326
+0477	Hajnice	Trutnov	Královéhradecký kraj	54466	15908	50487
+0490	Havlovice	Trutnov	Královéhradecký kraj	54232	16029	50487
+0497	Hejtmánkovice	Náchod	Královéhradecký kraj	55001	16299	50599
+04A3	Heřmanice	Náchod	Královéhradecký kraj	55212	15918	50379
+04A7	Heřmánkovice	Náchod	Královéhradecký kraj	54984	16323	50620
+04D5	Hlušice	Hradec Králové	Královéhradecký kraj	50356	15403	50264
+04DA	Hněvčeves	Hradec Králové	Královéhradecký kraj	50315	15716	50314
+04FA	Holín	Jičín	Královéhradecký kraj	50601	15320	50451
+04FB	Holohlavy	Hradec Králové	Královéhradecký kraj	50303	15860	50308
+04FE	Holovousy	Jičín	Královéhradecký kraj	50801	15577	50375
+0521	Horní Brusnice	Trutnov	Královéhradecký kraj	54474	15681	50473
+0531	Horní Kalná	Trutnov	Královéhradecký kraj	54371	15624	50562
+0542	Horní Maršov	Trutnov	Královéhradecký kraj	54226	15819	50658
+054A	Horní Olešnice	Trutnov	Královéhradecký kraj	54371	15677	50532
+0553	Horní Radechová	Náchod	Královéhradecký kraj	54946	16144	50467
+057C	Hořenice	Náchod	Královéhradecký kraj	55101	15910	50369
+0582	Hořice	Jičín	Královéhradecký kraj	50801	15631	50366
+0584	Hořičky	Náchod	Královéhradecký kraj	55205	15993	50444
+0586	Hořiněves	Hradec Králové	Královéhradecký kraj	50306	15767	50309
+0597	Hostinné	Trutnov	Královéhradecký kraj	54371	15723	50540
+05BB	HRADEC KRÁLOVÉ	Hradec Králové	Královéhradecký kraj	50002	15825	50210
+05C1	Hrádek	Hradec Králové	Královéhradecký kraj	50315	15675	50218
+05E5	Hronov	Náchod	Královéhradecký kraj	54931	16181	50480
+05FE	Hřibiny-Ledská	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16175	50148
+05FF	Hřibojedy	Trutnov	Královéhradecký kraj	54401	15834	50392
+060B	Humburky	Hradec Králové	Královéhradecký kraj	50401	15511	50226
+0624	Hvozdnice	Hradec Králové	Královéhradecký kraj	50327	15711	50191
+0629	Hynčice	Náchod	Královéhradecký kraj	54983	16285	50623
+063B	Chleny	Rychnov nad Kněžnou	Královéhradecký kraj	51745	16243	50077
+063E	Chlístov	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16169	50322
+064E	Chlumec nad Cidlinou	Hradec Králové	Královéhradecký kraj	50351	15460	50154
+0666	Cholenice	Jičín	Královéhradecký kraj	50732	15280	50324
+066A	Chomutice	Jičín	Královéhradecký kraj	50753	15496	50359
+0675	Choteč	Jičín	Královéhradecký kraj	50781	15516	50432
+067E	Chotěvice	Trutnov	Královéhradecký kraj	54371	15766	50521
+068D	Choustníkovo Hradiště	Trutnov	Královéhradecký kraj	54442	15878	50426
+06B1	Chudeřice	Hradec Králové	Královéhradecký kraj	50351	15550	50149
+06B8	Chvaleč	Trutnov	Královéhradecký kraj	54211	16039	50595
+06BD	Chvalkovice	Náchod	Královéhradecký kraj	55204	15978	50414
+06C4	Chyjice	Jičín	Královéhradecký kraj	50601	15295	50387
+06DC	Jahodov	Rychnov nad Kněžnou	Královéhradecký kraj	51601	16333	50150
+06EE	Janov	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16251	50332
+06F9	Janské Lázně	Trutnov	Královéhradecký kraj	54225	15781	50631
+06FE	Jaroměř	Náchod	Královéhradecký kraj	55101	15924	50356
+0709	Jasenná	Náchod	Královéhradecký kraj	55222	15991	50318
+070D	Javornice	Rychnov nad Kněžnou	Královéhradecký kraj	51711	16349	50171
+0722	Jeníkovice	Hradec Králové	Královéhradecký kraj	50346	16002	50228
+0729	Jeřice	Jičín	Královéhradecký kraj	50801	15680	50344
+0736	Jestřebí	Náchod	Královéhradecký kraj	54901	16182	50362
+073B	Jetřichov	Náchod	Královéhradecký kraj	54983	16266	50615
+074D	Jičín	Jičín	Královéhradecký kraj	50601	15361	50435
+074E	Jičíněves	Jičín	Královéhradecký kraj	50731	15337	50373
+0759	Jílovice	Hradec Králové	Královéhradecký kraj	51772	16012	50250
+0768	Jinolice	Jičín	Královéhradecký kraj	50601	15329	50478
+077B	Jívka	Trutnov	Královéhradecký kraj	54213	16109	50535
+0785	Kacákova Lhota	Jičín	Královéhradecký kraj	50601	15419	50409
+07BE	Káranice	Hradec Králové	Královéhradecký kraj	50366	15557	50153
+07E0	Kbelnice	Jičín	Královéhradecký kraj	50601	15350	50454
+07F9	Klamoš	Hradec Králové	Královéhradecký kraj	50351	15501	50125
+0800	Klášterská Lhota	Trutnov	Královéhradecký kraj	54371	15663	50559
+082A	Kněžnice	Jičín	Královéhradecký kraj	50601	15322	50493
+0837	Kobylice	Hradec Králové	Královéhradecký kraj	50401	15587	50245
+083C	Kocbeře	Trutnov	Královéhradecký kraj	54464	15858	50453
+0842	Kohoutov	Trutnov	Královéhradecký kraj	54401	15904	50451
+0869	Konecchlumí	Jičín	Královéhradecký kraj	50705	15480	50402
+0870	Kopidlno	Jičín	Královéhradecký kraj	50732	15270	50330
+0883	Kosice	Hradec Králové	Královéhradecký kraj	50351	15534	50179
+0884	Kosičky	Hradec Králové	Královéhradecký kraj	50365	15555	50178
+088F	Kostelec	Jičín	Královéhradecký kraj	50601	15327	50381
+0894	Kostelec nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16215	50122
+0899	Kostelecké Horky	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16206	50051
+08B7	Kounov	Rychnov nad Kněžnou	Královéhradecký kraj	51792	16258	50298
+08BF	Kovač	Jičín	Královéhradecký kraj	50601	15470	50396
+08D6	Kozojedy	Jičín	Královéhradecký kraj	50703	15374	50316
+08EE	Králíky	Hradec Králové	Královéhradecký kraj	50401	15536	50259
+08F1	Králova Lhota	Rychnov nad Kněžnou	Královéhradecký kraj	51771	15998	50294
+08F2	Královec	Trutnov	Královéhradecký kraj	54203	15973	50676
+08FA	Kramolna	Náchod	Královéhradecký kraj	54701	16134	50420
+0915	Kratonohy	Hradec Králové	Královéhradecký kraj	50324	15607	50169
+0922	Krchleby	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16234	50079
+0960	Křinice	Náchod	Královéhradecký kraj	55001	16306	50571
+0981	Kuks	Trutnov	Královéhradecký kraj	54443	15888	50401
+0983	Kunčice	Hradec Králové	Královéhradecký kraj	50315	15636	50217
+0984	Kunčice nad Labem	Trutnov	Královéhradecký kraj	54361	15619	50581
+09A6	Kvasiny	Rychnov nad Kněžnou	Královéhradecký kraj	51702	16263	50212
+09B2	Kyje	Jičín	Královéhradecký kraj	50713	15378	50494
+09C7	Lampertice	Trutnov	Královéhradecký kraj	54101	15951	50664
+09C9	Lánov	Trutnov	Královéhradecký kraj	54341	15655	50620
+09D0	Lanžov	Trutnov	Královéhradecký kraj	54401	15760	50386
+09D9	Lázně Bělohrad	Jičín	Královéhradecký kraj	50781	15582	50428
+09EA	Ledce	Hradec Králové	Královéhradecký kraj	51771	16042	50223
+09F6	Lejšovka	Hradec Králové	Královéhradecký kraj	50303	15942	50297
+0A20	Lhota pod Hořičkami	Náchod	Královéhradecký kraj	55205	16003	50422
+0A21	Lhota pod Libčany	Hradec Králové	Královéhradecký kraj	50327	15696	50172
+0A35	Lhoty u Potštejna	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16268	50055
+0A38	Libáň	Jičín	Královéhradecký kraj	50723	15216	50375
+0A3B	Libčany	Hradec Králové	Královéhradecký kraj	50322	15695	50191
+0A43	Libel	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16202	50155
+0A46	Liberk	Rychnov nad Kněžnou	Královéhradecký kraj	51712	16343	50199
+0A4F	Libchyně	Náchod	Královéhradecký kraj	54901	16190	50356
+0A5C	Libňatov	Trutnov	Královéhradecký kraj	54236	16002	50481
+0A5E	Libníkovice	Hradec Králové	Královéhradecký kraj	50346	15996	50244
+0A68	Libošovice	Jičín	Královéhradecký kraj	50744	15162	50490
+0A6A	Libotov	Trutnov	Královéhradecký kraj	54401	15811	50399
+0A6D	Librantice	Hradec Králové	Královéhradecký kraj	50346	15959	50242
+0A6E	Libřice	Hradec Králové	Královéhradecký kraj	50344	15963	50287
+0A70	Libuň	Jičín	Královéhradecký kraj	50715	15298	50498
+0A73	Lično	Rychnov nad Kněžnou	Královéhradecký kraj	51735	16172	50177
+0A7F	Lípa nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51721	16098	50135
+0A99	Lískovice	Jičín	Královéhradecký kraj	50801	15554	50336
+0A9E	Lišice	Hradec Králové	Královéhradecký kraj	50351	15408	50181
+0AAE	Litíč	Trutnov	Královéhradecký kraj	54401	15848	50375
+0AB0	Litoboř	Náchod	Královéhradecký kraj	55205	16015	50449
+0AC8	Lodín	Hradec Králové	Královéhradecký kraj	50315	15610	50270
+0AC9	Lochenice	Hradec Králové	Královéhradecký kraj	50302	15820	50272
+0AF6	Lovčice	Hradec Králové	Královéhradecký kraj	50361	15384	50165
+0B1A	Lukavec u Hořic	Jičín	Královéhradecký kraj	50801	15616	50395
+0B1B	Lukavice	Rychnov nad Kněžnou	Královéhradecký kraj	51603	16293	50200
+0B27	Lupenice	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16273	50132
+0B2C	Lužany	Hradec Králové	Královéhradecký kraj	50305	15819	50339
+0B2D	Lužany	Jičín	Královéhradecký kraj	50706	15470	50431
+0B31	Lužec nad Cidlinou	Hradec Králové	Královéhradecký kraj	50362	15411	50213
+0B41	Machov	Náchod	Královéhradecký kraj	54963	16277	50499
+0B51	Malá Úpa	Trutnov	Královéhradecký kraj	54227	15820	50744
+0B5B	Malé Svatoňovice	Trutnov	Královéhradecký kraj	54234	16049	50534
+0B7E	Markvartice	Jičín	Královéhradecký kraj	50742	15196	50430
+0B82	Maršov u Úpice	Trutnov	Královéhradecký kraj	54232	15976	50484
+0B8B	Martínkovice	Náchod	Královéhradecký kraj	54973	16342	50547
+0B8D	Máslojedy	Hradec Králové	Královéhradecký kraj	50303	15758	50297
+0BAD	Měník	Hradec Králové	Královéhradecký kraj	50364	15528	50215
+0BC4	Mezilečí	Náchod	Královéhradecký kraj	55205	15983	50453
+0BC6	Mezilesí	Náchod	Královéhradecký kraj	54923	16217	50356
+0BC7	Meziměstí	Náchod	Královéhradecký kraj	54981	16242	50624
+0BE9	Miletín	Jičín	Královéhradecký kraj	50771	15682	50403
+0BFD	Milovice u Hořic	Jičín	Královéhradecký kraj	50801	15631	50329
+0C1B	Mladé Buky	Trutnov	Královéhradecký kraj	54223	15833	50606
+0C1E	Mladějov	Jičín	Královéhradecký kraj	50745	15232	50482
+0C27	Mlázovice	Jičín	Královéhradecký kraj	50758	15521	50411
+0C2A	Mlékosrby	Hradec Králové	Královéhradecký kraj	50351	15501	50191
+0C4B	Mokré	Rychnov nad Kněžnou	Královéhradecký kraj	51771	16066	50259
+0C4F	Mokrovousy	Hradec Králové	Královéhradecký kraj	50315	15685	50275
+0C72	Mostek	Trutnov	Královéhradecký kraj	54475	15696	50486
+0C9B	Myštěves	Hradec Králové	Královéhradecký kraj	50315	15557	50297
+0C9E	Mžany	Hradec Králové	Královéhradecký kraj	50315	15675	50296
+0CA5	Nahořany	Náchod	Královéhradecký kraj	54907	16082	50351
+0CA7	Náchod	Náchod	Královéhradecký kraj	54701	16165	50414
+0CC7	Neděliště	Hradec Králové	Královéhradecký kraj	50312	15785	50276
+0CCE	Nechanice	Hradec Králové	Královéhradecký kraj	50315	15632	50237
+0CED	Nemojov	Trutnov	Královéhradecký kraj	54461	15753	50467
+0CEF	Nemyčeves	Jičín	Královéhradecký kraj	50601	15370	50384
+0CF6	Nepolisy	Hradec Králové	Královéhradecký kraj	50363	15463	50192
+0D1A	Nevratice	Jičín	Královéhradecký kraj	50801	15493	50347
+0D3F	Nová Paka	Jičín	Královéhradecký kraj	50901	15515	50494
+0D4E	Nová Ves	Rychnov nad Kněžnou	Královéhradecký kraj	51721	16050	50130
+0D6E	Nové Město	Hradec Králové	Královéhradecký kraj	50351	15495	50147
+0D70	Nové Město nad Metují	Náchod	Královéhradecký kraj	54901	16151	50344
+0D81	Nový Bydžov	Hradec Králové	Královéhradecký kraj	50401	15490	50241
+0D84	Nový Hrádek	Náchod	Královéhradecký kraj	54922	16244	50357
+0D8E	Nový Ples	Náchod	Královéhradecký kraj	55101	15949	50321
+0DA1	Obědovice	Hradec Králové	Královéhradecký kraj	50351	15582	50161
+0DB1	Očelice	Rychnov nad Kněžnou	Královéhradecký kraj	51771	16067	50239
+0DBA	Ohařice	Jičín	Královéhradecký kraj	50601	15258	50454
+0DBB	Ohaveč	Jičín	Královéhradecký kraj	50601	15308	50449
+0DBD	Ohnišov	Rychnov nad Kněžnou	Královéhradecký kraj	51784	16213	50322
+0DBE	Ohnišťany	Hradec Králové	Královéhradecký kraj	50354	15511	50329
+0DED	Olešnice	Hradec Králové	Královéhradecký kraj	50351	15445	50142
+0DEE	Olešnice	Rychnov nad Kněžnou	Královéhradecký kraj	51736	16148	50144
+0DF0	Olešnice v Orlických horách	Rychnov nad Kněžnou	Královéhradecký kraj	51783	16309	50373
+0E15	Opočno	Rychnov nad Kněžnou	Královéhradecký kraj	51773	16114	50267
+0E1D	Orlické Záhoří	Rychnov nad Kněžnou	Královéhradecký kraj	51764	16475	50278
+0E2A	Osečnice	Rychnov nad Kněžnou	Královéhradecký kraj	51703	16307	50257
+0E2D	Osek	Jičín	Královéhradecký kraj	50743	15159	50463
+0E33	Osice	Hradec Králové	Královéhradecký kraj	50326	15686	50142
+0E35	Osičky	Hradec Králové	Královéhradecký kraj	50327	15676	50143
+0E4A	Ostroměř	Jičín	Královéhradecký kraj	50752	15549	50372
+0E5B	Ostružno	Jičín	Královéhradecký kraj	50601	15289	50443
+0E6E	Otovice	Náchod	Královéhradecký kraj	54972	16387	50557
+0EAD	Pec pod Sněžkou	Trutnov	Královéhradecký kraj	54221	15733	50693
+0EAE	Pecka	Jičín	Královéhradecký kraj	50782	15608	50480
+0EB2	Pěčín	Rychnov nad Kněžnou	Královéhradecký kraj	51757	16424	50153
+0ED4	Petrovice	Hradec Králové	Královéhradecký kraj	50355	15598	50289
+0EDE	Petrovičky	Jičín	Královéhradecký kraj	50801	15607	50299
+0EE9	Pilníkov	Trutnov	Královéhradecký kraj	54242	15820	50532
+0EF1	Písek	Hradec Králové	Královéhradecký kraj	50351	15501	50155
+0F2A	Podbřezí	Rychnov nad Kněžnou	Královéhradecký kraj	51803	16214	50259
+0F2F	Podhorní Újezd a Vojice	Jičín	Královéhradecký kraj	50754	15514	50390
+0F32	Podhradí	Jičín	Královéhradecký kraj	50601	15310	50418
+0F4E	Podůlší	Jičín	Královéhradecký kraj	50601	15340	50469
+0F59	Pohoří	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16099	50292
+0F6C	Police nad Metují	Náchod	Královéhradecký kraj	54954	16233	50536
+0F75	Polom	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16305	50059
+0F95	Potštejn	Rychnov nad Kněžnou	Královéhradecký kraj	51743	16309	50082
+0FAA	Prasek	Hradec Králové	Královéhradecký kraj	50401	15548	50238
+0FAB	Praskačka	Hradec Králové	Královéhradecký kraj	50333	15742	50172
+0FBA	Proruby	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16295	50070
+0FBF	Prosečné	Trutnov	Královéhradecký kraj	54373	15687	50562
+0FD0	Provodov-Šonov	Náchod	Královéhradecký kraj	54908	16114	50382
+0FE4	Předměřice nad Labem	Hradec Králové	Královéhradecký kraj	50302	15815	50256
+0FF5	Přepychy	Rychnov nad Kněžnou	Královéhradecký kraj	51732	16106	50235
+1005	Převýšov	Hradec Králové	Královéhradecký kraj	50351	15410	50151
+100D	Přibyslav	Náchod	Královéhradecký kraj	54901	16168	50373
+102A	Pšánky	Hradec Králové	Královéhradecký kraj	50315	15620	50294
+1033	Puchlovice	Hradec Králové	Královéhradecký kraj	50315	15626	50185
+104D	Račice nad Trotinou	Hradec Králové	Královéhradecký kraj	50303	15796	50315
+105F	Radíkovice	Hradec Králové	Královéhradecký kraj	50327	15693	50209
+1060	Radim	Jičín	Královéhradecký kraj	50712	15428	50458
+107D	Radostov	Hradec Králové	Královéhradecký kraj	50327	15663	50209
+108B	Radvanice	Trutnov	Královéhradecký kraj	54212	16061	50567
+10A3	Rasošky	Náchod	Královéhradecký kraj	55221	15911	50322
+10A5	Rašín	Jičín	Královéhradecký kraj	50801	15678	50333
+10C3	Rohenice	Rychnov nad Kněžnou	Královéhradecký kraj	51771	16032	50309
+10CB	Rohoznice	Jičín	Královéhradecký kraj	50771	15699	50391
+10D4	Rokytňany	Jičín	Královéhradecký kraj	50723	15137	50375
+10D9	Rokytnice v Orlických horách	Rychnov nad Kněžnou	Královéhradecký kraj	51761	16465	50164
+10ED	Roudnice	Hradec Králové	Královéhradecký kraj	50327	15651	50176
+1111	Rožnov	Náchod	Královéhradecký kraj	55101	15861	50338
+1115	Rtyně v Podkrkonoší	Trutnov	Královéhradecký kraj	54233	16071	50505
+1122	Rudník	Trutnov	Královéhradecký kraj	54372	15736	50578
+1130	Rybná nad Zdobnicí	Rychnov nad Kněžnou	Královéhradecký kraj	51755	16365	50108
+113B	Rychnov nad Kněžnou	Rychnov nad Kněžnou	Královéhradecký kraj	51601	16277	50166
+113D	Rychnovek	Náchod	Královéhradecký kraj	55225	15970	50357
+1160	Říčky v Orlických horách	Rychnov nad Kněžnou	Královéhradecký kraj	51761	16459	50211
+1165	Říkov	Náchod	Královéhradecký kraj	55203	16016	50384
+1171	Sadová	Hradec Králové	Královéhradecký kraj	50315	15700	50297
+1178	Samšina	Jičín	Královéhradecký kraj	50601	15235	50459
+1181	Sběř	Jičín	Královéhradecký kraj	50703	15424	50320
+1198	Sedliště	Jičín	Královéhradecký kraj	50723	15219	50394
+119D	Sedloňov	Rychnov nad Kněžnou	Královéhradecký kraj	51791	16315	50338
+11A0	Sekeřice	Jičín	Královéhradecký kraj	50703	15380	50286
+11A6	Semechnice	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16148	50260
+11AC	Sendraž	Náchod	Královéhradecký kraj	54901	16202	50367
+11AD	Sendražice	Hradec Králové	Královéhradecký kraj	50303	15796	50289
+11C6	Skalice	Hradec Králové	Královéhradecký kraj	50303	15872	50276
+11EE	Skřivany	Hradec Králové	Královéhradecký kraj	50352	15499	50268
+11F2	Skuhrov nad Bělou	Rychnov nad Kněžnou	Královéhradecký kraj	51703	16292	50229
+1205	Slatina nad Úpou	Náchod	Královéhradecký kraj	54947	16036	50454
+1206	Slatina nad Zdobnicí	Rychnov nad Kněžnou	Královéhradecký kraj	51756	16397	50133
+120A	Slatiny	Jičín	Královéhradecký kraj	50601	15381	50366
+1210	Slavětín nad Metují	Náchod	Královéhradecký kraj	54901	16052	50329
+1211	Slavhostice	Jičín	Královéhradecký kraj	50732	15349	50308
+121C	Slavoňov	Náchod	Královéhradecký kraj	54901	16204	50343
+1226	Sloupno	Hradec Králové	Královéhradecký kraj	50353	15502	50257
+1233	Smidary	Hradec Králové	Královéhradecký kraj	50353	15477	50291
+1239	Smiřice	Hradec Králové	Královéhradecký kraj	50303	15865	50299
+1242	Smržov	Hradec Králové	Královéhradecký kraj	50303	15917	50299
+1247	Sněžné	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16277	50340
+1249	Sobčice	Jičín	Královéhradecký kraj	50801	15514	50372
+124E	Soběraz	Jičín	Královéhradecký kraj	50713	15402	50463
+125A	Sobotka	Jičín	Královéhradecký kraj	50743	15176	50467
+1262	Solnice	Rychnov nad Kněžnou	Královéhradecký kraj	51701	16237	50203
+126A	Sovětice	Hradec Králové	Královéhradecký kraj	50315	15705	50307
+128E	Stanovice	Trutnov	Královéhradecký kraj	54401	15871	50400
+1293	Stará Paka	Jičín	Královéhradecký kraj	50791	15494	50510
+1299	Stará Voda	Hradec Králové	Královéhradecký kraj	50351	15530	50150
+129B	Staré Buky	Trutnov	Královéhradecký kraj	54101	15859	50532
+12A1	Staré Hrady	Jičín	Královéhradecký kraj	50723	15213	50386
+12AB	Staré Místo	Jičín	Královéhradecký kraj	50601	15342	50405
+12AF	Staré Smrkovice	Jičín	Královéhradecký kraj	50801	15494	50336
+12B3	Stárkov	Náchod	Královéhradecký kraj	54936	16158	50534
+12B7	Starý Bydžov	Hradec Králové	Královéhradecký kraj	50357	15452	50258
+12CE	Stěžery	Hradec Králové	Královéhradecký kraj	50321	15748	50215
+12DA	Stračov	Hradec Králové	Královéhradecký kraj	50314	15640	50301
+12FC	Strážné	Trutnov	Královéhradecký kraj	54352	15615	50663
+1319	Střevač	Jičín	Královéhradecký kraj	50722	15274	50404
+131A	Střezetice	Hradec Králové	Královéhradecký kraj	50312	15718	50258
+133C	Studnice	Náchod	Královéhradecký kraj	54948	16089	50421
+135A	Suchovršice	Trutnov	Královéhradecký kraj	54232	15998	50523
+135C	Suchý Důl	Náchod	Královéhradecký kraj	54962	16265	50540
+135D	Sukorady	Jičín	Královéhradecký kraj	50801	15582	50325
+1370	Svatojanský Újezd	Jičín	Královéhradecký kraj	50781	15543	50426
+1380	Světí	Hradec Králové	Královéhradecký kraj	50312	15775	50257
+1389	Svídnice	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16223	50086
+1395	Svoboda nad Úpou	Trutnov	Královéhradecký kraj	54224	15816	50626
+13AA	Synkov-Slemeno	Rychnov nad Kněžnou	Královéhradecký kraj	51601	16219	50145
+13AC	Syrovátka	Hradec Králové	Královéhradecký kraj	50327	15662	50154
+13B7	Šaplava	Hradec Králové	Královéhradecký kraj	50353	15542	50315
+13BA	Šárovcova Lhota	Jičín	Královéhradecký kraj	50759	15562	50407
+13C8	Šestajovice	Náchod	Královéhradecký kraj	55101	16008	50341
+13DD	Šonov	Náchod	Královéhradecký kraj	54971	16401	50590
+13E0	Špindlerův Mlýn	Trutnov	Královéhradecký kraj	54351	15609	50726
+1423	Těchlovice	Hradec Králové	Královéhradecký kraj	50327	15711	50207
+1433	Teplice nad Metují	Náchod	Královéhradecký kraj	54957	16170	50594
+1442	Tetín	Jičín	Královéhradecký kraj	50771	15636	50424
+1473	Trnov	Rychnov nad Kněžnou	Královéhradecký kraj	51733	16164	50244
+147D	Trotina	Trutnov	Královéhradecký kraj	54401	15716	50409
+148E	Trutnov	Trutnov	Královéhradecký kraj	54101	15909	50565
+1493	Třebechovice pod Orebem	Hradec Králové	Královéhradecký kraj	50346	15992	50201
+149C	Třebešov	Rychnov nad Kněžnou	Královéhradecký kraj	51601	16204	50168
+14A1	Třebihošť	Trutnov	Královéhradecký kraj	54401	15709	50433
+14A5	Třebnouševes	Jičín	Královéhradecký kraj	50801	15651	50339
+14B7	Třesovice	Hradec Králové	Královéhradecký kraj	50315	15688	50265
+14C1	Třtěnice	Jičín	Královéhradecký kraj	50704	15469	50377
+14D8	Tuř	Jičín	Královéhradecký kraj	50601	15417	50395
+14DD	Tutleky	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16241	50134
+14EF	Týniště nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51721	16078	50151
+14F1	Úbislavice	Jičín	Královéhradecký kraj	50792	15470	50473
+14F6	Údrnice	Jičín	Královéhradecký kraj	50723	15261	50374
+1502	Úhlejov	Jičín	Královéhradecký kraj	50771	15687	50427
+151A	Újezd pod Troskami	Jičín	Královéhradecký kraj	51263	15262	50506
+152D	Úlibice	Jičín	Královéhradecký kraj	50707	15437	50434
+153D	Úpice	Trutnov	Královéhradecký kraj	54232	16016	50512
+153F	Urbanice	Hradec Králové	Královéhradecký kraj	50327	15727	50180
+1568	Val	Rychnov nad Kněžnou	Královéhradecký kraj	51801	16181	50311
+156F	Valdice	Jičín	Královéhradecký kraj	50711	15384	50455
+157A	Vamberk	Rychnov nad Kněžnou	Královéhradecký kraj	51754	16290	50117
+15A7	Velichovky	Náchod	Královéhradecký kraj	55211	15841	50356
+15AC	Veliš	Jičín	Královéhradecký kraj	50721	15317	50407
+15B6	Velká Jesenice	Náchod	Královéhradecký kraj	55224	16037	50361
+15D1	Velké Petrovice	Náchod	Královéhradecký kraj	54954	16206	50517
+15D3	Velké Poříčí	Náchod	Královéhradecký kraj	54932	16189	50461
+15D6	Velké Svatoňovice	Trutnov	Královéhradecký kraj	54235	16028	50531
+15E6	Velký Třebešov	Náchod	Královéhradecký kraj	55202	16006	50392
+15EA	Velký Vřešťov	Trutnov	Královéhradecký kraj	54454	15751	50358
+15F7	Vernéřovice	Náchod	Královéhradecký kraj	54982	16221	50614
+160A	Vestec	Náchod	Královéhradecký kraj	55205	16021	50421
+162D	Vidochov	Jičín	Královéhradecký kraj	50901	15565	50512
+1635	Vilantice	Trutnov	Královéhradecký kraj	54401	15788	50365
+163E	Vinary	Hradec Králové	Královéhradecký kraj	50353	15428	50289
+1656	Vítězná	Trutnov	Královéhradecký kraj	54462	15802	50488
+1659	Vitiněves	Jičín	Královéhradecký kraj	50601	15378	50393
+1673	Vlčice	Trutnov	Královéhradecký kraj	54101	15821	50562
+1677	Vlčkovice v Podkrkonoší	Trutnov	Královéhradecký kraj	54401	15918	50411
+1684	Vlkov	Náchod	Královéhradecký kraj	55101	15898	50312
+168A	Voděrady	Rychnov nad Kněžnou	Královéhradecký kraj	51734	16153	50208
+169E	Volanice	Jičín	Královéhradecký kraj	50703	15398	50335
+16D3	Vrbice	Jičín	Královéhradecký kraj	50703	15428	50369
+16D4	Vrbice	Rychnov nad Kněžnou	Královéhradecký kraj	51741	16251	50089
+16E2	Vrchlabí	Trutnov	Královéhradecký kraj	54301	15605	50617
+16E6	Vrchovnice	Hradec Králové	Královéhradecký kraj	50303	15757	50323
+16EA	Vršce	Jičín	Královéhradecký kraj	50733	15323	50323
+16ED	Vršovka	Náchod	Královéhradecký kraj	54901	16120	50323
+16F2	Vřesník	Jičín	Královéhradecký kraj	50771	15628	50438
+170B	Všestary	Hradec Králové	Královéhradecký kraj	50312	15760	50255
+1719	Výrava	Hradec Králové	Královéhradecký kraj	50303	15979	50269
+1729	Vysoká nad Labem	Hradec Králové	Královéhradecký kraj	50331	15824	50153
+172C	Vysoká Srbská	Náchod	Královéhradecký kraj	54931	16227	50487
+1735	Vysoké Veselí	Jičín	Královéhradecký kraj	50703	15436	50331
+1736	Vysokov	Náchod	Královéhradecký kraj	54912	16116	50403
+1738	Vysoký Újezd	Hradec Králové	Královéhradecký kraj	51771	16020	50240
+1753	Zábrodí	Náchod	Královéhradecký kraj	54941	16112	50459
+1756	Zábřezí-Řečice	Trutnov	Královéhradecký kraj	54401	15735	50411
+1771	Zachrašťany	Hradec Králové	Královéhradecký kraj	50401	15483	50211
+1780	Zaloňov	Náchod	Královéhradecký kraj	55101	15887	50374
+1787	Záměl	Rychnov nad Kněžnou	Královéhradecký kraj	51743	16298	50096
+1788	Zámostí-Blata	Jičín	Královéhradecký kraj	50601	15264	50470
+17B6	Zdechovice	Hradec Králové	Královéhradecký kraj	50401	15561	50224
+17B8	Zdelov	Rychnov nad Kněžnou	Královéhradecký kraj	51721	16142	50100
+17C3	Zdobín	Trutnov	Královéhradecký kraj	54401	15704	50415
+17C4	Zdobnice	Rychnov nad Kněžnou	Královéhradecký kraj	51601	16408	50238
+17C8	Zelenecká Lhota	Jičín	Královéhradecký kraj	50723	15178	50401
+17D6	Zlatá Olešnice	Trutnov	Královéhradecký kraj	54101	15944	50617
+1801	Žacléř	Trutnov	Královéhradecký kraj	54201	15910	50663
+181C	Žďár nad Metují	Náchod	Královéhradecký kraj	54955	16213	50538
+181D	Žďár nad Orlicí	Rychnov nad Kněžnou	Královéhradecký kraj	51723	16069	50119
+1821	Žďárky	Náchod	Královéhradecký kraj	54937	16227	50469
+1839	Železnice	Jičín	Královéhradecký kraj	50713	15384	50472
+1845	Žeretice	Jičín	Královéhradecký kraj	50702	15411	50353
+1847	Žernov	Náchod	Královéhradecký kraj	55203	16057	50430
+1852	Židovice	Jičín	Královéhradecký kraj	50732	15320	50295
+186C	Žlunice	Jičín	Královéhradecký kraj	50734	15382	50302
