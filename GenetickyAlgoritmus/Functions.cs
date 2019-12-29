@@ -81,7 +81,16 @@ namespace GenetickyAlgoritmus
         /// <param name="list"></param>
         public static void showList(List<int> list)
         {
-            foreach (int s in list) Console.WriteLine(s + "");
+            foreach (int s in list) Console.WriteLine(s + " ");
+        }
+
+        /// <summary>
+        /// Zobrazi do konzole vsechny prvky v poli array
+        /// </summary>
+        /// <param name="array"></param>
+        public static void showArray(string[] array)
+        {
+            foreach (string s in array) Console.WriteLine(s + " ");
         }
 
         /// <summary>

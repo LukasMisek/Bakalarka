@@ -44,20 +44,44 @@ namespace GenetickyAlgoritmus
 
             for (int i = 0; i < 10; i++)
             {
-                orders[i] = new Orders(true);
-                Console.WriteLine("ORDEN VYGENEROVAN. CISLO:  " + i);
+                orders[i] = new Orders();
             }
 
+            
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("\nORDEN ZOBRAZUJI. CISLO:  " + i + "\n");
+                Console.WriteLine("\nORDER ZOBRAZUJI. CISLO:  " + i + "\n");
                 orders[i].showMe();
             }
 
+            Console.ReadLine();
+            
+            string[] s = orders[1].getOrderList(1);
 
-
+            Console.WriteLine("Pole, ktere chci pouzit:");
+            Functions.showArray(s);
 
             Console.ReadLine();
+
+            Invidual result;
+
+            Population pop = new Population(s);
+            result = pop.startAlgotithm();
+            
+            Console.WriteLine("Invidual top: " + "(" +result.getDistance() + ")\t" + result.showSequence());
+            Console.ReadLine();
+
+            
+
+            // Test section
+            
+
+            /*
+            Trida nec = new Trida();
+
+            Trida dalsi = new Trida(2, "baba");
+
+            nec.changeMe(10, "gbhregh");
 
             double distance;
 
@@ -71,8 +95,7 @@ namespace GenetickyAlgoritmus
             Console.WriteLine(distance + "");
 
             Console.ReadLine();
-
-            // Cities cities = new Cities[]
+            */
         }
     }
 }

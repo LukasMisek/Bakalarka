@@ -8,8 +8,9 @@ namespace GenetickyAlgoritmus
     /// Třída populace obsahuje konstruktor populace, výběr jedinců uvnitř populace (nejlepší a silnější) a zobrazení pomocí Console.WriteLine
     /// Populace = List jedinců (Třída Invidual)
     /// </summary>
-    public class Population
+    public class Population : Algorithm
     {
+
         /// <summary>
         /// Proměnné pro uložení populací
         /// </summary>
@@ -26,15 +27,39 @@ namespace GenetickyAlgoritmus
         /// Naplním populaci jedinci
         /// Na začátku jsou jedinci generováni náhodně
         /// </summary>
-        public Population()
+        public Population(string[] cityList)
         {
+            this.cities = cityList;
+            LENGTH = cityList.Length;
+            CROSSIN_POINT = cityList.Length / 2;
+
             this.pCurrent = new List<Invidual>();
             this.pNext = new List<Invidual>();
             this.best = null;
 
-            for (int i = 0; i < Algorithm.POPULATION_SIZE; i++) this.pCurrent.Add(new Invidual());
+            for (int i = 0; i < POPULATION_SIZE; i++) this.pCurrent.Add(new Invidual(this));
 
             this.updateBest();
+        }
+
+        public Invidual startAlgotithm()
+        {
+
+            for (int i = 0; i < GENERATION_COUNT; i++)
+            {
+                improve();
+
+                /*
+                Console.WriteLine("Generation = " + i);
+                showMe();
+                */
+
+                if (algorithmEnd(GetBest().getDistance(), GOAL_DISTANCE)) break;
+
+            }
+
+            return GetBest();
+
         }
 
         /// <summary>
@@ -52,11 +77,11 @@ namespace GenetickyAlgoritmus
             {
                 Invidual iNew;
                
-                if (rnd.Next(1, 100) < Algorithm.P_CROSSOVER) iNew = new Invidual(this.select(), this.select());
+                if (rnd.Next(1, 100) < P_CROSSOVER) iNew = new Invidual(this.select(), this.select(), this);
   
                 else iNew = this.select();
                 
-                if (rnd.Next(1, 100) < Algorithm.P_MUTATION) iNew.mutate();
+                if (rnd.Next(1, 100) < P_MUTATION) iNew.mutate();
 
                 this.pNext.Add(iNew);
 
@@ -79,9 +104,9 @@ namespace GenetickyAlgoritmus
         {
             var rnd = new Random();
 
-            int i1 = rnd.Next(0, Algorithm.POPULATION_SIZE);
-            int i2 = rnd.Next(0, Algorithm.POPULATION_SIZE);
-            while (i1 == i2) i2 = rnd.Next(0, Algorithm.POPULATION_SIZE);
+            int i1 = rnd.Next(0, POPULATION_SIZE);
+            int i2 = rnd.Next(0, POPULATION_SIZE);
+            while (i1 == i2) i2 = rnd.Next(0, POPULATION_SIZE);
 
             Invidual a = this.pCurrent[i1];
             Invidual b = this.pCurrent[i2];
@@ -130,11 +155,12 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void showMe()
         {
-            /*
-            for (int i = 0; i < pCurrent.Count; i = i++) Console.WriteLine("Invidual " + i + ": " + pCurrent[i].getSequence());
-            */
+            
+            for (int i = 0; i < pCurrent.Count; i++) Console.WriteLine("Invidual " + i + ": (" + pCurrent[i].getDistance() + ")\t" + pCurrent[i].showSequence());
+            
 
             // Zobrazím jedince v populaci (1 řádek 1 jedinec)
+            /*
             for (int i = 0; i < pCurrent.Count-2; i = i + 3)
             {
                 Console.WriteLine(
@@ -142,7 +168,7 @@ namespace GenetickyAlgoritmus
                     "Invidual" + (i+1) + "(" + pCurrent[i+1].getDistance() + ")" + "\t" + pCurrent[i+1].getSequence() + "\t" +
                     "Invidual" + (i+2) + "(" + pCurrent[i+2].getDistance() + ")" + "\t" + pCurrent[i+2].getSequence());
             }
-            
+            */
             /*
             // Zobrazím jedince v poopulaci (1 řádek 4 jedinci)
             for (int i = 0; i < pCurrent.Count; i = i + 4)
