@@ -12,12 +12,9 @@ namespace GenetickyAlgoritmus
         
         static void Main(string[] args)
         {
+            Controller controller = new Controller();
 
-            InputOutput prog = new InputOutput();
-            Console.ReadLine();
-
-
-            
+            /*
             Algorithm algoritmus;
             Invidual result;
             
@@ -123,9 +120,10 @@ namespace GenetickyAlgoritmus
             }
 
             Console.ReadLine();
-
+            */
 
         }
+
 
     }
 }
