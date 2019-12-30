@@ -4,6 +4,8 @@ using System.Data;
 using System.IO;
 using System.Net;
 using System.Text;
+using System.Threading;
+using System.Globalization;
 
 namespace GenetickyAlgoritmus
 {
@@ -12,6 +14,9 @@ namespace GenetickyAlgoritmus
         
         static void Main(string[] args)
         {
+            // Oddelovac tisicu muze byt nastaven jinak na ruznych strojich. Timto nastavim "anglickou klavesnici"
+            Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-GB");
+            
             Controller controller = new Controller();
 
             /*
