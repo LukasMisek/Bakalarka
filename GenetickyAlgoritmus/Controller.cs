@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Text;
@@ -55,26 +55,65 @@ namespace GenetickyAlgoritmus
             }
 
             Console.ReadLine();
-            
-            string[] s = orders[1].getOrderList(1);
 
-            Console.WriteLine("Pole, ktere chci pouzit:");
-            Functions.showArray(s);
-
-            Console.ReadLine();
-
-            Invidual result;
-
-            Population pop = new Population(s);
-            result = pop.startAlgotithm();
-            
+            /*
+            Algorithm alg = new Algorithm(s);
+            result = alg.start();
             Console.WriteLine("Invidual top: " + "(" +result.getDistance() + ")\t" + result.showSequence());
             Console.ReadLine();
+            */
 
+
+            /*
+            Console.WriteLine("x:");
+            int x = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("y:");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            orders[x].calculateRoutes(y);
+            List<Invidual> testList = orders[x].getOrderListSorted();
+
+            Console.WriteLine("Invidual top: " + "(" + testList[0].getDistance() + ")\t" + testList[0].showSequence());
+
+            Console.ReadLine();
+            */
+
+            Console.WriteLine("z:");
+            int z = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Použiji tuto skupinu:");
+            orders[z].showMe();
+
+            Console.ReadLine();
+
+            for (int i = 0; i < orders.Length; i++)
+            {
+                Console.WriteLine("zahajuji algoritmus pro: " + i);
+                orders[z].calculateRoutes(i);
+                orders[z].showMe(i);
+                Console.WriteLine("vysledek pro: " + i);
+                List<Invidual> results = orders[z].getOrderListSorted();
+                foreach (Invidual inv in results) Console.WriteLine("Invidual top: " + "(" + inv.getDistance() + ")\t" + inv.showSequence());
+            }
+
+            Console.ReadLine();
+
+
+            orders[z].calculateRoutes();
+
+            List<Invidual> resultList = orders[z].getOrderListSorted();
+
+            foreach (Invidual result in resultList)
+            {
+                Console.WriteLine("Invidual top: " + "(" + result.getDistance() + ")\t" + result.showSequence());
+            }
+
+            Console.ReadLine();
             
 
             // Test section
-            
+
 
             /*
             Trida nec = new Trida();
