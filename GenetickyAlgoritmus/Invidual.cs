@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,18 +10,14 @@ namespace GenetickyAlgoritmus
     /// </summary>
     public class Invidual
     {
-        private Population populace;
-
-        private string[] sequence;
+        private string[] sequence = new string[Algorithm.LENGTH];
 
         /// <summary>
         /// Konstruktor bez argumentu -> Náhodna tvorba jedince (Používá se na začátku)
         /// </summary>
-        public Invidual(Population p)
+        public Invidual()
         {
-            this.populace = p;
-            this.sequence = new string[this.populace.LENGTH];
-            string[] stringCities = populace.getCityNames();
+            string[] stringCities = Algorithm.cities;
             List<string> unusedCities = new List<string>();
 
             foreach (string city in stringCities) unusedCities.Add(city);
@@ -34,7 +30,7 @@ namespace GenetickyAlgoritmus
                 this.sequence[i] = unusedCities[a];
                 unusedCities.RemoveAt(a);
             }
- 
+
         }
 
         /// <summary>
@@ -58,7 +54,7 @@ namespace GenetickyAlgoritmus
         public void mutate()
         {
             var rnd = new Random();
-            
+
             int a = rnd.Next(0, this.sequence.Length);
             int b = rnd.Next(0, this.sequence.Length);
             while (a == b) b = rnd.Next(0, this.sequence.Length);
@@ -74,22 +70,20 @@ namespace GenetickyAlgoritmus
         /// </summary>
         /// <param name="p1">Rodič 1</param>
         /// <param name="p2">Rodič 2</param>
-        public Invidual(Invidual p1, Invidual p2, Population p)
+        public Invidual(Invidual p1, Invidual p2)
         {
-            this.populace = p;
-            this.sequence = new string[this.populace.LENGTH];
             var rnd = new Random();
             int a = rnd.Next(0, 1);
 
             if (a == 0)
             {
-                for (int i = 0; i < this.populace.CROSSIN_POINT; i++) this.sequence[i] = p1.sequence[i];
-                for (int i = this.populace.CROSSIN_POINT; i < this.populace.LENGTH; i++) this.sequence[i] = p2.sequence[i];
+                for (int i = 0; i < Algorithm.CROSSIN_POINT; i++) this.sequence[i] = p1.sequence[i];
+                for (int i = Algorithm.CROSSIN_POINT; i < Algorithm.LENGTH; i++) this.sequence[i] = p2.sequence[i];
             }
             else
             {
-                for (int i = 0; i < this.populace.CROSSIN_POINT; i++) this.sequence[i] = p2.sequence[i];
-                for (int i = this.populace.CROSSIN_POINT; i < this.populace.LENGTH; i++) this.sequence[i] = p1.sequence[i];
+                for (int i = 0; i < Algorithm.CROSSIN_POINT; i++) this.sequence[i] = p2.sequence[i];
+                for (int i = Algorithm.CROSSIN_POINT; i < Algorithm.LENGTH; i++) this.sequence[i] = p1.sequence[i];
             }
 
             if (getDuplicity() > 0) fixMe();
@@ -102,7 +96,7 @@ namespace GenetickyAlgoritmus
         private void fixMe()
         {
             // Stáhnu seznam měst
-            string[] unusedCities = this.populace.getCityNames();
+            string[] unusedCities = Algorithm.cities;
             List<string> unused = new List<string>(unusedCities);
 
             // Smažu použitá města
@@ -111,19 +105,19 @@ namespace GenetickyAlgoritmus
                     if (unused[j] == this.sequence[i]) unused.RemoveAt(j);
 
             for (int i = 0; i < this.sequence.Length; i++)
+            {
+                int counter = 0;
+                for (int j = 0; j < this.sequence.Length; j++)
                 {
-                    int counter = 0;
-                    for (int j = 0; j < this.sequence.Length; j++)
+                    if (this.sequence[i] == this.sequence[j]) counter++;
+                    if (counter > 1)
                     {
-                        if (this.sequence[i] == this.sequence[j]) counter++;
-                        if (counter > 1)
-                        {
-                            this.sequence[j] = unused[unused.Count - 1];
-                            unused.RemoveAt(unused.Count - 1);
-                            counter = 0;
-                        }
+                        this.sequence[j] = unused[unused.Count - 1];
+                        unused.RemoveAt(unused.Count - 1);
+                        counter = 0;
                     }
                 }
+            }
 
         }
 
@@ -138,7 +132,7 @@ namespace GenetickyAlgoritmus
 
             int score = 0;
 
-            foreach(string c in occurences)
+            foreach (string c in occurences)
             {
                 int occurence = -1;
                 for (int i = 0; i < this.sequence.Length; i++)
@@ -148,7 +142,7 @@ namespace GenetickyAlgoritmus
                 score = score + occurence;
             }
             return score;
-            
+
         }
 
         /// <summary>
@@ -159,7 +153,7 @@ namespace GenetickyAlgoritmus
         {
             string output = null;
 
-            for (int i = 0; i< this.sequence.Length; i++) output = output + this.sequence[i];
+            for (int i = 0; i < this.sequence.Length; i++) output = output + this.sequence[i];
 
             return output;
         }
