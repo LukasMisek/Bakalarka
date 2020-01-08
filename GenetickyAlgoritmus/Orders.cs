@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,14 +7,13 @@ namespace GenetickyAlgoritmus
 {
     public class Orders
     {
-        public static int ORDER_CAPACITY = 64;
+        public static int ORDER_CAPACITY = 128;
 
         // Finální seznam objednávek. Formát = "Město1-Město2-Město3:hodnota nákladu"
         private List<string> ordersList = new List<string>();
 
         // Seznam jedinců. Tohle je výsledek. Každý jedinec je sekvence měst.
         private List<Invidual> sortedOrder = new List<Invidual>();
-
 
         public static int counter = 0;
 
@@ -65,29 +64,48 @@ namespace GenetickyAlgoritmus
             foreach(string s in ordersList) Console.WriteLine(s);
         }
 
+        public void showMe(int i)
+        {
+            Console.WriteLine(ordersList[i]);
+        }
+
         public string[] getOrderList(int index)
         {
-            string s = "";
             string[] tmpArray = this.ordersList[index].Split(':');
 
             return tmpArray[0].Split('-');
         }
 
-        /*
+        public List<Invidual> getOrderListSorted()
+        {
+            return sortedOrder;
+        }
+
+
         public void calculateRoutes()
         {
             Algorithm algoritmus;
             Invidual result;
 
-            for (int i = 0; i < this.orders.Count; i++)
+            for (int i = 0; i < this.ordersList.Count; i++)
             {
-                algoritmus = new Algorithm(this.orders[i], this.orders[i].Length);
+                algoritmus = new Algorithm(getOrderList(i));
                 result = algoritmus.start();
-                ordersRoutes.Add(result);
+                sortedOrder.Add(result);
+
             }
         }
-        */
 
+        public void calculateRoutes(int x)
+        {
+            Algorithm algoritmus;
+            Invidual result;
+
+            algoritmus = new Algorithm(getOrderList(x));
+            result = algoritmus.start();
+            sortedOrder.Add(result);
+
+        }
 
 
 
