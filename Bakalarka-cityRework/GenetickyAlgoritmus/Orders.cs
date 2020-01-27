@@ -25,13 +25,19 @@ namespace GenetickyAlgoritmus
         public static int DISTANCE_COST = 10;
 
         // Cena za řidiče
-        public static int CAR_COST = 2000;
+        public static int CAR_COST = 10000;
 
+        /// <summary>
+        /// Konstruktor, zavolám generování objednávek
+        /// </summary>
         public Orders()
         {
             generateRandomOrders();
         }
 
+        /// <summary>
+        /// Vygeneruji náhodné objednávky
+        /// </summary>
         public void generateRandomOrders()
         {
             List<string> remainingCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
@@ -39,13 +45,13 @@ namespace GenetickyAlgoritmus
             var rnd = new Random();
             int a = rnd.Next(0, remainingCities.Count);
             string city = remainingCities[a];
+            int cityCount = remainingCities.Count-1;
 
             string newOrder = remainingCities[a];
             string newOrderId = Cities.getId(remainingCities[a]);
             remainingCities.RemoveAt(a);
             int newOrderValue = Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString());
-
-            for (int i = 0; i < remainingCities.Count; i++)
+            for (int i = 0; i < cityCount; i++)
             {
                 a = rnd.Next(0, remainingCities.Count);
                 if (newOrderValue + Convert.ToInt32(Controller.activeOrdersTable.Rows[a]["Count"].ToString()) < ORDER_CAPACITY)
@@ -75,8 +81,12 @@ namespace GenetickyAlgoritmus
                 this.ordersList.Add(newOrder);
                 this.ordersListIds.Add(newOrderId);
             }
+
         }
 
+        /// <summary>
+        /// Zobrazí všechny sekvence (vsechny cesty)
+        /// </summary>
         public void showMe()
         {
             foreach(string sequence in ordersList)
@@ -87,16 +97,28 @@ namespace GenetickyAlgoritmus
             
         }
 
+        /// <summary>
+        /// Zobrazí jednu sekvenci (jednu cestu)
+        /// </summary>
+        /// <param name="i"></param>
         public void showMe(int i)
         {
             Console.WriteLine(ordersList[i]);
         }
 
+        /// <summary>
+        /// Zobrazi všechny sekvence jako ID měst (všechny cesty jako ID)
+        /// </summary>
         public void showMeId()
         {
             foreach (string s in ordersListIds) Console.WriteLine(s);
         }
 
+        /// <summary>
+        /// Vrátí jednu sekvenci jako String[]
+        /// </summary>
+        /// <param name="index"></param>
+        /// <returns></returns>
         public string[] getOrderList(int index)
         {
             string[] tmpArray = this.ordersList[index].Split(':');
@@ -104,6 +126,11 @@ namespace GenetickyAlgoritmus
             return tmpArray[0].Split('-');
         }
 
+        /// <summary>
+        /// Vrátí jednu sekvenci ID jako String[]
+        /// </summary>
+        /// <param name="index"></param>
+        /// <returns></returns>
         public string[] getOrderListId(int index)
         {
             string[] tmpArray = this.ordersListIds[index].Split(':');
@@ -111,11 +138,19 @@ namespace GenetickyAlgoritmus
             return tmpArray[0].Split('-');
         }
 
+        /// <summary>
+        /// Vrátí setříděnou sekvenci jako List
+        /// </summary>
+        /// <returns></returns>
         public List<Invidual> getOrderListSorted()
         {
             return sortedOrder;
         }
 
+        /// <summary>
+        /// Spustí algoritmus pro konkrétní cestu
+        /// </summary>
+        /// <param name="x"></param>
         public void calculateRoutes(int x)
         {
             Algorithm algoritmus;
@@ -127,6 +162,9 @@ namespace GenetickyAlgoritmus
 
         }
 
+        /// <summary>
+        /// Spustí algoritmus pro všechny cesty
+        /// </summary>
         public void calculateRoutes()
         {
             Algorithm algoritmus;
@@ -141,6 +179,9 @@ namespace GenetickyAlgoritmus
             }
         }
 
+        /// <summary>
+        /// Přeloží sekvence cest z ID na Města
+        /// </summary>
         public void translateRoutes()
         {
 
@@ -148,6 +189,9 @@ namespace GenetickyAlgoritmus
 
         }
 
+        /// <summary>
+        /// Vypočítá cenu ke každé cestě
+        /// </summary>
         public void calculatePrice()
         {
             this.cost = 0;
@@ -156,9 +200,22 @@ namespace GenetickyAlgoritmus
             this.cost = this.cost + (sortedOrder.Count * CAR_COST);
         }
 
+        /// <summary>
+        /// Vrátí cenu cesty
+        /// </summary>
+        /// <returns></returns>
         public double getCost()
         {
             return this.cost;
+        }
+
+        /// <summary>
+        /// Vrátí počet cest
+        /// </summary>
+        /// <returns></returns>
+        public int getOrdersCount()
+        {
+            return this.ordersList.Count;
         }
 
 

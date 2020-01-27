@@ -1,0 +1,1146 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+3	Adamov	Kutná Hora	Středočeský kraj	28601	15.409018	49.857917
+24	Babice	Praha-východ	Středočeský kraj	25101	14.715907	50.008089
+35	Bakov nad Jizerou	Mladá Boleslav	Středočeský kraj	29401	14.941596	50.482406
+44	Barchovice	Kolín	Středočeský kraj	28163	14.969206	49.944355
+51	Bašť	Praha-východ	Středočeský kraj	25065	14.477405	50.205242
+56	Bavoryně	Beroun	Středočeský kraj	26751	13.961126	49.895907
+58	Bdín	Rakovník	Středočeský kraj	27054	13.858851	50.214245
+63	Bečváry	Kolín	Středočeský kraj	28143	15.079916	49.956809
+80	Bělá pod Bezdězem	Mladá Boleslav	Středočeský kraj	29421	14.80429	50.501314
+86	Běleč	Kladno	Středočeský kraj	27363	13.993082	50.056269
+89	Běloky	Kladno	Středočeský kraj	27353	14.220862	50.131539
+92	Bělušice	Kolín	Středočeský kraj	28002	15.322001	50.069172
+96	Benátky nad Jizerou	Mladá Boleslav	Středočeský kraj	29471	14.824612	50.289261
+99	Benešov	Benešov	Středočeský kraj	25601	14.68747	49.783882
+106	Bernardov	Kutná Hora	Středočeský kraj	28401	15.398668	50.014231
+110	Bernartice	Benešov	Středočeský kraj	25765	15.129249	49.675666
+112	Beroun	Beroun	Středočeský kraj	26601	14.086384	49.967305
+113	Běrunice	Nymburk	Středočeský kraj	28908	15.333694	50.185843
+114	Beřovice	Kladno	Středočeský kraj	27371	14.12366	50.269119
+119	Běštín	Beroun	Středočeský kraj	26724	14.01634	49.807406
+127	Bezděkov pod Třemšínem	Příbram	Středočeský kraj	26242	13.878564	49.577203
+132	Bezno	Mladá Boleslav	Středočeský kraj	29429	14.795726	50.367388
+137	Bílá Hlína	Mladá Boleslav	Středočeský kraj	29501	14.925357	50.532604
+142	Bílé Podolí	Kutná Hora	Středočeský kraj	28572	15.491127	49.956586
+145	Bílichov	Kladno	Středočeský kraj	27374	13.916459	50.262151
+147	Bílkovice	Benešov	Středočeský kraj	25726	14.861056	49.759822
+168	Bítouchov	Mladá Boleslav	Středočeský kraj	29401	14.889523	50.475882
+187	Blažejovice	Benešov	Středočeský kraj	25768	15.200036	49.619897
+193	Blevice	Kladno	Středočeský kraj	27328	14.236267	50.209825
+203	Bludov	Kutná Hora	Středočeský kraj	28601	15.255286	49.807592
+204	Bobnice	Nymburk	Středočeský kraj	28931	15.053622	50.219681
+217	Bohdaneč	Kutná Hora	Středočeský kraj	28525	15.222656	49.778273
+220	Bohostice	Příbram	Středočeský kraj	26231	14.138233	49.602243
+241	Bohutín	Příbram	Středočeský kraj	26241	13.943995	49.65562
+248	Bojanovice	Praha-západ	Středočeský kraj	25206	14.352145	49.854542
+263	Boreč	Mladá Boleslav	Středočeský kraj	29426	14.732498	50.407453
+268	Borek	Praha-východ	Středočeský kraj	27714	14.647521	50.222684
+273	Borotice	Příbram	Středočeský kraj	26215	14.279808	49.735072
+286	Borovnice	Benešov	Středočeský kraj	25765	15.018438	49.648835
+297	Bořanovice	Praha-východ	Středočeský kraj	25065	14.478857	50.178336
+306	Boseň	Mladá Boleslav	Středočeský kraj	29501	15.022906	50.504204
+326	Bradlec	Mladá Boleslav	Středočeský kraj	29306	14.910293	50.451452
+328	Brambory	Kutná Hora	Středočeský kraj	28601	15.470316	49.97825
+331	Brandýs nad Labem - Stará Boleslav	Praha-východ	Středočeský kraj	25001	14.659344	50.186426
+333	Brandýsek	Kladno	Středočeský kraj	27341	14.162098	50.18933
+342	Branov	Rakovník	Středočeský kraj	27023	13.843021	50.012981
+345	Branžež	Mladá Boleslav	Středočeský kraj	29402	15.058005	50.507685
+346	Braškov	Kladno	Středočeský kraj	27351	14.100859	50.102133
+348	Bratčice	Kutná Hora	Středočeský kraj	28601	15.430482	49.855317
+349	Bratkovice	Příbram	Středočeský kraj	26223	13.999043	49.740519
+351	Bratronice	Kladno	Středočeský kraj	27363	14.014265	50.067851
+356	Bratřínov	Praha-západ	Středočeský kraj	25205	14.340242	49.842681
+358	Brázdim	Praha-východ	Středočeský kraj	25063	14.58829	50.183633
+360	Brdy (vojenský újezd)	Příbram	Středočeský kraj	26223	13.903243	49.789268
+371	Brodce	Mladá Boleslav	Středočeský kraj	29473	14.86928	50.33078
+379	Broumy	Beroun	Středočeský kraj	26742	13.852368	49.955171
+406	Březí	Praha-východ	Středočeský kraj	25101	14.699389	50.014766
+412	Březina	Mladá Boleslav	Středočeský kraj	29411	15.032901	50.548647
+419	Březnice	Příbram	Středočeský kraj	26272	13.950734	49.557739
+422	Březno	Mladá Boleslav	Středočeský kraj	29406	15.005584	50.406292
+428	Březová	Beroun	Středočeský kraj	26751	13.883116	49.904184
+432	Březová-Oleško	Praha-západ	Středočeský kraj	25245	14.411028	49.904148
+433	Březovice	Mladá Boleslav	Středočeský kraj	29424	14.733711	50.470818
+439	Břežany	Rakovník	Středočeský kraj	27034	13.582896	50.00696
+440	Břežany I	Kolín	Středočeský kraj	28002	15.079055	50.035026
+441	Břežany II	Kolín	Středočeský kraj	28201	14.804403	50.093862
+443	Bříství	Nymburk	Středočeský kraj	28915	14.841845	50.134028
+448	Bubovice	Beroun	Středočeský kraj	26718	14.166601	49.969761
+458	Budiměřice	Nymburk	Středočeský kraj	28802	15.098869	50.195426
+477	Buková u Příbramě	Příbram	Středočeský kraj	26223	14.066683	49.755238
+481	Bukovany	Benešov	Středočeský kraj	25741	14.624388	49.822898
+482	Bukovany	Příbram	Středočeský kraj	26272	14.10264	49.574617
+494	Bukovno	Mladá Boleslav	Středočeský kraj	29301	14.840687	50.446863
+499	Buš	Praha-západ	Středočeský kraj	25208	14.384043	49.80341
+503	Buštěhrad	Kladno	Středočeský kraj	27343	14.189083	50.156043
+507	Býchory	Kolín	Středočeský kraj	28002	15.273572	50.067727
+508	Býkev	Mělník	Středočeský kraj	27601	14.418129	50.347271
+509	Bykoš	Beroun	Středočeský kraj	26701	14.063765	49.883057
+524	Bystřice	Benešov	Středočeský kraj	25751	14.667506	49.732235
+529	Byšice	Mělník	Středočeský kraj	27732	14.61147	50.310544
+535	Bzová	Beroun	Středočeský kraj	26743	13.862507	49.897991
+545	Cerhenice	Kolín	Středočeský kraj	28102	15.07214	50.071376
+547	Cerhovice	Beroun	Středočeský kraj	26761	13.834934	49.849643
+552	Cetyně	Příbram	Středočeský kraj	26231	14.121455	49.599728
+555	Církvice	Kolín	Středočeský kraj	28144	15.015818	49.909456
+556	Církvice	Kutná Hora	Středočeský kraj	28533	15.335153	49.945703
+562	Cítov	Mělník	Středočeský kraj	27704	14.398243	50.372354
+568	Ctiboř	Benešov	Středočeský kraj	25801	14.904302	49.736767
+570	Ctiměřice	Mladá Boleslav	Středočeský kraj	29446	14.993465	50.377891
+574	Cvrčovice	Kladno	Středočeský kraj	27341	14.154895	50.179896
+576	Čachovice	Mladá Boleslav	Středočeský kraj	29443	14.946032	50.27557
+579	Čakov	Benešov	Středočeský kraj	25724	14.836436	49.825696
+581	Čakovičky	Mělník	Středočeský kraj	25063	14.531487	50.231701
+583	Čáslav	Kutná Hora	Středočeský kraj	28601	15.390894	49.910995
+594	Čečelice	Mělník	Středočeský kraj	27732	14.618687	50.294103
+600	Čechtice	Benešov	Středočeský kraj	25765	15.048346	49.624128
+609	Čejkovice	Kutná Hora	Středočeský kraj	28601	15.349767	49.791923
+612	Čelákovice	Praha-východ	Středočeský kraj	25088	14.751089	50.162803
+619	Čenkov	Příbram	Středočeský kraj	26223	14.00086	49.777803
+626	Čerčany	Benešov	Středočeský kraj	25722	14.703093	49.853032
+640	Černé Voděrady	Praha-východ	Středočeský kraj	28163	14.80689	49.941659
+646	Černíky	Nymburk	Středočeský kraj	28915	14.820104	50.102118
+649	Černíny	Kutná Hora	Středočeský kraj	28401	15.218931	49.840116
+651	Černolice	Praha-západ	Středočeský kraj	25210	14.299358	49.90979
+652	Černošice	Praha-západ	Středočeský kraj	25228	14.319902	49.960184
+664	Černuc	Kladno	Středočeský kraj	27323	14.202603	50.301245
+673	Červené Janovice	Kutná Hora	Středočeský kraj	28542	15.253438	49.834712
+674	Červené Pečky	Kolín	Středočeský kraj	28121	15.208666	49.978318
+679	Červený Újezd	Benešov	Středočeský kraj	25788	14.604165	49.555506
+680	Červený Újezd	Praha-západ	Středočeský kraj	27351	14.166017	50.069809
+700	Český Brod	Kolín	Středočeský kraj	28201	14.860919	50.074304
+705	Český Šternberk	Benešov	Středočeský kraj	25726	14.928256	49.810991
+709	Čestín	Kutná Hora	Středočeský kraj	28510	15.104503	49.807713
+710	Čestlice	Praha-východ	Středočeský kraj	25101	14.583719	50.002617
+713	Číčovice	Praha-západ	Středočeský kraj	25268	14.249483	50.156814
+721	Čilec	Nymburk	Středočeský kraj	28925	14.981754	50.219494
+722	Čím	Příbram	Středočeský kraj	26203	14.377907	49.77862
+727	Činěves	Nymburk	Středočeský kraj	28901	15.213992	50.230096
+728	Čisovice	Praha-západ	Středočeský kraj	25204	14.314883	49.86348
+730	Čistá	Mladá Boleslav	Středočeský kraj	29423	14.843595	50.472083
+731	Čistá	Rakovník	Středočeský kraj	27034	13.733683	50.099047
+745	Čtyřkoly	Benešov	Středočeský kraj	25722	14.719742	49.868613
+749	Daleké Dušníky	Příbram	Středočeský kraj	26301	14.186636	49.727533
+753	Dalovice	Mladá Boleslav	Středočeský kraj	29301	14.880041	50.425788
+763	Davle	Praha-západ	Středočeský kraj	25206	14.400478	49.89228
+771	Děkanovice	Benešov	Středočeský kraj	25768	15.148645	49.618789
+772	Děkov	Rakovník	Středočeský kraj	27004	13.554483	50.171283
+800	Divišov	Benešov	Středočeský kraj	25726	14.875895	49.788592
+806	Dlouhá Lhota	Mladá Boleslav	Středočeský kraj	29405	15.054223	50.420201
+807	Dlouhá Lhota	Příbram	Středočeský kraj	26301	14.120705	49.721224
+817	Dlouhopolsko	Nymburk	Středočeský kraj	28903	15.306231	50.175313
+837	Dobročovice	Praha-východ	Středočeský kraj	25082	14.700015	50.056421
+846	Dobrovice	Mladá Boleslav	Středočeský kraj	29441	14.962439	50.369427
+847	Dobrovítov	Kutná Hora	Středočeský kraj	28601	15.328817	49.787634
+848	Dobrovíz	Praha-západ	Středočeský kraj	25261	14.217841	50.113163
+853	Dobřejovice	Praha-východ	Středočeský kraj	25101	14.57837	49.981717
+854	Dobřeň	Mělník	Středočeský kraj	27721	14.556812	50.479505
+857	Dobříč	Praha-západ	Středočeský kraj	25225	14.259017	50.020021
+858	Dobřichov	Kolín	Středočeský kraj	28911	15.032473	50.079731
+859	Dobřichovice	Praha-západ	Středočeský kraj	25229	14.274802	49.927597
+863	Dobříš	Příbram	Středočeský kraj	26301	14.167273	49.781238
+867	Dobšice	Nymburk	Středočeský kraj	28905	15.268716	50.132535
+868	Dobšín	Mladá Boleslav	Středočeský kraj	29404	15.116761	50.483425
+872	Doksy	Kladno	Středočeský kraj	27364	14.04793	50.119102
+879	Dolany	Kladno	Středočeský kraj	27351	14.149791	50.115571
+880	Dolany	Mělník	Středočeský kraj	27801	14.349629	50.22214
+886	Dolní Beřkovice	Mělník	Středočeský kraj	27701	14.450352	50.393236
+889	Dolní Bousov	Mladá Boleslav	Středočeský kraj	29404	15.128232	50.438348
+892	Dolní Břežany	Praha-západ	Středočeský kraj	25241	14.458611	49.963314
+903	Dolní Hbity	Příbram	Středočeský kraj	26262	14.169935	49.657558
+908	Dolní Chvatliny	Kolín	Středočeský kraj	28144	15.06939	49.980602
+911	Dolní Kralovice	Benešov	Středočeský kraj	25768	15.177648	49.644223
+913	Dolní Krupá	Mladá Boleslav	Středočeský kraj	29501	14.86727	50.546419
+934	Dolní Pohleď	Kutná Hora	Středočeský kraj	28522	15.133625	49.743519
+943	Dolní Slivno	Mladá Boleslav	Středočeský kraj	29478	14.732843	50.308882
+945	Dolní Stakory	Mladá Boleslav	Středočeský kraj	29301	14.972584	50.437396
+956	Dolní Zimoř	Mělník	Středočeský kraj	27721	14.501473	50.426717
+965	Dománovice	Kolín	Středočeský kraj	28002	15.322621	50.111955
+973	Domousnice	Mladá Boleslav	Středočeský kraj	29448	15.101704	50.394302
+976	Doubek	Praha-východ	Středočeský kraj	25101	14.737871	50.017715
+979	Doubravčice	Kolín	Středočeský kraj	28201	14.793181	50.022153
+984	Doubravička	Mladá Boleslav	Středočeský kraj	29430	14.776212	50.395208
+993	Drahelčice	Praha-západ	Středočeský kraj	25219	14.203056	50.031926
+994	Drahenice	Příbram	Středočeský kraj	26285	13.95851	49.520949
+996	Drahlín	Příbram	Středočeský kraj	26101	13.968974	49.732317
+997	Drahňovice	Benešov	Středočeský kraj	25726	14.90175	49.822575
+998	Drahobudice	Kolín	Středočeský kraj	28144	15.066361	49.937579
+1005	Drahouš	Rakovník	Středočeský kraj	27033	13.47577	50.080232
+1010	Drásov	Příbram	Středočeský kraj	26101	14.117807	49.702186
+1020	Drevníky	Příbram	Středočeský kraj	26301	14.274132	49.72026
+1023	Drhovy	Příbram	Středočeský kraj	26301	14.232487	49.739163
+1025	Drnek	Kladno	Středočeský kraj	27377	13.972514	50.195744
+1030	Drobovice	Kutná Hora	Středočeský kraj	28601	15.413523	49.889628
+1034	Drozdov	Beroun	Středočeský kraj	26761	13.840685	49.863241
+1040	Družec	Kladno	Středočeský kraj	27362	14.04551	50.103086
+1047	Dřetovice	Kladno	Středočeský kraj	27342	14.210368	50.182789
+1048	Dřevčice	Praha-východ	Středočeský kraj	25001	14.628327	50.167854
+1052	Dřínov	Kladno	Středočeský kraj	27371	14.069855	50.275664
+1053	Dřínov	Mělník	Středočeský kraj	27745	14.39761	50.273754
+1055	Dřísy	Praha-východ	Středočeský kraj	27714	14.643653	50.256089
+1064	Dubenec	Příbram	Středočeský kraj	26101	14.07934	49.695809
+1068	Dublovice	Příbram	Středočeský kraj	26251	14.360998	49.671881
+1072	Dubno	Příbram	Středočeský kraj	26101	14.051851	49.695958
+1079	Dunice	Benešov	Středočeský kraj	25768	15.152746	49.603247
+1086	Dvory	Nymburk	Středočeský kraj	28802	14.995558	50.21175
+1093	Dymokury	Nymburk	Středočeský kraj	28901	15.202652	50.245776
+1103	Felbabka	Beroun	Středočeský kraj	26801	13.942011	49.813487
+1122	Grunta	Kolín	Středočeský kraj	28002	15.255089	49.974214
+1139	Háje	Příbram	Středočeský kraj	26101	14.047452	49.672735
+1180	Herink	Praha-východ	Středočeský kraj	25101	14.575012	49.966961
+1190	Heřmaničky	Benešov	Středočeský kraj	25789	14.582592	49.605411
+1202	Hlásná Třebaň	Beroun	Středočeský kraj	26718	14.198762	49.922344
+1207	Hlavenec	Praha-východ	Středočeský kraj	29474	14.701862	50.238392
+1218	Hlízov	Kutná Hora	Středočeský kraj	28532	15.295206	49.985096
+1231	Hluboš	Příbram	Středočeský kraj	26222	14.020299	49.746325
+1232	Hlubyně	Příbram	Středočeský kraj	26272	13.923345	49.559767
+1249	Hobšovice	Kladno	Středočeský kraj	27321	14.162268	50.270647
+1282	Holubice	Praha-západ	Středočeský kraj	25265	14.292949	50.203189
+1294	Horčápsko	Příbram	Středočeský kraj	26272	13.984557	49.584502
+1296	Horka I	Kutná Hora	Středočeský kraj	28601	15.44004	49.982795
+1297	Horka II	Kutná Hora	Středočeský kraj	28522	15.13385	49.732179
+1301	Horky	Kutná Hora	Středočeský kraj	28601	15.439898	49.868864
+1302	Horky nad Jizerou	Mladá Boleslav	Středočeský kraj	29473	14.856169	50.327164
+1307	Horní Bezděkov	Kladno	Středočeský kraj	27351	14.067597	50.082352
+1316	Horní Bukovina	Mladá Boleslav	Středočeský kraj	29501	14.926231	50.543257
+1335	Horní Kruty	Kolín	Středočeský kraj	28146	14.959813	49.919546
+1358	Horní Počaply	Mělník	Středočeský kraj	27703	14.390039	50.424505
+1374	Horní Slivno	Mladá Boleslav	Středočeský kraj	29479	14.704984	50.304132
+1394	Horoměřice	Praha-západ	Středočeský kraj	25262	14.338894	50.131831
+1396	Horoušany	Praha-východ	Středočeský kraj	25082	14.74068	50.106504
+1400	Horušice	Kutná Hora	Středočeský kraj	28573	15.429043	49.996584
+1402	Hořany	Nymburk	Středočeský kraj	28914	14.945897	50.09771
+1403	Hořátev	Nymburk	Středočeský kraj	28913	15.039418	50.150278
+1406	Hořesedly	Rakovník	Středočeský kraj	27004	13.602769	50.16239
+1407	Hořešovice	Kladno	Středočeský kraj	27374	13.966906	50.27169
+1408	Hořešovičky	Kladno	Středočeský kraj	27374	13.95589	50.274989
+1413	Hořín	Mělník	Středočeský kraj	27601	14.464285	50.34492
+1415	Hořovice	Beroun	Středočeský kraj	26801	13.902789	49.836078
+1416	Hořovičky	Rakovník	Středočeský kraj	27004	13.531515	50.155721
+1419	Hospozín	Kladno	Středočeský kraj	27322	14.17187	50.306981
+1429	Hostín	Mělník	Středočeský kraj	27732	14.588998	50.340525
+1430	Hostín u Vojkovic	Mělník	Středočeský kraj	27744	14.397072	50.297177
+1433	Hostivice	Praha-západ	Středočeský kraj	25301	14.25867	50.081679
+1434	Hostomice	Beroun	Středočeský kraj	26724	14.045712	49.825363
+1437	Hostouň	Kladno	Středočeský kraj	27353	14.201384	50.11449
+1438	Hostovlice	Kutná Hora	Středočeský kraj	28562	15.466403	49.860355
+1451	Hovorčovice	Praha-východ	Středočeský kraj	25064	14.517993	50.178764
+1453	Hraběšín	Kutná Hora	Středočeský kraj	28601	15.331919	49.852623
+1462	Hradčany	Nymburk	Středočeský kraj	28905	15.269964	50.158082
+1471	Hradečno	Kladno	Středočeský kraj	27304	13.991367	50.188435
+1480	Hradešín	Kolín	Středočeský kraj	28201	14.756771	50.038947
+1484	Hradiště	Benešov	Středočeský kraj	25801	14.848805	49.684271
+1486	Hradištko	Nymburk	Středočeský kraj	28912	14.935157	50.165593
+1487	Hradištko	Praha-západ	Středočeský kraj	25209	14.407963	49.870321
+1489	Hracholusky	Rakovník	Středočeský kraj	27041	13.773965	50.003379
+1499	Hrdlív	Kladno	Středočeský kraj	27306	14.072592	50.199356
+1500	Hrdlořezy	Mladá Boleslav	Středočeský kraj	29307	14.875505	50.451494
+1518	Hrubý Jeseník	Nymburk	Středočeský kraj	28932	15.094151	50.251247
+1519	Hrusice	Praha-východ	Středočeský kraj	25166	14.738162	49.909951
+1523	Hrušov	Mladá Boleslav	Středočeský kraj	29473	14.846482	50.344973
+1529	Hřebeč	Kladno	Středočeský kraj	27345	14.164571	50.136054
+1530	Hřebečníky	Rakovník	Středočeský kraj	27041	13.753332	49.984643
+1531	Hředle	Beroun	Středočeský kraj	26751	13.920708	49.903899
+1532	Hředle	Rakovník	Středočeský kraj	27008	13.749524	50.188106
+1536	Hřiměždice	Příbram	Středočeský kraj	26214	14.275016	49.686956
+1542	Hudčice	Příbram	Středočeský kraj	26272	13.922614	49.531789
+1543	Hudlice	Beroun	Středočeský kraj	26703	13.970742	49.961069
+1545	Hulice	Benešov	Středočeský kraj	25763	15.087693	49.709703
+1553	Husí Lhota	Mladá Boleslav	Středočeský kraj	29406	15.00482	50.435646
+1555	Husinec	Praha-východ	Středočeský kraj	25068	14.375186	50.173845
+1563	Hvězdonice	Benešov	Středočeský kraj	25724	14.777379	49.872921
+1567	Hvozd	Rakovník	Středočeský kraj	27035	13.698511	50.051606
+1570	Hvozdec	Beroun	Středočeský kraj	26762	13.880406	49.807152
+1573	Hvozdnice	Praha-západ	Středočeský kraj	25205	14.3712	49.872607
+1575	Hvožďany	Příbram	Středočeský kraj	26244	13.805216	49.528354
+1579	Hýskov	Beroun	Středočeský kraj	26706	14.050654	49.990829
+1582	Chabeřice	Kutná Hora	Středočeský kraj	28522	15.073898	49.750246
+1583	Chaloupky	Beroun	Středočeský kraj	26762	13.868465	49.791959
+1585	Charvatce	Mladá Boleslav	Středočeský kraj	29445	14.998718	50.322727
+1587	Chářovice	Benešov	Středočeský kraj	25741	14.577967	49.820354
+1593	Chleby	Benešov	Středočeský kraj	25741	14.556986	49.827106
+1594	Chleby	Nymburk	Středočeský kraj	28931	15.089496	50.222917
+1599	Chlístov	Benešov	Středočeský kraj	25601	14.654822	49.801625
+1600	Chlístovice	Kutná Hora	Středočeský kraj	28401	15.202598	49.885817
+1606	Chlum	Benešov	Středočeský kraj	25763	14.99586	49.693104
+1617	Chlumín	Mělník	Středočeský kraj	27743	14.449384	50.289218
+1620	Chlustina	Beroun	Středočeský kraj	26751	13.919627	49.878043
+1622	Chmelná	Benešov	Středočeský kraj	25765	14.988457	49.648205
+1626	Chocerady	Benešov	Středočeský kraj	25724	14.802174	49.873005
+1627	Chocnějovice	Mladá Boleslav	Středočeský kraj	29413	14.971496	50.577007
+1629	Chodouň	Beroun	Středočeský kraj	26751	13.986668	49.898288
+1645	Choratice	Benešov	Středočeský kraj	28506	14.874791	49.83943
+1647	Chorušice	Mělník	Středočeský kraj	27737	14.670873	50.390682
+1649	Choťánky	Nymburk	Středočeský kraj	29001	15.16254	50.138263
+1655	Choteč	Praha-západ	Středočeský kraj	25226	14.283022	49.986657
+1658	Chotěšice	Nymburk	Středočeský kraj	28901	15.273164	50.278663
+1661	Chotětov	Mladá Boleslav	Středočeský kraj	29428	14.801624	50.337534
+1664	Chotilsko	Příbram	Středočeský kraj	26203	14.352585	49.770587
+1669	Choťovice	Kolín	Středočeský kraj	28905	15.31978	50.142489
+1671	Chotusice	Kutná Hora	Středočeský kraj	28576	15.394385	49.949241
+1672	Chotutice	Kolín	Středočeský kraj	28103	14.989985	50.070077
+1675	Chotýšany	Benešov	Středočeský kraj	25728	14.814683	49.744203
+1682	Chrást	Nymburk	Středočeský kraj	28914	14.898236	50.119017
+1683	Chrást	Příbram	Středočeský kraj	26272	13.956768	49.594513
+1688	Chrášťany	Benešov	Středočeský kraj	25601	14.582032	49.792155
+1689	Chrášťany	Kolín	Středočeský kraj	28201	14.930251	50.065584
+1690	Chrášťany	Praha-západ	Středočeský kraj	25219	14.261423	50.046148
+1691	Chrášťany	Rakovník	Středočeský kraj	27001	13.667388	50.146543
+1692	Chraštice	Příbram	Středočeský kraj	26272	14.071933	49.576891
+1698	Chroustov	Nymburk	Středočeský kraj	28902	15.347273	50.28669
+1704	Chrustenice	Beroun	Středočeský kraj	26712	14.152325	50.006145
+1705	Chržín	Kladno	Středočeský kraj	27324	14.270238	50.295476
+1714	Chudíř	Mladá Boleslav	Středočeský kraj	29445	15.013907	50.308893
+1730	Chvatěruby	Mělník	Středočeský kraj	27801	14.342788	50.232842
+1733	Chyňava	Beroun	Středočeský kraj	26707	14.074092	50.027467
+1734	Chýně	Praha-západ	Středočeský kraj	25301	14.227054	50.060826
+1735	Chýnice	Praha-západ	Středočeský kraj	25217	14.264385	49.995792
+1746	Jabkenice	Mladá Boleslav	Středočeský kraj	29445	15.01488	50.324168
+1750	Jablonná	Příbram	Středočeský kraj	26263	14.138547	49.661146
+1769	Jankov	Benešov	Středočeský kraj	25703	14.730847	49.653039
+1777	Janov	Rakovník	Středočeský kraj	27006	13.639913	50.210508
+1799	Jarpice	Kladno	Středočeský kraj	27372	14.08533	50.321709
+1810	Javorník	Benešov	Středočeský kraj	25763	15.026636	49.686598
+1816	Jedomělice	Kladno	Středočeský kraj	27378	13.972409	50.233057
+1821	Jemníky	Kladno	Středočeský kraj	27401	14.119076	50.207644
+1823	Jeneč	Praha-západ	Středočeský kraj	25261	14.214924	50.087404
+1831	Jenštejn	Praha-východ	Středočeský kraj	25073	14.611909	50.152759
+1837	Jesenice	Praha-západ	Středočeský kraj	25242	14.513602	49.968246
+1838	Jesenice	Příbram	Středočeský kraj	26401	14.47823	49.607849
+1839	Jesenice	Rakovník	Středočeský kraj	27033	13.469595	50.097137
+1844	Jestřabí Lhota	Kolín	Středočeský kraj	28002	15.261812	50.089936
+1849	Ješetice	Benešov	Středočeský kraj	25789	14.610228	49.581263
+1853	Jevany	Praha-východ	Středočeský kraj	28166	14.810582	49.970671
+1855	Jeviněves	Mělník	Středočeský kraj	27705	14.33821	50.345214
+1873	Jíkev	Nymburk	Středočeský kraj	28932	15.060123	50.264465
+1879	Jílové u Prahy	Praha-západ	Středočeský kraj	25401	14.493434	49.895549
+1882	Jíloviště	Praha-západ	Středočeský kraj	25202	14.342843	49.927626
+1886	Jince	Příbram	Středočeský kraj	26223	13.978781	49.786343
+1895	Jinočany	Praha-západ	Středočeský kraj	25225	14.268789	50.032857
+1900	Jirny	Praha-východ	Středočeský kraj	25090	14.699337	50.115879
+1904	Jiřice	Nymburk	Středočeský kraj	28922	14.836959	50.252532
+1913	Jivina	Beroun	Středočeský kraj	26762	13.836497	49.794246
+1914	Jivina	Mladá Boleslav	Středočeský kraj	29414	14.947263	50.554218
+1919	Jizbice	Nymburk	Středočeský kraj	28802	14.993959	50.257782
+1920	Jizerní Vtelno	Mladá Boleslav	Středočeský kraj	29431	14.853294	50.369496
+1924	Josefův Důl	Mladá Boleslav	Středočeský kraj	29307	14.893781	50.453507
+1929	Kácov	Kutná Hora	Středočeský kraj	28509	15.027994	49.777968
+1930	Kačice	Kladno	Středočeský kraj	27304	13.98826	50.162716
+1933	Kadlín	Mělník	Středočeský kraj	27735	14.699845	50.399568
+1945	Kaliště	Praha-východ	Středočeský kraj	25165	14.774613	49.882761
+1946	Kalivody	Rakovník	Středočeský kraj	27054	13.841968	50.208527
+1948	Kamberk	Benešov	Středočeský kraj	25706	14.840416	49.597236
+1955	Kamenice	Praha-východ	Středočeský kraj	25168	14.582527	49.901617
+1966	Kamenné Zboží	Nymburk	Středočeský kraj	28802	14.99953	50.193015
+1967	Kamenné Žehrovice	Kladno	Středočeský kraj	27301	14.0182	50.127079
+1969	Kamenný Most	Kladno	Středočeský kraj	27326	14.205845	50.241505
+1970	Kamenný Přívoz	Praha-západ	Středočeský kraj	25282	14.503494	49.863096
+1974	Kamýk nad Vltavou	Příbram	Středočeský kraj	26263	14.253549	49.639124
+1978	Kanina	Mělník	Středočeský kraj	27735	14.600046	50.424809
+1983	Káraný	Praha-východ	Středočeský kraj	25075	14.7371	50.174869
+1986	Karlík	Praha-západ	Středočeský kraj	25229	14.259616	49.935506
+1990	Karlova Ves	Rakovník	Středočeský kraj	27023	13.862509	49.987386
+1995	Karlštejn	Beroun	Středočeský kraj	26718	14.188146	49.939604
+2011	Katusice	Mladá Boleslav	Středočeský kraj	29425	14.777464	50.445203
+2014	Kbel	Kolín	Středočeský kraj	28002	15.143645	49.988323
+2020	Keblov	Benešov	Středočeský kraj	25765	15.071992	49.677749
+2034	Kladno	Kladno	Středočeský kraj	27201	14.106846	50.141799
+2038	Kladruby	Benešov	Středočeský kraj	25801	14.950154	49.723269
+2044	Klášter Hradiště nad Jizerou	Mladá Boleslav	Středočeský kraj	29415	14.944829	50.523509
+2047	Klášterní Skalice	Kolín	Středočeský kraj	28163	14.98539	50.023624
+2052	Klecany	Praha-východ	Středočeský kraj	25067	14.411589	50.176091
+2060	Klíčany	Praha-východ	Středočeský kraj	25069	14.434551	50.202124
+2062	Klínec	Praha-západ	Středočeský kraj	25210	14.343355	49.900957
+2065	Klobuky	Kladno	Středočeský kraj	27374	13.987593	50.294113
+2068	Klokočná	Praha-východ	Středočeský kraj	25164	14.718623	49.958513
+2072	Klučenice	Příbram	Středočeský kraj	26256	14.212131	49.553233
+2074	Klučov	Kolín	Středočeský kraj	28201	14.910171	50.095114
+2076	Kluky	Kutná Hora	Středočeský kraj	28545	15.325361	49.907559
+2077	Kluky	Mladá Boleslav	Středočeský kraj	29426	14.725295	50.440316
+2078	Kly	Mělník	Středočeský kraj	27741	14.501593	50.308894
+2079	Kmetiněves	Kladno	Středočeský kraj	27322	14.157106	50.309285
+2083	Kněževes	Praha-západ	Středočeský kraj	25268	14.259214	50.121321
+2084	Kněževes	Rakovník	Středočeský kraj	27001	13.637213	50.146689
+2087	Kněžice	Nymburk	Středočeský kraj	28902	15.335464	50.257311
+2088	Kněžičky	Nymburk	Středočeský kraj	28908	15.344934	50.173997
+2089	Kněžmost	Mladá Boleslav	Středočeský kraj	29402	15.038396	50.489274
+2094	Kňovice	Příbram	Středočeský kraj	26401	14.400412	49.688403
+2095	Knovíz	Kladno	Středočeský kraj	27401	14.137056	50.212665
+2105	Kobylnice	Kutná Hora	Středočeský kraj	28401	15.375802	50.006398
+2106	Kobylnice	Mladá Boleslav	Středočeský kraj	29446	15.053963	50.371738
+2115	Kochánky	Mladá Boleslav	Středočeský kraj	29474	14.780339	50.277131
+2122	Kojetice	Mělník	Středočeský kraj	25072	14.508588	50.238202
+2128	Kokořín	Mělník	Středočeský kraj	27723	14.567322	50.429981
+2129	Kolaje	Nymburk	Středočeský kraj	28904	15.238544	50.155469
+2131	Koleč	Kladno	Středočeský kraj	27329	14.22351	50.198872
+2132	Kolešov	Rakovník	Středočeský kraj	27004	13.510143	50.157254
+2133	Kolešovice	Rakovník	Středočeský kraj	27002	13.610387	50.139748
+2134	Kolín	Kolín	Středočeský kraj	28002	15.202828	50.027429
+2136	Kolomuty	Mladá Boleslav	Středočeský kraj	29301	14.979095	50.402199
+2143	Komárov	Beroun	Středočeský kraj	26762	13.856467	49.806602
+2151	Konárovice	Kolín	Středočeský kraj	28125	15.284322	50.041558
+2152	Kondrac	Benešov	Středočeský kraj	25801	14.884609	49.667248
+2154	Koněprusy	Beroun	Středočeský kraj	26601	14.065859	49.920996
+2156	Konětopy	Praha-východ	Středočeský kraj	27714	14.653932	50.276506
+2158	Konojedy	Praha-východ	Středočeský kraj	28163	14.851354	49.948677
+2164	Korkyně	Příbram	Středočeský kraj	26206	14.351437	49.780542
+2166	Korno	Beroun	Středočeský kraj	26727	14.136968	49.920584
+2174	Koryta	Mladá Boleslav	Středočeský kraj	29411	15.011824	50.572055
+2177	Kořenice	Kolín	Středočeský kraj	28002	15.140969	49.977216
+2181	Kosmonosy	Mladá Boleslav	Středočeský kraj	29306	14.929915	50.438608
+2182	Kosoř	Praha-západ	Středočeský kraj	25226	14.326682	49.98758
+2183	Kosořice	Mladá Boleslav	Středočeský kraj	29441	14.96974	50.33348
+2186	Kosova Hora	Příbram	Středočeský kraj	26291	14.471834	49.654247
+2194	Kostelec nad Černými Lesy	Praha-východ	Středočeský kraj	28163	14.859324	49.994137
+2195	Kostelec nad Labem	Mělník	Středočeský kraj	27713	14.585628	50.226634
+2200	Kostelec u Křížků	Praha-východ	Středočeský kraj	25168	14.557334	49.907123
+2202	Kostelní Hlavno	Praha-východ	Středočeský kraj	29476	14.699086	50.257529
+2203	Kostelní Lhota	Nymburk	Středočeský kraj	28912	15.024308	50.129367
+2210	Kostomlátky	Nymburk	Středočeský kraj	28921	14.984131	50.171133
+2211	Kostomlaty nad Labem	Nymburk	Středočeský kraj	28921	14.954085	50.184587
+2215	Košátky	Mladá Boleslav	Středočeský kraj	29479	14.667096	50.315276
+2218	Košice	Kutná Hora	Středočeský kraj	28504	15.150945	49.895897
+2219	Košík	Nymburk	Středočeský kraj	28935	15.134157	50.318352
+2225	Kotenčice	Příbram	Středočeský kraj	26223	14.093917	49.736397
+2227	Kotopeky	Beroun	Středočeský kraj	26801	13.925264	49.856839
+2230	Kounice	Nymburk	Středočeský kraj	28915	14.856029	50.10777
+2232	Kounov	Rakovník	Středočeský kraj	27006	13.675205	50.212979
+2233	Koupě	Příbram	Středočeský kraj	26272	13.918493	49.514885
+2234	Kouřim	Kolín	Středočeský kraj	28161	14.977137	50.003158
+2238	Kouty	Nymburk	Středočeský kraj	29001	15.148855	50.193218
+2242	Kováň	Mladá Boleslav	Středočeský kraj	29425	14.777875	50.423409
+2243	Kovanec	Mladá Boleslav	Středočeský kraj	29426	14.77674	50.417808
+2244	Kovanice	Nymburk	Středočeský kraj	28802	15.070901	50.169567
+2249	Kozárovice	Příbram	Středočeský kraj	26284	14.106587	49.555628
+2261	Kozmice	Benešov	Středočeský kraj	25601	14.796183	49.824883
+2264	Kozojedy	Praha-východ	Středočeský kraj	28163	14.814366	49.996652
+2265	Kozojedy	Rakovník	Středočeský kraj	27054	13.815687	50.255389
+2268	Kozomín	Mělník	Středočeský kraj	27745	14.371215	50.236919
+2281	Krakov	Rakovník	Středočeský kraj	27035	13.647573	50.037468
+2282	Krakovany	Kolín	Středočeský kraj	28127	15.36897	50.066166
+2283	Krakovec	Rakovník	Středočeský kraj	27035	13.638347	50.018944
+2292	Královice	Kladno	Středočeský kraj	27401	14.055907	50.263129
+2294	Kralupy nad Vltavou	Mělník	Středočeský kraj	27801	14.310745	50.241745
+2295	Králův Dvůr	Beroun	Středočeský kraj	26701	14.034561	49.949911
+2307	Krásná Hora nad Vltavou	Příbram	Středočeský kraj	26256	14.277524	49.604711
+2309	Krásná Ves	Mladá Boleslav	Středočeský kraj	29425	14.792241	50.42478
+2333	Krhanice	Benešov	Středočeský kraj	25742	14.557463	49.856112
+2340	Krchleby	Kutná Hora	Středočeský kraj	28601	15.350407	49.888996
+2341	Krchleby	Nymburk	Středočeský kraj	28802	15.022812	50.239265
+2343	Krňany	Benešov	Středočeský kraj	25744	14.477553	49.844913
+2345	Krnsko	Mladá Boleslav	Středočeský kraj	29431	14.863152	50.372511
+2349	Kropáčova Vrutice	Mladá Boleslav	Středočeský kraj	29479	14.717485	50.330635
+2350	Kroučová	Rakovník	Středočeský kraj	27054	13.784056	50.206875
+2354	Krty	Rakovník	Středočeský kraj	27033	13.432026	50.091708
+2360	Krupá	Kolín	Středočeský kraj	28163	14.871405	50.017461
+2361	Krupá	Rakovník	Středočeský kraj	27009	13.731687	50.174955
+2363	Krušovice	Rakovník	Středočeský kraj	27053	13.775232	50.172357
+2365	Krychnov	Kolín	Středočeský kraj	28002	15.057761	50.006062
+2370	Křečhoř	Kolín	Středočeský kraj	28002	15.127128	50.025621
+2371	Křečkov	Nymburk	Středočeský kraj	29001	15.114377	50.180061
+2372	Křečovice	Benešov	Středočeský kraj	25756	14.475637	49.721417
+2378	Křenek	Praha-východ	Středočeský kraj	27714	14.629558	50.229642
+2380	Křenice	Praha-východ	Středočeský kraj	25084	14.668617	50.031104
+2386	Křepenice	Příbram	Středočeský kraj	26401	14.347666	49.702999
+2389	Křesetice	Kutná Hora	Středočeský kraj	28547	15.262953	49.907238
+2393	Křešín	Příbram	Středočeský kraj	26223	13.948174	49.799554
+2399	Křinec	Nymburk	Středočeský kraj	28933	15.137929	50.264587
+2403	Křivoklát	Rakovník	Středočeský kraj	27023	13.870474	50.037956
+2404	Křivsoudov	Benešov	Středočeský kraj	25766	15.087465	49.633077
+2413	Křížkový Újezdec	Praha-východ	Středočeský kraj	25168	14.585468	49.930882
+2419	Kšely	Kolín	Středočeský kraj	28201	14.902034	50.04352
+2423	Kublov	Beroun	Středočeský kraj	26741	13.876779	49.943803
+2445	Kunice	Praha-východ	Středočeský kraj	25163	14.671607	49.936652
+2451	Kuňovice	Benešov	Středočeský kraj	25765	14.999521	49.658386
+2466	Kutná Hora	Kutná Hora	Středočeský kraj	28401	15.268754	49.952531
+2467	Kutrovice	Kladno	Středočeský kraj	27375	14.018974	50.261654
+2475	Květnice	Praha-východ	Středočeský kraj	25084	14.684222	50.057363
+2479	Kvílice	Kladno	Středočeský kraj	27375	14.002429	50.258155
+2493	Kyšice	Kladno	Středočeský kraj	27351	14.106343	50.091291
+2495	Kytín	Praha-západ	Středočeský kraj	25210	14.219156	49.850721
+2509	Lány	Kladno	Středočeský kraj	27061	13.950519	50.124811
+2515	Lašovice	Rakovník	Středočeský kraj	27021	13.78231	50.05506
+2519	Láz	Příbram	Středočeský kraj	26241	13.916712	49.652138
+2525	Lázně Toušeň	Praha-východ	Středočeský kraj	25089	14.716112	50.16937
+2528	Lazsko	Příbram	Středočeský kraj	26231	14.003954	49.623599
+2535	Lážovice	Beroun	Středočeský kraj	26724	14.071383	49.85831
+2540	Ledce	Kladno	Středočeský kraj	27305	14.005095	50.196529
+2541	Ledce	Mladá Boleslav	Středočeský kraj	29447	15.084579	50.353466
+2542	Ledčice	Mělník	Středočeský kraj	27708	14.294576	50.341051
+2544	Ledečko	Kutná Hora	Středočeský kraj	28506	14.94898	49.84992
+2569	Lešany	Benešov	Středočeský kraj	25744	14.525051	49.844269
+2570	Lešetice	Příbram	Středočeský kraj	26231	14.02119	49.647301
+2583	Lety	Praha-západ	Středočeský kraj	25229	14.255311	49.9211
+2589	Lhota	Kladno	Středočeský kraj	27301	14.011917	50.088744
+2590	Lhota	Praha-východ	Středočeský kraj	27714	14.65652	50.243309
+2598	Lhota u Příbramě	Příbram	Středočeský kraj	26101	13.980642	49.714255
+2606	Lhotka	Beroun	Středočeský kraj	26723	13.996335	49.83232
+2607	Lhotka	Mělník	Středočeský kraj	27731	14.548888	50.371468
+2611	Lhotky	Mladá Boleslav	Středočeský kraj	29406	15.052956	50.396401
+2621	Libčice nad Vltavou	Praha-západ	Středočeský kraj	25266	14.362784	50.199129
+2624	Liběchov	Mělník	Středočeský kraj	27721	14.446855	50.407939
+2628	Libenice	Kolín	Středočeský kraj	28002	15.258007	49.984575
+2631	Libeř	Praha-západ	Středočeský kraj	25241	14.480724	49.924257
+2635	Líbeznice	Praha-východ	Středočeský kraj	25065	14.493682	50.192079
+2636	Libež	Benešov	Středočeský kraj	25726	14.916873	49.757522
+2640	Libice nad Cidlinou	Nymburk	Středočeský kraj	28907	15.178306	50.126874
+2644	Libiš	Mělník	Středočeský kraj	27711	14.50251	50.274275
+2650	Liblice	Mělník	Středočeský kraj	27732	14.590516	50.31343
+2656	Libodřice	Kolín	Středočeský kraj	28002	15.088387	50.004416
+2659	Libochovičky	Kladno	Středočeský kraj	27342	14.239708	50.172676
+2661	Libomyšl	Beroun	Středočeský kraj	26723	13.998731	49.872637
+2668	Libovice	Kladno	Středočeský kraj	27379	14.016452	50.235701
+2673	Libušín	Kladno	Středočeský kraj	27306	14.05469	50.168293
+2677	Lidice	Kladno	Středočeský kraj	27354	14.190234	50.143626
+2682	Lichoceves	Praha-západ	Středočeský kraj	25264	14.284353	50.152863
+2688	Lipec	Kolín	Středočeský kraj	28126	15.364668	50.085084
+2694	Lipník	Mladá Boleslav	Středočeský kraj	29443	14.912532	50.272647
+2714	Líský	Kladno	Středočeský kraj	27376	13.929036	50.250661
+2716	Lišany	Rakovník	Středočeský kraj	27052	13.742038	50.147452
+2726	Líšnice	Praha-západ	Středočeský kraj	25210	14.319068	49.888884
+2732	Liteň	Beroun	Středočeský kraj	26727	14.149092	49.903811
+2735	Litichovice	Benešov	Středočeský kraj	25726	14.850678	49.783034
+2753	Lobeč	Mělník	Středočeský kraj	27736	14.666882	50.460567
+2758	Loděnice	Beroun	Středočeský kraj	26712	14.157959	49.994962
+2763	Lochovice	Beroun	Středočeský kraj	26723	13.981372	49.853286
+2765	Loket	Benešov	Středočeský kraj	25765	15.116995	49.655592
+2780	Lošany	Kolín	Středočeský kraj	28002	15.126048	49.99764
+2782	Loucká	Kladno	Středočeský kraj	27324	14.239126	50.327578
+2784	Loučeň	Nymburk	Středočeský kraj	28937	15.02016	50.285812
+2796	Loukov	Mladá Boleslav	Středočeský kraj	29411	15.035739	50.561381
+2798	Loukovec	Mladá Boleslav	Středočeský kraj	29411	15.015815	50.562014
+2801	Louňovice	Praha-východ	Středočeský kraj	25162	14.761849	49.982366
+2802	Louňovice pod Blaníkem	Benešov	Středočeský kraj	25706	14.846795	49.637336
+2813	Lštění	Benešov	Středočeský kraj	25722	14.71437	49.864385
+2818	Lubná	Rakovník	Středočeský kraj	27036	13.700847	50.07703
+2856	Luštěnice	Mladá Boleslav	Středočeský kraj	29442	14.93678	50.323059
+2863	Lužce	Beroun	Středočeský kraj	26718	14.196827	49.98422
+2866	Lužec nad Vltavou	Mělník	Středočeský kraj	27706	14.400326	50.321488
+2872	Lužná	Rakovník	Středočeský kraj	27051	13.770152	50.123876
+2875	Lysá nad Labem	Nymburk	Středočeský kraj	28922	14.832919	50.201532
+2885	Makotřasy	Kladno	Středočeský kraj	27354	14.214806	50.144584
+2889	Malá Hraštice	Příbram	Středočeský kraj	26203	14.279979	49.807609
+2899	Malá Víska	Beroun	Středočeský kraj	26762	13.875624	49.776121
+2905	Malé Kyšice	Kladno	Středočeský kraj	27351	14.09042	50.061193
+2906	Malé Přítočno	Kladno	Středočeský kraj	27351	14.135713	50.107798
+2914	Malešov	Kutná Hora	Středočeský kraj	28541	15.224443	49.911117
+2921	Malíkovice	Kladno	Středočeský kraj	27377	13.982657	50.211503
+2923	Malinová	Rakovník	Středočeský kraj	27035	13.667032	50.047922
+2924	Málkov	Beroun	Středočeský kraj	26701	14.023652	49.888313
+2927	Malotice	Kolín	Středočeský kraj	28163	14.977728	49.965299
+2934	Malý Újezd	Mělník	Středočeský kraj	27731	14.529687	50.33257
+2948	Maršovice	Benešov	Středočeský kraj	25755	14.564615	49.71367
+2958	Máslovice	Praha-východ	Středočeský kraj	25069	14.37903	50.208722
+2959	Masojedy	Kolín	Středočeský kraj	28201	14.777985	50.026078
+2966	Mcely	Nymburk	Středočeský kraj	28936	15.075984	50.294356
+2968	Mečeříž	Mladá Boleslav	Středočeský kraj	29477	14.7369	50.29048
+2977	Medonosy	Mělník	Středočeský kraj	27721	14.487049	50.494256
+2979	Měchenice	Praha-západ	Středočeský kraj	25206	14.389375	49.908274
+2985	Mělnické Vtelno	Mělník	Středočeský kraj	27738	14.695218	50.352413
+2986	Mělník	Mělník	Středočeský kraj	27601	14.481881	50.354002
+2987	Měňany	Beroun	Středočeský kraj	26727	14.117791	49.910104
+2998	Městec Králové	Nymburk	Středočeský kraj	28903	15.297687	50.207281
+2999	Městečko	Rakovník	Středočeský kraj	27023	13.86367	50.050739
+3004	Měšice	Praha-východ	Středočeský kraj	25064	14.520024	50.198097
+3022	Mezno	Benešov	Středočeský kraj	25786	14.64504	49.534622
+3023	Mezouň	Beroun	Středočeský kraj	26718	14.214277	50.004378
+3042	Milčice	Nymburk	Středočeský kraj	28911	14.991803	50.10547
+3047	Milešov	Příbram	Středočeský kraj	26256	14.22151	49.589338
+3052	Miličín	Benešov	Středočeský kraj	25786	14.66151	49.570793
+3057	Milín	Příbram	Středočeský kraj	26231	14.046103	49.632028
+3063	Milostín	Rakovník	Středočeský kraj	27004	13.669209	50.193824
+3068	Milovice	Nymburk	Středočeský kraj	28924	14.888739	50.226061
+3070	Milý	Rakovník	Středočeský kraj	27054	13.867148	50.232771
+3079	Mirošovice	Praha-východ	Středočeský kraj	25166	14.711306	49.909949
+3087	Miřetice	Benešov	Středočeský kraj	25765	14.976635	49.659049
+3089	Miskovice	Kutná Hora	Středočeský kraj	28501	15.204823	49.946226
+3096	Mladá Boleslav	Mladá Boleslav	Středočeský kraj	29301	14.908538	50.413525
+3122	Mnichovice	Benešov	Středočeský kraj	25765	15.039688	49.668707
+3123	Mnichovice	Praha-východ	Středočeský kraj	25164	14.709175	49.936117
+3124	Mnichovo Hradiště	Mladá Boleslav	Středočeský kraj	29501	14.972104	50.527029
+3126	Mníšek pod Brdy	Praha-západ	Středočeský kraj	25210	14.261865	49.866601
+3128	Močovice	Kutná Hora	Středočeský kraj	28601	15.348298	49.906414
+3130	Modletice	Praha-východ	Středočeský kraj	25101	14.591186	49.97026
+3137	Modřovice	Příbram	Středočeský kraj	26242	13.956485	49.617462
+3140	Mohelnice nad Jizerou	Mladá Boleslav	Středočeský kraj	29413	14.977625	50.559891
+3142	Mochov	Praha-východ	Středočeský kraj	25087	14.795066	50.141925
+3152	Mokrovraty	Příbram	Středočeský kraj	26203	14.25023	49.795772
+3182	Mořina	Beroun	Středočeský kraj	26717	14.20874	49.95294
+3183	Mořinka	Beroun	Středočeský kraj	26718	14.237277	49.939081
+3194	Mrač	Benešov	Středočeský kraj	25721	14.690616	49.829754
+3198	Mratín	Praha-východ	Středočeský kraj	25063	14.551084	50.203151
+3202	Mrzky	Kolín	Středočeský kraj	28201	14.810127	50.044722
+3204	Mšec	Rakovník	Středočeský kraj	27064	13.898432	50.205291
+3205	Mšecké Žehrovice	Rakovník	Středočeský kraj	27064	13.923232	50.179113
+3207	Mšeno	Mělník	Středočeský kraj	27735	14.632611	50.438194
+3208	Mukařov	Mladá Boleslav	Středočeský kraj	29501	14.925793	50.56925
+3209	Mukařov	Praha-východ	Středočeský kraj	25162	14.741654	49.991254
+3210	Mutějovice	Rakovník	Středočeský kraj	27007	13.709619	50.194353
+3232	Načeradec	Benešov	Středočeský kraj	25708	14.906434	49.610286
+3243	Nalžovice	Příbram	Středočeský kraj	26293	14.370852	49.69869
+3249	Narysov	Příbram	Středočeský kraj	26101	13.970987	49.640955
+3261	Nebovidy	Kolín	Středočeský kraj	28002	15.219584	49.991627
+3263	Nebužely	Mělník	Středočeský kraj	27734	14.5909	50.390406
+3264	Nečín	Příbram	Středočeský kraj	26213	14.23414	49.698546
+3272	Nedomice	Mělník	Středočeský kraj	27714	14.616064	50.259765
+3273	Nedrahovice	Příbram	Středočeský kraj	26401	14.455837	49.609069
+3277	Nehvizdy	Praha-východ	Středočeský kraj	25081	14.730041	50.130663
+3279	Nechvalice	Příbram	Středočeský kraj	26401	14.396667	49.576649
+3286	Nelahozeves	Mělník	Středočeský kraj	27751	14.298919	50.261583
+3297	Němčice	Kolín	Středočeský kraj	28002	15.294147	50.084482
+3298	Němčice	Mladá Boleslav	Středočeský kraj	29442	14.926664	50.346866
+3312	Nemyslovice	Mladá Boleslav	Středočeský kraj	29429	14.76393	50.358549
+3314	Nenačovice	Beroun	Středočeský kraj	26601	14.139071	50.019222
+3319	Nepoměřice	Kutná Hora	Středočeský kraj	28511	15.148908	49.880863
+3321	Nepomuk	Příbram	Středočeský kraj	26242	13.837368	49.642895
+3323	Neprobylice	Kladno	Středočeský kraj	27375	14.027719	50.264054
+3324	Nepřevázka	Mladá Boleslav	Středočeský kraj	29301	14.916429	50.378415
+3326	Neratovice	Mělník	Středočeský kraj	27711	14.517703	50.259361
+3330	Nespeky	Benešov	Středočeský kraj	25722	14.659464	49.859411
+3331	Nestrašovice	Příbram	Středočeský kraj	26272	14.026157	49.560455
+3332	Nesuchyně	Rakovník	Středočeský kraj	27007	13.688009	50.179666
+3334	Nesvačily	Beroun	Středočeský kraj	26727	14.124461	49.881363
+3338	Netřebice	Nymburk	Středočeský kraj	28802	15.142899	50.213205
+3340	Netvořice	Benešov	Středočeský kraj	25744	14.518381	49.815795
+3343	Neuměřice	Kladno	Středočeský kraj	27326	14.220097	50.241781
+3344	Neumětely	Beroun	Středočeský kraj	26724	14.036716	49.852562
+3346	Neustupov	Benešov	Středočeský kraj	25786	14.698704	49.615106
+3348	Neveklov	Benešov	Středočeský kraj	25756	14.533011	49.753835
+3349	Neveklovice	Mladá Boleslav	Středočeský kraj	29413	14.948481	50.570239
+3356	Nezabudice	Rakovník	Středočeský kraj	27023	13.822228	50.013274
+3370	Niměřice	Mladá Boleslav	Středočeský kraj	29430	14.808547	50.39588
+3376	Nižbor	Beroun	Středočeský kraj	26705	14.001056	49.999065
+3381	Nosálov	Mělník	Středočeský kraj	27735	14.670766	50.473589
+3397	Nová Telib	Mladá Boleslav	Středočeský kraj	29406	15.032963	50.39127
+3410	Nová Ves	Mělník	Středočeský kraj	27752	14.308286	50.312898
+3411	Nová Ves	Praha-východ	Středočeský kraj	25063	14.535739	50.219324
+3413	Nová Ves I	Kolín	Středočeský kraj	28002	15.144556	50.052246
+3417	Nová Ves pod Pleší	Příbram	Středočeský kraj	26204	14.275336	49.831865
+3418	Nová Ves u Bakova	Mladá Boleslav	Středočeský kraj	29401	14.926496	50.490776
+3429	Nové Dvory	Kutná Hora	Středočeský kraj	28531	15.324978	49.970682
+3430	Nové Dvory	Příbram	Středočeský kraj	26203	14.357021	49.803328
+3448	Nové Strašecí	Rakovník	Středočeský kraj	27101	13.900538	50.152823
+3458	Nový Dům	Rakovník	Středočeský kraj	26901	13.831001	50.08824
+3459	Nový Dvůr	Nymburk	Středočeský kraj	28932	15.022165	50.238112
+3462	Nový Jáchymov	Beroun	Středočeský kraj	26703	13.943296	49.980867
+3465	Nový Knín	Příbram	Středočeský kraj	26203	14.293661	49.788108
+3476	Nový Vestec	Praha-východ	Středočeský kraj	25075	14.720401	50.183861
+3477	Nučice	Praha-východ	Středočeský kraj	28163	14.8845	49.955626
+3478	Nučice	Praha-západ	Středočeský kraj	25216	14.230078	50.018581
+3479	Nupaky	Praha-východ	Středočeský kraj	25101	14.602336	49.994052
+3482	Nymburk	Nymburk	Středočeský kraj	28802	15.04376	50.185682
+3486	Občov	Příbram	Středočeský kraj	26101	14.066994	49.713206
+3487	Obecnice	Příbram	Středočeský kraj	26221	13.947414	49.716261
+3495	Obory	Příbram	Středočeský kraj	26301	14.216474	49.680504
+3496	Obořiště	Příbram	Středočeský kraj	26212	14.151959	49.742352
+3499	Obrubce	Mladá Boleslav	Středočeský kraj	29404	15.06372	50.447959
+3500	Obruby	Mladá Boleslav	Středočeský kraj	29403	15.082414	50.460227
+3501	Obříství	Mělník	Středočeský kraj	27742	14.478492	50.295983
+3507	Odolena Voda	Praha-východ	Středočeský kraj	25070	14.410889	50.233515
+3511	Odřepsy	Nymburk	Středočeský kraj	28907	15.188842	50.14424
+3513	Ohaře	Kolín	Středočeský kraj	28130	15.29512	50.097882
+3520	Ohrazenice	Příbram	Středočeský kraj	26223	13.959817	49.78714
+3521	Ohrobec	Praha-západ	Středočeský kraj	25245	14.432139	49.941829
+3528	Okoř	Praha-západ	Středočeský kraj	25264	14.258724	50.162011
+3537	Okrouhlo	Praha-západ	Středočeský kraj	25401	14.447417	49.918924
+3538	Okřesaneč	Kutná Hora	Středočeský kraj	28601	15.475842	49.852528
+3540	Okřínek	Nymburk	Středočeský kraj	29001	15.192429	50.164391
+3547	Olbramovice	Benešov	Středočeský kraj	25901	14.640953	49.67328
+3556	Oleška	Praha-východ	Středočeský kraj	28162	14.916786	49.971695
+3561	Olešná	Beroun	Středočeský kraj	26764	13.810119	49.780462
+3562	Olešná	Rakovník	Středočeský kraj	26901	13.695961	50.128597
+3573	Olovnice	Mělník	Středočeský kraj	27326	14.240487	50.234699
+3587	Ondřejov	Praha-východ	Středočeský kraj	25165	14.78431	49.904717
+3588	Onomyšl	Kutná Hora	Středočeský kraj	28504	15.12436	49.89933
+3598	Opatovice I	Kutná Hora	Středočeský kraj	28601	15.248583	49.85525
+3601	Oplany	Praha-východ	Středočeský kraj	28163	14.867406	49.924267
+3604	Opočnice	Nymburk	Středočeský kraj	28904	15.257777	50.172581
+3607	Opolany	Nymburk	Středočeský kraj	28907	15.217103	50.130814
+3610	Oráčov	Rakovník	Středočeský kraj	27032	13.549003	50.111647
+3618	Ořech	Praha-západ	Středočeský kraj	25225	14.296653	50.020209
+3623	Osečany	Příbram	Středočeský kraj	26401	14.437729	49.697825
+3624	Oseček	Nymburk	Středočeský kraj	28941	15.148691	50.10165
+3631	Osek	Beroun	Středočeský kraj	26762	13.858627	49.819743
+3641	Oskořínek	Nymburk	Středočeský kraj	28932	15.084104	50.240157
+3648	Osov	Beroun	Středočeský kraj	26725	14.08402	49.844478
+3653	Ostrá	Nymburk	Středočeský kraj	28922	14.893003	50.180537
+3663	Ostrov	Benešov	Středočeský kraj	25706	14.851197	49.665402
+3664	Ostrov	Příbram	Středočeský kraj	26272	14.014609	49.611219
+3676	Ostředek	Benešov	Středočeský kraj	25724	14.8324	49.834893
+3690	Otmíče	Beroun	Středočeský kraj	26751	13.947252	49.869145
+3697	Otročiněves	Beroun	Středočeský kraj	26703	13.978869	49.980598
+3700	Otvovice	Kladno	Středočeský kraj	27327	14.27303	50.211664
+3701	Ouběnice	Příbram	Středočeský kraj	26301	14.159939	49.717747
+3704	Ovčáry	Kolín	Středočeský kraj	28002	15.239607	50.062882
+3705	Ovčáry	Mělník	Středočeský kraj	27714	14.613962	50.253151
+3709	Paběnice	Kutná Hora	Středočeský kraj	28543	15.302429	49.84174
+3715	Páleč	Kladno	Středočeský kraj	27371	14.049685	50.312029
+3721	Panenské Břežany	Praha-východ	Středočeský kraj	25070	14.44021	50.213867
+3723	Panoší Újezd	Rakovník	Středočeský kraj	27021	13.716918	50.036103
+3738	Pašinka	Kolín	Středočeský kraj	28002	15.186297	49.996452
+3740	Pátek	Nymburk	Středočeský kraj	29001	15.158562	50.165617
+3743	Pavlíkov	Rakovník	Středočeský kraj	27021	13.73647	50.056094
+3751	Pavlov	Kladno	Středočeský kraj	27351	14.167154	50.096481
+3752	Pavlovice	Benešov	Středočeský kraj	25801	14.933216	49.715216
+3760	Pečice	Příbram	Středočeský kraj	26232	14.105591	49.600518
+3761	Pěčice	Mladá Boleslav	Středočeský kraj	29446	15.004099	50.35125
+3763	Pečky	Kolín	Středočeský kraj	28911	15.030275	50.090527
+3777	Pertoltice	Kutná Hora	Středočeský kraj	28522	15.181716	49.75491
+3782	Pětihosty	Praha-východ	Středočeský kraj	25167	14.705522	49.886462
+3783	Pětikozly	Mladá Boleslav	Středočeský kraj	29430	14.811952	50.411512
+3785	Petkovy	Mladá Boleslav	Středočeský kraj	29404	15.076925	50.413286
+3788	Petroupim	Benešov	Středočeský kraj	25601	14.752698	49.808356
+3791	Petrov	Praha-západ	Středočeský kraj	25281	14.433839	49.886498
+3799	Petrovice	Příbram	Středočeský kraj	26255	14.337472	49.554366
+3800	Petrovice	Rakovník	Středočeský kraj	27035	13.63928	50.067363
+3802	Petrovice I	Kutná Hora	Středočeský kraj	28601	15.297295	49.811063
+3803	Petrovice II	Kutná Hora	Středočeský kraj	28522	15.063514	49.81004
+3810	Petříkov	Praha-východ	Středočeský kraj	25169	14.617066	49.925301
+3813	Pchery	Kladno	Středočeský kraj	27308	14.117927	50.193882
+3814	Pičín	Příbram	Středočeský kraj	26225	14.057909	49.745546
+3827	Písková Lhota	Mladá Boleslav	Středočeský kraj	29431	14.874736	50.367841
+3828	Písková Lhota	Nymburk	Středočeský kraj	29001	15.065865	50.131421
+3830	Písty	Nymburk	Středočeský kraj	28913	15.001364	50.164646
+3841	Plaňany	Kolín	Středočeský kraj	28104	15.029546	50.050204
+3850	Plazy	Mladá Boleslav	Středočeský kraj	29301	14.975134	50.414136
+3855	Pletený Újezd	Kladno	Středočeský kraj	27351	14.116178	50.109433
+3857	Plchov	Kladno	Středočeský kraj	27375	13.986724	50.255276
+3863	Plužná	Mladá Boleslav	Středočeský kraj	29423	14.804269	50.473807
+3868	Pňov-Předhradí	Kolín	Středočeský kraj	28941	15.147597	50.086521
+3873	Počaply	Příbram	Středočeský kraj	26272	13.983561	49.538772
+3877	Počepice	Příbram	Středočeský kraj	26255	14.380945	49.596115
+3881	Podbrdy	Beroun	Středočeský kraj	26727	14.126698	49.863079
+3884	Poděbrady	Nymburk	Středočeský kraj	29001	15.118988	50.142525
+3898	Podlesí	Příbram	Středočeský kraj	26101	13.981947	49.690395
+3899	Podlešín	Kladno	Středočeský kraj	27325	14.160368	50.221126
+3900	Podluhy	Beroun	Středočeský kraj	26801	13.91363	49.815724
+3905	Podmoky	Nymburk	Středočeský kraj	28904	15.232291	50.191564
+3908	Podolanka	Praha-východ	Středočeský kraj	25073	14.601033	50.159219
+3919	Podveky	Kutná Hora	Středočeský kraj	28506	14.994103	49.825146
+3930	Pohoří	Praha-západ	Středočeský kraj	25401	14.525125	49.900021
+3931	Pochvalov	Rakovník	Středočeský kraj	27055	13.794371	50.227542
+3938	Polepy	Kolín	Středočeský kraj	28002	15.206086	50.004771
+3940	Polerady	Praha-východ	Středočeský kraj	25063	14.593492	50.200671
+3954	Polní Chrčice	Kolín	Středočeský kraj	28002	15.296802	50.110106
+3955	Polní Voděrady	Kolín	Středočeský kraj	28002	15.095338	49.992409
+3970	Popovice	Benešov	Středočeský kraj	25701	14.75256	49.695492
+3972	Popovičky	Praha-východ	Středočeský kraj	25101	14.597904	49.962644
+3975	Poříčany	Kolín	Středočeský kraj	28914	14.918285	50.108165
+3976	Poříčí nad Sázavou	Benešov	Středočeský kraj	25721	14.674564	49.839058
+3982	Postřižín	Mělník	Středočeský kraj	25070	14.386813	50.233091
+3983	Postupice	Benešov	Středočeský kraj	25701	14.777499	49.728144
+3985	Poštovice	Kladno	Středočeský kraj	27372	14.137949	50.312793
+3987	Potěhy	Kutná Hora	Středočeský kraj	28563	15.4202	49.86946
+3997	Pozdeň	Kladno	Středočeský kraj	27376	13.943656	50.242157
+4013	Praskolesy	Beroun	Středočeský kraj	26754	13.933537	49.865986
+4018	Pravonín	Benešov	Středočeský kraj	25709	14.943477	49.635687
+4024	Prodašice	Mladá Boleslav	Středočeský kraj	29404	15.116768	50.350064
+4033	Prosenická Lhota	Příbram	Středočeský kraj	26401	14.482797	49.689735
+4050	Průhonice	Praha-západ	Středočeský kraj	25243	14.560406	50.001815
+4051	Prusice	Praha-východ	Středočeský kraj	28163	14.877965	49.968457
+4062	Předboj	Praha-východ	Středočeský kraj	25072	14.476835	50.225492
+4067	Předměřice nad Jizerou	Mladá Boleslav	Středočeský kraj	29474	14.781377	50.25558
+4076	Přehvozdí	Kolín	Středočeský kraj	28163	14.840073	50.027508
+4079	Přelíc	Kladno	Středočeský kraj	27305	14.045964	50.20572
+4084	Přepeře	Mladá Boleslav	Středočeský kraj	29404	15.101992	50.467724
+4088	Přerov nad Labem	Nymburk	Středočeský kraj	28916	14.825129	50.16037
+4089	Přerubenice	Rakovník	Středočeský kraj	27054	13.841132	50.217271
+4096	Přestavlky u Čerčan	Benešov	Středočeský kraj	25723	14.74423	49.8531
+4102	Přezletice	Praha-východ	Středočeský kraj	25073	14.575506	50.155303
+4105	Příbram	Příbram	Středočeský kraj	26101	13.999045	49.685532
+4112	Příčina	Rakovník	Středočeský kraj	27035	13.667379	50.065833
+4113	Příčovy	Příbram	Středočeský kraj	26401	14.389683	49.672874
+4119	Přílepy	Rakovník	Středočeský kraj	27001	13.632702	50.123281
+4126	Přistoupim	Kolín	Středočeský kraj	28201	14.878688	50.054216
+4127	Přišimasy	Kolín	Středočeský kraj	28201	14.764	50.049615
+4135	Psáry	Praha-západ	Středočeský kraj	25244	14.512867	49.93632
+4136	Psáře	Benešov	Středočeský kraj	25801	14.96193	49.755783
+4140	Pšovlky	Rakovník	Středočeský kraj	27031	13.594013	50.107947
+4143	Ptice	Praha-západ	Středočeský kraj	25218	14.166076	50.05287
+4144	Ptýrov	Mladá Boleslav	Středočeský kraj	29501	14.947236	50.504933
+4156	Pustověty	Rakovník	Středočeský kraj	27023	13.814115	50.055708
+4160	Pyšely	Benešov	Středočeský kraj	25167	14.677239	49.876884
+4161	Rabakov	Mladá Boleslav	Středočeský kraj	29404	15.101648	50.38575
+4165	Rabyně	Benešov	Středočeský kraj	25208	14.436202	49.81429
+4171	Račice	Rakovník	Středočeský kraj	27024	13.923039	50.024833
+4180	Radějovice	Praha-východ	Středočeský kraj	25168	14.564877	49.947328
+4186	Radětice	Příbram	Středočeský kraj	26231	14.078828	49.639925
+4189	Radíč	Příbram	Středočeský kraj	26401	14.417497	49.714764
+4193	Radim	Kolín	Středočeský kraj	28103	15.012548	50.070165
+4213	Radonice	Praha-východ	Středočeský kraj	25073	14.610368	50.143163
+4225	Radošovice	Benešov	Středočeský kraj	25726	14.867658	49.741095
+4229	Radovesnice I	Kolín	Středočeský kraj	28002	15.151007	50.010493
+4230	Radovesnice II	Kolín	Středočeský kraj	28128	15.367826	50.104165
+4248	Rakovník	Rakovník	Středočeský kraj	26901	13.739762	50.106223
+4265	Rašovice	Kutná Hora	Středočeský kraj	28504	15.102485	49.882642
+4267	Rataje	Benešov	Středočeský kraj	25801	14.97055	49.704164
+4269	Rataje nad Sázavou	Kutná Hora	Středočeský kraj	28507	14.956827	49.841949
+4270	Ratboř	Kolín	Středočeský kraj	28141	15.159345	49.978185
+4271	Ratenice	Kolín	Středočeský kraj	28911	15.059361	50.09171
+4276	Ratměřice	Benešov	Středočeský kraj	25703	14.756277	49.643355
+4283	Roblín	Praha-západ	Středočeský kraj	25226	14.248667	49.961936
+4290	Rohatsko	Mladá Boleslav	Středočeský kraj	29404	15.104846	50.440386
+4296	Rohozec	Kutná Hora	Středočeský kraj	28401	15.384746	49.97612
+4307	Rokytá	Mladá Boleslav	Středočeský kraj	29501	14.869309	50.563767
+4315	Rokytovec	Mladá Boleslav	Středočeský kraj	29430	14.830785	50.406627
+4324	Rosovice	Příbram	Středočeský kraj	26211	14.109079	49.756754
+4326	Rostoklaty	Kolín	Středočeský kraj	28171	14.801559	50.074329
+4359	Roztoky	Praha-západ	Středočeský kraj	25263	14.397712	50.158516
+4360	Roztoky	Rakovník	Středočeský kraj	27023	13.867976	50.02682
+4364	Rožďalovice	Nymburk	Středočeský kraj	28934	15.169724	50.304864
+4367	Rožmitál pod Třemšínem	Příbram	Středočeský kraj	26242	13.865835	49.601864
+4371	Rpety	Beroun	Středočeský kraj	26801	13.938596	49.828376
+4375	Ruda	Rakovník	Středočeský kraj	27101	13.875801	50.14089
+4384	Rudná	Praha-západ	Středočeský kraj	25219	14.234454	50.035128
+4408	Rybníky	Příbram	Středočeský kraj	26301	14.206005	49.752744
+4419	Rynholec	Rakovník	Středočeský kraj	27062	13.922328	50.138031
+4426	Řehenice	Benešov	Středočeský kraj	25167	14.650331	49.869849
+4431	Řendějov	Kutná Hora	Středočeský kraj	28522	15.080471	49.767946
+4434	Řepín	Mělník	Středočeský kraj	27733	14.634675	50.366642
+4437	Řepov	Mladá Boleslav	Středočeský kraj	29301	14.957103	50.402437
+4438	Řeřichy	Rakovník	Středočeský kraj	27035	13.585937	50.079276
+4442	Řevnice	Praha-západ	Středočeský kraj	25230	14.235875	49.914064
+4443	Řevničov	Rakovník	Středočeský kraj	27054	13.808344	50.184992
+4446	Říčany	Praha-východ	Středočeský kraj	25101	14.654376	49.991778
+4457	Řimovice	Benešov	Středočeský kraj	25801	14.943106	49.696448
+4459	Řisuty	Kladno	Středočeský kraj	27378	14.005087	50.216592
+4460	Řitka	Praha-západ	Středočeský kraj	25203	14.299341	49.894619
+4461	Řitonice	Mladá Boleslav	Středočeský kraj	29404	15.108053	50.408309
+4463	Sádek	Příbram	Středočeský kraj	26101	13.98323	49.733317
+4466	Sadská	Nymburk	Středočeský kraj	28912	14.98644	50.136066
+4469	Samopše	Kutná Hora	Středočeský kraj	28506	14.929498	49.861533
+4473	Sány	Nymburk	Středočeský kraj	28906	15.247746	50.124752
+4476	Sázava	Benešov	Středočeský kraj	28506	14.896842	49.871745
+4478	Sazená	Kladno	Středočeský kraj	27324	14.287363	50.305277
+4489	Sedlčany	Příbram	Středočeský kraj	26401	14.426744	49.660677
+4494	Sedlec	Mladá Boleslav	Středočeský kraj	29471	14.79583	50.300839
+4495	Sedlec	Praha-východ	Středočeský kraj	25065	14.457979	50.186836
+4497	Sedlec-Prčice	Příbram	Středočeský kraj	25791	14.533106	49.573311
+4503	Sedlice	Příbram	Středočeský kraj	26242	13.880889	49.621869
+4513	Seletice	Nymburk	Středočeský kraj	28934	15.097101	50.320442
+4517	Semčice	Mladá Boleslav	Středočeský kraj	29446	15.007012	50.368272
+4519	Semice	Nymburk	Středočeský kraj	28917	14.871579	50.164267
+4523	Semtěš	Kutná Hora	Středočeský kraj	28601	15.514411	49.960036
+4526	Senec	Rakovník	Středočeský kraj	27036	13.706979	50.066842
+4528	Senice	Nymburk	Středočeský kraj	29001	15.207677	50.184332
+4532	Senohraby	Praha-východ	Středočeský kraj	25166	14.718199	49.895504
+4533	Senomaty	Rakovník	Středočeský kraj	27031	13.653828	50.098281
+4539	Sezemice	Mladá Boleslav	Středočeský kraj	29411	15.005199	50.58565
+4541	Schořov	Kutná Hora	Středočeský kraj	28601	15.380002	49.858229
+4542	Sibřina	Praha-východ	Středočeský kraj	25084	14.669513	50.056746
+4559	Skalsko	Mladá Boleslav	Středočeský kraj	29426	14.759137	50.427224
+4572	Skorkov	Mladá Boleslav	Středočeský kraj	29474	14.749378	50.231801
+4585	Skryje	Rakovník	Středočeský kraj	27042	13.764601	49.964953
+4587	Skřipel	Beroun	Středočeský kraj	26724	14.067132	49.842088
+4593	Skuhrov	Beroun	Středočeský kraj	26727	14.146829	49.87342
+4596	Skvrňov	Kolín	Středočeský kraj	28144	15.001923	49.897204
+4597	Slabce	Rakovník	Středočeský kraj	27041	13.714888	50.000175
+4601	Slaný	Kladno	Středočeský kraj	27401	14.087044	50.230562
+4604	Slapy	Praha-západ	Středočeský kraj	25208	14.396225	49.815412
+4611	Slatina	Kladno	Středočeský kraj	27326	14.220845	50.224262
+4637	Slavošov	Kutná Hora	Středočeský kraj	28522	15.152072	49.762279
+4647	Sloveč	Nymburk	Středočeský kraj	28903	15.326892	50.229948
+4648	Slověnice	Benešov	Středočeský kraj	25726	14.885194	49.757388
+4649	Sluhy	Praha-východ	Středočeský kraj	25063	14.557782	50.192538
+4653	Sluštice	Praha-východ	Středočeský kraj	25084	14.685507	50.039141
+4656	Smečno	Kladno	Středočeský kraj	27305	14.040474	50.188542
+4660	Smilkov	Benešov	Středočeský kraj	25789	14.617508	49.602598
+4662	Smilovice	Mladá Boleslav	Středočeský kraj	29442	14.961154	50.306626
+4663	Smilovice	Rakovník	Středočeský kraj	27054	13.807807	50.247047
+4668	Smolotely	Příbram	Středočeský kraj	26263	14.135669	49.620697
+4677	Snět	Benešov	Středočeský kraj	25768	15.226922	49.626545
+4682	Soběhrdy	Benešov	Středočeský kraj	25601	14.734312	49.821122
+4691	Soběšín	Kutná Hora	Středočeský kraj	28506	14.955973	49.791162
+4701	Sojovice	Mladá Boleslav	Středočeský kraj	29475	14.762139	50.222234
+4702	Sokoleč	Nymburk	Středočeský kraj	29001	15.107025	50.098519
+4705	Solenice	Příbram	Středočeský kraj	26263	14.195881	49.617671
+4711	Souňov	Kutná Hora	Středočeský kraj	28601	15.315664	49.880122
+4713	Soutice	Benešov	Středočeský kraj	25771	15.053023	49.726208
+4715	Sovínky	Mladá Boleslav	Středočeský kraj	29429	14.787182	50.373175
+4723	Spomyšl	Mělník	Středočeský kraj	27705	14.360631	50.33553
+4727	Srbeč	Rakovník	Středočeský kraj	27065	13.883458	50.224713
+4731	Srbsko	Beroun	Středočeský kraj	26718	14.136025	49.937271
+4746	Staňkovice	Kutná Hora	Středočeský kraj	28504	15.015192	49.875486
+4753	Stará Huť	Příbram	Středočeský kraj	26202	14.197461	49.782357
+4754	Stará Lysá	Nymburk	Středočeský kraj	28926	14.799247	50.224749
+4786	Starkoč	Kutná Hora	Středočeský kraj	28601	15.507667	49.937353
+4788	Starosedlský Hrádek	Příbram	Středočeský kraj	26272	14.008329	49.57629
+4794	Starý Kolín	Kolín	Středočeský kraj	28123	15.293985	50.009872
+4800	Starý Vestec	Nymburk	Středočeský kraj	28916	14.846456	50.144821
+4805	Stašov	Beroun	Středočeský kraj	26751	13.95763	49.883446
+4806	Statenice	Praha-západ	Středočeský kraj	25262	14.318642	50.142677
+4812	Stehelčeves	Kladno	Středočeský kraj	27342	14.190956	50.171748
+4817	Stochov	Kladno	Středočeský kraj	27303	13.96356	50.146411
+4827	Stradonice	Kladno	Středočeský kraj	27371	14.047036	50.291461
+4836	Straky	Nymburk	Středočeský kraj	28925	14.959345	50.23368
+4837	Strančice	Praha-východ	Středočeský kraj	25163	14.677553	49.948217
+4840	Stránka	Mělník	Středočeský kraj	27735	14.661242	50.423083
+4841	Stranný	Benešov	Středočeský kraj	25756	14.494082	49.753854
+4846	Strašnov	Mladá Boleslav	Středočeský kraj	29431	14.889289	50.351613
+4848	Stratov	Nymburk	Středočeský kraj	28922	14.90991	50.19305
+4857	Strážiště	Mladá Boleslav	Středočeský kraj	29413	14.929303	50.592452
+4865	Strenice	Mladá Boleslav	Středočeský kraj	29430	14.82316	50.392653
+4868	Strojetice	Benešov	Středočeský kraj	25765	15.066126	49.651638
+4870	Struhařov	Benešov	Středočeský kraj	25601	14.762317	49.765636
+4871	Struhařov	Praha-východ	Středočeský kraj	25164	14.74454	49.952026
+4880	Středokluky	Praha-západ	Středočeský kraj	25268	14.234301	50.132287
+4887	Střemy	Mělník	Středočeský kraj	27734	14.565624	50.384262
+4891	Střezimíř	Benešov	Středočeský kraj	25787	14.611434	49.532109
+4893	Stříbrná Skalice	Praha-východ	Středočeský kraj	28167	14.846268	49.897765
+4919	Studeněves	Kladno	Středočeský kraj	27379	14.044495	50.224222
+4921	Studený	Benešov	Středočeský kraj	25768	15.127817	49.607512
+4929	Sudějov	Kutná Hora	Středočeský kraj	28504	15.103948	49.860798
+4935	Sudoměř	Mladá Boleslav	Středočeský kraj	29425	14.739481	50.445088
+4939	Sudovo Hlavno	Praha-východ	Středočeský kraj	29476	14.685423	50.262851
+4945	Suchdol	Kutná Hora	Středočeský kraj	28502	15.166616	49.95257
+4948	Suchodol	Příbram	Středočeský kraj	26101	14.082522	49.724148
+4951	Suchomasty	Beroun	Středočeský kraj	26722	14.056714	49.895459
+4958	Sukorady	Mladá Boleslav	Středočeský kraj	29406	15.029101	50.426341
+4960	Sulice	Praha-východ	Středočeský kraj	25168	14.556739	49.925727
+4969	Svárov	Kladno	Středočeský kraj	27351	14.15064	50.062028
+4971	Svatá	Beroun	Středočeský kraj	26751	13.961726	49.939239
+4974	Svaté Pole	Příbram	Středočeský kraj	26301	14.169084	49.751419
+4980	Svatý Jan	Příbram	Středočeský kraj	26256	14.311096	49.636938
+4982	Svatý Jan pod Skalou	Beroun	Středočeský kraj	26601	14.133272	49.969011
+4984	Svatý Mikuláš	Kutná Hora	Středočeský kraj	28401	15.350597	49.991014
+4986	Svémyslice	Praha-východ	Středočeský kraj	25091	14.648214	50.146005
+4993	Světice	Praha-východ	Středočeský kraj	25101	14.665911	49.970179
+5005	Svinaře	Beroun	Středočeský kraj	26728	14.1844	49.891728
+5006	Svinařov	Kladno	Středočeský kraj	27305	14.050377	50.181412
+5017	Svojetice	Praha-východ	Středočeský kraj	25162	14.7386	49.971526
+5018	Svojetín	Rakovník	Středočeský kraj	27004	13.621021	50.190121
+5023	Svojšice	Kolín	Středočeský kraj	28107	15.043205	50.003239
+5024	Svojšice	Příbram	Středočeský kraj	26272	14.042977	49.572827
+5030	Svrkyně	Praha-západ	Středočeský kraj	25264	14.294955	50.171469
+5032	Sýkořice	Rakovník	Středočeský kraj	27024	13.931831	50.034689
+5045	Šanov	Rakovník	Středočeský kraj	27031	13.631307	50.087735
+5053	Šebestěnice	Kutná Hora	Středočeský kraj	28601	15.365413	49.829543
+5065	Šestajovice	Praha-východ	Středočeský kraj	25092	14.681812	50.10852
+5066	Šetějovice	Benešov	Středočeský kraj	25768	15.222583	49.645276
+5072	Šípy	Rakovník	Středočeský kraj	27034	13.616563	50.014425
+5078	Škvorec	Praha-východ	Středočeský kraj	25083	14.730519	50.046972
+5081	Šlapanice	Kladno	Středočeský kraj	27372	14.111319	50.314773
+5095	Štěchovice	Praha-západ	Středočeský kraj	25207	14.405534	49.851197
+5108	Štětkovice	Příbram	Středočeský kraj	26401	14.506319	49.670811
+5109	Štíhlice	Praha-východ	Středočeský kraj	28163	14.780051	50.005666
+5112	Štipoklasy	Kutná Hora	Středočeský kraj	28401	15.213391	49.824707
+5132	Švihov	Rakovník	Středočeský kraj	27033	13.5644	50.109935
+5134	Tachlovice	Praha-západ	Středočeský kraj	25217	14.240788	50.014555
+5144	Tatce	Kolín	Středočeský kraj	28911	14.977345	50.091224
+5151	Tehov	Benešov	Středočeský kraj	25801	14.966838	49.735542
+5152	Tehov	Praha-východ	Středočeský kraj	25101	14.693897	49.97162
+5153	Tehovec	Praha-východ	Středočeský kraj	25162	14.730399	49.981597
+5154	Těchařovice	Příbram	Středočeský kraj	26231	14.048897	49.599507
+5173	Teplýšovice	Benešov	Středočeský kraj	25601	14.801688	49.806208
+5187	Tetín	Beroun	Středočeský kraj	26601	14.102357	49.94942
+5191	Tichonice	Benešov	Středočeský kraj	25763	14.992382	49.777164
+5197	Tisem	Benešov	Středočeský kraj	25756	14.608061	49.755736
+5198	Tismice	Kolín	Středočeský kraj	28201	14.821163	50.056273
+5202	Tišice	Mělník	Středočeský kraj	27715	14.554222	50.269904
+5209	Tlustice	Beroun	Středočeský kraj	26801	13.885465	49.850393
+5210	Tmaň	Beroun	Středočeský kraj	26721	14.033932	49.907174
+5211	Točník	Beroun	Středočeský kraj	26751	13.882878	49.8855
+5212	Tochovice	Příbram	Středočeský kraj	26281	13.992506	49.59559
+5214	Tomice	Benešov	Středočeský kraj	25768	15.157197	49.645143
+5217	Toušice	Kolín	Středočeský kraj	28163	15.006578	49.987988
+5227	Trhové Dušníky	Příbram	Středočeský kraj	26101	14.012935	49.71355
+5229	Trhový Štěpánov	Benešov	Středočeský kraj	25763	15.013668	49.711576
+5237	Trnová	Praha-západ	Středočeský kraj	25210	14.357824	49.915541
+5258	Trubín	Beroun	Středočeský kraj	26701	14.002294	49.94378
+5259	Trubská	Beroun	Středočeský kraj	26601	13.993555	49.95498
+5273	Třebestovice	Nymburk	Středočeský kraj	28912	14.958358	50.124705
+5274	Třebešice	Benešov	Středočeský kraj	25726	14.831949	49.775348
+5275	Třebešice	Kutná Hora	Středočeský kraj	28601	15.337909	49.927948
+5279	Třebětín	Kutná Hora	Středočeský kraj	28522	15.269464	49.77084
+5282	Třebichovice	Kladno	Středočeský kraj	27306	14.079146	50.190464
+5284	Třebíz	Kladno	Středočeský kraj	27375	13.990901	50.269721
+5286	Třeboc	Rakovník	Středočeský kraj	27054	13.752838	50.214417
+5290	Třebonín	Kutná Hora	Středočeský kraj	28544	15.313026	49.869804
+5292	Třebotov	Praha-západ	Středočeský kraj	25226	14.291274	49.972514
+5294	Třebovle	Kolín	Středočeský kraj	28163	14.961866	50.027347
+5295	Třebsko	Příbram	Středočeský kraj	26242	13.96765	49.625764
+5296	Třebusice	Kladno	Středočeský kraj	27341	14.180749	50.200879
+5308	Tři Dvory	Kolín	Středočeský kraj	28002	15.256593	50.032056
+5314	Třtice	Rakovník	Středočeský kraj	27101	13.863591	50.185105
+5320	Tuhaň	Mělník	Středočeský kraj	27741	14.517383	50.295483
+5321	Tuchlovice	Kladno	Středočeský kraj	27302	13.991262	50.138132
+5322	Tuchoměřice	Praha-západ	Středočeský kraj	25267	14.282293	50.135539
+5323	Tuchoraz	Kolín	Středočeský kraj	28201	14.849303	50.048724
+5325	Tuklaty	Kolín	Středočeský kraj	25082	14.769602	50.084879
+5328	Tupadly	Kutná Hora	Středočeský kraj	28563	15.40356	49.869103
+5329	Tupadly	Mělník	Středočeský kraj	27721	14.475036	50.441913
+5335	Tursko	Praha-západ	Středočeský kraj	25265	14.32199	50.19134
+5338	Tuřany	Kladno	Středočeský kraj	27379	14.029138	50.232342
+5339	Tuřice	Mladá Boleslav	Středočeský kraj	29474	14.769264	50.248907
+5340	Tušovice	Příbram	Středočeský kraj	26272	14.030638	49.575713
+5356	Týnec nad Labem	Kolín	Středočeský kraj	28126	15.358462	50.042117
+5357	Týnec nad Sázavou	Benešov	Středočeský kraj	25741	14.58994	49.833579
+5380	Uhlířská Lhota	Kolín	Středočeský kraj	28126	15.391155	50.079045
+5381	Uhlířské Janovice	Kutná Hora	Středočeský kraj	28504	15.06492	49.880291
+5382	Úholičky	Praha-západ	Středočeský kraj	25264	14.335349	50.16146
+5383	Úhonice	Praha-západ	Středočeský kraj	25218	14.186328	50.043449
+5393	Uhy	Kladno	Středočeský kraj	27324	14.273969	50.284336
+5399	Újezd	Beroun	Středočeský kraj	26761	13.837576	49.831356
+5416	Újezdec	Mělník	Středočeský kraj	27745	14.420989	50.283451
+5419	Ujkovice	Mladá Boleslav	Středočeský kraj	29404	15.099546	50.366961
+5423	Úmonín	Kutná Hora	Středočeský kraj	28546	15.271497	49.888776
+5424	Úmyslovice	Nymburk	Středočeský kraj	29001	15.177694	50.203491
+5431	Únětice	Praha-západ	Středočeský kraj	25262	14.354207	50.150214
+5432	Unhošť	Kladno	Středočeský kraj	27351	14.130183	50.085455
+5467	Úvaly	Praha-východ	Středočeský kraj	25082	14.730945	50.073837
+5470	Úžice	Kutná Hora	Středočeský kraj	28504	14.9728	49.872126
+5471	Úžice	Mělník	Středočeský kraj	27745	14.378957	50.253007
+5473	Václavice	Benešov	Středočeský kraj	25601	14.61365	49.789406
+5476	Václavy	Rakovník	Středočeský kraj	27035	13.59452	50.063791
+5511	Vavřinec	Kutná Hora	Středočeský kraj	28504	15.033253	49.913742
+5532	Veleň	Praha-východ	Středočeský kraj	25063	14.554314	50.173318
+5534	Velenice	Nymburk	Středočeský kraj	28901	15.226475	50.214463
+5535	Velenka	Nymburk	Středočeský kraj	28912	14.895712	50.139824
+5540	Veletov	Kolín	Středočeský kraj	28002	15.304983	50.028423
+5544	Veliká Ves	Praha-východ	Středočeský kraj	25070	14.455186	50.243718
+5546	Velim	Kolín	Středočeský kraj	28101	15.107217	50.059756
+5549	Veliš	Benešov	Středočeský kraj	25706	14.823244	49.668658
+5551	Velká Buková	Rakovník	Středočeský kraj	27023	13.847293	50.03466
+5554	Velká Dobrá	Kladno	Středočeský kraj	27361	14.069904	50.109746
+5556	Velká Chmelištná	Rakovník	Středočeský kraj	27034	13.551658	50.063738
+5560	Velká Lečice	Příbram	Středočeský kraj	26205	14.323587	49.814815
+5586	Velké Popovice	Praha-východ	Středočeský kraj	25169	14.63945	49.922621
+5588	Velké Přílepy	Praha-západ	Středočeský kraj	25264	14.314579	50.160605
+5589	Velké Přítočno	Kladno	Středočeský kraj	27351	14.128345	50.116572
+5592	Velké Všelisy	Mladá Boleslav	Středočeský kraj	29427	14.745169	50.379137
+5596	Velký Borek	Mělník	Středočeský kraj	27731	14.515362	50.345385
+5597	Velký Chlumec	Beroun	Středočeský kraj	26724	14.087127	49.82779
+5602	Velký Osek	Kolín	Středočeský kraj	28151	15.186392	50.098769
+5613	Veltruby	Kolín	Středočeský kraj	28002	15.184648	50.070692
+5614	Veltrusy	Mělník	Středočeský kraj	27746	14.328679	50.270563
+5615	Velvary	Kladno	Středočeský kraj	27324	14.236266	50.281619
+5638	Veselice	Mladá Boleslav	Středočeský kraj	29404	15.127224	50.396148
+5643	Vestec	Nymburk	Středočeský kraj	28933	15.146101	50.23837
+5644	Vestec	Praha-západ	Středočeský kraj	25242	14.504981	49.9806
+5646	Věšín	Příbram	Středočeský kraj	26243	13.824322	49.615355
+5649	Větrušice	Praha-východ	Středočeský kraj	25067	14.383516	50.190903
+5673	Vidice	Kutná Hora	Středočeský kraj	28401	15.165597	49.91671
+5674	Vidim	Mělník	Středočeský kraj	27721	14.525934	50.467953
+5696	Vinaře	Kutná Hora	Středočeský kraj	28601	15.501395	49.909198
+5697	Vinařice	Beroun	Středočeský kraj	26701	14.098173	49.892649
+5698	Vinařice	Kladno	Středočeský kraj	27307	14.091171	50.175951
+5699	Vinařice	Mladá Boleslav	Středočeský kraj	29441	14.952383	50.373911
+5702	Vinec	Mladá Boleslav	Středočeský kraj	29301	14.869901	50.394714
+5712	Višňová	Příbram	Středočeský kraj	26261	14.145576	49.705897
+5719	Vitice	Kolín	Středočeský kraj	28106	14.914611	50.031106
+5727	Vižina	Beroun	Středočeský kraj	26724	14.10473	49.857297
+5728	Vlačice	Kutná Hora	Středočeský kraj	28601	15.437595	49.943143
+5736	Vlastějovice	Kutná Hora	Středočeský kraj	28523	15.174893	49.731406
+5741	Vlašim	Benešov	Středočeský kraj	25801	14.89891	49.706428
+5754	Vlkančice	Praha-východ	Středočeský kraj	28163	14.897229	49.901994
+5755	Vlkaneč	Kutná Hora	Středočeský kraj	28564	15.403224	49.806485
+5758	Vlkava	Mladá Boleslav	Středočeský kraj	29443	14.961431	50.271435
+5765	Vlkov pod Oškobrhem	Nymburk	Středočeský kraj	28904	15.22052	50.156096
+5774	Vodochody	Praha-východ	Středočeský kraj	25069	14.398885	50.206369
+5775	Vodranty	Kutná Hora	Středočeský kraj	28601	15.336406	49.890465
+5776	Vodslivy	Benešov	Středočeský kraj	25724	14.837298	49.84965
+5779	Vojkov	Benešov	Středočeský kraj	25753	14.519906	49.65232
+5783	Vojkovice	Mělník	Středočeský kraj	27744	14.375238	50.296287
+5791	Volárna	Kolín	Středočeský kraj	28002	15.240554	50.091878
+5796	Volenice	Příbram	Středočeský kraj	26272	13.883773	49.547875
+5802	Vonoklasy	Praha-západ	Středočeský kraj	25228	14.276801	49.950219
+5804	Votice	Benešov	Středočeský kraj	25901	14.63819	49.64023
+5805	Voznice	Příbram	Středočeský kraj	26301	14.21665	49.817253
+5810	Vracovice	Benešov	Středočeský kraj	25801	14.932317	49.662562
+5812	Vraňany	Mělník	Středočeský kraj	27707	14.361804	50.317291
+5813	Vrančice	Příbram	Středočeský kraj	26231	14.041861	49.610735
+5814	Vrané nad Vltavou	Praha-západ	Středočeský kraj	25246	14.383447	49.938512
+5817	Vranov	Benešov	Středočeský kraj	25722	14.777021	49.853416
+5822	Vranovice	Příbram	Středočeský kraj	26242	13.899074	49.622726
+5825	Vraný	Kladno	Středočeský kraj	27373	14.017251	50.327189
+5829	Vrátkov	Kolín	Středočeský kraj	28201	14.834885	50.047055
+5830	Vrátno	Mladá Boleslav	Středočeský kraj	29426	14.693699	50.432702
+5833	Vráž	Beroun	Středočeský kraj	26711	14.12902	49.983443
+5839	Vrbčany	Kolín	Středočeský kraj	28002	14.992861	50.050307
+5845	Vrbice	Nymburk	Středočeský kraj	28904	15.230617	50.181015
+5847	Vrbičany	Kladno	Středočeský kraj	27374	13.995897	50.308192
+5852	Vrbová Lhota	Nymburk	Středočeský kraj	28911	15.062754	50.112053
+5856	Vrdy	Kutná Hora	Středočeský kraj	28571	15.472535	49.921633
+5860	Vrchotovy Janovice	Benešov	Středočeský kraj	25753	14.577909	49.666919
+5882	Všechlapy	Benešov	Středočeský kraj	25726	14.914341	49.779125
+5883	Všechlapy	Nymburk	Středočeský kraj	28802	15.028509	50.221181
+5886	Všejany	Mladá Boleslav	Středočeský kraj	29443	14.953611	50.25487
+5893	Všenory	Praha-západ	Středočeský kraj	25231	14.304031	49.928938
+5895	Všeradice	Beroun	Středočeský kraj	26726	14.104868	49.873756
+5900	Všestary	Praha-východ	Středočeský kraj	25163	14.68537	49.958709
+5901	Všestudy	Mělník	Středočeský kraj	27746	14.342686	50.290915
+5903	Všesulov	Rakovník	Středočeský kraj	27034	13.610986	50.039761
+5904	Všetaty	Mělník	Středočeský kraj	27716	14.593081	50.281971
+5905	Všetaty	Rakovník	Středočeský kraj	27021	13.757751	50.046201
+5906	Vševily	Příbram	Středočeský kraj	26272	13.882648	49.565277
+5909	Vykáň	Nymburk	Středočeský kraj	28915	14.816787	50.119966
+5926	Vysoká	Mělník	Středočeský kraj	27724	14.538285	50.412655
+5933	Vysoká u Příbramě	Příbram	Středočeský kraj	26242	13.948497	49.63432
+5943	Vysoký Chlumec	Příbram	Středočeský kraj	26252	14.389867	49.617757
+5945	Vysoký Újezd	Benešov	Středočeský kraj	25744	14.476422	49.813385
+5946	Vysoký Újezd	Beroun	Středočeský kraj	26716	14.206303	49.992234
+5951	Vyšehořovice	Praha-východ	Středočeský kraj	25087	14.773799	50.117881
+5958	Výžerky	Praha-východ	Středočeský kraj	28163	14.883469	49.945155
+5960	Vyžlovka	Praha-východ	Středočeský kraj	28163	14.789195	49.984752
+5961	Xaverov	Benešov	Středočeský kraj	28506	14.884454	49.842785
+5969	Záboří nad Labem	Kutná Hora	Středočeský kraj	28574	15.349976	50.025315
+5977	Zadní Třebaň	Beroun	Středočeský kraj	26729	14.208189	49.918124
+5986	Záhornice	Nymburk	Středočeský kraj	28903	15.291028	50.247737
+5989	Zahořany	Praha-západ	Středočeský kraj	25210	14.295423	49.849446
+6004	Zaječov	Beroun	Středočeský kraj	26763	13.840825	49.774455
+6005	Zájezd	Kladno	Středočeský kraj	27343	14.220609	50.166081
+6008	Zákolany	Kladno	Středočeský kraj	27328	14.247943	50.196515
+6013	Zalešany	Kolín	Středočeský kraj	28002	15.007909	50.03578
+6014	Zálezlice	Mělník	Středočeský kraj	27745	14.438251	50.307557
+6019	Zalužany	Příbram	Středočeský kraj	26284	14.085834	49.542353
+6020	Záluží	Beroun	Středočeský kraj	26761	13.860599	49.842798
+6027	Zápy	Praha-východ	Středočeský kraj	25001	14.680157	50.1651
+6029	Záryby	Praha-východ	Středočeský kraj	27713	14.625983	50.220678
+6033	Zásmuky	Kolín	Středočeský kraj	28144	15.030686	49.954806
+6040	Zavidov	Rakovník	Středočeský kraj	27035	13.620408	50.056797
+6045	Zbečno	Rakovník	Středočeský kraj	27024	13.920468	50.0419
+6047	Zbenice	Příbram	Středočeský kraj	26231	14.089159	49.592261
+6052	Zbizuby	Kutná Hora	Středočeský kraj	28504	15.047665	49.831085
+6057	Zbožíčko	Nymburk	Středočeský kraj	28925	14.939922	50.225835
+6060	Zbraslavice	Kutná Hora	Středočeský kraj	28521	15.183296	49.811891
+6063	Zbuzany	Praha-západ	Středočeský kraj	25225	14.286854	50.024277
+6067	Zbýšov	Kutná Hora	Středočeský kraj	28565	15.353208	49.811657
+6077	Zdětín	Mladá Boleslav	Středočeský kraj	29471	14.812523	50.312702
+6078	Zdiby	Praha-východ	Středočeský kraj	25066	14.451284	50.168096
+6079	Zdice	Beroun	Středočeský kraj	26751	13.977574	49.912178
+6082	Zdislavice	Benešov	Středočeský kraj	25764	14.974594	49.686587
+6086	Zduchovice	Příbram	Středočeský kraj	26263	14.209044	49.638685
+6089	Zeleneč	Praha-východ	Středočeský kraj	25091	14.660805	50.133721
+6098	Zichovec	Kladno	Středočeský kraj	27374	13.926136	50.271159
+6100	Zlatá	Praha-východ	Středočeský kraj	25083	14.710148	50.04033
+6106	Zlatníky-Hodkovice	Praha-západ	Středočeský kraj	25241	14.480805	49.960627
+6111	Zlončice	Mělník	Středočeský kraj	27801	14.35768	50.228883
+6112	Zlonice	Kladno	Středočeský kraj	27371	14.092247	50.287603
+6113	Zlonín	Praha-východ	Středočeský kraj	25064	14.507857	50.215834
+6114	Zlosyň	Mělník	Středočeský kraj	27744	14.368713	50.278049
+6118	Zruč nad Sázavou	Kutná Hora	Středočeský kraj	28522	15.106164	49.740205
+6124	Zvánovice	Praha-východ	Středočeský kraj	25165	14.780336	49.93205
+6127	Zvěřínek	Nymburk	Středočeský kraj	28913	15.005845	50.153287
+6128	Zvěstov	Benešov	Středočeský kraj	25706	14.792228	49.632768
+6136	Zvole	Praha-západ	Středočeský kraj	25245	14.417796	49.934765
+6137	Zvoleněves	Kladno	Středočeský kraj	27325	14.182316	50.231256
+6142	Žabonosy	Kolín	Středočeský kraj	28002	15.027312	50.035467
+6149	Žáky	Kutná Hora	Středočeský kraj	28601	15.3684	49.885374
+6165	Ždánice	Kolín	Středočeský kraj	28163	14.959179	49.969517
+6170	Žďár	Mladá Boleslav	Středočeský kraj	29412	15.080449	50.543762
+6171	Žďár	Rakovník	Středočeský kraj	27033	13.459724	50.058554
+6184	Žebrák	Beroun	Středočeský kraj	26753	13.897457	49.875844
+6185	Žehuň	Kolín	Středočeský kraj	28905	15.291395	50.135585
+6186	Žehušice	Kutná Hora	Středočeský kraj	28575	15.407492	49.969555
+6192	Želenice	Kladno	Středočeský kraj	27341	14.164618	50.210487
+6198	Železná	Beroun	Středočeský kraj	26601	14.091043	50.009803
+6205	Želízy	Mělník	Středočeský kraj	27721	14.464874	50.423837
+6212	Žerčice	Mladá Boleslav	Středočeský kraj	29446	15.036019	50.374263
+6225	Židněves	Mladá Boleslav	Středočeský kraj	29406	14.994635	50.41173
+6232	Žilina	Kladno	Středočeský kraj	27301	14.005859	50.099975
+6242	Žitovlice	Nymburk	Středočeský kraj	28934	15.137094	50.294076
+6246	Žiželice	Kolín	Středočeský kraj	28129	15.393302	50.132019
+6248	Žižice	Kladno	Středočeský kraj	27401	14.154001	50.246382
+6251	Žleby	Kutná Hora	Středočeský kraj	28561	15.488634	49.889685
+6258	Županovice	Příbram	Středočeský kraj	26301	14.298816	49.707893

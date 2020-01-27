@@ -125,6 +125,7 @@ namespace GenetickyAlgoritmus
                 orders[i].calculatePrice();
 
                 Console.WriteLine("Cena varianty: " + orders[i].getCost());
+                Console.WriteLine("Pocet aut:" + orders[i].getOrdersCount());
 
                 /*Console.WriteLine("Pokračovat?");
                 Console.ReadLine();*/

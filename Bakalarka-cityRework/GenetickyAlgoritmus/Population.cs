@@ -121,6 +121,10 @@ namespace GenetickyAlgoritmus
             return this.best;
         }
 
+        /// <summary>
+        /// Vrátí nejlepšího jedince a jeho vzdálenostjako string
+        /// </summary>
+        /// <returns></returns>
         public string getBestString()
         {
             return "(" + best.getDistance() + ")" + "\t" + best.getSequence();
@@ -131,28 +135,12 @@ namespace GenetickyAlgoritmus
         /// </summary>
         public void showMe()
         {
-            /*
-            for (int i = 0; i < pCurrent.Count; i = i++) Console.WriteLine("Invidual " + i + ": " + pCurrent[i].getSequence());
-            */
-
-            // Zobrazím jedince v populaci (1 řádek 1 jedinec)
             for (int i = 0; i < pCurrent.Count - 1; i = i + 2)
             {
                 Console.WriteLine(
                     "Invidual" + (i) + "(" + pCurrent[i].getDistance() + ")" + "\t" + pCurrent[i].showSequence() + "\t" +
                     "Invidual" + (i + 2) + "(" + pCurrent[i + 1].getDistance() + ")" + "\t" + pCurrent[i + 1].showSequence());
             }
-
-            /*
-            // Zobrazím jedince v poopulaci (1 řádek 4 jedinci)
-            for (int i = 0; i < pCurrent.Count; i = i + 4)
-            {
-                Console.WriteLine(
-                    "Invidual" + i + "(" + pCurrent[i].getDuplicity() + ")" + "\t" + pCurrent[i].getSequence() +
-                    "\t Invidual" + (i + 1) + "(" + pCurrent[i + 1].getDuplicity() + ")" + "\t" + pCurrent[i + 1].getSequence() +
-                    "\t Invidual" + (i + 2) + "(" + pCurrent[i + 2].getDuplicity() + ")" + "\t" + pCurrent[i + 2].getSequence() +
-                    "\t Invidual" + (i + 3) + "(" + pCurrent[i + 3].getDuplicity() + ")" + "\t" + pCurrent[i + 3].getSequence());
-            }*/
         }
 
     }

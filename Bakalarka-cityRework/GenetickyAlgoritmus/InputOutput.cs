@@ -32,12 +32,18 @@ namespace GenetickyAlgoritmus
             Controller.allCitiesTable.Clear();
         }
 
+        /// <summary>
+        /// Vytvoří dataTable, ve kterých budu držet data
+        /// </summary>
         public static void createTable()
         {
             createAllcitiesTable();
             createActiveOrdersTable();
         }
 
+        /// <summary>
+        /// Načte data ze souboru a naplní dataTable
+        /// </summary>
         public static void loadData()
         {
             loadDataAllCities();
@@ -120,7 +126,6 @@ namespace GenetickyAlgoritmus
             Controller.activeOrdersTable.Columns.Add(column);
         }
 
-
         /// <summary>
         /// Nactu surová data ze souboru a uložím je do tabulky AllCitiesTable
         /// </summary>
@@ -139,8 +144,8 @@ namespace GenetickyAlgoritmus
                 row[2] = columns[2];
                 row[3] = columns[4];
                 row[4] = columns[6];
-                row[5] = Convert.ToDouble(columns[7].Substring(0, 6)) * 1000;
-                row[6] = Convert.ToDouble(columns[8].Substring(0, 6)) * 1000;
+                row[5] = Convert.ToDouble(columns[7].ToString());
+                row[6] = Convert.ToDouble(columns[8].ToString());
                 Controller.allCitiesTable.Rows.Add(row);
                 i++;                
             }
@@ -158,7 +163,7 @@ namespace GenetickyAlgoritmus
             foreach (string line in lines)
             {
                 row = Controller.activeOrdersTable.NewRow();
-                string[] columns = line.Trim().Split(',');
+                string[] columns = line.Trim().Split('\t');
                 row[0] = columns[0];
                 row[1] = columns[1];
                 row[2] = columns[2];
@@ -238,13 +243,7 @@ namespace GenetickyAlgoritmus
                 if (!values.Contains(Controller.activeOrdersTable.Rows[i][columnIndex].ToString()))
                 {
                     values.Add(Controller.activeOrdersTable.Rows[i][columnIndex].ToString());
-                }
-            else
-                {
-                    Console.WriteLine("duplicita");
-                    Console.ReadLine();
-                }
-                    
+                }                    
 
             return values;
 

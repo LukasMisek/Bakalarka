@@ -1,0 +1,674 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+2	Adamov	Blansko	Jihomoravský kraj	67904	16.663955	49.295708
+15	Archlebov	Hodonín	Jihomoravský kraj	69633	17.004911	49.043689
+26	Babice nad Svitavou	Brno-venkov	Jihomoravský kraj	66401	16.696235	49.283402
+27	Babice u Rosic	Brno-venkov	Jihomoravský kraj	66484	16.358273	49.173078
+41	Bantice	Znojmo	Jihomoravský kraj	67161	16.182493	48.883187
+55	Bavory	Břeclav	Jihomoravský kraj	69201	16.622349	48.834789
+67	Bedřichov	Blansko	Jihomoravský kraj	67971	16.465422	49.461276
+70	Běhařovice	Znojmo	Jihomoravský kraj	67139	16.078723	49.004036
+85	Běleč	Brno-venkov	Jihomoravský kraj	67923	16.383235	49.434036
+98	Benešov	Blansko	Jihomoravský kraj	67953	16.770698	49.509531
+130	Bezkov	Znojmo	Jihomoravský kraj	66902	15.951352	48.871321
+152	Bílovice nad Svitavou	Brno-venkov	Jihomoravský kraj	66401	16.672575	49.247178
+162	Biskoupky	Brno-venkov	Jihomoravský kraj	66491	16.281386	49.097789
+169	Bítov	Znojmo	Jihomoravský kraj	67110	15.729075	48.936395
+174	Blanné	Znojmo	Jihomoravský kraj	67154	15.883346	48.992037
+175	Blansko	Blansko	Jihomoravský kraj	67801	16.647855	49.36495
+181	Blatnice pod Svatým Antonínkem	Hodonín	Jihomoravský kraj	69671	17.466069	48.946824
+182	Blatnička	Hodonín	Jihomoravský kraj	69671	17.530151	48.935609
+191	Blažovice	Brno-venkov	Jihomoravský kraj	66408	16.786216	49.165785
+197	Blížkovice	Znojmo	Jihomoravský kraj	67155	15.834918	48.999862
+201	Blučina	Brno-venkov	Jihomoravský kraj	66456	16.644601	49.055066
+210	Bohaté Málkovice	Vyškov	Jihomoravský kraj	68501	17.014284	49.189126
+213	Bohdalice-Pavlovice	Vyškov	Jihomoravský kraj	68341	17.030228	49.214143
+239	Bohutice	Znojmo	Jihomoravský kraj	67176	16.357739	48.991375
+247	Bojanovice	Znojmo	Jihomoravský kraj	67153	15.989159	48.968259
+254	Boleradice	Břeclav	Jihomoravský kraj	69112	16.814026	48.966776
+261	Borač	Brno-venkov	Jihomoravský kraj	59261	16.361217	49.400915
+269	Borkovany	Břeclav	Jihomoravský kraj	69175	16.810211	49.028264
+272	Borotice	Znojmo	Jihomoravský kraj	67178	16.242711	48.857391
+275	Borotín	Blansko	Jihomoravský kraj	67937	16.671585	49.581447
+288	Borovník	Brno-venkov	Jihomoravský kraj	59451	16.229456	49.355656
+299	Bořetice	Břeclav	Jihomoravský kraj	69108	16.853168	48.913124
+305	Bořitov	Blansko	Jihomoravský kraj	67921	16.591291	49.425135
+307	Boskovice	Blansko	Jihomoravský kraj	68001	16.660076	49.487612
+308	Boskovštejn	Znojmo	Jihomoravský kraj	67154	15.929654	48.982797
+312	Bošovice	Vyškov	Jihomoravský kraj	68354	16.836868	49.053609
+322	Božice	Znojmo	Jihomoravský kraj	67164	16.288856	48.836967
+335	Braníškov	Brno-venkov	Jihomoravský kraj	66471	16.345762	49.294469
+337	Branišovice	Brno-venkov	Jihomoravský kraj	67177	16.431951	48.962911
+339	Brankovice	Vyškov	Jihomoravský kraj	68333	17.134911	49.156081
+347	Bratčice	Brno-venkov	Jihomoravský kraj	66467	16.523184	49.065247
+368	Brno	Brno-město	Jihomoravský kraj	60200	16.606937	49.19516
+369	Brod nad Dyjí	Břeclav	Jihomoravský kraj	69181	16.535482	48.875309
+383	Brťov-Jeneč	Blansko	Jihomoravský kraj	67921	16.517076	49.413781
+384	Brumov	Brno-venkov	Jihomoravský kraj	67923	16.425856	49.462484
+386	Brumovice	Břeclav	Jihomoravský kraj	69111	16.89626	48.960895
+396	Břeclav	Břeclav	Jihomoravský kraj	69002	16.882617	48.75324
+404	Březí	Břeclav	Jihomoravský kraj	69181	16.567583	48.819377
+413	Březina	Brno-venkov	Jihomoravský kraj	67905	16.755163	49.282167
+414	Březina	Brno-venkov	Jihomoravský kraj	66601	16.749623	49.281698
+415	Březina (vojenský újezd)	Vyškov	Jihomoravský kraj	79805	16.960939	49.368199
+437	Břežany	Znojmo	Jihomoravský kraj	67165	16.341852	48.870023
+451	Bučovice	Vyškov	Jihomoravský kraj	68501	17.003981	49.149402
+478	Bukovany	Hodonín	Jihomoravský kraj	69631	17.100961	49.042267
+485	Bukovice	Brno-venkov	Jihomoravský kraj	67923	16.489825	49.406829
+487	Bukovina	Blansko	Jihomoravský kraj	67905	16.773268	49.297608
+491	Bukovinka	Blansko	Jihomoravský kraj	67905	16.805039	49.294279
+496	Bulhary	Břeclav	Jihomoravský kraj	69189	16.748843	48.831565
+510	Býkovice	Blansko	Jihomoravský kraj	67971	16.538385	49.430303
+534	Bzenec	Hodonín	Jihomoravský kraj	69681	17.266959	48.973463
+550	Cetkovice	Blansko	Jihomoravský kraj	67938	16.721351	49.578884
+560	Citonice	Znojmo	Jihomoravský kraj	67101	15.964567	48.884055
+565	Crhov	Blansko	Jihomoravský kraj	67974	16.434827	49.545112
+569	Ctidružice	Znojmo	Jihomoravský kraj	67154	15.86009	48.982616
+573	Cvrčovice	Brno-venkov	Jihomoravský kraj	69123	16.514581	48.993768
+593	Čebín	Brno-venkov	Jihomoravský kraj	66423	16.478018	49.313339
+604	Čejč	Hodonín	Jihomoravský kraj	69614	16.965214	48.946631
+607	Čejkovice	Hodonín	Jihomoravský kraj	69615	16.942409	48.906019
+608	Čejkovice	Znojmo	Jihomoravský kraj	67178	16.287428	48.877801
+617	Čeložnice	Hodonín	Jihomoravský kraj	69651	17.15476	49.051964
+627	Čermákovice	Znojmo	Jihomoravský kraj	67173	16.195072	49.032153
+633	Černá Hora	Blansko	Jihomoravský kraj	67921	16.581502	49.413707
+648	Černín	Znojmo	Jihomoravský kraj	67153	16.021013	48.983053
+658	Černovice	Blansko	Jihomoravský kraj	67975	16.423018	49.48363
+665	Černvír	Brno-venkov	Jihomoravský kraj	59262	16.346286	49.445413
+681	Česká	Brno-venkov	Jihomoravský kraj	66431	16.56551	49.280178
+746	Čučice	Brno-venkov	Jihomoravský kraj	66491	16.278687	49.137181
+754	Dambořice	Hodonín	Jihomoravský kraj	69635	16.917678	49.038383
+755	Damnice	Znojmo	Jihomoravský kraj	67178	16.374203	48.920412
+764	Deblín	Brno-venkov	Jihomoravský kraj	66475	16.346542	49.320459
+781	Deštná	Blansko	Jihomoravský kraj	67961	16.563659	49.612653
+785	Dětkovice	Vyškov	Jihomoravský kraj	68323	17.144316	49.272783
+795	Diváky	Břeclav	Jihomoravský kraj	69171	16.791869	48.988794
+805	Dlouhá Lhota	Blansko	Jihomoravský kraj	67971	16.5097	49.428757
+821	Dobelice	Znojmo	Jihomoravský kraj	67201	16.27873	49.017342
+833	Dobré Pole	Břeclav	Jihomoravský kraj	69181	16.535282	48.824436
+836	Dobročkovice	Vyškov	Jihomoravský kraj	68333	17.109099	49.163035
+862	Dobřínsko	Znojmo	Jihomoravský kraj	67201	16.26177	49.052312
+866	Dobšice	Znojmo	Jihomoravský kraj	67182	16.085512	48.848447
+882	Dolenice	Znojmo	Jihomoravský kraj	67178	16.365753	48.909233
+888	Dolní Bojanovice	Hodonín	Jihomoravský kraj	69617	17.028691	48.858707
+898	Dolní Dubňany	Znojmo	Jihomoravský kraj	67173	16.2268	49.055887
+899	Dolní Dunajovice	Břeclav	Jihomoravský kraj	69185	16.592933	48.854571
+910	Dolní Kounice	Brno-venkov	Jihomoravský kraj	66464	16.465024	49.070212
+921	Dolní Loučky	Brno-venkov	Jihomoravský kraj	59455	16.358812	49.361092
+952	Dolní Věstonice	Břeclav	Jihomoravský kraj	69129	16.643792	48.888324
+964	Domanín	Hodonín	Jihomoravský kraj	69683	17.284869	49.00177
+967	Domašov	Brno-venkov	Jihomoravský kraj	66483	16.343924	49.245429
+983	Doubravice nad Svitavou	Blansko	Jihomoravský kraj	67911	16.629473	49.436736
+985	Doubravník	Brno-venkov	Jihomoravský kraj	59261	16.352799	49.424208
+1001	Drahonín	Brno-venkov	Jihomoravský kraj	59261	16.277005	49.414161
+1009	Drásov	Brno-venkov	Jihomoravský kraj	66424	16.47809	49.331934
+1017	Dražovice	Vyškov	Jihomoravský kraj	68301	16.943484	49.194842
+1019	Dražůvky	Hodonín	Jihomoravský kraj	69633	17.019078	49.030633
+1026	Drnholec	Břeclav	Jihomoravský kraj	69183	16.485962	48.857558
+1027	Drnovice	Blansko	Jihomoravský kraj	67976	16.542335	49.469406
+1028	Drnovice	Vyškov	Jihomoravský kraj	68304	16.951569	49.276395
+1041	Drysice	Vyškov	Jihomoravský kraj	68321	17.057846	49.334642
+1069	Dubňany	Hodonín	Jihomoravský kraj	69603	17.090148	48.917038
+1089	Dyjákovice	Znojmo	Jihomoravský kraj	67126	16.301068	48.771975
+1090	Dyjákovičky	Znojmo	Jihomoravský kraj	66902	16.095728	48.7824
+1091	Dyje	Znojmo	Jihomoravský kraj	66902	16.1166	48.847219
+1097	Džbánice	Znojmo	Jihomoravský kraj	67171	16.211038	49.001361
+1120	Grešlové Mýto	Znojmo	Jihomoravský kraj	67156	15.886269	48.980854
+1127	Habrovany	Vyškov	Jihomoravský kraj	68301	16.878393	49.232934
+1129	Habrůvka	Blansko	Jihomoravský kraj	67905	16.72362	49.3036
+1138	Hajany	Brno-venkov	Jihomoravský kraj	66443	16.55509	49.110916
+1170	Havraníky	Znojmo	Jihomoravský kraj	66902	16.008488	48.811525
+1181	Heroltice	Brno-venkov	Jihomoravský kraj	66601	16.412898	49.311457
+1182	Heršpice	Vyškov	Jihomoravský kraj	68401	16.913668	49.119869
+1198	Hevlín	Znojmo	Jihomoravský kraj	67169	16.381414	48.75219
+1211	Hlína	Brno-venkov	Jihomoravský kraj	66491	16.426268	49.113718
+1221	Hlohovec	Břeclav	Jihomoravský kraj	69143	16.762404	48.774086
+1223	Hlubočany	Vyškov	Jihomoravský kraj	68201	17.000469	49.230519
+1229	Hluboké Dvory	Brno-venkov	Jihomoravský kraj	67923	16.514309	49.383241
+1230	Hluboké Mašůvky	Znojmo	Jihomoravský kraj	67152	16.025651	48.923757
+1240	Hnanice	Znojmo	Jihomoravský kraj	66902	15.98678	48.798587
+1250	Hodějice	Vyškov	Jihomoravský kraj	68401	16.913792	49.141595
+1256	Hodonice	Znojmo	Jihomoravský kraj	67125	16.163476	48.8369
+1257	Hodonín	Blansko	Jihomoravský kraj	67971	16.410379	49.501284
+1258	Hodonín	Hodonín	Jihomoravský kraj	69501	17.126102	48.853039
+1266	Holasice	Brno-venkov	Jihomoravský kraj	66461	16.607667	49.075956
+1280	Holštejn	Blansko	Jihomoravský kraj	67913	16.777804	49.406486
+1281	Holubice	Vyškov	Jihomoravský kraj	68351	16.812243	49.177588
+1310	Horní Bojanovice	Břeclav	Jihomoravský kraj	69301	16.800252	48.949805
+1314	Horní Břečkov	Znojmo	Jihomoravský kraj	67102	15.898559	48.890055
+1321	Horní Dubňany	Znojmo	Jihomoravský kraj	67173	16.201379	49.06346
+1322	Horní Dunajovice	Znojmo	Jihomoravský kraj	67134	16.161627	48.950344
+1332	Horní Kounice	Znojmo	Jihomoravský kraj	67140	16.152366	49.026094
+1344	Horní Loučky	Brno-venkov	Jihomoravský kraj	59455	16.341499	49.366906
+1362	Horní Poříčí	Blansko	Jihomoravský kraj	67962	16.477436	49.587696
+1376	Horní Smržov	Blansko	Jihomoravský kraj	67961	16.577085	49.618358
+1388	Horní Věstonice	Břeclav	Jihomoravský kraj	69181	16.62566	48.874651
+1423	Hostěnice	Brno-venkov	Jihomoravský kraj	66404	16.776652	49.236641
+1424	Hostěradice	Znojmo	Jihomoravský kraj	67171	16.259416	48.950156
+1425	Hostěrádky-Rešov	Vyškov	Jihomoravský kraj	68352	16.784406	49.117751
+1428	Hostim	Znojmo	Jihomoravský kraj	67154	15.894995	49.018691
+1446	Hoštice-Heroltice	Vyškov	Jihomoravský kraj	68201	17.062864	49.287107
+1450	Hovorany	Hodonín	Jihomoravský kraj	69612	16.993562	48.95503
+1454	Hrabětice	Znojmo	Jihomoravský kraj	67168	16.393527	48.797751
+1460	Hradčany	Brno-venkov	Jihomoravský kraj	66603	16.442271	49.327964
+1472	Hrádek	Znojmo	Jihomoravský kraj	67127	16.268293	48.772933
+1514	Hroznová Lhota	Hodonín	Jihomoravský kraj	69663	17.417082	48.90794
+1516	Hrubá Vrbka	Hodonín	Jihomoravský kraj	69673	17.477119	48.871977
+1521	Hrušky	Břeclav	Jihomoravský kraj	69156	16.97415	48.792823
+1522	Hrušky	Vyškov	Jihomoravský kraj	68352	16.833583	49.129301
+1526	Hrušovany u Brna	Brno-venkov	Jihomoravský kraj	66462	16.59439	49.038731
+1527	Hrušovany nad Jevišovkou	Znojmo	Jihomoravský kraj	67167	16.40281	48.830008
+1557	Hustopeče	Břeclav	Jihomoravský kraj	69301	16.737726	48.940946
+1562	Hvězdlice	Vyškov	Jihomoravský kraj	68341	17.083627	49.193463
+1569	Hvozdec	Brno-venkov	Jihomoravský kraj	66471	16.425292	49.247005
+1580	Hýsly	Hodonín	Jihomoravský kraj	69650	17.179934	49.023388
+1702	Chrudichromy	Blansko	Jihomoravský kraj	68001	16.628098	49.502996
+1709	Chudčice	Brno-venkov	Jihomoravský kraj	66471	16.458829	49.288591
+1718	Chvalatice	Znojmo	Jihomoravský kraj	67102	15.751157	48.947809
+1724	Chvalkovice	Vyškov	Jihomoravský kraj	68341	17.110212	49.187125
+1728	Chvalovice	Znojmo	Jihomoravský kraj	66902	16.082449	48.786677
+1742	Ivaň	Brno-venkov	Jihomoravský kraj	69123	16.575843	48.929811
+1744	Ivančice	Brno-venkov	Jihomoravský kraj	66491	16.377622	49.101545
+1745	Ivanovice na Hané	Vyškov	Jihomoravský kraj	68323	17.093537	49.305518
+1747	Jabloňany	Blansko	Jihomoravský kraj	67901	16.6061	49.465713
+1765	Jamolice	Znojmo	Jihomoravský kraj	67201	16.253784	49.072435
+1794	Jaroslavice	Znojmo	Jihomoravský kraj	67128	16.233615	48.756671
+1806	Javorník	Hodonín	Jihomoravský kraj	69674	17.533503	48.862174
+1811	Javůrek	Brno-venkov	Jihomoravský kraj	66483	16.362283	49.255628
+1818	Jedovnice	Blansko	Jihomoravský kraj	67906	16.756055	49.344631
+1856	Jevišovice	Znojmo	Jihomoravský kraj	67153	15.990027	48.987465
+1857	Jevišovka	Břeclav	Jihomoravský kraj	69183	16.46626	48.82869
+1862	Jezeřany-Maršovice	Znojmo	Jihomoravský kraj	67175	16.437429	49.028912
+1864	Ježkovice	Vyškov	Jihomoravský kraj	68304	16.892634	49.298073
+1865	Ježov	Hodonín	Jihomoravský kraj	69648	17.210115	49.027077
+1885	Jinačovice	Brno-venkov	Jihomoravský kraj	66434	16.529591	49.267903
+1905	Jiřice u Miroslavi	Znojmo	Jihomoravský kraj	67178	16.39205	48.920914
+1906	Jiřice u Moravských Budějovic	Znojmo	Jihomoravský kraj	67154	15.925489	48.993974
+1909	Jiříkovice	Brno-venkov	Jihomoravský kraj	66451	16.758096	49.166816
+1921	Josefov	Hodonín	Jihomoravský kraj	69621	17.010146	48.839579
+1936	Kadov	Znojmo	Jihomoravský kraj	67201	16.287457	48.982858
+1947	Kaly	Brno-venkov	Jihomoravský kraj	59455	16.351706	49.379422
+1975	Kanice	Brno-venkov	Jihomoravský kraj	66401	16.714624	49.263805
+1987	Karlín	Hodonín	Jihomoravský kraj	69614	16.977406	48.975875
+2004	Kašnice	Břeclav	Jihomoravský kraj	69172	16.882945	48.996536
+2009	Katov	Brno-venkov	Jihomoravský kraj	59455	16.278861	49.332793
+2024	Kelčany	Hodonín	Jihomoravský kraj	69649	17.173901	49.005319
+2027	Ketkovice	Brno-venkov	Jihomoravský kraj	66491	16.26264	49.159216
+2058	Klentnice	Břeclav	Jihomoravský kraj	69201	16.644789	48.844725
+2064	Klobouky u Brna	Břeclav	Jihomoravský kraj	69172	16.859619	48.995112
+2080	Kněždub	Hodonín	Jihomoravský kraj	69664	17.395572	48.886761
+2081	Kněževes	Blansko	Jihomoravský kraj	67974	16.423892	49.587125
+2093	Knínice u Boskovic	Blansko	Jihomoravský kraj	67934	16.69513	49.539688
+2100	Kobeřice u Brna	Vyškov	Jihomoravský kraj	68401	16.885919	49.092284
+2102	Kobylí	Břeclav	Jihomoravský kraj	69110	16.891691	48.932959
+2104	Kobylnice	Brno-venkov	Jihomoravský kraj	66451	16.73193	49.138134
+2119	Kojátky	Vyškov	Jihomoravský kraj	68501	17.026237	49.171903
+2150	Komořany	Vyškov	Jihomoravský kraj	68301	16.906888	49.216446
+2167	Korolupy	Znojmo	Jihomoravský kraj	67107	15.646296	48.930251
+2176	Kořenec	Blansko	Jihomoravský kraj	68001	16.754045	49.530418
+2189	Kostelec	Hodonín	Jihomoravský kraj	69651	17.153306	49.02693
+2208	Kostice	Břeclav	Jihomoravský kraj	69152	16.978794	48.74695
+2229	Kotvrdovice	Blansko	Jihomoravský kraj	67907	16.784459	49.355206
+2240	Kovalovice	Brno-venkov	Jihomoravský kraj	66406	16.81914	49.204721
+2248	Kozárov	Blansko	Jihomoravský kraj	67971	16.458762	49.443935
+2250	Kozlany	Vyškov	Jihomoravský kraj	68341	17.035316	49.20417
+2266	Kozojídky	Hodonín	Jihomoravský kraj	69663	17.399733	48.918744
+2274	Kožušice	Vyškov	Jihomoravský kraj	68333	17.18489	49.15519
+2300	Krásensko	Vyškov	Jihomoravský kraj	68304	16.829977	49.364634
+2320	Krasová	Blansko	Jihomoravský kraj	67906	16.768035	49.361476
+2324	Kratochvilka	Brno-venkov	Jihomoravský kraj	66491	16.376457	49.156753
+2330	Kravsko	Znojmo	Jihomoravský kraj	67151	15.986425	48.921596
+2334	Krhov	Blansko	Jihomoravský kraj	67901	16.583923	49.46036
+2337	Krhovice	Znojmo	Jihomoravský kraj	67128	16.173693	48.815911
+2359	Krumvíř	Břeclav	Jihomoravský kraj	69173	16.910379	48.989106
+2383	Křenovice	Vyškov	Jihomoravský kraj	68352	16.829426	49.142261
+2387	Křepice	Břeclav	Jihomoravský kraj	69165	16.719993	48.999961
+2388	Křepice	Znojmo	Jihomoravský kraj	67140	16.097506	48.98749
+2394	Křetín	Blansko	Jihomoravský kraj	67962	16.504506	49.563204
+2397	Křídlůvky	Znojmo	Jihomoravský kraj	67128	16.239054	48.781811
+2408	Křižanovice	Vyškov	Jihomoravský kraj	68501	16.939154	49.142428
+2410	Křižanovice u Vyškova	Vyškov	Jihomoravský kraj	68201	17.040305	49.287758
+2412	Křižínkov	Brno-venkov	Jihomoravský kraj	59453	16.270362	49.32587
+2416	Křtěnov	Blansko	Jihomoravský kraj	67974	16.419371	49.545085
+2417	Křtiny	Blansko	Jihomoravský kraj	67905	16.744194	49.297155
+2425	Kubšice	Znojmo	Jihomoravský kraj	67176	16.413164	49.000765
+2426	Kučerov	Vyškov	Jihomoravský kraj	68201	17.005432	49.218686
+2429	Kuchařovice	Znojmo	Jihomoravský kraj	66902	16.077071	48.876057
+2434	Kulířov	Blansko	Jihomoravský kraj	67906	16.846914	49.379422
+2439	Kunčina Ves	Blansko	Jihomoravský kraj	67971	16.475366	49.44708
+2444	Kunice	Blansko	Jihomoravský kraj	67971	16.490834	49.478926
+2446	Kuničky	Blansko	Jihomoravský kraj	67902	16.681468	49.435026
+2455	Kunštát	Blansko	Jihomoravský kraj	67972	16.517324	49.506551
+2458	Kupařovice	Brno-venkov	Jihomoravský kraj	66464	16.490816	49.043314
+2459	Kurdějov	Břeclav	Jihomoravský kraj	69301	16.763556	48.957874
+2462	Kuřim	Brno-venkov	Jihomoravský kraj	66434	16.531546	49.298618
+2464	Kuřimská Nová Ves	Brno-venkov	Jihomoravský kraj	59455	16.297158	49.345656
+2465	Kuřimské Jestřabí	Brno-venkov	Jihomoravský kraj	59455	16.314032	49.346676
+2468	Kuželov	Hodonín	Jihomoravský kraj	69673	17.488933	48.859737
+2483	Kyjov	Hodonín	Jihomoravský kraj	69701	17.12261	49.009967
+2486	Kyjovice	Znojmo	Jihomoravský kraj	67161	16.166617	48.913818
+2499	Labuty	Hodonín	Jihomoravský kraj	69648	17.214588	49.046739
+2501	Ladná	Břeclav	Jihomoravský kraj	69146	16.872412	48.805496
+2504	Lančov	Znojmo	Jihomoravský kraj	67106	15.767901	48.907159
+2511	Lanžhot	Břeclav	Jihomoravský kraj	69151	16.967053	48.724531
+2520	Lazinov	Blansko	Jihomoravský kraj	67962	16.523495	49.563913
+2530	Lažánky	Brno-venkov	Jihomoravský kraj	66471	16.388167	49.279046
+2532	Lažany	Blansko	Jihomoravský kraj	67922	16.550117	49.354468
+2537	Ledce	Brno-venkov	Jihomoravský kraj	66462	16.55712	49.051603
+2546	Lednice	Břeclav	Jihomoravský kraj	69144	16.803498	48.800018
+2549	Lechovice	Znojmo	Jihomoravský kraj	67163	16.221921	48.872953
+2551	Lelekovice	Brno-venkov	Jihomoravský kraj	66431	16.578848	49.291537
+2557	Lesná	Znojmo	Jihomoravský kraj	67102	15.868824	48.907277
+2561	Lesní Hluboké	Brno-venkov	Jihomoravský kraj	66483	16.306928	49.268807
+2564	Lesonice	Znojmo	Jihomoravský kraj	67201	16.310735	49.003355
+2580	Letonice	Vyškov	Jihomoravský kraj	68335	16.959237	49.17736
+2581	Letovice	Blansko	Jihomoravský kraj	67961	16.573678	49.547189
+2595	Lhota Rapotina	Blansko	Jihomoravský kraj	67901	16.624954	49.466146
+2596	Lhota u Lysic	Blansko	Jihomoravský kraj	67971	16.496885	49.469778
+2597	Lhota u Olešnice	Blansko	Jihomoravský kraj	67974	16.390829	49.544909
+2699	Lipov	Hodonín	Jihomoravský kraj	69672	17.46182	48.905046
+2706	Lipovec	Blansko	Jihomoravský kraj	67915	16.805938	49.38404
+2711	Lipůvka	Blansko	Jihomoravský kraj	67922	16.553004	49.340382
+2737	Litobratřice	Znojmo	Jihomoravský kraj	67178	16.402604	48.887149
+2744	Litostrov	Brno-venkov	Jihomoravský kraj	66483	16.330795	49.225246
+2757	Loděnice	Brno-venkov	Jihomoravský kraj	67175	16.463176	49.011698
+2771	Lomnice	Brno-venkov	Jihomoravský kraj	67923	16.413696	49.404719
+2776	Lomnička	Brno-venkov	Jihomoravský kraj	66601	16.431352	49.367091
+2793	Louka	Blansko	Jihomoravský kraj	67974	16.43115	49.529269
+2794	Louka	Hodonín	Jihomoravský kraj	69676	17.489382	48.915266
+2805	Lovčice	Hodonín	Jihomoravský kraj	69639	17.05439	49.063682
+2807	Lovčičky	Vyškov	Jihomoravský kraj	68354	16.850309	49.068009
+2814	Lubě	Blansko	Jihomoravský kraj	67921	16.526068	49.396274
+2820	Lubné	Brno-venkov	Jihomoravský kraj	59451	16.275314	49.354268
+2821	Lubnice	Znojmo	Jihomoravský kraj	67107	15.613963	48.939563
+2830	Ludíkov	Blansko	Jihomoravský kraj	68001	16.731887	49.455493
+2847	Lukov	Znojmo	Jihomoravský kraj	66902	15.910794	48.861685
+2852	Lukovany	Brno-venkov	Jihomoravský kraj	66484	16.297954	49.162573
+2854	Luleč	Vyškov	Jihomoravský kraj	68303	16.928755	49.253592
+2869	Lužice	Hodonín	Jihomoravský kraj	69618	17.071145	48.841077
+2876	Lysice	Blansko	Jihomoravský kraj	67971	16.537263	49.451697
+2877	Lysovice	Vyškov	Jihomoravský kraj	68201	16.970637	49.21801
+2878	Mackovice	Znojmo	Jihomoravský kraj	67178	16.309445	48.883712
+2886	Makov	Blansko	Jihomoravský kraj	67972	16.483791	49.519247
+2890	Malá Lhota	Blansko	Jihomoravský kraj	67921	16.549636	49.39199
+2894	Malá Roudka	Blansko	Jihomoravský kraj	67963	16.644574	49.60178
+2900	Malá Vrbka	Hodonín	Jihomoravský kraj	69673	17.459307	48.869505
+2915	Malešovice	Brno-venkov	Jihomoravský kraj	66465	16.501392	49.023694
+2917	Malhostovice	Brno-venkov	Jihomoravský kraj	66603	16.502322	49.333699
+2922	Malínky	Vyškov	Jihomoravský kraj	68333	17.160321	49.159408
+2945	Maršov	Brno-venkov	Jihomoravský kraj	66471	16.359854	49.28378
+2961	Mašovice	Znojmo	Jihomoravský kraj	66902	15.973646	48.857475
+2972	Medlice	Znojmo	Jihomoravský kraj	67140	16.121404	49.003081
+2973	Medlov	Brno-venkov	Jihomoravský kraj	66466	16.522482	49.03519
+2975	Medlovice	Vyškov	Jihomoravský kraj	68201	17.093049	49.27451
+2984	Mělčany	Brno-venkov	Jihomoravský kraj	66464	16.4923	49.076242
+2990	Měnín	Brno-venkov	Jihomoravský kraj	66457	16.694343	49.082495
+3028	Míchov	Blansko	Jihomoravský kraj	67961	16.615857	49.524132
+3031	Mikulčice	Hodonín	Jihomoravský kraj	69619	17.051171	48.816526
+3033	Mikulov	Břeclav	Jihomoravský kraj	69201	16.637788	48.805383
+3035	Mikulovice	Znojmo	Jihomoravský kraj	67133	16.09478	48.956878
+3048	Milešovice	Vyškov	Jihomoravský kraj	68354	16.854355	49.082845
+3054	Milíčovice	Znojmo	Jihomoravský kraj	66902	15.932448	48.891673
+3060	Milonice	Blansko	Jihomoravský kraj	67922	16.568459	49.366571
+3061	Milonice	Vyškov	Jihomoravský kraj	68333	17.071226	49.15947
+3064	Milotice	Hodonín	Jihomoravský kraj	69605	17.141387	48.955858
+3067	Milovice	Břeclav	Jihomoravský kraj	69188	16.698247	48.852588
+3074	Miroslav	Znojmo	Jihomoravský kraj	67172	16.312624	48.94777
+3075	Miroslavské Knínice	Znojmo	Jihomoravský kraj	67172	16.32241	48.977901
+3135	Modřice	Brno-venkov	Jihomoravský kraj	66442	16.614517	49.12799
+3146	Mokrá-Horákov	Brno-venkov	Jihomoravský kraj	66404	16.751677	49.22287
+3155	Morašice	Znojmo	Jihomoravský kraj	67171	16.209004	48.957631
+3159	Moravany	Brno-venkov	Jihomoravský kraj	66448	16.576269	49.14566
+3160	Moravany	Hodonín	Jihomoravský kraj	69650	17.169127	49.040216
+3168	Moravská Nová Ves	Břeclav	Jihomoravský kraj	69155	17.013814	48.803142
+3170	Moravské Bránice	Brno-venkov	Jihomoravský kraj	66464	16.436388	49.083374
+3172	Moravské Knínice	Brno-venkov	Jihomoravský kraj	66434	16.50184	49.293382
+3173	Moravské Málkovice	Vyškov	Jihomoravský kraj	68201	17.090766	49.257021
+3176	Moravský Krumlov	Znojmo	Jihomoravský kraj	67201	16.311798	49.049031
+3177	Moravský Písek	Hodonín	Jihomoravský kraj	69685	17.332795	48.990264
+3178	Moravský Žižkov	Břeclav	Jihomoravský kraj	69101	16.931502	48.832952
+3180	Morkůvky	Břeclav	Jihomoravský kraj	69172	16.862319	48.966228
+3191	Mouchnice	Hodonín	Jihomoravský kraj	68333	17.135627	49.111822
+3192	Mouřínov	Vyškov	Jihomoravský kraj	68501	16.978594	49.121563
+3193	Moutnice	Brno-venkov	Jihomoravský kraj	66455	16.73752	49.049337
+3212	Mutěnice	Hodonín	Jihomoravský kraj	69611	17.02928	48.904228
+3253	Násedlovice	Hodonín	Jihomoravský kraj	69636	16.960303	49.012277
+3254	Našiměřice	Znojmo	Jihomoravský kraj	67176	16.372859	48.968632
+3260	Nebovidy	Brno-venkov	Jihomoravský kraj	66448	16.551476	49.141432
+3274	Nedvědice	Brno-venkov	Jihomoravský kraj	59262	16.334163	49.457116
+3280	Nechvalín	Hodonín	Jihomoravský kraj	69631	17.080689	49.054642
+3287	Nelepeč-Žernůvka	Brno-venkov	Jihomoravský kraj	66601	16.386382	49.334089
+3290	Němčany	Vyškov	Jihomoravský kraj	68401	16.919514	49.164452
+3293	Němčice	Blansko	Jihomoravský kraj	67951	16.718057	49.450065
+3301	Němčičky	Brno-venkov	Jihomoravský kraj	66466	16.5007	49.050477
+3302	Němčičky	Břeclav	Jihomoravský kraj	69107	16.824364	48.93569
+3303	Němčičky	Znojmo	Jihomoravský kraj	67153	16.088509	48.942345
+3307	Nemochovice	Vyškov	Jihomoravský kraj	68333	17.135056	49.18054
+3308	Nemojany	Vyškov	Jihomoravský kraj	68303	16.913617	49.246812
+3310	Nemotice	Vyškov	Jihomoravský kraj	68333	17.124981	49.129699
+3315	Nenkovice	Hodonín	Jihomoravský kraj	69637	17.01104	49.003151
+3328	Neslovice	Brno-venkov	Jihomoravský kraj	66491	16.387883	49.142313
+3329	Nesovice	Vyškov	Jihomoravský kraj	68333	17.081054	49.151205
+3333	Nesvačilka	Brno-venkov	Jihomoravský kraj	66454	16.754104	49.064124
+3352	Nevojice	Vyškov	Jihomoravský kraj	68501	17.049752	49.135416
+3368	Níhov	Brno-venkov	Jihomoravský kraj	59455	16.257645	49.341792
+3369	Nikolčice	Břeclav	Jihomoravský kraj	69171	16.754291	48.993283
+3378	Nížkovice	Vyškov	Jihomoravský kraj	68401	16.901793	49.109637
+3382	Nosislav	Brno-venkov	Jihomoravský kraj	69164	16.654416	49.013902
+3389	Nová Lhota	Hodonín	Jihomoravský kraj	69674	17.593418	48.861047
+3402	Nová Ves	Brno-venkov	Jihomoravský kraj	66491	16.310943	49.108212
+3427	Nové Bránice	Brno-venkov	Jihomoravský kraj	66464	16.441855	49.071249
+3443	Nové Sady	Vyškov	Jihomoravský kraj	68308	16.902045	49.408906
+3454	Novosedly	Břeclav	Jihomoravský kraj	69182	16.492837	48.83714
+3471	Nový Poddvorov	Hodonín	Jihomoravský kraj	69616	16.961126	48.868447
+3472	Nový Přerov	Břeclav	Jihomoravský kraj	69181	16.493828	48.809718
+3474	Nový Šaldorf-Sedlešovice	Znojmo	Jihomoravský kraj	67181	16.060675	48.830248
+3483	Nýrov	Blansko	Jihomoravský kraj	67972	16.539265	49.528083
+3490	Obora	Blansko	Jihomoravský kraj	67901	16.605726	49.452311
+3509	Odrovice	Brno-venkov	Jihomoravský kraj	66464	16.509119	49.010907
+3524	Ochoz u Brna	Brno-venkov	Jihomoravský kraj	66402	16.737338	49.254302
+3525	Ochoz u Tišnova	Brno-venkov	Jihomoravský kraj	67923	16.394338	49.425693
+3531	Okrouhlá	Blansko	Jihomoravský kraj	68001	16.732103	49.507604
+3544	Olbramkostel	Znojmo	Jihomoravský kraj	67151	15.949704	48.921815
+3546	Olbramovice	Znojmo	Jihomoravský kraj	67176	16.402498	48.984904
+3554	Oleksovice	Znojmo	Jihomoravský kraj	67162	16.248504	48.902158
+3564	Olešnice	Blansko	Jihomoravský kraj	67974	16.421795	49.557654
+3571	Olomučany	Blansko	Jihomoravský kraj	67903	16.671791	49.33097
+3574	Olšany	Vyškov	Jihomoravský kraj	68301	16.86616	49.248136
+3579	Olší	Brno-venkov	Jihomoravský kraj	59261	16.290327	49.421365
+3583	Omice	Brno-venkov	Jihomoravský kraj	66441	16.451834	49.170033
+3589	Onšov	Znojmo	Jihomoravský kraj	67102	15.834328	48.905385
+3596	Opatovice	Brno-venkov	Jihomoravský kraj	66461	16.641079	49.075131
+3617	Orlovice	Vyškov	Jihomoravský kraj	68201	17.093701	49.239184
+3619	Ořechov	Brno-venkov	Jihomoravský kraj	66444	16.523392	49.11128
+3639	Osiky	Brno-venkov	Jihomoravský kraj	67923	16.421688	49.456294
+3642	Oslavany	Brno-venkov	Jihomoravský kraj	66412	16.336633	49.123447
+3645	Oslnovice	Znojmo	Jihomoravský kraj	67107	15.6875	48.932188
+3652	Ostopovice	Brno-venkov	Jihomoravský kraj	66449	16.54559	49.161102
+3667	Ostrov u Macochy	Blansko	Jihomoravský kraj	67914	16.762786	49.382462
+3668	Ostrovačice	Brno-venkov	Jihomoravský kraj	66481	16.409562	49.210924
+3669	Ostrovánky	Hodonín	Jihomoravský kraj	69631	17.080434	49.042793
+3689	Otmarov	Brno-venkov	Jihomoravský kraj	66457	16.672783	49.100613
+3691	Otnice	Vyškov	Jihomoravský kraj	68354	16.814533	49.086517
+3719	Pamětice	Blansko	Jihomoravský kraj	67961	16.644594	49.549563
+3735	Pasohlávky	Brno-venkov	Jihomoravský kraj	69122	16.543748	48.90306
+3742	Pavlice	Znojmo	Jihomoravský kraj	67156	15.899056	48.971577
+3745	Pavlov	Břeclav	Jihomoravský kraj	69201	16.672359	48.874256
+3771	Perná	Břeclav	Jihomoravský kraj	69186	16.624527	48.85232
+3774	Pernštejnské Jestřabí	Brno-venkov	Jihomoravský kraj	59261	16.32571	49.406417
+3789	Petrov	Blansko	Jihomoravský kraj	67962	16.489694	49.533771
+3790	Petrov	Hodonín	Jihomoravský kraj	69665	17.278203	48.882055
+3793	Petrovice	Blansko	Jihomoravský kraj	67902	16.69985	49.411964
+3794	Petrovice	Znojmo	Jihomoravský kraj	67201	16.292563	49.006837
+3847	Plaveč	Znojmo	Jihomoravský kraj	67132	16.080106	48.928863
+3851	Plenkovice	Znojmo	Jihomoravský kraj	67151	16.002555	48.919012
+3883	Podbřežice	Vyškov	Jihomoravský kraj	68301	16.928192	49.212563
+3892	Podhradí nad Dyjí	Znojmo	Jihomoravský kraj	67106	15.686517	48.900345
+3894	Podivice	Vyškov	Jihomoravský kraj	68321	17.010822	49.365845
+3895	Podivín	Břeclav	Jihomoravský kraj	69145	16.848324	48.82564
+3906	Podmolí	Znojmo	Jihomoravský kraj	66902	15.940168	48.850738
+3907	Podmyče	Znojmo	Jihomoravský kraj	67106	15.782341	48.887701
+3909	Podolí	Brno-venkov	Jihomoravský kraj	66403	16.72095	49.190524
+3915	Podomí	Vyškov	Jihomoravský kraj	68304	16.833319	49.344818
+3927	Pohořelice	Brno-venkov	Jihomoravský kraj	69123	16.524557	48.981287
+3965	Ponětovice	Brno-venkov	Jihomoravský kraj	66451	16.742391	49.152257
+3968	Popice	Břeclav	Jihomoravský kraj	69127	16.66701	48.927358
+3969	Popovice	Brno-venkov	Jihomoravský kraj	66461	16.616203	49.107197
+3973	Popůvky	Brno-venkov	Jihomoravský kraj	66441	16.487676	49.177467
+3993	Pouzdřany	Břeclav	Jihomoravský kraj	69126	16.624973	48.934526
+3999	Pozořice	Brno-venkov	Jihomoravský kraj	66407	16.790847	49.209864
+4000	Prace	Brno-venkov	Jihomoravský kraj	66458	16.765498	49.141161
+4003	Práče	Znojmo	Jihomoravský kraj	67161	16.201279	48.877137
+4016	Pravice	Znojmo	Jihomoravský kraj	67178	16.361153	48.843456
+4017	Pravlov	Brno-venkov	Jihomoravský kraj	66464	16.487786	49.055779
+4025	Prokopov	Znojmo	Jihomoravský kraj	67154	15.896085	48.998438
+4037	Prosiměřice	Znojmo	Jihomoravský kraj	67161	16.192067	48.902803
+4042	Prostřední Poříčí	Blansko	Jihomoravský kraj	67962	16.497452	49.572106
+4049	Prštice	Brno-venkov	Jihomoravský kraj	66446	16.470866	49.115118
+4053	Prusy-Boškůvky	Vyškov	Jihomoravský kraj	68201	17.063799	49.258521
+4054	Prušánky	Hodonín	Jihomoravský kraj	69621	16.980787	48.828498
+4066	Předklášteří	Brno-venkov	Jihomoravský kraj	66602	16.402512	49.35263
+4090	Přeskače	Znojmo	Jihomoravský kraj	67140	16.107001	49.01253
+4103	Přibice	Brno-venkov	Jihomoravský kraj	69124	16.57344	48.961724
+4106	Příbram na Moravě	Brno-venkov	Jihomoravský kraj	66484	16.299175	49.195583
+4110	Přibyslavice	Brno-venkov	Jihomoravský kraj	66483	16.266436	49.278696
+4125	Přísnotice	Brno-venkov	Jihomoravský kraj	66463	16.61361	49.00323
+4131	Přítluky	Břeclav	Jihomoravský kraj	69104	16.774055	48.855089
+4154	Pustiměř	Vyškov	Jihomoravský kraj	68321	17.02803	49.322614
+4174	Račice-Pístovice	Vyškov	Jihomoravský kraj	68305	16.872942	49.276006
+4178	Radějov	Hodonín	Jihomoravský kraj	69667	17.34472	48.859476
+4216	Radostice	Brno-venkov	Jihomoravský kraj	66446	16.477112	49.133707
+4231	Radslavice	Vyškov	Jihomoravský kraj	68321	17.003932	49.323013
+4238	Rájec-Jestřebí	Blansko	Jihomoravský kraj	67902	16.640964	49.410419
+4239	Ráječko	Blansko	Jihomoravský kraj	67902	16.641436	49.393418
+4240	Rajhrad	Brno-venkov	Jihomoravský kraj	66461	16.603982	49.090311
+4241	Rajhradice	Brno-venkov	Jihomoravský kraj	66461	16.629436	49.092135
+4250	Rakvice	Břeclav	Jihomoravský kraj	69103	16.813408	48.858211
+4263	Rašov	Brno-venkov	Jihomoravský kraj	67923	16.45383	49.415645
+4264	Rašovice	Vyškov	Jihomoravský kraj	68501	16.948329	49.121064
+4275	Ratíškovice	Hodonín	Jihomoravský kraj	69602	17.165713	48.920114
+4279	Rebešovice	Brno-venkov	Jihomoravský kraj	66461	16.635332	49.105224
+4282	Rešice	Znojmo	Jihomoravský kraj	67173	16.171572	49.053466
+4289	Rohatec	Hodonín	Jihomoravský kraj	69601	17.183408	48.880497
+4295	Rohozec	Brno-venkov	Jihomoravský kraj	67923	16.482952	49.390415
+4304	Rojetín	Brno-venkov	Jihomoravský kraj	59451	16.257478	49.366746
+4320	Rosice	Brno-venkov	Jihomoravský kraj	66501	16.387975	49.18242
+4325	Rostěnice-Zvonovice	Vyškov	Jihomoravský kraj	68201	16.966061	49.238368
+4330	Roubanina	Blansko	Jihomoravský kraj	67961	16.594167	49.615509
+4338	Rousínov	Vyškov	Jihomoravský kraj	68301	16.882252	49.201381
+4347	Rozdrojovice	Brno-venkov	Jihomoravský kraj	66434	16.510033	49.254744
+4350	Rozkoš	Znojmo	Jihomoravský kraj	67153	15.977759	49.028696
+4353	Rozseč nad Kunštátem	Blansko	Jihomoravský kraj	67973	16.46313	49.524499
+4354	Rozsíčka	Blansko	Jihomoravský kraj	67974	16.46709	49.552383
+4377	Rudice	Blansko	Jihomoravský kraj	67906	16.725919	49.337274
+4381	Rudka	Brno-venkov	Jihomoravský kraj	66483	16.331102	49.242573
+4382	Rudlice	Znojmo	Jihomoravský kraj	67153	16.065799	48.948588
+4391	Ruprechtov	Vyškov	Jihomoravský kraj	68304	16.851494	49.32875
+4403	Rybníček	Vyškov	Jihomoravský kraj	68201	17.073903	49.273976
+4407	Rybníky	Znojmo	Jihomoravský kraj	67201	16.27947	49.026365
+4444	Řícmanice	Brno-venkov	Jihomoravský kraj	66401	16.694045	49.257564
+4445	Říčany	Brno-venkov	Jihomoravský kraj	66482	16.393723	49.215075
+4447	Říčky	Brno-venkov	Jihomoravský kraj	66483	16.355945	49.233025
+4452	Řikonín	Brno-venkov	Jihomoravský kraj	59451	16.305808	49.364487
+4483	Sebranice	Blansko	Jihomoravský kraj	67931	16.57464	49.497022
+4491	Sedlec	Břeclav	Jihomoravský kraj	69121	16.693989	48.778993
+4527	Senetářov	Blansko	Jihomoravský kraj	67906	16.80399	49.354781
+4534	Senorady	Brno-venkov	Jihomoravský kraj	67575	16.244551	49.124447
+4536	Sentice	Brno-venkov	Jihomoravský kraj	66603	16.446775	49.310864
+4543	Silůvky	Brno-venkov	Jihomoravský kraj	66446	16.46804	49.106075
+4547	Sivice	Brno-venkov	Jihomoravský kraj	66407	16.782647	49.203807
+4549	Skalice	Znojmo	Jihomoravský kraj	67171	16.224901	48.964529
+4551	Skalice nad Svitavou	Blansko	Jihomoravský kraj	67901	16.603686	49.481246
+4553	Skalička	Brno-venkov	Jihomoravský kraj	66603	16.516283	49.357972
+4555	Skalka	Hodonín	Jihomoravský kraj	69648	17.207332	49.035877
+4573	Skoronice	Hodonín	Jihomoravský kraj	69641	17.153534	48.981428
+4580	Skrchov	Blansko	Jihomoravský kraj	67961	16.549464	49.57783
+4583	Skryje	Brno-venkov	Jihomoravský kraj	59455	16.310789	49.393663
+4605	Slatina	Znojmo	Jihomoravský kraj	67153	16.018451	49.019749
+4633	Slavkov u Brna	Vyškov	Jihomoravský kraj	68401	16.876598	49.153354
+4642	Sloup	Blansko	Jihomoravský kraj	67913	16.739636	49.414886
+4651	Slup	Znojmo	Jihomoravský kraj	67128	16.199287	48.781603
+4680	Snovídky	Vyškov	Jihomoravský kraj	68333	17.106415	49.132902
+4699	Sobotovice	Brno-venkov	Jihomoravský kraj	66467	16.557396	49.059999
+4700	Sobůlky	Hodonín	Jihomoravský kraj	69701	17.079041	49.01974
+4703	Sokolnice	Brno-venkov	Jihomoravský kraj	66452	16.721665	49.11402
+4721	Spešov	Blansko	Jihomoravský kraj	67902	16.629388	49.394891
+4743	Stálky	Znojmo	Jihomoravský kraj	67106	15.684781	48.870226
+4751	Stanoviště	Brno-venkov	Jihomoravský kraj	66484	16.253595	49.239197
+4789	Starovice	Břeclav	Jihomoravský kraj	69301	16.706715	48.951684
+4790	Starovičky	Břeclav	Jihomoravský kraj	69301	16.775476	48.907566
+4796	Starý Petřín	Znojmo	Jihomoravský kraj	67106	15.734188	48.890137
+4798	Starý Poddvorov	Hodonín	Jihomoravský kraj	69616	16.981633	48.878704
+4808	Stavěšice	Hodonín	Jihomoravský kraj	69638	17.030565	49.001739
+4823	Stošíkovice na Louce	Znojmo	Jihomoravský kraj	67161	16.214975	48.896689
+4831	Strachotice	Znojmo	Jihomoravský kraj	67129	16.1724	48.796236
+4832	Strachotín	Břeclav	Jihomoravský kraj	69301	16.651453	48.905517
+4861	Strážnice	Hodonín	Jihomoravský kraj	69662	17.31691	48.901117
+4864	Strážovice	Hodonín	Jihomoravský kraj	69638	17.047511	49.009307
+4866	Strhaře	Brno-venkov	Jihomoravský kraj	67923	16.436401	49.435714
+4881	Střelice	Brno-venkov	Jihomoravský kraj	66447	16.50409	49.152312
+4882	Střelice	Znojmo	Jihomoravský kraj	67153	15.983267	48.994181
+4922	Studnice	Vyškov	Jihomoravský kraj	68308	16.881134	49.375694
+4928	Stvolová	Blansko	Jihomoravský kraj	67961	16.540541	49.589318
+4930	Sudice	Blansko	Jihomoravský kraj	68001	16.668628	49.53
+4936	Sudoměřice	Hodonín	Jihomoravský kraj	69666	17.256869	48.867328
+4949	Suchohrdly	Znojmo	Jihomoravský kraj	66902	16.089121	48.866218
+4950	Suchohrdly u Miroslavi	Znojmo	Jihomoravský kraj	67172	16.363302	48.943156
+4953	Suchov	Hodonín	Jihomoravský kraj	69671	17.563562	48.907522
+4955	Suchý	Blansko	Jihomoravský kraj	68001	16.762483	49.482895
+4961	Sulíkov	Blansko	Jihomoravský kraj	67962	16.489716	49.544691
+4975	Svatobořice-Mistřín	Hodonín	Jihomoravský kraj	69604	17.089396	48.977127
+4978	Svatoslav	Brno-venkov	Jihomoravský kraj	66601	16.308896	49.30187
+4994	Světlá	Blansko	Jihomoravský kraj	67963	16.718297	49.565958
+5008	Svinošice	Blansko	Jihomoravský kraj	67922	16.576	49.334534
+5011	Svitávka	Blansko	Jihomoravský kraj	67932	16.598037	49.501876
+5033	Synalov	Brno-venkov	Jihomoravský kraj	67923	16.413973	49.432831
+5037	Syrovice	Brno-venkov	Jihomoravský kraj	66467	16.546565	49.079913
+5038	Syrovín	Hodonín	Jihomoravský kraj	69684	17.264039	49.025923
+5042	Šafov	Znojmo	Jihomoravský kraj	67106	15.734756	48.866906
+5043	Šakvice	Břeclav	Jihomoravský kraj	69167	16.714344	48.897558
+5044	Šanov	Znojmo	Jihomoravský kraj	67168	16.378684	48.800986
+5048	Šaratice	Vyškov	Jihomoravský kraj	68352	16.803613	49.117564
+5049	Šardice	Hodonín	Jihomoravský kraj	69613	17.028222	48.964128
+5052	Šatov	Znojmo	Jihomoravský kraj	67122	16.010024	48.793274
+5054	Šebetov	Blansko	Jihomoravský kraj	67935	16.711728	49.548719
+5057	Šebrov-Kateřina	Blansko	Jihomoravský kraj	67922	16.602548	49.328598
+5063	Šerkovice	Brno-venkov	Jihomoravský kraj	66601	16.430063	49.38568
+5076	Šitbořice	Břeclav	Jihomoravský kraj	69176	16.77986	49.014427
+5080	Šlapanice	Brno-venkov	Jihomoravský kraj	66451	16.727418	49.168729
+5086	Šošůvka	Blansko	Jihomoravský kraj	67913	16.751985	49.410633
+5093	Štěchov	Blansko	Jihomoravský kraj	67971	16.506182	49.452359
+5104	Štěpánovice	Brno-venkov	Jihomoravský kraj	66602	16.387683	49.373052
+5113	Štítary	Znojmo	Jihomoravský kraj	67102	15.844388	48.935202
+5124	Šumice	Brno-venkov	Jihomoravský kraj	67175	16.437469	48.9922
+5126	Šumná	Znojmo	Jihomoravský kraj	67102	15.871054	48.922527
+5129	Švábenice	Vyškov	Jihomoravský kraj	68323	17.123499	49.278501
+5139	Tasov	Hodonín	Jihomoravský kraj	69663	17.429767	48.906964
+5141	Tasovice	Blansko	Jihomoravský kraj	67971	16.441633	49.496043
+5142	Tasovice	Znojmo	Jihomoravský kraj	67125	16.155687	48.836196
+5149	Tavíkovice	Znojmo	Jihomoravský kraj	67140	16.103265	49.033846
+5161	Telnice	Brno-venkov	Jihomoravský kraj	66459	16.71785	49.101969
+5165	Těmice	Hodonín	Jihomoravský kraj	69684	17.265026	49.00165
+5175	Terezín	Hodonín	Jihomoravský kraj	69614	16.942659	48.955636
+5178	Těšany	Brno-venkov	Jihomoravský kraj	66454	16.770132	49.039658
+5179	Těšetice	Znojmo	Jihomoravský kraj	67161	16.158304	48.888944
+5185	Tetčice	Brno-venkov	Jihomoravský kraj	66417	16.405736	49.170348
+5203	Tišnov	Brno-venkov	Jihomoravský kraj	66601	16.424485	49.348818
+5204	Tišnovská Nová Ves	Brno-venkov	Jihomoravský kraj	59451	16.293684	49.383986
+5215	Topolany	Vyškov	Jihomoravský kraj	68201	17.040411	49.277451
+5224	Trboušany	Brno-venkov	Jihomoravský kraj	66464	16.46295	49.050783
+5239	Trnové Pole	Znojmo	Jihomoravský kraj	67178	16.409578	48.94504
+5243	Troskotovice	Brno-venkov	Jihomoravský kraj	67178	16.437643	48.919119
+5249	Troubsko	Brno-venkov	Jihomoravský kraj	66441	16.510886	49.169608
+5254	Trstěnice	Znojmo	Jihomoravský kraj	67171	16.195522	48.986862
+5316	Tučapy	Vyškov	Jihomoravský kraj	68301	16.918474	49.233446
+5326	Tulešice	Znojmo	Jihomoravský kraj	67173	16.207235	49.038646
+5343	Tvarožná	Brno-venkov	Jihomoravský kraj	66405	16.771563	49.19187
+5344	Tvarožná Lhota	Hodonín	Jihomoravský kraj	69662	17.359497	48.877349
+5346	Tvořihráz	Znojmo	Jihomoravský kraj	67134	16.135878	48.917649
+5348	Tvrdonice	Břeclav	Jihomoravský kraj	69153	16.994567	48.760582
+5354	Týnec	Břeclav	Jihomoravský kraj	69154	17.013324	48.779531
+5371	Uherčice	Břeclav	Jihomoravský kraj	69162	16.653546	48.967902
+5372	Uherčice	Znojmo	Jihomoravský kraj	67107	15.630477	48.913336
+5387	Uhřice	Blansko	Jihomoravský kraj	67963	16.735111	49.595164
+5388	Uhřice	Hodonín	Jihomoravský kraj	69634	16.947682	49.050447
+5389	Uhřice	Vyškov	Jihomoravský kraj	68333	17.078762	49.172448
+5395	Újezd	Znojmo	Jihomoravský kraj	67140	16.053361	49.023647
+5403	Újezd u Boskovic	Blansko	Jihomoravský kraj	68001	16.654269	49.463998
+5404	Újezd u Brna	Brno-venkov	Jihomoravský kraj	66453	16.757474	49.104448
+5405	Újezd u Černé Hory	Blansko	Jihomoravský kraj	67922	16.543917	49.370995
+5409	Újezd u Rosic	Brno-venkov	Jihomoravský kraj	66484	16.253748	49.222512
+5412	Újezd u Tišnova	Brno-venkov	Jihomoravský kraj	59455	16.32465	49.365622
+5425	Únanov	Znojmo	Jihomoravský kraj	67131	16.063609	48.900923
+5435	Unín	Brno-venkov	Jihomoravský kraj	67924	16.491456	49.382277
+5436	Unkovice	Brno-venkov	Jihomoravský kraj	66463	16.604146	49.019318
+5446	Úsobrno	Blansko	Jihomoravský kraj	67939	16.762988	49.589023
+5456	Ústup	Blansko	Jihomoravský kraj	67974	16.463018	49.565027
+5457	Úsuší	Brno-venkov	Jihomoravský kraj	66601	16.356089	49.334845
+5472	Vacenovice	Hodonín	Jihomoravský kraj	69606	17.174146	48.945204
+5491	Valchov	Blansko	Jihomoravský kraj	68001	16.71998	49.470283
+5494	Valtice	Břeclav	Jihomoravský kraj	69142	16.755094	48.74079
+5495	Valtrovice	Znojmo	Jihomoravský kraj	67128	16.221077	48.793826
+5500	Vanovice	Blansko	Jihomoravský kraj	67936	16.666313	49.567378
+5510	Vavřinec	Blansko	Jihomoravský kraj	67913	16.719949	49.402702
+5512	Vážany	Blansko	Jihomoravský kraj	68001	16.688799	49.53129
+5513	Vážany	Vyškov	Jihomoravský kraj	68201	17.050332	49.244453
+5515	Vážany nad Litavou	Vyškov	Jihomoravský kraj	68401	16.857178	49.128919
+5521	Vedrovice	Znojmo	Jihomoravský kraj	67175	16.378598	49.020997
+5527	Velatice	Brno-venkov	Jihomoravský kraj	66405	16.753684	49.197473
+5536	Velenov	Blansko	Jihomoravský kraj	68001	16.73287	49.48694
+5538	Velešovice	Vyškov	Jihomoravský kraj	68301	16.849241	49.179261
+5563	Velká nad Veličkou	Hodonín	Jihomoravský kraj	69674	17.520706	48.882667
+5569	Velké Bílovice	Břeclav	Jihomoravský kraj	69102	16.892379	48.849388
+5573	Velké Hostěrádky	Břeclav	Jihomoravský kraj	69174	16.870336	49.033238
+5582	Velké Němčice	Břeclav	Jihomoravský kraj	69163	16.672186	48.991777
+5583	Velké Opatovice	Blansko	Jihomoravský kraj	67963	16.679574	49.612471
+5584	Velké Pavlovice	Břeclav	Jihomoravský kraj	69106	16.816155	48.904792
+5598	Velký Karlov	Znojmo	Jihomoravský kraj	67128	16.305563	48.804633
+5616	Vémyslice	Znojmo	Jihomoravský kraj	67142	16.256897	49.022141
+5637	Veselí nad Moravou	Hodonín	Jihomoravský kraj	69801	17.381015	48.952477
+5647	Věteřov	Hodonín	Jihomoravský kraj	69701	17.056248	49.028625
+5652	Vevčice	Znojmo	Jihomoravský kraj	67153	16.044533	48.962305
+5653	Veverská Bítýška	Brno-venkov	Jihomoravský kraj	66471	16.436969	49.276013
+5654	Veverské Knínice	Brno-venkov	Jihomoravský kraj	66481	16.401931	49.236997
+5690	Vilémovice	Blansko	Jihomoravský kraj	67906	16.746834	49.363886
+5703	Viničné Šumice	Brno-venkov	Jihomoravský kraj	66406	16.825512	49.213678
+5708	Vísky	Blansko	Jihomoravský kraj	67933	16.625711	49.538535
+5713	Višňové	Znojmo	Jihomoravský kraj	67138	16.150357	48.982515
+5724	Vítonice	Znojmo	Jihomoravský kraj	67161	16.198985	48.919467
+5734	Vlasatice	Brno-venkov	Jihomoravský kraj	69130	16.484529	48.933846
+5759	Vlkoš	Hodonín	Jihomoravský kraj	69641	17.163666	48.989701
+5768	Vnorovy	Hodonín	Jihomoravský kraj	69661	17.350609	48.931064
+5769	Voděrady	Blansko	Jihomoravský kraj	67901	16.557996	49.481598
+5777	Vohančice	Brno-venkov	Jihomoravský kraj	66601	16.39396	49.321692
+5780	Vojkovice	Brno-venkov	Jihomoravský kraj	66701	16.608308	49.05148
+5808	Vracov	Hodonín	Jihomoravský kraj	69642	17.211104	48.975328
+5809	Vracovice	Znojmo	Jihomoravský kraj	67102	15.898792	48.902225
+5815	Vranov	Brno-venkov	Jihomoravský kraj	66432	16.613878	49.309357
+5818	Vranov nad Dyjí	Znojmo	Jihomoravský kraj	67103	15.812799	48.894799
+5819	Vranová	Blansko	Jihomoravský kraj	67962	16.525131	49.553154
+5821	Vranovice	Brno-venkov	Jihomoravský kraj	69125	16.606707	48.966097
+5824	Vranovská Ves	Znojmo	Jihomoravský kraj	67151	15.918586	48.951592
+5826	Vratěnín	Znojmo	Jihomoravský kraj	67107	15.595278	48.904186
+5828	Vratislávka	Brno-venkov	Jihomoravský kraj	59451	16.244137	49.386513
+5841	Vrbice	Břeclav	Jihomoravský kraj	69109	16.897893	48.915184
+5853	Vrbovec	Znojmo	Jihomoravský kraj	67124	16.100716	48.799878
+5876	Vřesovice	Hodonín	Jihomoravský kraj	69648	17.215114	49.059182
+5884	Všechovice	Brno-venkov	Jihomoravský kraj	66603	16.494182	49.357215
+5915	Výrovice	Znojmo	Jihomoravský kraj	67134	16.120391	48.928356
+5920	Vysočany	Blansko	Jihomoravský kraj	67913	16.811126	49.432008
+5921	Vysočany	Znojmo	Jihomoravský kraj	67107	15.689792	48.941156
+5939	Vysoké Popovice	Brno-venkov	Jihomoravský kraj	66484	16.284964	49.183126
+5952	Vyškov	Vyškov	Jihomoravský kraj	68201	16.996199	49.277552
+6002	Zaječí	Břeclav	Jihomoravský kraj	69105	16.766566	48.87305
+6009	Zakřany	Brno-venkov	Jihomoravský kraj	66484	16.32536	49.170641
+6011	Zálesí	Znojmo	Jihomoravský kraj	67102	15.782156	48.954232
+6012	Zálesná Zhoř	Brno-venkov	Jihomoravský kraj	66484	16.28985	49.250286
+6034	Zastávka	Brno-venkov	Jihomoravský kraj	66484	16.363201	49.188096
+6041	Závist	Blansko	Jihomoravský kraj	67922	16.57215	49.375272
+6053	Zblovice	Znojmo	Jihomoravský kraj	67107	15.70531	48.957838
+6058	Zbraslav	Brno-venkov	Jihomoravský kraj	66484	16.294251	49.221653
+6059	Zbraslavec	Blansko	Jihomoravský kraj	67972	16.528495	49.483999
+6065	Zbýšov	Brno-venkov	Jihomoravský kraj	66411	16.349616	49.155344
+6066	Zbýšov	Vyškov	Jihomoravský kraj	68352	16.80578	49.131422
+6087	Zelená Hora	Vyškov	Jihomoravský kraj	68321	17.01382	49.329083
+6092	Zhoř	Brno-venkov	Jihomoravský kraj	67923	16.47899	49.414782
+6117	Znojmo	Znojmo	Jihomoravský kraj	66902	16.054368	48.856011
+6140	Žabčice	Brno-venkov	Jihomoravský kraj	66463	16.602677	49.011697
+6146	Žádovice	Hodonín	Jihomoravský kraj	69649	17.197031	49.013463
+6158	Žarošice	Hodonín	Jihomoravský kraj	69634	16.967239	49.040748
+6160	Žatčany	Brno-venkov	Jihomoravský kraj	66453	16.733849	49.087986
+6163	Ždánice	Hodonín	Jihomoravský kraj	69632	17.027619	49.067387
+6169	Žďár	Blansko	Jihomoravský kraj	67902	16.697884	49.421675
+6175	Žďárec	Brno-venkov	Jihomoravský kraj	59456	16.266562	49.379867
+6178	Žďárná	Blansko	Jihomoravský kraj	67952	16.758612	49.468738
+6194	Želešice	Brno-venkov	Jihomoravský kraj	66443	16.581479	49.116986
+6196	Želetice	Hodonín	Jihomoravský kraj	69637	17.008221	49.014333
+6197	Želetice	Znojmo	Jihomoravský kraj	67134	16.182913	48.936428
+6200	Železné	Brno-venkov	Jihomoravský kraj	66601	16.45055	49.359718
+6210	Žeravice	Hodonín	Jihomoravský kraj	69647	17.23737	49.022984
+6211	Žeraviny	Hodonín	Jihomoravský kraj	69663	17.391624	48.908328
+6218	Žernovník	Blansko	Jihomoravský kraj	67921	16.545573	49.407034
+6219	Žerotice	Znojmo	Jihomoravský kraj	67134	16.168847	48.92681
+6222	Žerůtky	Blansko	Jihomoravský kraj	67971	16.536844	49.440351
+6223	Žerůtky	Znojmo	Jihomoravský kraj	67151	15.963194	48.906004
+6224	Židlochovice	Brno-venkov	Jihomoravský kraj	66701	16.618911	49.039624

@@ -1,0 +1,2 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+4005	Praha	Praha	Hlavní město Praha	11000	14.4379	50.075638

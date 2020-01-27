@@ -50,6 +50,10 @@ namespace GenetickyAlgoritmus
             return distance;
         }
 
+        /// <summary>
+        /// Vrátí vzdálenost jako Double
+        /// </summary>
+        /// <returns></returns>
         public double getDistanceString()
         {
             double distance = 0;
@@ -57,7 +61,7 @@ namespace GenetickyAlgoritmus
             for (int i = 0; i < this.sequence.Length - 1; i++)
                 distance = distance + Cities.getDistance(this.sequence[i], this.sequence[i + 1]);
 
-            return distance;
+            return distance * 111;
         }
 
         /// <summary>
@@ -170,6 +174,10 @@ namespace GenetickyAlgoritmus
             return output;
         }
 
+        /// <summary>
+        /// Zobrazí jedince
+        /// </summary>
+        /// <returns></returns>
         public string showSequence()
         {
             string output = this.sequence[0];
@@ -179,6 +187,9 @@ namespace GenetickyAlgoritmus
             return output;
         }
 
+        /// <summary>
+        /// Přeloží jedince z ID do normálních názvů
+        /// </summary>
         public void translateSequence()
         {
             for (int i = 0; i < this.sequence.Length; i++) this.sequence[i] = Cities.getCityName(Convert.ToInt32(this.sequence[i]));
