@@ -1,0 +1,355 @@
+Id	Obec	Okres	Kraj	PSČ	X	Y
+18	Arnoltice	Děčín	Ústecký kraj	40714	14.264055	50.837124
+61	Bečov	Most	Ústecký kraj	43526	13.717955	50.449824
+72	Bechlín	Litoměřice	Ústecký kraj	41186	14.341026	50.416252
+93	Bělušice	Most	Ústecký kraj	43401	13.762928	50.449262
+101	Benešov nad Ploučnicí	Děčín	Ústecký kraj	40722	14.3125	50.741692
+144	Bílence	Chomutov	Ústecký kraj	43001	13.50601	50.424657
+146	Bílina	Teplice	Ústecký kraj	41801	13.775459	50.548647
+173	Bitozeves	Louny	Ústecký kraj	44001	13.640793	50.37326
+183	Blatno	Chomutov	Ústecký kraj	43001	13.358172	50.511799
+184	Blatno	Louny	Ústecký kraj	43984	13.389809	50.097026
+189	Blažim	Louny	Ústecký kraj	44001	13.628683	50.40695
+199	Blšany	Louny	Ústecký kraj	43988	13.471313	50.217441
+200	Blšany u Loun	Louny	Ústecký kraj	44001	13.852757	50.347086
+238	Bohušovice nad Ohří	Litoměřice	Ústecký kraj	41156	14.150595	50.493264
+252	Boleboř	Chomutov	Ústecký kraj	43121	13.413447	50.540271
+304	Bořislav	Teplice	Ústecký kraj	41501	13.929313	50.579462
+329	Braňany	Most	Ústecký kraj	43522	13.700283	50.543055
+330	Brandov	Most	Ústecký kraj	43547	13.390831	50.63211
+363	Brňany	Litoměřice	Ústecký kraj	41201	14.141967	50.481073
+372	Brodec	Louny	Ústecký kraj	44001	13.801725	50.295025
+380	Brozany nad Ohří	Litoměřice	Ústecký kraj	41181	14.145512	50.453763
+392	Brzánky	Litoměřice	Ústecký kraj	41301	14.301296	50.461941
+423	Březno	Chomutov	Ústecký kraj	43145	13.420942	50.40228
+445	Bříza	Litoměřice	Ústecký kraj	41301	14.216366	50.360615
+446	Břvany	Louny	Ústecký kraj	44001	13.721648	50.401253
+468	Budyně nad Ohří	Litoměřice	Ústecký kraj	41118	14.126018	50.404377
+506	Býčkovice	Litoměřice	Ústecký kraj	41201	14.213625	50.559879
+513	Bynovec	Děčín	Ústecký kraj	40502	14.264287	50.820934
+520	Bystřany	Teplice	Ústecký kraj	41761	13.8643	50.628776
+536	Bžany	Teplice	Ústecký kraj	41501	13.879624	50.589151
+559	Cítoliby	Louny	Ústecký kraj	43902	13.812247	50.332834
+571	Ctiněves	Litoměřice	Ústecký kraj	41301	14.307223	50.374801
+625	Čeradice	Louny	Ústecký kraj	43801	13.494015	50.308851
+639	Černčice	Louny	Ústecký kraj	43901	13.845324	50.361485
+641	Černěves	Litoměřice	Ústecký kraj	41301	14.243217	50.454495
+650	Černiv	Litoměřice	Ústecký kraj	41002	14.059049	50.445046
+655	Černouček	Litoměřice	Ústecký kraj	41301	14.307446	50.360924
+661	Černovice	Chomutov	Ústecký kraj	43001	13.359354	50.447783
+685	Česká Kamenice	Děčín	Ústecký kraj	40721	14.417784	50.797908
+702	Český Jiřetín	Most	Ústecký kraj	43601	13.547489	50.70759
+737	Čížkovice	Litoměřice	Ústecký kraj	41112	14.028506	50.484284
+765	Děčany	Litoměřice	Ústecký kraj	41115	13.908578	50.438699
+766	DĚČÍN	Děčín	Ústecký kraj	40502	14.212861	50.772656
+783	Deštnice	Louny	Ústecký kraj	43801	13.609915	50.230738
+801	Dlažkovice	Litoměřice	Ústecký kraj	41115	13.96506	50.465654
+823	Dobkovice	Děčín	Ústecký kraj	40703	14.193259	50.714949
+835	Dobrná	Děčín	Ústecký kraj	40741	14.293376	50.769646
+840	Dobroměřice	Louny	Ústecký kraj	44001	13.794844	50.370197
+861	Dobříň	Litoměřice	Ústecký kraj	41301	14.29389	50.437691
+870	Doksany	Litoměřice	Ústecký kraj	41182	14.16124	50.454991
+873	Dolánky nad Ohří	Litoměřice	Ústecký kraj	41301	14.162716	50.472956
+902	Dolní Habartice	Děčín	Ústecký kraj	40502	14.333391	50.747281
+933	Dolní Podluží	Děčín	Ústecký kraj	40755	14.595146	50.879988
+935	Dolní Poustevna	Děčín	Ústecký kraj	40782	14.286956	50.982619
+955	Dolní Zálezly	Ústí nad Labem	Ústecký kraj	40301	14.04319	50.597423
+966	Domašín	Chomutov	Ústecký kraj	43151	13.172313	50.420806
+974	Domoušice	Louny	Ústecký kraj	43968	13.729627	50.234257
+977	Doubice	Děčín	Ústecký kraj	40747	14.461724	50.888706
+999	Drahobuz	Litoměřice	Ústecký kraj	41145	14.320808	50.525222
+1032	Droužkovice	Chomutov	Ústecký kraj	43144	13.429205	50.430887
+1065	Dubí	Teplice	Ústecký kraj	41701	13.788947	50.681139
+1075	Duchcov	Teplice	Ústecký kraj	41901	13.746322	50.603871
+1081	Dušníky	Litoměřice	Ústecký kraj	41301	14.190273	50.424637
+1102	Evaň	Litoměřice	Ústecký kraj	41002	14.028989	50.384155
+1106	Františkov nad Ploučnicí	Děčín	Ústecký kraj	40723	14.327018	50.725809
+1128	Habrovany	Ústí nad Labem	Ústecký kraj	40002	13.981796	50.598676
+1135	Háj u Duchcova	Teplice	Ústecký kraj	41722	13.712691	50.630921
+1169	Havraň	Most	Ústecký kraj	43501	13.598881	50.450149
+1194	Heřmanov	Děčín	Ústecký kraj	40502	14.291315	50.726587
+1215	Hlinná	Litoměřice	Ústecký kraj	41201	14.10679	50.572465
+1269	Holedeč	Louny	Ústecký kraj	43801	13.563098	50.277534
+1286	Homole u Panny	Ústí nad Labem	Ústecký kraj	40002	14.186494	50.62938
+1290	Hora Svaté Kateřiny	Most	Ústecký kraj	43546	13.436834	50.606416
+1291	Hora Svatého Šebestiána	Chomutov	Ústecký kraj	43182	13.251454	50.510328
+1306	Horní Beřkovice	Litoměřice	Ústecký kraj	41185	14.346588	50.358792
+1324	Horní Habartice	Děčín	Ústecký kraj	40502	14.340721	50.762175
+1328	Horní Jiřetín	Most	Ústecký kraj	43543	13.547284	50.5732
+1359	Horní Podluží	Děčín	Ústecký kraj	40757	14.545731	50.881485
+1370	Horní Řepčice	Litoměřice	Ústecký kraj	41145	14.253325	50.556722
+1435	Hostomice	Teplice	Ústecký kraj	41752	13.808142	50.587806
+1447	Hoštka	Litoměřice	Ústecký kraj	41172	14.33511	50.488694
+1502	Hrob	Teplice	Ústecký kraj	41704	13.726873	50.659299
+1503	Hrobce	Litoměřice	Ústecký kraj	41183	14.230906	50.462572
+1504	Hrobčice	Teplice	Ústecký kraj	41757	13.785716	50.517448
+1525	Hrušovany	Chomutov	Ústecký kraj	43143	13.498471	50.387359
+1533	Hřensko	Děčín	Ústecký kraj	40717	14.242617	50.87451
+1538	Hříškov	Louny	Ústecký kraj	43904	13.864363	50.291438
+1539	Hřivice	Louny	Ústecký kraj	43965	13.730349	50.288215
+1549	Huntířov	Děčín	Ústecký kraj	40502	14.303537	50.789539
+1581	Chabařovice	Ústí nad Labem	Ústecký kraj	40317	13.941955	50.673287
+1588	Chbany	Chomutov	Ústecký kraj	43157	13.430488	50.332881
+1611	Chlumčany	Louny	Ústecký kraj	43903	13.843328	50.335042
+1613	Chlumec	Ústí nad Labem	Ústecký kraj	40339	13.939752	50.699825
+1630	Chodouny	Litoměřice	Ústecký kraj	41171	14.250171	50.47327
+1635	Chodovlice	Litoměřice	Ústecký kraj	41115	13.993372	50.463209
+1643	Chomutov	Chomutov	Ústecký kraj	43004	13.410837	50.463598
+1660	Chotěšov	Litoměřice	Ústecký kraj	41002	14.085254	50.439891
+1665	Chotiměř	Litoměřice	Ústecký kraj	41002	14.000996	50.548326
+1666	Chotiněves	Litoměřice	Ústecký kraj	41145	14.279353	50.552187
+1678	Chožov	Louny	Ústecký kraj	43922	13.859103	50.39887
+1679	Chraberce	Louny	Ústecký kraj	44001	13.829608	50.408357
+1707	Chřibská	Děčín	Ústecký kraj	40744	14.483083	50.863346
+1712	Chuderov	Ústí nad Labem	Ústecký kraj	40002	14.046285	50.68875
+1715	Chudoslavice	Litoměřice	Ústecký kraj	41201	14.187346	50.583028
+1778	Janov	Děčín	Ústecký kraj	40502	14.265378	50.860304
+1784	Janská	Děčín	Ústecký kraj	40502	14.363559	50.80461
+1822	Jenčice	Litoměřice	Ústecký kraj	41115	14.004486	50.483044
+1825	Jeníkov	Teplice	Ústecký kraj	41724	13.749019	50.628702
+1852	Jetřichovice	Děčín	Ústecký kraj	40716	14.394022	50.852494
+1877	Jílové	Děčín	Ústecký kraj	40701	14.103948	50.760925
+1883	Jimlín	Louny	Ústecký kraj	44001	13.747256	50.320403
+1899	Jirkov	Chomutov	Ústecký kraj	43111	13.448885	50.500627
+1902	Jiřetín pod Jedlovou	Děčín	Ústecký kraj	40756	14.57519	50.874552
+1908	Jiříkov	Děčín	Ústecký kraj	40753	14.568449	50.993471
+1932	Kadaň	Chomutov	Ústecký kraj	43201	13.271422	50.376092
+1940	Kalek	Chomutov	Ústecký kraj	43132	13.322071	50.577837
+1951	Kámen	Děčín	Ústecký kraj	40713	14.268547	50.810319
+1973	Kamýk	Litoměřice	Ústecký kraj	41201	14.07749	50.558481
+2019	Keblice	Litoměřice	Ústecký kraj	41002	14.101914	50.480149
+2039	Kladruby	Teplice	Ústecký kraj	41501	13.826385	50.615093
+2042	Klapý	Litoměřice	Ústecký kraj	41116	14.006583	50.43154
+2045	Klášterec nad Ohří	Chomutov	Ústecký kraj	43151	13.171393	50.384561
+2054	Kleneč	Litoměřice	Ústecký kraj	41301	14.248831	50.392685
+2063	Klíny	Most	Ústecký kraj	43601	13.548232	50.638349
+2170	Korozluky	Most	Ústecký kraj	43401	13.723088	50.478686
+2212	Kostomlaty pod Milešovkou	Teplice	Ústecký kraj	41754	13.873166	50.560217
+2213	Kostomlaty pod Řípem	Litoměřice	Ústecký kraj	41301	14.333177	50.383135
+2223	Košťany	Teplice	Ústecký kraj	41723	13.755656	50.655181
+2224	Koštice	Louny	Ústecký kraj	43921	13.944037	50.403319
+2246	Kovářská	Chomutov	Ústecký kraj	43186	13.053997	50.438324
+2259	Kozly	Louny	Ústecký kraj	44001	13.784625	50.45686
+2275	Krabčice	Litoměřice	Ústecký kraj	41187	14.301425	50.405474
+2308	Krásná Lípa	Děčín	Ústecký kraj	40746	14.510101	50.913136
+2315	Krásný Dvůr	Louny	Ústecký kraj	43972	13.367878	50.254271
+2362	Krupka	Teplice	Ústecký kraj	41741	13.858264	50.684596
+2366	Kryry	Louny	Ústecký kraj	43981	13.426708	50.174477
+2368	Kryštofovy Hamry	Chomutov	Ústecký kraj	43191	13.136207	50.499571
+2390	Křesín	Litoměřice	Ústecký kraj	41002	13.980842	50.394622
+2391	Křešice	Litoměřice	Ústecký kraj	41148	14.21461	50.522692
+2398	Křimov	Chomutov	Ústecký kraj	43001	13.301587	50.486132
+2453	Kunratice	Děčín	Ústecký kraj	40502	14.41998	50.818924
+2494	Kyškovice	Litoměřice	Ústecký kraj	41301	14.285987	50.448307
+2496	Kytlice	Děčín	Ústecký kraj	40745	14.53547	50.812746
+2497	Labská Stráň	Děčín	Ústecký kraj	40502	14.231709	50.848754
+2502	Lahošť	Teplice	Ústecký kraj	41725	13.765404	50.618346
+2547	Ledvice	Teplice	Ústecký kraj	41772	13.772139	50.585119
+2552	Lenešice	Louny	Ústecký kraj	43923	13.766007	50.375267
+2584	Levín	Litoměřice	Ústecký kraj	41145	14.284017	50.613935
+2608	Lhotka nad Labem	Litoměřice	Ústecký kraj	41002	14.047429	50.525685
+2620	Libčeves	Louny	Ústecký kraj	43926	13.838289	50.452574
+2623	Libědice	Chomutov	Ústecký kraj	43801	13.385678	50.315996
+2632	Liběšice	Litoměřice	Ústecký kraj	41146	14.289175	50.568962
+2633	Liběšice	Louny	Ústecký kraj	43963	13.621573	50.293667
+2649	Libkovice pod Řípem	Litoměřice	Ústecký kraj	41301	14.342424	50.392532
+2655	Libočany	Louny	Ústecký kraj	43975	13.513599	50.33349
+2657	Libochovany	Litoměřice	Ústecký kraj	41103	14.039146	50.566669
+2658	Libochovice	Litoměřice	Ústecký kraj	41117	14.044498	50.406368
+2662	Libořice	Louny	Ústecký kraj	43801	13.515189	50.254811
+2665	Libotenice	Litoměřice	Ústecký kraj	41201	14.229354	50.477022
+2667	Libouchec	Ústí nad Labem	Ústecký kraj	40335	14.040826	50.75865
+2696	Lipno	Louny	Ústecký kraj	43801	13.680972	50.300702
+2703	Lipová	Děčín	Ústecký kraj	40781	14.360332	51.011146
+2717	Lišany	Louny	Ústecký kraj	44001	13.642025	50.344465
+2723	Lišnice	Most	Ústecký kraj	43401	13.63312	50.454552
+2730	Líšťany	Louny	Ústecký kraj	44001	13.800031	50.312594
+2742	Litoměřice	Litoměřice	Ústecký kraj	41201	14.130646	50.53852
+2749	Litvínov	Most	Ústecký kraj	43601	13.610342	50.598526
+2751	Lkáň	Litoměřice	Ústecký kraj	41115	13.969778	50.443126
+2754	Lobendava	Děčín	Ústecký kraj	40784	14.314344	51.019574
+2768	Lom	Most	Ústecký kraj	43511	13.657403	50.593384
+2791	Loučná pod Klínovcem	Chomutov	Ústecký kraj	43191	12.986674	50.420711
+2795	Louka u Litvínova	Most	Ústecký kraj	43533	13.636592	50.587967
+2803	Louny	Louny	Ústecký kraj	44001	13.803455	50.354081
+2809	Lovečkovice	Litoměřice	Ústecký kraj	41145	14.263257	50.621676
+2810	Lovosice	Litoměřice	Ústecký kraj	41002	14.051142	50.515143
+2815	Lubenec	Louny	Ústecký kraj	43983	13.313301	50.132182
+2835	Ludvíkovice	Děčín	Ústecký kraj	40713	14.256524	50.794169
+2841	Lukavec	Litoměřice	Ústecký kraj	41002	14.085804	50.501745
+2849	Lukov	Teplice	Ústecký kraj	41804	13.885519	50.528228
+2871	Lužice	Most	Ústecký kraj	43524	13.75425	50.491802
+2898	Malá Veleň	Děčín	Ústecký kraj	40502	14.270704	50.741627
+2902	Malé Březno	Most	Ústecký kraj	43401	13.560308	50.462594
+2903	Malé Březno	Ústí nad Labem	Ústecký kraj	40002	14.172366	50.672709
+2909	Malé Žernoseky	Litoměřice	Ústecký kraj	41002	14.05484	50.534078
+2911	Malečov	Ústí nad Labem	Ústecký kraj	40327	14.119558	50.632028
+2919	Malíč	Litoměřice	Ústecký kraj	41201	14.082115	50.543636
+2925	Málkov	Chomutov	Ústecký kraj	43001	13.333493	50.446278
+2931	Malšovice	Děčín	Ústecký kraj	40502	14.169817	50.735259
+2939	Mariánské Radčice	Most	Ústecký kraj	43532	13.665101	50.574142
+2943	Markvartice	Děčín	Ústecký kraj	40742	14.355383	50.775633
+2949	Martiněves	Litoměřice	Ústecký kraj	41119	14.152928	50.372805
+2962	Mašťov	Chomutov	Ústecký kraj	43156	13.280572	50.262382
+2971	Měděnec	Chomutov	Ústecký kraj	43184	13.115541	50.421723
+2981	Měcholupy	Louny	Ústecký kraj	43931	13.537482	50.26677
+2991	Merboltice	Děčín	Ústecký kraj	40502	14.339205	50.684307
+2996	Měrunice	Teplice	Ústecký kraj	41804	13.818088	50.480523
+3010	Meziboří	Most	Ústecký kraj	43513	13.598813	50.62126
+3027	Michalovice	Litoměřice	Ústecký kraj	41201	14.082042	50.536682
+3030	Mikulášovice	Děčín	Ústecký kraj	40779	14.363794	50.965179
+3034	Mikulov	Teplice	Ústecký kraj	41901	13.721712	50.687713
+3085	Miřejovice	Litoměřice	Ústecký kraj	41201	14.109038	50.553345
+3090	Místo	Chomutov	Ústecký kraj	43158	13.26742	50.447156
+3113	Mlékojedy	Litoměřice	Ústecký kraj	41201	14.11933	50.526999
+3117	Mnetěš	Litoměřice	Ústecký kraj	41301	14.281839	50.36565
+3129	Modlany	Teplice	Ústecký kraj	41713	13.895449	50.650606
+3154	Moldava	Teplice	Ústecký kraj	41781	13.657342	50.720738
+3185	Most	Most	Ústecký kraj	43401	13.633012	50.501655
+3206	Mšené-lázně	Litoměřice	Ústecký kraj	41119	14.127166	50.362321
+3322	Nepomyšl	Louny	Ústecký kraj	43971	13.313325	50.218181
+3357	Nezabylice	Chomutov	Ústecký kraj	43001	13.478643	50.424293
+3412	Nová Ves	Louny	Ústecký kraj	44001	13.842789	50.285958
+3426	Nová Ves v Horách	Most	Ústecký kraj	43545	13.482558	50.594847
+3431	Nové Dvory	Litoměřice	Ústecký kraj	41301	14.179516	50.447702
+3447	Nové Sedlo	Louny	Ústecký kraj	43801	13.474941	50.339745
+3452	Novosedlice	Teplice	Ústecký kraj	41731	13.823154	50.656439
+3493	Obora	Louny	Ústecký kraj	44001	13.863081	50.373356
+3498	Obrnice	Most	Ústecký kraj	43521	13.695511	50.505083
+3506	Očihov	Louny	Ústecký kraj	43987	13.460534	50.19866
+3516	Ohníč	Teplice	Ústecký kraj	41765	13.844786	50.587135
+3529	Okounov	Chomutov	Ústecký kraj	43151	13.106679	50.362327
+3557	Oleško	Litoměřice	Ústecký kraj	41201	14.196615	50.480652
+3606	Opočno	Louny	Ústecký kraj	44001	13.735342	50.311585
+3632	Osek	Teplice	Ústecký kraj	41705	13.691488	50.622637
+3699	Otvice	Chomutov	Ústecký kraj	43111	13.45081	50.480923
+3722	Panenský Týnec	Louny	Ústecký kraj	43905	13.917056	50.295028
+3741	Patokryje	Most	Ústecký kraj	43401	13.705297	50.499915
+3775	Perštejn	Chomutov	Ústecký kraj	43163	13.110315	50.381769
+3779	Peruc	Louny	Ústecký kraj	43907	13.959969	50.342609
+3781	Pesvice	Chomutov	Ústecký kraj	43111	13.484983	50.463315
+3784	Pětipsy	Chomutov	Ústecký kraj	43153	13.349824	50.321219
+3787	Petrohrad	Louny	Ústecký kraj	43985	13.446526	50.127625
+3801	Petrovice	Ústí nad Labem	Ústecký kraj	40337	13.976255	50.789131
+3833	Píšťany	Litoměřice	Ústecký kraj	41101	14.069206	50.519327
+3860	Ploskovice	Litoměřice	Ústecký kraj	41142	14.198588	50.56034
+3865	Pnětluky	Louny	Ústecký kraj	44001	13.703895	50.250358
+3875	Počedělice	Louny	Ústecký kraj	44001	13.887909	50.371926
+3879	Podbořanský Rohozec	Louny	Ústecký kraj	44101	13.262884	50.216536
+3880	Podbořany	Louny	Ústecký kraj	44101	13.41203	50.229475
+3916	Podsedice	Litoměřice	Ústecký kraj	41115	13.948396	50.472089
+3939	Polepy	Litoměřice	Ústecký kraj	41147	14.264579	50.50573
+3941	Polerady	Most	Ústecký kraj	43401	13.652795	50.444544
+3978	Postoloprty	Louny	Ústecký kraj	43942	13.70302	50.359895
+3994	Povrly	Ústí nad Labem	Ústecký kraj	40332	14.160445	50.672866
+4002	Prackovice nad Labem	Litoměřice	Ústecký kraj	41133	14.032075	50.569522
+4022	Proboštov	Teplice	Ústecký kraj	41712	13.836123	50.667833
+4091	Přestanov	Ústí nad Labem	Ústecký kraj	40317	13.920379	50.686777
+4095	Přestavlky	Litoměřice	Ústecký kraj	41301	14.193965	50.403615
+4168	Račetice	Chomutov	Ústecký kraj	43801	13.364964	50.30526
+4172	Račice	Litoměřice	Ústecký kraj	41108	14.351181	50.461398
+4176	Račiněves	Litoměřice	Ústecký kraj	41301	14.218727	50.373201
+4214	Radonice	Chomutov	Ústecký kraj	43155	13.284757	50.298139
+4228	Radovesice	Litoměřice	Ústecký kraj	41002	14.068389	50.41107
+4253	Raná	Louny	Ústecký kraj	43924	13.779373	50.411665
+4284	Ročov	Louny	Ústecký kraj	43967	13.774466	50.253498
+4303	Rochov	Litoměřice	Ústecký kraj	41301	14.117546	50.45949
+4305	Rokle	Chomutov	Ústecký kraj	43201	13.29881	50.35328
+4334	Roudnice nad Labem	Litoměřice	Ústecký kraj	41301	14.260565	50.425305
+4372	Rtyně nad Bílinou	Teplice	Ústecký kraj	41762	13.908818	50.603629
+4390	Rumburk	Děčín	Ústecký kraj	40801	14.555255	50.953525
+4397	Růžová	Děčín	Ústecký kraj	40502	14.293898	50.842265
+4409	Rybniště	Děčín	Ústecký kraj	40751	14.515148	50.880068
+4415	Ryjice	Ústí nad Labem	Ústecký kraj	40331	14.092111	50.688055
+4427	Řehlovice	Ústí nad Labem	Ústecký kraj	40313	13.954233	50.607226
+4496	Sedlec	Litoměřice	Ústecký kraj	41115	14.016401	50.450166
+4546	Siřejovice	Litoměřice	Ústecký kraj	41002	14.071012	50.478454
+4581	Skršín	Most	Ústecký kraj	43401	13.754506	50.465729
+4612	Slatina	Litoměřice	Ústecký kraj	41002	14.038155	50.430683
+4623	Slavětín	Louny	Ústecký kraj	43909	13.907818	50.350713
+4667	Smolnice	Louny	Ústecký kraj	43914	13.848572	50.308774
+4676	Snědovice	Litoměřice	Ústecký kraj	41174	14.387857	50.503633
+4724	Spořice	Chomutov	Ústecký kraj	43101	13.391931	50.44104
+4729	Srbice	Teplice	Ústecký kraj	41501	13.869399	50.660759
+4730	Srbská Kamenice	Děčín	Ústecký kraj	40715	14.352834	50.820458
+4747	Staňkovice	Litoměřice	Ústecký kraj	41201	14.167132	50.589503
+4748	Staňkovice	Louny	Ústecký kraj	43949	13.571151	50.349927
+4772	Staré Křečany	Děčín	Ústecký kraj	40761	14.496283	50.950546
+4799	Starý Šachov	Děčín	Ústecký kraj	40502	14.360479	50.715168
+4810	Stebno	Ústí nad Labem	Ústecký kraj	40002	14.01732	50.615203
+4845	Straškov-Vodochody	Litoměřice	Ústecký kraj	41184	14.249643	50.363689
+4875	Strupčice	Chomutov	Ústecký kraj	43114	13.530649	50.471126
+4959	Sulejovice	Litoměřice	Ústecký kraj	41111	14.037519	50.498891
+4991	Světec	Teplice	Ústecký kraj	41753	13.811707	50.576236
+5084	Šluknov	Děčín	Ústecký kraj	40777	14.452699	51.003793
+5107	Štětí	Litoměřice	Ústecký kraj	41108	14.374322	50.453087
+5143	Tašov	Ústí nad Labem	Ústecký kraj	40002	14.135906	50.614624
+5156	Těchlovice	Děčín	Ústecký kraj	40502	14.205036	50.696428
+5162	Telnice	Ústí nad Labem	Ústecký kraj	40338	13.957891	50.733064
+5169	Teplice	Teplice	Ústecký kraj	41501	13.835384	50.644558
+5176	Terezín	Litoměřice	Ústecký kraj	41155	14.150658	50.511102
+5195	Tisá	Ústí nad Labem	Ústecký kraj	40336	14.031415	50.784605
+5218	Toužetín	Louny	Ústecký kraj	44001	13.886229	50.315391
+5223	Travčice	Litoměřice	Ústecký kraj	41201	14.189878	50.503389
+5230	Trmice	Ústí nad Labem	Ústecký kraj	40004	13.994605	50.642967
+5238	Trnovany	Litoměřice	Ústecký kraj	41201	14.17905	50.543317
+5272	Třebenice	Litoměřice	Ústecký kraj	41113	13.990159	50.476429
+5283	Třebívlice	Litoměřice	Ústecký kraj	41115	13.899372	50.45817
+5297	Třebušín	Litoměřice	Ústecký kraj	41201	14.20553	50.599744
+5324	Tuchořice	Louny	Ústecký kraj	43969	13.662622	50.28475
+5365	Údlice	Chomutov	Ústecký kraj	43141	13.457492	50.440706
+5370	Úherce	Louny	Ústecký kraj	44001	13.949094	50.298161
+5418	Újezdeček	Teplice	Ústecký kraj	41501	13.789867	50.645818
+5438	Úpohlavy	Litoměřice	Ústecký kraj	41002	14.035645	50.463202
+5451	ÚSTÍ NAD LABEM	Ústí nad Labem	Ústecký kraj	40001	14.053246	50.661216
+5458	Úštěk	Litoměřice	Ústecký kraj	41145	14.34769	50.585804
+5492	Valkeřice	Děčín	Ústecký kraj	40724	14.322006	50.701933
+5507	Varnsdorf	Děčín	Ústecký kraj	40747	14.618348	50.911648
+5520	Vědomice	Litoměřice	Ústecký kraj	41301	14.254008	50.43399
+5524	Vejprty	Chomutov	Ústecký kraj	43191	13.032237	50.492426
+5530	Velemín	Litoměřice	Ústecký kraj	41131	13.976864	50.53909
+5531	Velemyšleves	Louny	Ústecký kraj	43801	13.563783	50.402684
+5545	Veliká Ves	Chomutov	Ústecký kraj	44101	13.37473	50.269771
+5552	Velká Bukovina	Děčín	Ústecký kraj	40729	14.396877	50.730538
+5570	Velké Březno	Ústí nad Labem	Ústecký kraj	40323	14.141852	50.662808
+5576	Velké Chvojno	Ústí nad Labem	Ústecký kraj	40334	14.036815	50.731698
+5593	Velké Žernoseky	Litoměřice	Ústecký kraj	41201	14.063884	50.539512
+5605	Velký Šenov	Děčín	Ústecký kraj	40778	14.374393	50.990885
+5612	Veltěže	Louny	Ústecký kraj	44001	13.875325	50.353316
+5622	Verneřice	Děčín	Ústecký kraj	40725	14.301255	50.661245
+5634	Veselé	Děčín	Ústecký kraj	40502	14.37384	50.784784
+5664	Vchynice	Litoměřice	Ústecký kraj	41002	14.020198	50.510608
+5688	Vilémov	Děčín	Ústecký kraj	40780	14.335423	50.990647
+5689	Vilémov	Chomutov	Ústecký kraj	43154	13.312156	50.301078
+5700	Vinařice	Louny	Ústecký kraj	43915	13.822865	50.265764
+5740	Vlastislav	Litoměřice	Ústecký kraj	41114	13.955542	50.497071
+5798	Volevčice	Most	Ústecký kraj	43401	13.690498	50.434989
+5834	Vražkov	Litoměřice	Ústecký kraj	41301	14.268153	50.373533
+5846	Vrbice	Litoměřice	Ústecký kraj	41164	14.286605	50.4833
+5848	Vrbičany	Litoměřice	Ústecký kraj	41121	14.084782	50.462705
+5850	Vrbno nad Lesy	Louny	Ústecký kraj	43906	13.907083	50.32262
+5864	Vroutek	Louny	Ústecký kraj	43982	13.37997	50.180096
+5865	Vrskmaň	Chomutov	Ústecký kraj	43115	13.495732	50.488266
+5868	Vršovice	Louny	Ústecký kraj	44001	13.842119	50.368582
+5870	Vrutice	Litoměřice	Ústecký kraj	41147	14.289857	50.502216
+5881	Všehrdy	Chomutov	Ústecký kraj	43001	13.461343	50.420047
+5902	Všestudy	Chomutov	Ústecký kraj	43111	13.507709	50.457467
+5919	Výsluní	Chomutov	Ústecký kraj	43183	13.237511	50.466591
+5931	Vysoká Pec	Chomutov	Ústecký kraj	43159	13.470366	50.520381
+5953	Výškov	Louny	Ústecký kraj	44001	13.670442	50.394975
+5972	Zabrušany	Teplice	Ústecký kraj	41771	13.787596	50.605057
+6021	Záluží	Litoměřice	Ústecký kraj	41301	14.32257	50.460172
+6022	Zálužice	Louny	Ústecký kraj	43801	13.604272	50.321307
+6061	Zbrašín	Louny	Ústecký kraj	44001	13.766026	50.299412
+6121	Zubrnice	Ústí nad Labem	Ústecký kraj	40002	14.220493	50.649558
+6144	Žabovřesky nad Ohří	Litoměřice	Ústecký kraj	41002	14.091136	50.413264
+6150	Žalany	Teplice	Ústecký kraj	41763	13.906447	50.59013
+6151	Žalhostice	Litoměřice	Ústecký kraj	41101	14.091474	50.523199
+6162	Žatec	Louny	Ústecký kraj	43801	13.545886	50.327276
+6193	Želenice	Most	Ústecký kraj	43401	13.726169	50.527718
+6206	Želkovice	Louny	Ústecký kraj	44001	13.876828	50.464261
+6221	Žerotín	Louny	Ústecký kraj	44001	13.912212	50.286331
+6227	Židovice	Litoměřice	Ústecký kraj	41183	14.233166	50.446388
+6234	Žim	Teplice	Ústecký kraj	41501	13.965364	50.585066
+6240	Žitenice	Litoměřice	Ústecký kraj	41141	14.156757	50.555387
+6247	Žiželice	Louny	Ústecký kraj	43801	13.540101	50.367513
