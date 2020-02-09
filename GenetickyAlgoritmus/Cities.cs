@@ -7,7 +7,6 @@ namespace GenetickyAlgoritmus
 {
     public class Cities
     {
-        
         /// <summary>
         /// Vypocte vzdalenost mezi 2 body. x1 a y1 je bod 1. x2 a y2 je bod 2.
         /// Vysledek je zaokrouhlen na 4 desetinna mista.

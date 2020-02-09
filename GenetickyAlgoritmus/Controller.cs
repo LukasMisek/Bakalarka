@@ -26,18 +26,23 @@ namespace GenetickyAlgoritmus
             double fitness = 0;
 
             InputOutput.start();
-
-            List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
-            /*Functions.showList(unusedCities);
-            Console.ReadLine();*/
+          
 
             PopulationOrder population = new PopulationOrder();
             Console.WriteLine("Vygeneroval jsem populaci");
             Console.ReadLine();
 
+            Console.WriteLine("vylepsuji populaci");
+            population.improve();
+            Console.ReadLine();
+
+            /*
+
             population.showResultFull();
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
+
+            */
 
             /*
             Console.WriteLine("\n\nPokousim se vylepsit populaci");
@@ -49,6 +54,8 @@ namespace GenetickyAlgoritmus
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
             */
+
+            /*
 
             Console.WriteLine("Pokusim se vylepsit populaci vicekrat");
             Console.ReadLine();
@@ -66,7 +73,7 @@ namespace GenetickyAlgoritmus
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
 
-
+            */
 
             /*
             population.updateBest();

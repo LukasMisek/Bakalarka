@@ -92,6 +92,8 @@ namespace GenetickyAlgoritmus
 
             calculateValue();
             calculateFitness();
+
+            fixMe();
         }
 
         private void calculateValue()
@@ -108,11 +110,76 @@ namespace GenetickyAlgoritmus
 
         }
 
+        public void fixMe()
+        {
+            // sezenu seznam vsech mest
+            List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
+
+            List<string> unusedCitiesId = new List<string>();
+
+            List<string> usedCitiesId = new List<string>();
+
+            foreach (string city in unusedCities) unusedCitiesId.Add(Cities.getId(city));
+
+            // prepisu pouzita mesta do lepsiho formatu
+            foreach (string route in ordersListIds)
+            {
+                string[] routeSplit = route.Split(':');
+                string[] cities = routeSplit[0].Split('-');
+
+                foreach (string city in cities) usedCitiesId.Add(city);
+            }
+
+            // Smažu použitá města
+            for (int i = 0; i < usedCitiesId.Count; i++)
+                for (int j = 0; j < unusedCitiesId.Count; j++)
+                    if (unusedCitiesId[j] == usedCitiesId[i]) unusedCitiesId.RemoveAt(j);
+
+            // pridam ty nepouzita mesta
+
+
+            Console.WriteLine("toto budu opravovat:");
+            Functions.showList(ordersListIds);
+            Console.ReadLine();
+
+            Console.WriteLine("takto to napisu:");
+            Functions.showList(usedCitiesId);
+            Console.ReadLine();
+
+            Console.WriteLine("toto jsou skutecne nepouzita:");
+            Functions.showList(unusedCitiesId);
+            Console.ReadLine();
+
+            Console.WriteLine("tady mam vsechna mesta:");
+            Functions.showList(unusedCities);
+            Console.ReadLine();
+
+            Console.WriteLine("tady mam vsechna mesta ID:");
+            Functions.showList(unusedCitiesId);
+            Console.ReadLine();
+
+            List<string> l_out = new List<string>();
+
+
+            // sezenu seznam pouzitych mest
+            // vypocitam seznam nepouzitych mest
+            // odeberu duplicitni mesta
+            // pridam chybejici mesta
+        }
+
         public void showMeId()
         {
             foreach (string sequence in ordersListIds) Console.WriteLine("{0,-25}", sequence);
 
         }
+        /*
+        public List<string> getUsedCities()
+        {
+            //List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(0);
+
+            
+        }
+        */
 
         public List<string> getOrdersId()
         {

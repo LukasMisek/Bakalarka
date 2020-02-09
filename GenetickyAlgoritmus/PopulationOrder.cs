@@ -182,7 +182,6 @@ namespace GenetickyAlgoritmus
                 
 
             }
-
             this.pCurrent.Clear();
 
             foreach (InvidualOrder iTmp in this.pNext) this.pCurrent.Add(iTmp);
