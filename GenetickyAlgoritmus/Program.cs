@@ -20,6 +20,23 @@ namespace GenetickyAlgoritmus
             Controller controller = new Controller();
 
             /*
+            string[] s = { "ab", "cd", "dd", "aa", "ab" };
+
+            Console.WriteLine("pred opravou");
+            Functions.showArray(s);
+
+            string[] a = Functions.removeDuplicityStringArray(s);
+
+            Console.WriteLine("po oprave");
+            Functions.showArray(a);
+
+            Console.ReadLine();
+            */
+            //InputOutput.start();
+
+
+
+            /*
             Algorithm algoritmus;
             Invidual result;
             

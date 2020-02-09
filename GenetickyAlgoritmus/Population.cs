@@ -127,7 +127,7 @@ namespace GenetickyAlgoritmus
         /// <returns></returns>
         public string getBestString()
         {
-            return "(" + best.getDistance() + ")" + "\t" + best.getSequence();
+            return "(" + this.best.getDistance() + ")" + "\t" + this.best.getSequence();
         }
 
         /// <summary>

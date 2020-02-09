@@ -218,6 +218,11 @@ namespace GenetickyAlgoritmus
             return this.ordersList.Count;
         }
 
+        public List<string> getOrders()
+        {
+            return this.ordersList;
+        }
+
 
     }
 }

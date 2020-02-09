@@ -41,13 +41,11 @@ namespace GenetickyAlgoritmus
         public double getDistance()
         {
             double distance = 0;
-
             for (int i = 0; i < this.sequence.Length - 1; i++)
-                //distance = distance + Cities.getDistance(this.sequence[i], this.sequence[i + 1]);
-                //distance = distance + Cities.getDistanceId(this.sequence[i], this.sequence[i + 1]);
+            {
                 distance = distance + Cities.getDistance(Convert.ToInt32(this.sequence[i]), Convert.ToInt32(this.sequence[i + 1]));
-
-            return distance;
+            }
+            return distance * 111;
         }
 
         /// <summary>
@@ -89,7 +87,7 @@ namespace GenetickyAlgoritmus
         public Invidual(Invidual p1, Invidual p2)
         {
             var rnd = new Random();
-            int a = rnd.Next(0, 1);
+            int a = rnd.Next(0, 2);
 
             if (a == 0)
             {
@@ -169,9 +167,14 @@ namespace GenetickyAlgoritmus
         {
             string output = null;
 
-            for (int i = 0; i < this.sequence.Length; i++) output = output + this.sequence[i];
+            for (int i = 0; i < this.sequence.Length; i++) output = output + "-" + this.sequence[i];
 
             return output;
+        }
+
+        public string[] getSequenceArray()
+        {
+            return this.sequence;
         }
 
         /// <summary>
@@ -193,6 +196,34 @@ namespace GenetickyAlgoritmus
         public void translateSequence()
         {
             for (int i = 0; i < this.sequence.Length; i++) this.sequence[i] = Cities.getCityName(Convert.ToInt32(this.sequence[i]));
+        }
+
+        public void showMe()
+        {
+            string s = this.sequence[0];
+
+            for (int i = 1; i < this.sequence.Length; i++) s = s + "-" + this.sequence[i];
+            s = s + ":" + this.getDistance();
+            Console.WriteLine(s);
+        }
+
+        public void showMeTranslated()
+        {
+            string s = Cities.getCityName(Convert.ToInt32(this.sequence[0]));
+
+            for (int i = 1; i < this.sequence.Length; i++) s = s + "-" + Cities.getCityName(Convert.ToInt32(this.sequence[i]));
+            s = s + ":" + this.getDistance();
+
+            Console.WriteLine(s);
+        }
+
+        public void showMeFull()
+        {
+            string s = "Vzdálenost: " + getDistance() + "\t";
+            s = s + Cities.getCityName(Convert.ToInt32(this.sequence[0]));
+
+            for (int i = 1; i < this.sequence.Length; i++) s = s + "-" + Cities.getCityName(Convert.ToInt32(this.sequence[i]));
+            Console.WriteLine(s);
         }
 
     }

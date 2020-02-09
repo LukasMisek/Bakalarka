@@ -22,24 +22,118 @@ namespace GenetickyAlgoritmus
 
         public Controller()
         {
+
+            double fitness = 0;
+
             InputOutput.start();
 
-            /*
-            Functions.showDataActiveOrdersTable();
-            Console.ReadLine();
-            */
-            
-            /*
-            Functions.showDataAllCitiesTable();
-            Console.ReadLine();
-            */
-            /*
-            List<string> testList = Functions.getUniqueColumnsValuesFile(1, selectedFile, selectedArea);
+            List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
+            /*Functions.showList(unusedCities);
+            Console.ReadLine();*/
 
-            Functions.showList(testList);
+            PopulationOrder population = new PopulationOrder();
+            Console.WriteLine("Vygeneroval jsem populaci");
+            Console.ReadLine();
 
+            population.showResultFull();
+            Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
+            Console.ReadLine();
+
+            /*
+            Console.WriteLine("\n\nPokousim se vylepsit populaci");
+            population.improve();
+            Console.WriteLine("\n\nVylepšil jsem populaci");
+            Console.ReadLine();
+
+            population.showResultFull();
+            Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
             */
+
+            Console.WriteLine("Pokusim se vylepsit populaci vicekrat");
+            Console.ReadLine();
+           
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine("Vylepsuji populaci po "+i);
+                population.improve();
+                Console.WriteLine("Vylepsil jsem populaci po " + i);
+                population.showResultFull();
+                Console.ReadLine();
+            }
+
+            population.showResultFull();
+            Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
+            Console.ReadLine();
+
+
+
+            /*
+            population.updateBest();
+            InvidualOrder best = null;
+            best = population.GetBest();
+            Console.WriteLine("Stáhl jsem si nejlepsiho");
+            Console.ReadLine();
+
+            best.showMe();
+            Console.WriteLine("ukazuji nejlepsiho");
+            Console.ReadLine();
+            */
+
+            /*
+            population.translateResult(9);
+            population.showResultTranslated(9);
+            Console.WriteLine("\n\nPřeložil jsem výsledek 9");
+            Console.ReadLine();
+            */
+
+
+            /*
+
+            InvidualOrder in1 = new InvidualOrder();
+            InvidualOrder in2 = new InvidualOrder();
+            List<string> listek = new List<string>();
+            Console.WriteLine("ORDER 1:\n");
+            in1.showMe();
+            Console.WriteLine("ORDER 2:\n");
+            in2.showMe();
+            Console.WriteLine("KOMBINACE:\n");
+            InvidualOrder n = new InvidualOrder(in1, in2);
+            n.showMe();
+            Console.ReadLine();
+            Console.WriteLine("KOMBINACE ID:\n");
+            n.showMeId();
+            Console.ReadLine();
+
+            */
+            /*
+            Console.WriteLine("calculate routes"); // spusteni algoritmu pro ordery
+            n.calculateRoutes();
+
+            Console.WriteLine("sorted orders"); // vysledek algoritmu
+            n.showSortedOrders();
+            Console.ReadLine();
+
+            List<Invidual> resultList;
+            Console.WriteLine("SHOW ME");
+            resultList = n.getOrderListSorted();
+            for (int j = 0; j < resultList.Count; j++)
+            {
+                Console.WriteLine("{0,-25}{1,0}", ("Vzdálenost: " + resultList[j].getDistanceString()), resultList[j].showSequence());
+            }
+            Console.ReadLine();
+
+            Console.WriteLine("TRANSLATE");
+            n.translateRoutes();
+            resultList = n.getOrderListSorted();
+            for (int j = 0; j < resultList.Count; j++)
+            {
+                Console.WriteLine("{0,-25}{1,0}", ("Vzdálenost: " + resultList[j].getDistanceString()), resultList[j].showSequence());
+            }
+            Console.ReadLine();
+            */
+            /*
+
             Orders[]orders = new Orders[10];
 
             for (int i = 0; i < 10; i++)
@@ -47,7 +141,7 @@ namespace GenetickyAlgoritmus
                 orders[i] = new Orders();
             }
 
-            /*
+            
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("\nORDER ZOBRAZUJI. CISLO:  " + i + "\n");
@@ -56,63 +150,29 @@ namespace GenetickyAlgoritmus
             }
 
             Console.ReadLine();
-            */
-
-            /*
-            Algorithm alg = new Algorithm(s);
-            result = alg.start();
-            Console.WriteLine("Invidual top: " + "(" +result.getDistance() + ")\t" + result.showSequence());
-            Console.ReadLine();
-            */
-
-
-            /*
-            Console.WriteLine("x:");
-            int x = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("y:");
-            int y = Convert.ToInt32(Console.ReadLine());
-
-            orders[x].calculateRoutes(y);
-            List<Invidual> testList = orders[x].getOrderListSorted();
-
-            Console.WriteLine("Invidual top: " + "(" + testList[0].getDistance() + ")\t" + testList[0].showSequence());
-
-            Console.ReadLine();
-            */
-
-            /*
-            for (int i = 0; i < orders.Length; i++)
-            {
-                Console.WriteLine("zahajuji algoritmus pro: " + i);
-                orders[z].calculateRoutes(i);
-                orders[z].showMe(i);
-                Console.WriteLine("vysledek pro: " + i);
-                List<Invidual> results = orders[z].getOrderListSorted();
-                foreach (Invidual inv in results) Console.WriteLine("Invidual top: " + "(" + inv.getDistance() + ")\t" + inv.showSequence());
-            }
-
-            Console.ReadLine();
-            */
-
+            
             for (int i = 0; i < orders.Length; i++) orders[i].calculateRoutes();
+                
+            Console.ReadLine();
 
+
+            
             for (int i = 0; i < orders.Length; i++)
             {
-
                 Console.WriteLine("\nORDER ZOBRAZUJI. CISLO:  " + i + "\n");
                 Console.WriteLine("Nesetříděné objednávky:");
                 orders[i].showMe();
 
                 List<Invidual> resultList;
-                /*
-                resultList = orders[i].getOrderListSorted();
 
-                foreach (Invidual result in resultList)
+                resultList = orders[i].getOrderListSorted();
+                Console.WriteLine("Nepřeložené objednávky:");
+                for (int j = 0; j < resultList.Count; j++)
                 {
-                    Console.WriteLine("Invidual top: " + "(" + result.getDistance() + ")\t" + result.showSequence());
+                    Console.WriteLine("{0,-25}{1,0}", ("Vzdálenost: " + resultList[j].getDistanceString()), resultList[j].showSequence());
                 }
-                */
+
+
                 orders[i].translateRoutes();
 
                 resultList = orders[i].getOrderListSorted();
@@ -127,38 +187,13 @@ namespace GenetickyAlgoritmus
                 Console.WriteLine("Cena varianty: " + orders[i].getCost());
                 Console.WriteLine("Pocet aut:" + orders[i].getOrdersCount());
 
-                /*Console.WriteLine("Pokračovat?");
-                Console.ReadLine();*/
-
 
             }
             Console.WriteLine("Konec!");
             Console.ReadLine();
+            
+    */
 
-
-            // Test section
-
-
-            /*
-            Trida nec = new Trida();
-
-            Trida dalsi = new Trida(2, "baba");
-
-            nec.changeMe(10, "gbhregh");
-
-            double distance;
-
-            int index = Cities.getIndex("Barchov");
-            Console.WriteLine(index + "");
-
-            index = Cities.getIndex("Bezděkov");
-            Console.WriteLine(index + "");
-
-            distance = Cities.getDistance("Barchov", "Bezděkov");
-            Console.WriteLine(distance + "");
-
-            Console.ReadLine();
-            */
         }
     }
 }

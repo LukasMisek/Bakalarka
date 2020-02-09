@@ -11,7 +11,7 @@ namespace GenetickyAlgoritmus
         public static int POPULATION_SIZE = 10;
 
         // Počet generací (Počet cyklů)
-        public static int GENERATION_COUNT = 50;
+        public static int GENERATION_COUNT = 15;
 
         // Šance ke křížení (80 = 80%)
         public static int P_CROSSOVER = 80;
@@ -28,6 +28,12 @@ namespace GenetickyAlgoritmus
         // Císlová vzdálenost mezi všemi městy (jak jedna vzdálenost je menší než cílová, tak algoritmus končí)
         public static double GOAL_DISTANCE = 0;
 
+        // Cena za kilometr
+        public static int DISTANCE_COST = 10;
+
+        // Cena za řidiče
+        public static int CAR_COST = 10000;
+
         // Města mezi kterými počítám vzdálenosti
         public static string[] cities;
 
@@ -36,11 +42,10 @@ namespace GenetickyAlgoritmus
 
         public Algorithm(string[] s)
         {
-            LENGTH = s.Length;
-            CROSSIN_POINT = s.Length / 2;
-            citiesFull = s;
+            citiesFull = Functions.removeDuplicityStringArray(s);
+            LENGTH = citiesFull.Length;
+            CROSSIN_POINT = citiesFull.Length / 2;
             cities = citiesFull;
-                //generateCityNames(s);
 
         }
         /*
@@ -55,19 +60,9 @@ namespace GenetickyAlgoritmus
 
         {
             // Objekt s městy a maticí vzdáleností
-            /*
-            cities.showMatrix();
-            Console.WriteLine("mesta jsem udelal uspesne");
-            Console.ReadLine();
-            */
+
             Population population = new Population();
             // Objekt s populací    
-
-            /*
-            Console.WriteLine("populaci jsem udelal uspesne");
-            population.showMe();
-            Console.ReadLine();
-            */
 
             if (cities.Length == 1)
             {
@@ -85,11 +80,38 @@ namespace GenetickyAlgoritmus
                 population.showMe();
                 */
 
-                if (algorithmEnd(population.GetBest().getDistance(), GOAL_DISTANCE)) break;
+            }
+            return population.GetBest();
 
+        }
+
+
+        public void startOrder()
+
+        {
+            // Objekt s městy a maticí vzdáleností
+
+            PopulationOrder population = new PopulationOrder();
+            // Objekt s populací    
+
+            if (cities.Length == 1)
+            {
+                //return population.GetBest();
             }
 
-            return population.GetBest();
+
+            for (int i = 0; i < Algorithm.GENERATION_COUNT; i++)
+            {
+
+                population.improve();
+
+                /*
+                Console.WriteLine("Generation = " + i);
+                population.showMe();
+                */
+
+            }
+            //return population.GetBest();
 
         }
 
