@@ -249,5 +249,13 @@ namespace GenetickyAlgoritmus
 
             return l_tmp.ToArray();
         }
+
+        public static void showListCityId(List<string> l_in)
+        {
+            string s_out = l_in[0];
+            for (int i = 1; i < l_in.Count; i++) s_out = s_out + "-" + l_in[i];
+
+            Console.WriteLine(s_out);
+        }
     }
 }

@@ -211,6 +211,51 @@ namespace GenetickyAlgoritmus
             }
         }
 
+        public static void printList(List<string> list)
+        {
+            string address = Controller.pathTest;
+            string s_out = "";
+
+            foreach (string s in list) s_out = s_out + s + "\t";
+
+            System.IO.TextWriter writeFile = new StreamWriter(address);
+
+            writeFile.Write(s_out);
+            writeFile.Flush();
+            writeFile.Close();
+            writeFile = null;
+
+        }
+
+        public static void printList(List<int> list)
+        {
+            string address = Controller.pathTest;
+            string s_out = "";
+
+            foreach (int s in list) s_out = s_out + s +"\n";
+
+            System.IO.TextWriter writeFile = new StreamWriter(address);
+
+            writeFile.Write(s_out);
+            writeFile.Flush();
+            writeFile.Close();
+            writeFile = null;
+
+        }
+
+        public static void printString(string s)
+        {
+            string address = Controller.pathTest;
+
+            System.IO.TextWriter writeFile = new StreamWriter(address);
+
+            writeFile.Write(s);
+            writeFile.Flush();
+            writeFile.Close();
+            writeFile = null;
+
+        }
+
         /// <summary>
         /// Vrátím unikátní hodnoty ve sloupci jako List. 
         /// Metoda přebírá číslo, které označuje index sloupce

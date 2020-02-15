@@ -20,29 +20,33 @@ namespace GenetickyAlgoritmus
         public static string selectedFile = "Pardubický kraj";
         public static string selectedArea = "Pardubice";
 
+        public static string pathTest = "..\\..\\..\\..\\" + "Test.txt";
+
         public Controller()
         {
 
             double fitness = 0;
 
+            Console.ReadLine();
             InputOutput.start();
-          
 
             PopulationOrder population = new PopulationOrder();
             Console.WriteLine("Vygeneroval jsem populaci");
-            Console.ReadLine();
-
-            Console.WriteLine("vylepsuji populaci");
-            population.improve();
-            Console.ReadLine();
-
-            /*
+            Console.ReadLine();           
 
             population.showResultFull();
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
 
+            /*
+            Console.WriteLine("vylepsuji populaci");
+            population.improve();
+
+            population.showResultFull();
+            Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
+            Console.ReadLine();
             */
+
 
             /*
             Console.WriteLine("\n\nPokousim se vylepsit populaci");
@@ -55,25 +59,23 @@ namespace GenetickyAlgoritmus
             Console.ReadLine();
             */
 
-            /*
+            
 
             Console.WriteLine("Pokusim se vylepsit populaci vicekrat");
             Console.ReadLine();
            
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Vylepsuji populaci po "+i);
                 population.improve();
                 Console.WriteLine("Vylepsil jsem populaci po " + i);
                 population.showResultFull();
-                Console.ReadLine();
             }
 
-            population.showResultFull();
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();
 
-            */
+            
 
             /*
             population.updateBest();

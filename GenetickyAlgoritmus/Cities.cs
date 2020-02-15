@@ -135,5 +135,29 @@ namespace GenetickyAlgoritmus
             return Controller.allCitiesTable.Rows[i]["Obec"].ToString();
         }
 
+        public static int getCityCount(int index)
+        {
+            string city = "";
+            for (int i = 0; i < Controller.allCitiesTable.Rows.Count; i++)
+            {
+                if(Convert.ToInt32(Controller.allCitiesTable.Rows[i]["Id"].ToString()) == index)
+                {
+                    city = Controller.allCitiesTable.Rows[i]["Obec"].ToString();
+                    break;
+                }
+            }
+
+            int count = 0;
+            for (int i = 0; i < Controller.activeOrdersTable.Rows.Count; i++)
+            {
+                if (Controller.activeOrdersTable.Rows[i]["Obec"].ToString() == city)
+                {
+                    count = Convert.ToInt32(Controller.activeOrdersTable.Rows[i]["Count"].ToString());
+                    break;
+                }
+            }
+            return count;
+        }
+
     }
 }

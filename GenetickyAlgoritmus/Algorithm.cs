@@ -11,7 +11,7 @@ namespace GenetickyAlgoritmus
         public static int POPULATION_SIZE = 10;
 
         // Počet generací (Počet cyklů)
-        public static int GENERATION_COUNT = 15;
+        public static int GENERATION_COUNT = 50;
 
         // Šance ke křížení (80 = 80%)
         public static int P_CROSSOVER = 80;

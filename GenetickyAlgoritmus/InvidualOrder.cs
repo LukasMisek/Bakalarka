@@ -25,8 +25,6 @@ namespace GenetickyAlgoritmus
 
         private string[] sequence = new string[Algorithm.LENGTH];
 
-        private int fitness = 0;
-
         /// <summary>
         /// Vygeneruji jedince na začátku -> náhodně
         /// </summary>
@@ -80,20 +78,59 @@ namespace GenetickyAlgoritmus
             var rnd = new Random();
             int a = rnd.Next(0, 2);
 
-            if (a == 0)
-            {
-                this.ordersListIds = Functions.mixListsString(i1.getOrdersId(), i2.getOrdersId());
-            }
+            if (a == 0) this.ordersListIds = Functions.mixListsString(i1.getOrdersId(), i2.getOrdersId());
                 
-            else
+            else this.ordersListIds = Functions.mixListsString(i2.getOrdersId(), i1.getOrdersId());
+
+            /*
+            Console.WriteLine("ted jsem kzombinoval jedince");
+            Functions.showList(this.ordersListIds);
+            Console.ReadLine();
+            */
+
+            if (getDuplicity() > 0)
             {
-                this.ordersListIds = Functions.mixListsString(i2.getOrdersId(), i1.getOrdersId());
+                fixMe();
+                calculateRoute();
             }
+
+            /*
+            Console.WriteLine("ted jsem ho naformatoval");
+            Functions.showList(this.ordersListIds);
+            Console.ReadLine();
+            */
 
             calculateValue();
-            calculateFitness();
 
-            fixMe();
+            /*
+            Console.WriteLine("pridal jsem value");
+            Functions.showList(this.ordersListIds);
+            Console.ReadLine();
+            */
+        }
+
+        private void calculateRoute()
+        {
+            List<string> l_tmp = new List<string>(this.ordersListIds);
+            ordersListIds.Clear();
+            int value = Cities.getCityCount(Convert.ToInt32(l_tmp[0]));
+            string route = l_tmp[0];
+
+            for (int i = 1; i < l_tmp.Count; i++)
+            {
+                if ((value + Cities.getCityCount(Convert.ToInt32(l_tmp[i]))) < ORDER_CAPACITY)
+                {
+                    value = value + Cities.getCityCount(Convert.ToInt32(l_tmp[i]));
+                    route = route + "-" + l_tmp[i];
+                }
+                else
+                {
+                    ordersListIds.Add(route);
+                    route = l_tmp[i];
+                    value = Cities.getCityCount(Convert.ToInt32(l_tmp[i]));
+                }
+            }
+            if (route.Length > 0) ordersListIds.Add(route);
         }
 
         private void calculateValue()
@@ -102,7 +139,7 @@ namespace GenetickyAlgoritmus
             for (int i = 0; i < ordersListIds.Count; i++)
             {
                 string[] sequence = ordersListIds[i].Split('-');
-                for (int j = 0; j < sequence.Length; j++) value = value + Convert.ToInt32(Controller.activeOrdersTable.Rows[j]["Count"].ToString());
+                for (int j = 0; j < sequence.Length; j++) value = value + Cities.getCityCount(Convert.ToInt32(sequence[j]));
 
                 ordersListIds[i] = ordersListIds[i] + ":" + value;
                 value = 0;
@@ -114,57 +151,52 @@ namespace GenetickyAlgoritmus
         {
             // sezenu seznam vsech mest
             List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
-
             List<string> unusedCitiesId = new List<string>();
-
-            List<string> usedCitiesId = new List<string>();
+            List<string> usedCitiesId = getRouteString();
 
             foreach (string city in unusedCities) unusedCitiesId.Add(Cities.getId(city));
 
-            // prepisu pouzita mesta do lepsiho formatu
-            foreach (string route in ordersListIds)
-            {
-                string[] routeSplit = route.Split(':');
-                string[] cities = routeSplit[0].Split('-');
+            // Vyberu nepoužité
+            List<string> l_tmp = new List<string>();
+            for (int i = 0; i < unusedCitiesId.Count; i++) if (!usedCitiesId.Contains(unusedCitiesId[i])) l_tmp.Add(unusedCitiesId[i]);
+            unusedCitiesId = l_tmp;
 
-                foreach (string city in cities) usedCitiesId.Add(city);
+            // Označím duplicitu křížky
+            for (int i = 0; i < usedCitiesId.Count; i++)
+            {
+                int counter = 0;
+                for (int j = 0; j < usedCitiesId.Count; j++)
+                {
+                    if (usedCitiesId[i] == usedCitiesId[j]) counter++;
+                    if (counter > 1)
+                    {
+                        usedCitiesId[j] = "X";
+                        counter = 1;
+                    }
+                }
             }
 
-            // Smažu použitá města
+            // Nahradím křížky za města
             for (int i = 0; i < usedCitiesId.Count; i++)
-                for (int j = 0; j < unusedCitiesId.Count; j++)
-                    if (unusedCitiesId[j] == usedCitiesId[i]) unusedCitiesId.RemoveAt(j);
+            {
+                if (usedCitiesId[i] == "X")
+                { 
+                    if (unusedCitiesId.Count > 0)
+                    {
+                        usedCitiesId[i] = unusedCitiesId[unusedCitiesId.Count - 1];
+                        unusedCitiesId.Remove(unusedCitiesId[unusedCitiesId.Count - 1]);
+                    }
+                    else usedCitiesId.RemoveAt(i);
+                }
+            }
 
-            // pridam ty nepouzita mesta
+            // Odeberu zbyvajici krizky
+            while (usedCitiesId.Contains("X")) usedCitiesId.Remove("X");
 
+            // pridam zbytek co zustal
+            if (unusedCitiesId.Count > 0) usedCitiesId.AddRange(unusedCitiesId);
 
-            Console.WriteLine("toto budu opravovat:");
-            Functions.showList(ordersListIds);
-            Console.ReadLine();
-
-            Console.WriteLine("takto to napisu:");
-            Functions.showList(usedCitiesId);
-            Console.ReadLine();
-
-            Console.WriteLine("toto jsou skutecne nepouzita:");
-            Functions.showList(unusedCitiesId);
-            Console.ReadLine();
-
-            Console.WriteLine("tady mam vsechna mesta:");
-            Functions.showList(unusedCities);
-            Console.ReadLine();
-
-            Console.WriteLine("tady mam vsechna mesta ID:");
-            Functions.showList(unusedCitiesId);
-            Console.ReadLine();
-
-            List<string> l_out = new List<string>();
-
-
-            // sezenu seznam pouzitych mest
-            // vypocitam seznam nepouzitych mest
-            // odeberu duplicitni mesta
-            // pridam chybejici mesta
+            this.ordersListIds = usedCitiesId;
         }
 
         public void showMeId()
@@ -184,35 +216,6 @@ namespace GenetickyAlgoritmus
         public List<string> getOrdersId()
         {
             return this.ordersListIds;
-        }
-
-        public void calculateFitness()
-        {
-            List<string> usedCities = new List<string>();
-
-            // duplicity cities
-            foreach (string id in ordersListIds)
-            {
-                if (usedCities.Contains(id))
-                {
-                    this.fitness = this.fitness + 1000; 
-                }
-                else
-                {
-                    usedCities.Add(id);
-                }
-            }
-            
-            List<string> unusedCities = InputOutput.getUniqueColumnsValuesActiveOrders(1);
-
-            // missing cities
-            foreach (string unusedCity in unusedCities)
-            {
-                if (!usedCities.Contains(unusedCity))
-                {
-                    this.fitness = this.fitness + 1000;
-                }
-            }
         }
 
         /// <summary>
@@ -324,6 +327,20 @@ namespace GenetickyAlgoritmus
 
         }
 
+        public List<string> getRouteString()
+        {
+            List<string> l_out = new List<string>();
+            // prepisu pouzita mesta do lepsiho formatu
+            foreach (string route in ordersListIds)
+            {
+                string[] cities = route.Split('-');
+
+                foreach (string city in cities) l_out.Add(city);
+            }
+
+            return l_out;
+        }
+
         /// <summary>
         /// Vrátí setříděnou sekvenci jako List
         /// </summary>
@@ -333,5 +350,32 @@ namespace GenetickyAlgoritmus
             return sortedOrder;
         }
 
+        /// <summary>
+        /// Ohodnotí jedince a vrátí počet duplicit
+        /// Stejný prvek = kladné body
+        /// </summary>
+        /// <returns>Int Duplicity</returns>
+        public int getDuplicity()
+        {
+            List<string> usedCitiesId = getRouteString();
+            int occurences = 0;
+            
+            for (int i = 0; i < usedCitiesId.Count; i++)
+            {
+                int counter = 0;
+                for (int j = 0; j < usedCitiesId.Count; j++)
+                {
+                    if (usedCitiesId[i] == usedCitiesId[j]) counter++;
+                    if (counter > 1)
+                    {
+                        counter = 1;
+                        occurences++;
+                    }
+                }
+            }
+
+            return occurences/2;
+
+        }
     }
 }

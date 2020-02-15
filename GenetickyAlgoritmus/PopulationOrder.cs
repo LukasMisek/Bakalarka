@@ -161,14 +161,16 @@ namespace GenetickyAlgoritmus
             var rnd = new Random();
 
             this.pNext.Clear();
-            foreach (InvidualOrder iTmp in this.pCurrent)
+            this.pNext.Add(this.best);
+
+            for (int i = 1; i < this.pCurrent.Count; i++)
             {
                 InvidualOrder iNew;
 
                 if (rnd.Next(1, 100) < Algorithm.P_CROSSOVER) iNew = new InvidualOrder(this.select(), this.select());
 
                 else iNew = this.select();
-                    
+
                 /*
                 Console.WriteLine("tento jedinec byl vybran:");
                 iNew.showMeId();
@@ -179,9 +181,8 @@ namespace GenetickyAlgoritmus
                 //if (rnd.Next(1, 100) < Algorithm.P_MUTATION) iNew.mutate();
 
                 this.pNext.Add(iNew);
-                
-
             }
+
             this.pCurrent.Clear();
 
             foreach (InvidualOrder iTmp in this.pNext) this.pCurrent.Add(iTmp);
