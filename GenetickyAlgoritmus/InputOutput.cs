@@ -295,6 +295,13 @@ namespace GenetickyAlgoritmus
         }
 
 
+        public static int getActiveOrdersCount()
+        {
+            return Controller.activeOrdersTable.Rows.Count-1;
+
+        }
+
+
     }
 
 }

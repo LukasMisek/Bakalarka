@@ -94,6 +94,15 @@ namespace GenetickyAlgoritmus
         }
 
         /// <summary>
+        /// Zobrazi do konzole vsechny prvky v poli array
+        /// </summary>
+        /// <param name="array"></param>
+        public static void showArray(int[] array)
+        {
+            foreach (int s in array) Console.WriteLine(s + " ");
+        }
+
+        /// <summary>
         /// Zobrazím všechny data z tabulky allCitiesTable do Konzole
         /// </summary>
         public static void showDataAllCitiesTable()

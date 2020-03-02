@@ -17,7 +17,17 @@ namespace GenetickyAlgoritmus
             // Oddelovac tisicu muze byt nastaven jinak na ruznych strojich. Timto nastavim "anglickou klavesnici"
             Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-GB");
 
-            Controller controller = new Controller();
+            InputOutput.start();
+
+            SuperInvidual super = new SuperInvidual();
+
+            super.showMeFull();
+            Console.ReadLine();
+
+            super.showMeDriver(2);
+            Console.ReadLine();
+
+            // Controller controller = new Controller();
 
             /*
             string[] s = { "ab", "cd", "dd", "aa", "ab" };
