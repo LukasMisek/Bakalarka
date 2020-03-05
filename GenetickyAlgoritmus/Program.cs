@@ -19,13 +19,84 @@ namespace GenetickyAlgoritmus
 
             InputOutput.start();
 
+            SuperPopulation sp = new SuperPopulation();
+            sp.showMe();
+            Console.ReadLine();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("pokousim se vylepsit po " + i);
+                sp.improve();
+                Console.WriteLine("vylepseno po " + i);
+                sp.showMe();
+            }
+
+            Console.WriteLine("\n\nDokončeno\n\n");
+
+            SuperInvidual result = sp.GetBest();
+
+            result.showMeFull();
+            Console.ReadLine();
+
+
+            /*
+
             SuperInvidual super = new SuperInvidual();
+
+
 
             super.showMeFull();
             Console.ReadLine();
 
-            super.showMeDriver(2);
+            Console.WriteLine("prelozen: " + super.checkOverload());
             Console.ReadLine();
+
+            SuperInvidual super2 = new SuperInvidual();
+
+            super2.showMeFull();
+            Console.ReadLine();
+
+            Console.WriteLine("prelozen: " + super2.checkOverload());
+            Console.ReadLine();
+
+            SuperInvidual superNew = new SuperInvidual(super, super2);
+
+            superNew.showMeFull();
+            Console.ReadLine();
+            */
+
+
+            /*
+            Console.WriteLine("prelozen: " + superNew.checkOverload());
+            Console.ReadLine();
+
+            Console.WriteLine("prelozeni ktereho ridice? ");
+            int i = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("prelozen: " + superNew.checkOverload(i));
+            Console.ReadLine();
+
+            Console.WriteLine("veze: " + superNew.getDriverPallets(i));
+            Console.ReadLine();
+
+            string[] cesta = new string[superNew.getDriverPallets(i)];
+            cesta = superNew.getSequence(i);
+            Functions.showArray(cesta);
+            Console.ReadLine();
+            */
+
+            /*
+            Console.WriteLine("poustim algoritmus");
+            superNew.startAlgorithm();
+            superNew.showMeRoutes();
+            Console.ReadLine();
+
+            int num = superNew.getFitness();
+            Console.WriteLine("fitness: " + num);
+            Console.ReadLine();
+            */
+
+
+
 
             // Controller controller = new Controller();
 

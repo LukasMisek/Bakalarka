@@ -30,14 +30,6 @@ namespace GenetickyAlgoritmus
             Console.ReadLine();
             InputOutput.start();
 
-            PopulationOrder population = new PopulationOrder();
-            Console.WriteLine("Vygeneroval jsem populaci");
-            Console.ReadLine();           
-
-            population.showResultFull();
-            Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
-            Console.ReadLine();
-
             /*
             Console.WriteLine("vylepsuji populaci");
             population.improve();
@@ -63,14 +55,6 @@ namespace GenetickyAlgoritmus
 
             Console.WriteLine("Pokusim se vylepsit populaci vicekrat");
             Console.ReadLine();
-           
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine("Vylepsuji populaci po "+i);
-                population.improve();
-                Console.WriteLine("Vylepsil jsem populaci po " + i);
-                population.showResultFull();
-            }
 
             Console.WriteLine("\n\nUkazal jsem vsechny nadjedince prelozene");
             Console.ReadLine();

@@ -85,36 +85,6 @@ namespace GenetickyAlgoritmus
 
         }
 
-
-        public void startOrder()
-
-        {
-            // Objekt s městy a maticí vzdáleností
-
-            PopulationOrder population = new PopulationOrder();
-            // Objekt s populací    
-
-            if (cities.Length == 1)
-            {
-                //return population.GetBest();
-            }
-
-
-            for (int i = 0; i < Algorithm.GENERATION_COUNT; i++)
-            {
-
-                population.improve();
-
-                /*
-                Console.WriteLine("Generation = " + i);
-                population.showMe();
-                */
-
-            }
-            //return population.GetBest();
-
-        }
-
         /// <summary>
         /// Ukončovací funkce
         /// Přebírá fitness nejlepšího jedince (vzdálenost) a porovná ji s ALGORITHM.GOAL_DISTANCE
