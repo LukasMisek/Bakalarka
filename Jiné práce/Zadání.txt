@@ -1,0 +1,8 @@
+Cílem bakalářské práce bude vyzkoušet možnosti využití optimalizace pro řešení vybraného logistického problému (bin packing, TSP, plánování...).  V teoretické části student popíše vybrané problémy, existující metody pro jejich řešení, v části praktické si vybere konkrétní problém, navrhne a provede experimenty (naprogramuje je ve vybraném programovacím jazyce) a vyhodnotí jejich výsledky.
+
+Literatura*	
+HYNEK, Josef. Genetické algoritmy a genetické programování. Praha: Grada, 2008. Průvodce (Grada). ISBN 978-80-247-2695-3.
+
+MITCHELL, Melanie. An introduction to genetic algorithms. Cambridge, Mass.: MIT Press, c1996. ISBN 978-0262133166.
+
+Simulated annealing: introduction, applications and theory. Hauppauge, NY: Nova Science Publishers, 2018. ISBN 978-1536136746.
