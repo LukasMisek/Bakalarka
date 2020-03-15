@@ -1,0 +1,62 @@
+1) Uvod do umele inteligence
+	+ Podobne problemy
+	+ Navrh reseni
+	+ Blokove schema
+	+ Uvod do problematiky
+
+	- Uvod do projektu
+	- Co to je
+	- Vyuziti
+	- Priklady
+	- Reserse
+
+2) Geneticke algoritmy
+	+ Princip genetickych algoritmu
+	+ Fitness funkce
+	+ Selekce
+	+ Køížení
+	+ Mutace
+	
+	- Princip genetickeho algoritmu (geny, reprezentace)
+	- Evolucni algoritmus
+	- Krizeny, mutace, operatory obecne
+
+3	Návrh algoritmu
+3.1	Úloha, problematik
+3.2	Rozbor zadání
+3.2.1	Vnitøní jedinec
+3.2.2	Vnìjší jedinec
+3.2.3	Køížení
+3.2.4	Mutace 
+3.3	Predpoklady
+
+4	Øešení vlastní práce
+4.1	Krok Výpoèet nejkratší vzdálenosti
+4.1.1	Matice nejkratších vzdalenosti
+4.1.2	Pythagorova veta
+4.1.3	Realna vzdalenost vs vzdusna cara
+4.2	Krok Programovani vnitøního jedince
+4.2.1	Vhodna reprezentace a populace
+4.2.2	Zlepseni populace
+4.2.3	Fitness jedince
+4.2.4	Zobrazeni jedince
+4.3	Krok Programovani Vnejsiho jedince
+4.3.1	List<string> - Orders | InvidualOrders | PopulationOrder
+4.3.2	SuperInvidual
+4.4	Pomocne tridy
+4.4.1	Functions.showXXX
+4.4.2	InputOutput
+4.4.3	Cities
+4.4.4	Controller
+
+5	Statistika
+5.1	Stare reseni full (Ok výsledky)
+5.2	Stare reseni bez opravy (Spatny výsledky)
+5.3	Nove reseni full (Top výsledky)
+5.4	Nove reseni vnejsi jedinec 50+ vnitrni 20-
+5.5	Nove reseni vnejsi jedince 20- vnejsi 50+
+5.6	Pouze vnitrni jedinec
+
+6	Zaver
+
+	
