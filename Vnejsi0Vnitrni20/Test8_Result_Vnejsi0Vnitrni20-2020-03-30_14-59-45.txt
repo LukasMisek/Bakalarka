@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 14:59:45
+
+Fitness Invidual: 58.8189	Litošice-Bukovina u Přelouče-Lázně Bohdaneč-Pardubice-Dolní Roveň
+Fitness Invidual: 67.6878	Chýšť-Černá u Bohdanče-Mikulovice-Čeperka-Horní Ředice
+Fitness Invidual: 58.0419	Holice-Borek-Ostřešany-Lipoltice
+Fitness Invidual: 69.8079	Kostěnice-Dolní Ředice-Němčice-Malé Výkleky-Kojice
+Fitness Invidual: 88.3449	Borek-Ostřetín-Jezbořice-Břehy-Mokošín-Morašice
+Fitness Invidual: 29.0487	Moravany-Býšť-Bukovina nad Labem-Opatovice nad Labem
+Fitness Invidual: 41.5251	Chvojenec-Dříteč-Dubany-Choltice
+Fitness Invidual: 46.4091	Dašice-Choteč-Barchov-Kasalice
+Fitness Invidual: 29.415	Bezděkov-Neratov-Bukovka-Hrobice
+Fitness Invidual: 49.95	Kunětice-Jeníkovice-Chrtníky-Kladruby nad Labem-Jankovice
+Fitness Invidual: 73.8372	Lány u Dašic-Časy-Libišany-Holotín-Hlavečník
+Fitness Invidual: 33.744	Čepí-Jedousov-Brloh-Chvaletice
+Fitness Invidual: 52.7361	Jaroslav-Horní Jelení-Dolany-Křičeň
+Fitness Invidual: 0	Labské Chrčice
+Fitness SuperInvidual: 14000
+Inviduals: 14
+

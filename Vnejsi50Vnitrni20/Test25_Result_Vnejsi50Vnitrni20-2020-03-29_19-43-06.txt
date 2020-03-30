@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 2
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 19:43:06
+
+Fitness Invidual: 43.6008	Chrtníky-Křičeň-Kunětice-Choteč-Časy
+Fitness Invidual: 43.3677	Choltice-Kostěnice-Dašice-Chvojenec
+Fitness Invidual: 20.7126	Borek-Hrobice-Mikulovice
+Fitness Invidual: 55.9329	Chýšť-Bezděkov-Pardubice-Holice
+Fitness Invidual: 64.1913	Holotín-Lipoltice-Mokošín-Barchov-Čeperka-Borek-Moravany
+Fitness Invidual: 41.4252	Labské Chrčice-Hlavečník-Dolany-Libišany
+Fitness Invidual: 42.9015	Lány u Dašic-Němčice-Černá u Bohdanče-Jankovice
+Fitness Invidual: 39.5049	Bukovka-Jeníkovice-Dubany-Opatovice nad Labem
+Fitness Invidual: 56.3547	Kojice-Jezbořice-Bukovina nad Labem
+Fitness Invidual: 25.6077	Břehy-Malé Výkleky-Kladruby nad Labem-Chvaletice
+Fitness Invidual: 38.5947	Čepí-Dříteč-Býšť-Dolní Ředice-Horní Ředice
+Fitness Invidual: 45.7986	Ostřešany-Lázně Bohdaneč-Neratov-Kasalice-Bukovina u Přelouče
+Fitness Invidual: 67.2327	Morašice-Brloh-Jedousov-Dolní Roveň-Ostřetín-Jaroslav
+Fitness Invidual: 63.6363	Litošice-Horní Jelení
+Fitness SuperInvidual: 13500
+Inviduals: 14
+

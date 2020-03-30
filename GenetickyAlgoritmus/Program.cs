@@ -15,30 +15,58 @@ namespace GenetickyAlgoritmus
         static void Main(string[] args)
         {
             // Oddelovac tisicu muze byt nastaven jinak na ruznych strojich. Timto nastavim "anglickou klavesnici"
-            Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-GB");
+            Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-US");
 
             InputOutput.start();
 
-            SuperPopulation sp = new SuperPopulation();
-            sp.showMe();
-            Console.ReadLine();
+            for (int j = 1; j < 51; j++)
+            {
 
-            for (int i = 0; i < 10; i++)
+                SuperPopulation sp = new SuperPopulation();
+                sp.showMe();
+
+                /*
+                for (int i = 0; i < 1; i++)
+                {
+                    Console.WriteLine("pokousim se vylepsit po " + i);
+                    sp.improve();
+                    Console.WriteLine("vylepseno po " + i);
+                    sp.showMe();
+                    InputOutput.printResult(sp.getMe(), ("Test" + j + "_Record_Vnejsi0Vnitrni20_Gen" + i), true);
+                }
+                */
+
+                Console.WriteLine("\n\nDokončeno\n\n");
+
+                SuperInvidual result = sp.GetBest();
+
+                InputOutput.printResult(result.getMe(), "Test" + j + "_Result_Vnejsi0Vnitrni20", true);
+
+                result.showMeFull();
+
+                sp = null;
+            }
+
+            /*
+
+            for (int i = 0; i < 20; i++)
             {
                 Console.WriteLine("pokousim se vylepsit po " + i);
                 sp.improve();
                 Console.WriteLine("vylepseno po " + i);
                 sp.showMe();
+                InputOutput.printResult(sp.getMe(), ("Test1_Record_Vnejsi20Vnitrni50_Gen" + i), true);
             }
 
             Console.WriteLine("\n\nDokončeno\n\n");
 
             SuperInvidual result = sp.GetBest();
 
+            InputOutput.printResult(result.getMe(), "Test1_Result_Vnejsi20Vnitrni50", true);
+
             result.showMeFull();
-            Console.ReadLine();
 
-
+            */
             /*
 
             SuperInvidual super = new SuperInvidual();

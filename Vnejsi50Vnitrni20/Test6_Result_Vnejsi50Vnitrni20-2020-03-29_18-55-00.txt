@@ -1,0 +1,37 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 18:55:00
+
+Fitness Invidual: 54.8118	Dolany-Barchov-Jezbořice-Morašice-Hlavečník-Kojice
+Fitness Invidual: 46.2315	Labské Chrčice-Chvaletice-Kladruby nad Labem-Dříteč
+Fitness Invidual: 37.8066	Bukovka-Křičeň-Bukovina nad Labem-Kostěnice
+Fitness Invidual: 49.9167	Brloh-Chrtníky-Pardubice-Dolní Ředice-Dolní Roveň
+Fitness Invidual: 21.1011	Jankovice-Jedousov-Choltice-Neratov
+Fitness Invidual: 49.0176	Chvojenec-Choteč-Čeperka-Mokošín-Lipoltice
+Fitness Invidual: 61.6383	Holotín-Dubany-Lázně Bohdaneč-Libišany-Dašice
+Fitness Invidual: 47.3193	Opatovice nad Labem-Hrobice-Čepí-Jeníkovice-Chýšť
+Fitness Invidual: 65.4789	Ostřetín-Jaroslav-Moravany-Borek-Němčice-Bezděkov
+Fitness Invidual: 57.9198	Horní Jelení-Mikulovice-Břehy
+Fitness Invidual: 53.4465	Litošice-Bukovina u Přelouče-Černá u Bohdanče-Ostřešany-Časy
+Fitness Invidual: 52.3476	Malé Výkleky-Kasalice-Kunětice-Býšť-Horní Ředice
+Fitness Invidual: 21.0012	Holice-Lány u Dašic-Borek
+Fitness SuperInvidual: 12670
+Inviduals: 13
+

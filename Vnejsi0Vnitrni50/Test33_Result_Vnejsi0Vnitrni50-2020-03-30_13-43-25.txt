@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 13:43:25
+
+Fitness Invidual: 55.3113	Neratov-Bezděkov-Lázně Bohdaneč-Čeperka-Horní Ředice-Dolní Roveň
+Fitness Invidual: 31.0689	Bukovina u Přelouče-Holotín-Choltice-Hrobice
+Fitness Invidual: 48.7845	Kladruby nad Labem-Brloh-Chrtníky-Černá u Bohdanče-Borek
+Fitness Invidual: 65.2458	Jaroslav-Lány u Dašic-Kunětice-Čepí-Jankovice
+Fitness Invidual: 43.6896	Ostřešany-Dubany-Jeníkovice-Chvaletice
+Fitness Invidual: 64.5465	Morašice-Mokošín-Křičeň-Kostěnice-Holice
+Fitness Invidual: 59.8512	Chýšť-Malé Výkleky-Jedousov-Býšť-Dolní Ředice
+Fitness Invidual: 65.4123	Moravany-Pardubice-Kasalice-Kojice
+Fitness Invidual: 25.3191	Dolany-Bukovka-Litošice
+Fitness Invidual: 30.8469	Dašice-Časy-Choteč-Jezbořice
+Fitness Invidual: 39.2718	Chvojenec-Bukovina nad Labem-Mikulovice-Barchov
+Fitness Invidual: 79.7202	Ostřetín-Dříteč-Libišany-Lipoltice-Hlavečník
+Fitness Invidual: 50.3829	Labské Chrčice-Břehy-Němčice-Opatovice nad Labem
+Fitness Invidual: 0	Horní Jelení
+Fitness SuperInvidual: 13590
+Inviduals: 14
+

@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 100
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 4
+CROSSIN_POINT: 2
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 14:31:09
+
+Fitness Invidual: 33.7662	Jezbořice-Lipoltice-Litošice-Labské Chrčice
+Fitness Invidual: 97.9686	Jaroslav-Čeperka-Jeníkovice-Malé Výkleky-Kladruby nad Labem-Kojice
+Fitness Invidual: 44.3778	Časy-Borek-Dříteč-Barchov-Mokošín
+Fitness Invidual: 27.75	Moravany-Kostěnice-Choteč-Kunětice-Ostřešany
+Fitness Invidual: 60.1842	Horní Ředice-Dolní Ředice-Černá u Bohdanče-Chvaletice
+Fitness Invidual: 70.4961	Chrtníky-Neratov-Dubany-Němčice-Ostřetín-Horní Jelení
+Fitness Invidual: 54.3123	Býšť-Bezděkov-Bukovina u Přelouče-Morašice
+Fitness Invidual: 39.4827	Holice-Lány u Dašic-Bukovina nad Labem-Lázně Bohdaneč
+Fitness Invidual: 61.1388	Chýšť-Jedousov-Libišany-Chvojenec
+Fitness Invidual: 66.822	Dolní Roveň-Opatovice nad Labem-Křičeň-Břehy-Hlavečník
+Fitness Invidual: 35.9973	Kasalice-Hrobice-Dašice
+Fitness Invidual: 27.5724	Mikulovice-Choltice-Jankovice
+Fitness Invidual: 44.4333	Brloh-Holotín-Čepí-Dolany-Bukovka
+Fitness Invidual: 0	Pardubice
+Fitness SuperInvidual: 13630
+Inviduals: 14
+

@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 22:43:11
+
+Fitness Invidual: 57.2538	Jezbořice-Opatovice nad Labem-Dříteč-Horní Jelení
+Fitness Invidual: 65.9229	Chvojenec-Dašice-Břehy-Chýšť-Kladruby nad Labem
+Fitness Invidual: 36.6855	Holice-Borek-Lány u Dašic-Ostřešany
+Fitness Invidual: 47.7411	Bukovina u Přelouče-Barchov-Dubany-Němčice-Kostěnice
+Fitness Invidual: 31.9569	Hrobice-Bezděkov-Jankovice
+Fitness Invidual: 42.2466	Dolany-Býšť-Choteč-Moravany
+Fitness Invidual: 65.2236	Kasalice-Jeníkovice-Časy-Jaroslav
+Fitness Invidual: 69.819	Kojice-Brloh-Mokošín-Křičeň-Horní Ředice
+Fitness Invidual: 84.9261	Ostřetín-Kunětice-Čeperka-Čepí-Lipoltice-Labské Chrčice
+Fitness Invidual: 32.4231	Libišany-Bukovka-Černá u Bohdanče-Choltice
+Fitness Invidual: 45.2436	Bukovina nad Labem-Pardubice-Chrtníky-Litošice-Morašice
+Fitness Invidual: 59.052	Chvaletice-Holotín-Lázně Bohdaneč-Borek
+Fitness Invidual: 76.5678	Hlavečník-Malé Výkleky-Neratov-Jedousov-Mikulovice-Dolní Roveň
+Fitness Invidual: 0	Dolní Ředice
+Fitness SuperInvidual: 14150
+Inviduals: 14
+

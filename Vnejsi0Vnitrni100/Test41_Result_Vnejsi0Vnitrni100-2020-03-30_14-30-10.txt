@@ -1,0 +1,37 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 100
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 5
+CROSSIN_POINT: 2
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 14:30:10
+
+Fitness Invidual: 63.4365	Dolní Roveň-Býšť-Opatovice nad Labem-Bezděkov-Litošice
+Fitness Invidual: 43.2345	Ostřešany-Dubany-Lázně Bohdaneč-Dolany-Neratov-Brloh
+Fitness Invidual: 77.5668	Horní Jelení-Kostěnice-Němčice-Kasalice-Hlavečník
+Fitness Invidual: 51.7149	Kunětice-Barchov-Jedousov-Břehy-Labské Chrčice
+Fitness Invidual: 66.5667	Jaroslav-Dolní Ředice-Dříteč-Čeperka-Holotín
+Fitness Invidual: 79.4538	Ostřetín-Libišany-Choltice-Chvaletice
+Fitness Invidual: 50.1831	Lipoltice-Jezbořice-Moravany-Holice
+Fitness Invidual: 42.4908	Jankovice-Malé Výkleky-Černá u Bohdanče-Mikulovice
+Fitness Invidual: 47.175	Lány u Dašic-Bukovina nad Labem-Bukovka-Chrtníky
+Fitness Invidual: 27.6168	Borek-Hrobice-Jeníkovice
+Fitness Invidual: 75.9129	Horní Ředice-Dašice-Čepí-Chýšť-Kladruby nad Labem-Kojice
+Fitness Invidual: 48.2517	Mokošín-Borek-Choteč-Časy-Chvojenec
+Fitness Invidual: 47.4636	Pardubice-Křičeň-Bukovina u Přelouče-Morašice
+Fitness SuperInvidual: 13700
+Inviduals: 13
+

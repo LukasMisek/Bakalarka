@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 17:56:03
+
+Fitness Invidual: 48.9066	Chvojenec-Bukovka-Mokošín-Lipoltice
+Fitness Invidual: 31.8348	Dašice-Mikulovice-Pardubice-Čeperka
+Fitness Invidual: 39.4494	Libišany-Býšť-Holice-Horní Jelení
+Fitness Invidual: 47.4192	Bukovina u Přelouče-Holotín-Hrobice-Kostěnice
+Fitness Invidual: 51.2931	Borek-Bukovina nad Labem-Němčice-Dolany-Neratov-Hlavečník
+Fitness Invidual: 37.518	Dříteč-Dubany-Choltice-Jankovice
+Fitness Invidual: 55.3002	Ostřetín-Moravany-Choteč-Černá u Bohdanče-Jedousov
+Fitness Invidual: 71.9724	Chrtníky-Břehy-Kasalice-Opatovice nad Labem-Jaroslav
+Fitness Invidual: 59.2074	Morašice-Křičeň-Ostřešany-Borek
+Fitness Invidual: 61.1721	Kladruby nad Labem-Bezděkov-Barchov-Jezbořice-Čepí-Dolní Roveň-Horní Ředice
+Fitness Invidual: 59.9733	Dolní Ředice-Chvaletice-Kojice
+Fitness Invidual: 41.6805	Časy-Kunětice-Lázně Bohdaneč-Malé Výkleky-Chýšť
+Fitness Invidual: 55.2114	Lány u Dašic-Jeníkovice-Brloh-Labské Chrčice
+Fitness Invidual: 0	Litošice
+Fitness SuperInvidual: 13600
+Inviduals: 14
+

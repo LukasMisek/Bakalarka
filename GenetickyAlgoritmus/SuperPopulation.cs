@@ -65,8 +65,24 @@ namespace GenetickyAlgoritmus
                 Console.WriteLine("jedinec cislo: " + i);
                 pCurrent[i].showMeRoutes();
                 Console.WriteLine("Fitness super jedince: " + pCurrent[i].getFitness());
-                Console.WriteLine("Pocet ridicu super jedince: " + pCurrent[i].getDriverCount());
+                Console.WriteLine("Pocet ridicu super jedince: " + pCurrent[i].getDriverCount() + "\n");
             }
+        }
+
+        public string getMe()
+        {
+            string s = "";
+
+            for (int i = 0; i < pCurrent.Count; i++)
+            {
+                s = s + "Super Invidual: " + i + "\n";
+
+                s = s + pCurrent[i].getMeRoutes();
+                s = s + "Fitness SuperInvidual: " + pCurrent[i].getFitness() + "\n";
+                s = s + "Inviduals: " + pCurrent[i].getDriverCount() + "\n\n";
+            }
+
+            return s;
         }
 
         /// <summary>

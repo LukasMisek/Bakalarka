@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 15:00:55
+
+Fitness Invidual: 33.4776	Bukovina u Přelouče-Mokošín-Bezděkov-Ostřešany
+Fitness Invidual: 49.1619	Chrtníky-Jezbořice-Dubany-Holice-Ostřetín
+Fitness Invidual: 45.7986	Kostěnice-Býšť-Dříteč-Bukovka
+Fitness Invidual: 32.3121	Hlavečník-Chvaletice-Lipoltice-Jeníkovice
+Fitness Invidual: 79.809	Borek-Křičeň-Malé Výkleky-Morašice-Barchov-Lázně Bohdaneč
+Fitness Invidual: 38.4393	Jedousov-Hrobice-Dolní Ředice
+Fitness Invidual: 53.0358	Borek-Labské Chrčice-Kojice
+Fitness Invidual: 44.2224	Dašice-Choteč-Choltice-Holotín
+Fitness Invidual: 48.3072	Moravany-Lány u Dašic-Časy-Němčice-Čeperka-Horní Ředice
+Fitness Invidual: 72.6717	Jaroslav-Kunětice-Pardubice-Dolany-Litošice
+Fitness Invidual: 28.7157	Chvojenec-Bukovina nad Labem-Mikulovice
+Fitness Invidual: 41.3919	Jankovice-Kasalice-Černá u Bohdanče-Opatovice nad Labem
+Fitness Invidual: 87.3348	Horní Jelení-Dolní Roveň-Čepí-Kladruby nad Labem-Chýšť-Břehy
+Fitness Invidual: 27.9387	Brloh-Neratov-Libišany
+Fitness SuperInvidual: 13810
+Inviduals: 14
+

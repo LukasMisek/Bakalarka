@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 11:11:56
+
+Fitness Invidual: 62.0046	Chvojenec-Dolany-Kojice
+Fitness Invidual: 30.8025	Borek-Dříteč-Hrobice-Čeperka-Jezbořice
+Fitness Invidual: 41.4141	Kostěnice-Čepí-Barchov-Jeníkovice-Jedousov-Bukovina u Přelouče
+Fitness Invidual: 58.9077	Chvaletice-Morašice-Lipoltice-Býšť
+Fitness Invidual: 43.3455	Břehy-Kasalice-Lány u Dašic-Dašice
+Fitness Invidual: 54.7008	Choteč-Neratov-Bezděkov-Choltice-Chrtníky-Kladruby nad Labem
+Fitness Invidual: 50.7714	Jankovice-Chýšť-Bukovina nad Labem-Kunětice
+Fitness Invidual: 47.3859	Malé Výkleky-Libišany-Němčice-Dubany
+Fitness Invidual: 37.518	Horní Ředice-Časy-Borek-Křičeň
+Fitness Invidual: 49.5393	Horní Jelení-Jaroslav-Pardubice-Opatovice nad Labem
+Fitness Invidual: 44.6886	Mikulovice-Holotín-Litošice-Hlavečník
+Fitness Invidual: 66.2781	Holice-Černá u Bohdanče-Brloh-Labské Chrčice
+Fitness Invidual: 60.1953	Mokošín-Bukovka-Lázně Bohdaneč-Ostřešany-Ostřetín
+Fitness Invidual: 11.6106	Dolní Ředice-Dolní Roveň-Moravany
+Fitness SuperInvidual: 13600
+Inviduals: 14
+

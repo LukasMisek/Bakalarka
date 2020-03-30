@@ -1,0 +1,200 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 23:13:29
+
+Super Invidual: 0
+Fitness Invidual: 56.2881	Borek-Čeperka-Křičeň-Brloh-Labské Chrčice
+Fitness Invidual: 20.7459	Bukovka-Dolany-Pardubice
+Fitness Invidual: 70.8957	Jaroslav-Horní Jelení-Ostřetín-Barchov-Jedousov-Morašice
+Fitness Invidual: 63.6141	Kostěnice-Lány u Dašic-Choteč-Lázně Bohdaneč-Kojice
+Fitness Invidual: 70.7403	Býšť-Čepí-Jezbořice-Břehy-Chýšť-Černá u Bohdanče
+Fitness Invidual: 24.5643	Bukovina nad Labem-Chvojenec-Holice-Dolní Roveň
+Fitness Invidual: 47.619	Dašice-Ostřešany-Hrobice-Choltice
+Fitness Invidual: 45.7098	Libišany-Mikulovice-Jankovice
+Fitness Invidual: 67.9875	Moravany-Časy-Opatovice nad Labem-Chrtníky-Malé Výkleky
+Fitness Invidual: 12.4542	Litošice-Lipoltice-Bukovina u Přelouče-Holotín
+Fitness Invidual: 69.4749	Hlavečník-Kladruby nad Labem-Kasalice-Jeníkovice-Dolní Ředice
+Fitness Invidual: 52.2144	Chvaletice-Bezděkov-Borek
+Fitness Invidual: 58.4748	Horní Ředice-Kunětice-Dříteč-Dubany-Neratov-Mokošín
+Fitness Invidual: 0	Němčice
+Fitness SuperInvidual: 13610
+Inviduals: 14
+
+Super Invidual: 1
+Fitness Invidual: 45.6099	Bukovina u Přelouče-Jeníkovice-Lázně Bohdaneč-Lány u Dašic
+Fitness Invidual: 18.7923	Brloh-Litošice-Labské Chrčice
+Fitness Invidual: 50.1054	Němčice-Libišany-Křičeň-Bezděkov-Morašice
+Fitness Invidual: 155.3556	Časy-Dašice-Neratov-Choltice-Kojice-Břehy-Opatovice nad Labem-Býšť-Jaroslav
+Fitness Invidual: 35.5089	Barchov-Mikulovice-Ostřešany-Holice
+Fitness Invidual: 29.4039	Mokošín-Bukovka-Hrobice
+Fitness Invidual: 38.1396	Horní Ředice-Borek-Bukovina nad Labem-Kunětice-Dolany
+Fitness Invidual: 45.0993	Dolní Ředice-Pardubice-Malé Výkleky
+Fitness Invidual: 87.7122	Ostřetín-Dolní Roveň-Jedousov-Lipoltice-Kasalice-Hlavečník
+Fitness Invidual: 68.0985	Horní Jelení-Kostěnice-Dubany-Jezbořice-Čeperka-Dříteč
+Fitness Invidual: 39.5271	Chrtníky-Chvojenec
+Fitness Invidual: 51.393	Choteč-Chýšť-Jankovice
+Fitness Invidual: 80.1753	Moravany-Borek-Černá u Bohdanče-Čepí-Holotín-Kladruby nad Labem
+Fitness Invidual: 0	Chvaletice
+Fitness SuperInvidual: 16950
+Inviduals: 14
+
+Super Invidual: 2
+Fitness Invidual: 33.0669	Libišany-Křičeň-Bukovina u Přelouče
+Fitness Invidual: 63.7584	Brloh-Lázně Bohdaneč-Chvojenec-Jaroslav
+Fitness Invidual: 37.9176	Lány u Dašic-Opatovice nad Labem-Bezděkov
+Fitness Invidual: 67.0773	Býšť-Časy-Dašice-Choltice-Jedousov-Litošice-Břehy
+Fitness Invidual: 66.6777	Chýšť-Mokošín-Jeníkovice-Barchov-Holice-Ostřetín
+Fitness Invidual: 37.1295	Morašice-Bukovka-Hrobice
+Fitness Invidual: 97.0362	Němčice-Dolany-Kladruby nad Labem-Jankovice-Lipoltice-Bukovina nad Labem-Borek-Horní Ředice
+Fitness Invidual: 45.7986	Dolní Ředice-Jezbořice-Neratov-Kasalice
+Fitness Invidual: 60.9057	Hlavečník-Kostěnice-Dolní Roveň
+Fitness Invidual: 57.7422	Dubany-Mikulovice-Čeperka-Dříteč-Horní Jelení
+Fitness Invidual: 61.4607	Moravany-Pardubice-Chrtníky-Labské Chrčice
+Fitness Invidual: 38.5392	Malé Výkleky-Kunětice-Choteč
+Fitness Invidual: 74.9916	Borek-Ostřešany-Čepí-Černá u Bohdanče-Holotín-Kojice
+Fitness Invidual: 0	Chvaletice
+Fitness SuperInvidual: 18430
+Inviduals: 14
+
+Super Invidual: 3
+Fitness Invidual: 40.8924	Labské Chrčice-Bukovina u Přelouče-Křičeň
+Fitness Invidual: 25.1304	Brloh-Pardubice
+Fitness Invidual: 67.2993	Morašice-Jedousov-Bezděkov-Ostřetín-Jaroslav
+Fitness Invidual: 134.1213	Kostěnice-Dašice-Lány u Dašic-Kojice-Břehy-Choltice-Lázně Bohdaneč-Časy-Býšť
+Fitness Invidual: 57.3537	Holice-Jezbořice-Barchov-Chýšť
+Fitness Invidual: 34.6431	Chvojenec-Hrobice-Bukovka
+Fitness Invidual: 49.3839	Ostřešany-Dolany-Bukovina nad Labem-Borek-Horní Ředice
+Fitness Invidual: 66.0783	Dolní Ředice-Libišany-Mikulovice-Jankovice
+Fitness Invidual: 68.9532	Dolní Roveň-Moravany-Opatovice nad Labem-Malé Výkleky-Hlavečník
+Fitness Invidual: 76.035	Litošice-Lipoltice-Dubany-Čeperka-Dříteč-Horní Jelení
+Fitness Invidual: 36.4746	Kladruby nad Labem-Kasalice-Chrtníky-Jeníkovice
+Fitness Invidual: 0	Choteč
+Fitness Invidual: 62.7705	Čepí-Holotín-Mokošín-Neratov-Černá u Bohdanče-Kunětice-Borek
+Fitness Invidual: 43.4787	Němčice-Chvaletice
+Fitness SuperInvidual: 18010
+Inviduals: 14
+
+Super Invidual: 4
+Fitness Invidual: 107.1816	Ostřešany-Kunětice-Morašice-Libišany-Čeperka-Časy-Horní Ředice
+Fitness Invidual: 56.7876	Borek-Jezbořice-Labské Chrčice
+Fitness Invidual: 80.7192	Ostřetín-Opatovice nad Labem-Lázně Bohdaneč-Bezděkov-Chvaletice-Kojice
+Fitness Invidual: 0	Horní Jelení
+Fitness Invidual: 33.6885	Pardubice-Němčice-Býšť-Dolní Ředice-Kostěnice
+Fitness Invidual: 48.5292	Borek-Dříteč-Hrobice-Chrtníky-Lipoltice-Kladruby nad Labem
+Fitness Invidual: 0	Černá u Bohdanče
+Fitness Invidual: 54.3678	Chýšť-Bukovka-Křičeň-Barchov-Moravany
+Fitness Invidual: 57.5091	Holotín-Brloh-Jankovice-Břehy-Chvojenec
+Fitness Invidual: 40.293	Dašice-Dubany-Neratov-Dolany
+Fitness Invidual: 83.2278	Lány u Dašic-Dolní Roveň-Kasalice-Mokošín-Litošice-Hlavečník
+Fitness Invidual: 33.3555	Choltice-Jeníkovice-Čepí-Mikulovice-Bukovina nad Labem
+Fitness Invidual: 60.5616	Bukovina u Přelouče-Holice-Jaroslav
+Fitness Invidual: 47.4081	Malé Výkleky-Jedousov-Choteč
+Fitness SuperInvidual: 16440
+Inviduals: 14
+
+Super Invidual: 5
+Fitness Invidual: 37.8843	Horní Ředice-Časy-Čeperka-Libišany-Křičeň
+Fitness Invidual: 48.5958	Jaroslav-Chvojenec-Borek-Lázně Bohdaneč
+Fitness Invidual: 63.1923	Chvaletice-Bezděkov-Opatovice nad Labem-Lány u Dašic
+Fitness Invidual: 63.6363	Horní Jelení-Jedousov-Litošice
+Fitness Invidual: 74.6142	Chýšť-Mokošín-Jeníkovice-Býšť-Dolní Ředice-Ostřetín
+Fitness Invidual: 45.9096	Borek-Dříteč-Hrobice-Chrtníky-Morašice
+Fitness Invidual: 41.3142	Kladruby nad Labem-Jankovice-Lipoltice-Černá u Bohdanče-Němčice
+Fitness Invidual: 18.2151	Jezbořice-Barchov-Neratov-Bukovka-Kasalice
+Fitness Invidual: 49.2063	Kostěnice-Břehy-Brloh-Holotín
+Fitness Invidual: 35.2869	Dolany-Dubany-Mikulovice-Dašice
+Fitness Invidual: 65.3124	Labské Chrčice-Hlavečník-Pardubice-Moravany-Dolní Roveň
+Fitness Invidual: 49.4838	Malé Výkleky-Choltice-Čepí-Kunětice-Bukovina nad Labem
+Fitness Invidual: 71.1843	Kojice-Bukovina u Přelouče-Ostřešany-Holice
+Fitness Invidual: 0	Choteč
+Fitness SuperInvidual: 13630
+Inviduals: 14
+
+Super Invidual: 6
+Fitness Invidual: 42.8682	Dolní Roveň-Libišany-Křičeň-Bukovka
+Fitness Invidual: 79.8645	Chvaletice-Černá u Bohdanče-Lázně Bohdaneč-Býšť-Chvojenec-Jaroslav
+Fitness Invidual: 59.5626	Horní Jelení-Lány u Dašic-Opatovice nad Labem-Bezděkov
+Fitness Invidual: 23.5098	Dubany-Barchov-Jedousov-Litošice
+Fitness Invidual: 69.6747	Chýšť-Mokošín-Jeníkovice-Časy-Dašice-Ostřetín
+Fitness Invidual: 45.4323	Morašice-Choltice-Borek
+Fitness Invidual: 64.8573	Horní Ředice-Choteč-Němčice-Kladruby nad Labem-Jankovice-Lipoltice
+Fitness Invidual: 45.7986	Dolní Ředice-Jezbořice-Neratov-Kasalice
+Fitness Invidual: 66.2115	Kostěnice-Čeperka-Dolany-Čepí-Holotín-Brloh
+Fitness Invidual: 37.3959	Dříteč-Mikulovice-Bukovina u Přelouče
+Fitness Invidual: 80.0532	Holice-Moravany-Bukovina nad Labem-Pardubice-Labské Chrčice
+Fitness Invidual: 56.8986	Hlavečník-Malé Výkleky-Břehy-Chrtníky-Kunětice
+Fitness Invidual: 57.4869	Kojice-Hrobice-Ostřešany
+Fitness Invidual: 0	Borek
+Fitness SuperInvidual: 16800
+Inviduals: 14
+
+Super Invidual: 7
+Fitness Invidual: 53.7351	Brloh-Jeníkovice-Lázně Bohdaneč-Čeperka-Borek-Lány u Dašic
+Fitness Invidual: 39.0276	Dolany-Bukovka-Litošice-Labské Chrčice
+Fitness Invidual: 86.802	Morašice-Barchov-Křičeň-Libišany-Němčice-Horní Jelení
+Fitness Invidual: 82.14	Kojice-Neratov-Opatovice nad Labem-Choteč-Jaroslav
+Fitness Invidual: 49.0287	Břehy-Černá u Bohdanče-Čepí-Mikulovice-Ostřešany-Býšť
+Fitness Invidual: 54.2013	Mokošín-Bukovina nad Labem-Holice-Dolní Roveň
+Fitness Invidual: 38.9388	Dašice-Kunětice-Hrobice-Choltice
+Fitness Invidual: 28.5381	Malé Výkleky-Pardubice
+Fitness Invidual: 68.7645	Ostřetín-Časy-Jedousov-Chrtníky-Lipoltice-Kasalice
+Fitness Invidual: 38.6391	Bukovina u Přelouče-Holotín-Jezbořice-Kostěnice
+Fitness Invidual: 59.0298	Hlavečník-Dolní Ředice-Chvojenec
+Fitness Invidual: 69.5526	Borek-Bezděkov-Jankovice-Chvaletice-Chýšť
+Fitness Invidual: 68.4648	Moravany-Horní Ředice-Dříteč-Dubany-Kladruby nad Labem
+Fitness SuperInvidual: 15880
+Inviduals: 13
+
+Super Invidual: 8
+Fitness Invidual: 55.6887	Labské Chrčice-Křičeň-Dříteč-Časy
+Fitness Invidual: 33.6996	Chrtníky-Pardubice-Borek
+Fitness Invidual: 67.155	Morašice-Jedousov-Ostřetín-Jaroslav
+Fitness Invidual: 98.3238	Lázně Bohdaneč-Barchov-Kostěnice-Lány u Dašic-Čeperka-Hlavečník-Kojice
+Fitness Invidual: 37.6068	Dubany-Jezbořice-Holotín-Chýšť
+Fitness Invidual: 66.2781	Chvaletice-Břehy-Choltice-Býšť-Chvojenec
+Fitness Invidual: 41.1033	Čepí-Ostřešany-Bukovina nad Labem-Choteč-Horní Ředice
+Fitness Invidual: 72.1722	Jankovice-Černá u Bohdanče-Libišany-Hrobice-Mikulovice-Dolní Roveň
+Fitness Invidual: 51.2487	Malé Výkleky-Opatovice nad Labem-Moravany
+Fitness Invidual: 64.7796	Horní Jelení-Dolní Ředice-Lipoltice-Litošice
+Fitness Invidual: 38.0952	Kasalice-Bukovka-Jeníkovice-Brloh-Kladruby nad Labem
+Fitness Invidual: 23.2434	Dolany-Bukovina u Přelouče
+Fitness Invidual: 55.7109	Holice-Dašice-Kunětice-Neratov-Bezděkov-Mokošín
+Fitness Invidual: 6.8043	Borek-Němčice
+Fitness SuperInvidual: 16520
+Inviduals: 14
+
+Super Invidual: 9
+Fitness Invidual: 56.2881	Borek-Čeperka-Křičeň-Brloh-Labské Chrčice
+Fitness Invidual: 20.7459	Pardubice-Dolany-Bukovka
+Fitness Invidual: 70.8957	Jaroslav-Horní Jelení-Ostřetín-Barchov-Jedousov-Morašice
+Fitness Invidual: 63.6141	Kostěnice-Lány u Dašic-Choteč-Lázně Bohdaneč-Kojice
+Fitness Invidual: 58.1862	Chýšť-Břehy-Černá u Bohdanče-Jezbořice-Čepí-Býšť
+Fitness Invidual: 24.5643	Dolní Roveň-Holice-Chvojenec-Bukovina nad Labem
+Fitness Invidual: 47.619	Dašice-Ostřešany-Hrobice-Choltice
+Fitness Invidual: 45.7098	Jankovice-Mikulovice-Libišany
+Fitness Invidual: 67.9875	Moravany-Časy-Opatovice nad Labem-Chrtníky-Malé Výkleky
+Fitness Invidual: 12.4542	Holotín-Bukovina u Přelouče-Lipoltice-Litošice
+Fitness Invidual: 69.4749	Hlavečník-Kladruby nad Labem-Kasalice-Jeníkovice-Dolní Ředice
+Fitness Invidual: 52.2144	Chvaletice-Bezděkov-Borek
+Fitness Invidual: 58.4748	Horní Ředice-Kunětice-Dříteč-Dubany-Neratov-Mokošín
+Fitness Invidual: 0	Němčice
+Fitness SuperInvidual: 13480
+Inviduals: 14
+

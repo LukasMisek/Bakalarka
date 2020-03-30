@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 13:42:12
+
+Fitness Invidual: 18.5814	Jedousov-Mokošín-Bukovka-Kasalice
+Fitness Invidual: 30.1476	Libišany-Lázně Bohdaneč-Barchov-Bezděkov-Choltice-Chrtníky
+Fitness Invidual: 61.0278	Chýšť-Lipoltice-Kostěnice-Dolní Ředice
+Fitness Invidual: 34.4655	Jaroslav-Holice-Lány u Dašic-Bukovina nad Labem
+Fitness Invidual: 41.5362	Dašice-Kunětice-Dříteč-Černá u Bohdanče-Břehy
+Fitness Invidual: 67.044	Morašice-Kladruby nad Labem-Jeníkovice-Němčice-Časy-Dolní Roveň
+Fitness Invidual: 68.9532	Labské Chrčice-Hlavečník-Křičeň-Čepí-Moravany
+Fitness Invidual: 38.406	Brloh-Pardubice-Borek
+Fitness Invidual: 62.9259	Chvojenec-Býšť-Kojice
+Fitness Invidual: 51.4929	Horní Jelení-Mikulovice-Dolany
+Fitness Invidual: 61.3275	Bukovina u Přelouče-Malé Výkleky-Čeperka-Hrobice-Ostřešany
+Fitness Invidual: 51.0933	Jankovice-Neratov-Jezbořice-Choteč
+Fitness Invidual: 71.7504	Chvaletice-Litošice-Holotín-Dubany-Ostřetín
+Fitness Invidual: 20.1909	Horní Ředice-Opatovice nad Labem
+Fitness SuperInvidual: 13780
+Inviduals: 14
+

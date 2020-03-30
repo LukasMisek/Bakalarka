@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 13:44:49
+
+Fitness Invidual: 47.1861	Malé Výkleky-Chýšť-Křičeň-Jeníkovice-Morašice
+Fitness Invidual: 53.0136	Brloh-Čepí-Libišany-Opatovice nad Labem-Choteč
+Fitness Invidual: 42.2244	Dubany-Neratov-Kasalice-Labské Chrčice
+Fitness Invidual: 58.0197	Jankovice-Lipoltice-Horní Ředice-Ostřetín
+Fitness Invidual: 61.2165	Holotín-Chvojenec-Horní Jelení
+Fitness Invidual: 92.7183	Dolní Roveň-Hlavečník-Kojice-Jedousov-Choltice
+Fitness Invidual: 55.6998	Bukovina u Přelouče-Chrtníky-Kostěnice-Časy-Holice
+Fitness Invidual: 26.9841	Černá u Bohdanče-Hrobice-Němčice-Lány u Dašic
+Fitness Invidual: 44.4888	Dříteč-Bukovka-Chvaletice
+Fitness Invidual: 35.187	Barchov-Jezbořice-Pardubice-Kunětice-Moravany
+Fitness Invidual: 19.2585	Mikulovice-Ostřešany-Borek
+Fitness Invidual: 78.699	Kladruby nad Labem-Litošice-Mokošín-Lázně Bohdaneč-Dolany-Dašice-Jaroslav
+Fitness Invidual: 45.0549	Břehy-Čeperka-Býšť-Dolní Ředice
+Fitness Invidual: 23.643	Bezděkov-Bukovina nad Labem
+Fitness SuperInvidual: 13830
+Inviduals: 14
+

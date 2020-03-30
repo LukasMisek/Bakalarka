@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 2
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 20:35:05
+
+Fitness Invidual: 63.2589	Holice-Opatovice nad Labem-Jedousov-Morašice
+Fitness Invidual: 43.179	Chvojenec-Dolní Roveň-Kostěnice-Dolany
+Fitness Invidual: 38.7612	Holotín-Barchov-Jezbořice-Choteč
+Fitness Invidual: 56.9208	Mokošín-Chrtníky-Choltice-Bezděkov-Němčice-Kunětice-Ostřetín
+Fitness Invidual: 50.5383	Litošice-Břehy-Čeperka-Dříteč-Býšť
+Fitness Invidual: 63.9471	Hlavečník-Kladruby nad Labem-Malé Výkleky-Borek-Časy-Dašice
+Fitness Invidual: 33.9882	Brloh-Jeníkovice-Pardubice-Hrobice
+Fitness Invidual: 53.8239	Ostřešany-Dubany-Chýšť-Kojice
+Fitness Invidual: 27.5724	Křičeň-Bukovka-Labské Chrčice
+Fitness Invidual: 46.842	Čepí-Neratov-Kasalice-Jankovice-Chvaletice
+Fitness Invidual: 55.5666	Bukovina u Přelouče-Borek-Lány u Dašic-Moravany
+Fitness Invidual: 48.3405	Jaroslav-Horní Ředice-Dolní Ředice-Lázně Bohdaneč-Černá u Bohdanče
+Fitness Invidual: 57.8088	Lipoltice-Mikulovice-Horní Jelení
+Fitness Invidual: 8.0475	Bukovina nad Labem-Libišany
+Fitness SuperInvidual: 13500
+Inviduals: 14
+

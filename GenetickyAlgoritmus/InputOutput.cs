@@ -301,7 +301,47 @@ namespace GenetickyAlgoritmus
 
         }
 
+        public static void printResult (string s, string note, bool header)
+        {
 
+        string output = "Parameters Invidual:\n";
+            output = output + "POPULATION_SIZE: " + Algorithm.POPULATION_SIZE + "\n";
+            output = output + "GENERATION_COUNT: " + Algorithm.GENERATION_COUNT + "\n";
+            output = output + "P_CROSSOVER: " + Algorithm.P_CROSSOVER + "\n";
+            output = output + "P_MUTATION: " + Algorithm.P_MUTATION + "\n";
+            output = output + "LENGTH: " + Algorithm.LENGTH + "\n";
+            output = output + "CROSSIN_POINT: " + Algorithm.CROSSIN_POINT + "\n";
+            output = output + "GOAL_DISTANCE: " + Algorithm.GOAL_DISTANCE + "\n";
+            output = output + "DISTANCE_COST: " + Algorithm.DISTANCE_COST + "\n";
+            output = output + "CAR_COST: " + Algorithm.CAR_COST + "\n";
+
+            output = output + "\nParameters SuperInvidual:\n";
+            output = output + "ORDER_CAPACITY: " + SuperInvidual.ORDER_CAPACITY + "\n";
+            output = output + "CAR_COST: " + SuperInvidual.CAR_COST + "\n";
+            output = output + "KM_COST: " + SuperInvidual.KM_COST + "\n";
+            output = output + "OVERLOAD_PENALTY: " + SuperInvidual.OVERLOAD_PENALTY + "\n";
+            output = output + "CROSSIN_POINT: " + InputOutput.getActiveOrdersCount() / 2 + "\n";
+            output = output + "\n\n";
+
+            DateTime thisDay = DateTime.Now;
+
+            output = output + thisDay.ToString("yyyy-MM-dd HH:mm:ss") + "\n\n";
+
+            if (header == true) output = output + s;
+            else output = s;
+
+            string address = Controller.pathOutput;
+            string name = note + "-" + thisDay.ToString("yyyy-MM-dd_HH-mm-ss");
+
+            string printTo = (address + name) + ".txt";
+
+            System.IO.TextWriter writeFile = new StreamWriter(printTo);
+
+            writeFile.Write(output);
+            writeFile.Flush();
+            writeFile.Close();
+            writeFile = null;
+        }
     }
 
 }

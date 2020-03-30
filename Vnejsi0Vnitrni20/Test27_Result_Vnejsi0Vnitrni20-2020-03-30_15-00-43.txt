@@ -1,0 +1,37 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 15:00:43
+
+Fitness Invidual: 48.7956	Jeníkovice-Němčice-Choteč-Býšť-Kostěnice
+Fitness Invidual: 58.497	Morašice-Lipoltice-Opatovice nad Labem-Bukovka
+Fitness Invidual: 33.6441	Pardubice-Lázně Bohdaneč-Barchov-Bezděkov-Jedousov-Mokošín
+Fitness Invidual: 63.5919	Chvaletice-Kladruby nad Labem-Ostřešany-Chvojenec
+Fitness Invidual: 28.0941	Křičeň-Kasalice-Labské Chrčice
+Fitness Invidual: 60.0621	Bukovina nad Labem-Mikulovice-Chrtníky-Kojice
+Fitness Invidual: 85.4811	Čeperka-Borek-Ostřetín-Časy-Čepí-Holotín-Bukovina u Přelouče
+Fitness Invidual: 83.5719	Dolany-Chýšť-Litošice-Choltice-Horní Ředice
+Fitness Invidual: 47.8077	Brloh-Dubany-Kunětice-Lány u Dašic-Moravany
+Fitness Invidual: 103.4742	Černá u Bohdanče-Malé Výkleky-Hlavečník-Dříteč-Horní Jelení
+Fitness Invidual: 70.2408	Jaroslav-Jezbořice-Neratov-Jankovice
+Fitness Invidual: 34.7985	Holice-Dolní Ředice-Dašice-Libišany
+Fitness Invidual: 48.5625	Břehy-Hrobice-Borek-Dolní Roveň
+Fitness SuperInvidual: 14170
+Inviduals: 13
+

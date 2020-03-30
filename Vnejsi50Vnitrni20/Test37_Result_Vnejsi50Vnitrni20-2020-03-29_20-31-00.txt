@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 20:31:00
+
+Fitness Invidual: 47.1972	Dašice-Dříteč-Pardubice-Barchov-Křičeň
+Fitness Invidual: 80.586	Kojice-Labské Chrčice-Chýšť-Jaroslav
+Fitness Invidual: 44.9439	Neratov-Černá u Bohdanče-Lázně Bohdaneč-Opatovice nad Labem-Kunětice-Časy-Býšť
+Fitness Invidual: 57.5202	Malé Výkleky-Břehy-Mokošín-Dubany-Horní Ředice
+Fitness Invidual: 45.6099	Dolany-Mikulovice-Kostěnice-Ostřetín
+Fitness Invidual: 64.3134	Horní Jelení-Chvojenec-Jankovice
+Fitness Invidual: 21.2787	Jezbořice-Jeníkovice-Jedousov-Chrtníky-Litošice
+Fitness Invidual: 62.6484	Borek-Choteč-Holotín-Chvaletice
+Fitness Invidual: 36.5856	Lipoltice-Libišany-Hrobice-Němčice
+Fitness Invidual: 47.064	Bukovka-Ostřešany-Moravany-Dolní Ředice
+Fitness Invidual: 75.591	Bukovina u Přelouče-Čepí-Čeperka-Kasalice-Kladruby nad Labem-Hlavečník
+Fitness Invidual: 37.629	Brloh-Choltice-Bezděkov-Borek
+Fitness Invidual: 25.0305	Bukovina nad Labem-Lány u Dašic-Dolní Roveň-Holice
+Fitness Invidual: 0	Morašice
+Fitness SuperInvidual: 13480
+Inviduals: 14
+

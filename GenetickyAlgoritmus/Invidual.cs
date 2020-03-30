@@ -226,5 +226,14 @@ namespace GenetickyAlgoritmus
             Console.WriteLine(s);
         }
 
+        public string getMeFull()
+        {
+            string s = "Fitness Invidual: " + getDistance() + "\t";
+            s = s + Cities.getCityName(Convert.ToInt32(this.sequence[0]));
+
+            for (int i = 1; i < this.sequence.Length; i++) s = s + "-" + Cities.getCityName(Convert.ToInt32(this.sequence[i]));
+            return s;
+        }
+
     }
 }

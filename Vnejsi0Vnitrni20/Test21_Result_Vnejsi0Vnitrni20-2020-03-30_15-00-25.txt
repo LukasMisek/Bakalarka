@@ -1,0 +1,39 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 2
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 15:00:25
+
+Fitness Invidual: 20.0799	Černá u Bohdanče-Chrtníky-Lipoltice-Jankovice
+Fitness Invidual: 29.3817	Bukovka-Mokošín-Brloh-Chvaletice
+Fitness Invidual: 12.876	Borek-Choteč-Časy-Dašice
+Fitness Invidual: 38.6946	Bukovina nad Labem-Břehy-Litošice
+Fitness Invidual: 63.7917	Lány u Dašic-Jeníkovice-Neratov-Labské Chrčice
+Fitness Invidual: 51.3153	Dolní Roveň-Opatovice nad Labem-Pardubice-Bezděkov
+Fitness Invidual: 68.0652	Horní Ředice-Kunětice-Dříteč-Čeperka-Kojice
+Fitness Invidual: 34.1214	Chýšť-Kladruby nad Labem-Morašice-Bukovina u Přelouče-Choltice
+Fitness Invidual: 60.2508	Čepí-Lázně Bohdaneč-Býšť-Holice-Jaroslav
+Fitness Invidual: 49.9056	Kostěnice-Dolní Ředice-Dolany-Jedousov
+Fitness Invidual: 18.9255	Libišany-Hrobice-Ostřešany
+Fitness Invidual: 44.5443	Hlavečník-Malé Výkleky-Kasalice-Mikulovice
+Fitness Invidual: 61.3719	Křičeň-Holotín-Barchov-Dubany-Moravany
+Fitness Invidual: 33.5109	Jezbořice-Němčice-Borek-Chvojenec
+Fitness Invidual: 5.9718	Horní Jelení-Ostřetín
+Fitness SuperInvidual: 13430
+Inviduals: 15
+

@@ -21,6 +21,7 @@ namespace GenetickyAlgoritmus
         public static string selectedArea = "Pardubice";
 
         public static string pathTest = "..\\..\\..\\..\\" + "Test.txt";
+        public static string pathOutput = "..\\..\\..\\..\\Output\\";
 
         public Controller()
         {

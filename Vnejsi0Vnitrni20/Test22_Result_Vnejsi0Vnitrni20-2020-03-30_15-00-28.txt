@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 15:00:28
+
+Fitness Invidual: 53.1579	Kojice-Bezděkov-Dolany-Opatovice nad Labem
+Fitness Invidual: 69.8967	Choltice-Malé Výkleky-Břehy-Neratov-Lázně Bohdaneč-Čeperka-Kostěnice
+Fitness Invidual: 44.844	Holotín-Kasalice-Černá u Bohdanče-Barchov-Jeníkovice-Čepí
+Fitness Invidual: 53.6685	Brloh-Němčice-Chvojenec-Dolní Roveň
+Fitness Invidual: 39.3606	Bukovina u Přelouče-Libišany-Bukovina nad Labem
+Fitness Invidual: 48.1851	Kladruby nad Labem-Bukovka-Hrobice-Býšť
+Fitness Invidual: 75.0249	Labské Chrčice-Jedousov-Moravany-Jaroslav
+Fitness Invidual: 51.3264	Morašice-Dubany-Kunětice-Choteč-Lány u Dašic
+Fitness Invidual: 53.7129	Mokošín-Pardubice-Ostřešany-Dašice-Borek
+Fitness Invidual: 49.3617	Jankovice-Lipoltice-Časy-Horní Ředice
+Fitness Invidual: 31.5906	Dříteč-Holice-Ostřetín-Horní Jelení
+Fitness Invidual: 65.0238	Chvaletice-Chýšť-Jezbořice-Borek
+Fitness Invidual: 72.6828	Chrtníky-Mikulovice-Křičeň-Litošice-Hlavečník
+Fitness Invidual: 0	Dolní Ředice
+Fitness SuperInvidual: 14080
+Inviduals: 14
+

@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 100
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 14:25:22
+
+Fitness Invidual: 72.7494	Čepí-Barchov-Choltice-Litošice-Bukovka-Býšť
+Fitness Invidual: 39.1719	Lipoltice-Křičeň-Borek
+Fitness Invidual: 65.5233	Labské Chrčice-Malé Výkleky-Brloh-Borek
+Fitness Invidual: 38.6724	Mikulovice-Pardubice-Horní Jelení
+Fitness Invidual: 62.7261	Chýšť-Neratov-Libišany-Jezbořice-Chrtníky-Holotín
+Fitness Invidual: 46.3536	Moravany-Bukovina nad Labem-Dolany-Bezděkov
+Fitness Invidual: 82.0734	Kladruby nad Labem-Morašice-Mokošín-Dašice-Chvojenec-Jaroslav
+Fitness Invidual: 69.7746	Lány u Dašic-Němčice-Čeperka-Bukovina u Přelouče-Kojice
+Fitness Invidual: 23.3322	Ostřešany-Časy-Dolní Ředice-Holice
+Fitness Invidual: 12.6207	Choteč-Kunětice-Dříteč-Hrobice
+Fitness Invidual: 47.4858	Lázně Bohdaneč-Jeníkovice-Dubany-Kostěnice-Horní Ředice
+Fitness Invidual: 80.919	Ostřetín-Dolní Roveň-Opatovice nad Labem-Jedousov-Břehy-Hlavečník
+Fitness Invidual: 24.9084	Černá u Bohdanče-Kasalice-Jankovice
+Fitness Invidual: 0	Chvaletice
+Fitness SuperInvidual: 13670
+Inviduals: 14
+

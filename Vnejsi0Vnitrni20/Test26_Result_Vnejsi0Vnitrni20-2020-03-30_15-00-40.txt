@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 20
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 3
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 15:00:40
+
+Fitness Invidual: 51.5484	Labské Chrčice-Morašice-Jedousov-Bukovina nad Labem
+Fitness Invidual: 61.6938	Hlavečník-Bukovina u Přelouče-Barchov-Dříteč-Choteč
+Fitness Invidual: 42.7017	Jezbořice-Bukovka-Kojice
+Fitness Invidual: 36.7965	Libišany-Dolní Ředice-Chvojenec-Ostřetín
+Fitness Invidual: 39.516	Břehy-Opatovice nad Labem-Borek-Býšť
+Fitness Invidual: 38.4282	Jeníkovice-Černá u Bohdanče-Hrobice-Dašice
+Fitness Invidual: 44.7996	Litošice-Kasalice-Neratov-Dubany-Pardubice
+Fitness Invidual: 58.8078	Dolany-Čepí-Kunětice-Horní Ředice-Horní Jelení
+Fitness Invidual: 51.4374	Choltice-Křičeň-Lázně Bohdaneč-Ostřešany-Borek
+Fitness Invidual: 73.9038	Chvaletice-Chrtníky-Čeperka-Lány u Dašic-Holice
+Fitness Invidual: 62.8815	Moravany-Jankovice-Kladruby nad Labem-Malé Výkleky-Chýšť
+Fitness Invidual: 40.6704	Časy-Mikulovice-Bezděkov-Brloh
+Fitness Invidual: 71.5617	Lipoltice-Holotín-Mokošín-Němčice-Dolní Roveň-Jaroslav
+Fitness Invidual: 0	Kostěnice
+Fitness SuperInvidual: 13770
+Inviduals: 14
+

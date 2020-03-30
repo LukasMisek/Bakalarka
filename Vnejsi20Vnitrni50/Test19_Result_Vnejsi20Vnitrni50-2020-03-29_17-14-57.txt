@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 1
+CROSSIN_POINT: 0
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 17:14:57
+
+Fitness Invidual: 64.0248	Kojice-Bezděkov-Barchov-Chvojenec
+Fitness Invidual: 53.6352	Kostěnice-Bukovina nad Labem-Libišany-Jankovice
+Fitness Invidual: 63.936	Labské Chrčice-Choltice-Čepí-Dubany-Horní Ředice
+Fitness Invidual: 34.0326	Jezbořice-Ostřešany-Dašice-Holice
+Fitness Invidual: 27.0507	Mikulovice-Choteč-Časy-Moravany
+Fitness Invidual: 66.6888	Ostřetín-Dolní Ředice-Dolany-Černá u Bohdanče-Morašice
+Fitness Invidual: 15.8619	Litošice-Bukovina u Přelouče-Lipoltice-Jedousov
+Fitness Invidual: 12.9093	Křičeň-Kasalice-Břehy
+Fitness Invidual: 63.603	Jaroslav-Borek-Čeperka-Bukovka-Malé Výkleky
+Fitness Invidual: 53.4798	Chýšť-Kladruby nad Labem-Brloh-Pardubice-Dříteč
+Fitness Invidual: 67.4547	Horní Jelení-Kunětice-Němčice-Opatovice nad Labem-Neratov-Chrtníky
+Fitness Invidual: 61.0611	Lány u Dašic-Holotín-Chvaletice-Hlavečník
+Fitness Invidual: 53.3577	Dolní Roveň-Býšť-Borek-Hrobice-Lázně Bohdaneč-Mokošín
+Fitness Invidual: 0	Jeníkovice
+Fitness SuperInvidual: 13370
+Inviduals: 14
+

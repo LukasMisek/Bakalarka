@@ -7,7 +7,7 @@ namespace GenetickyAlgoritmus
 {
     public class SuperInvidual
     {
-        public static int ORDER_CAPACITY = 64;
+        public static int ORDER_CAPACITY = 32;
 
         public static int CAR_COST = 500;
 
@@ -263,6 +263,26 @@ namespace GenetickyAlgoritmus
         {
             foreach (Invidual invidual in finalRoutes) invidual.showMeFull();
 
+        }
+
+        public string getMeRoutes()
+        {
+            string s = "";
+
+            foreach (Invidual invidual in finalRoutes) s = s + invidual.getMeFull() + "\n";
+
+            return s;
+        }
+
+        public string getMe()
+        {
+            string s = "";
+
+            foreach (Invidual invidual in finalRoutes) s = s + invidual.getMeFull() + "\n";
+            s = s + "Fitness SuperInvidual: " + getFitness() + "\n";
+            s = s + "Inviduals: " + getDriverCount() + "\n\n";
+
+            return s;
         }
 
         /// <summary>

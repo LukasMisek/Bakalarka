@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 2
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-30 13:39:54
+
+Fitness Invidual: 74.0925	Časy-Lány u Dašic-Dubany-Barchov-Horní Ředice-Jaroslav
+Fitness Invidual: 49.6281	Bukovina nad Labem-Bukovka-Choltice-Morašice
+Fitness Invidual: 56.7543	Kostěnice-Dříteč-Dolany-Jankovice-Kladruby nad Labem
+Fitness Invidual: 53.9349	Kojice-Chvaletice-Jezbořice-Čeperka
+Fitness Invidual: 83.8383	Litošice-Malé Výkleky-Býšť-Horní Jelení-Ostřetín
+Fitness Invidual: 32.8893	Holice-Dolní Roveň-Kunětice-Libišany
+Fitness Invidual: 28.9377	Opatovice nad Labem-Pardubice-Dolní Ředice
+Fitness Invidual: 41.8914	Břehy-Černá u Bohdanče-Mikulovice-Borek
+Fitness Invidual: 43.8339	Čepí-Ostřešany-Hrobice-Choteč-Moravany
+Fitness Invidual: 40.7037	Chvojenec-Lázně Bohdaneč-Bezděkov-Jeníkovice
+Fitness Invidual: 59.7957	Chýšť-Mokošín-Němčice-Borek-Dašice
+Fitness Invidual: 51.9591	Hlavečník-Křičeň-Neratov-Chrtníky-Brloh-Bukovina u Přelouče
+Fitness Invidual: 23.0991	Kasalice-Jedousov-Lipoltice-Holotín
+Fitness Invidual: 0	Labské Chrčice
+Fitness SuperInvidual: 13430
+Inviduals: 14
+

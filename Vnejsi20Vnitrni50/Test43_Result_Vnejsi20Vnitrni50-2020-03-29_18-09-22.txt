@@ -1,0 +1,38 @@
+Parameters Invidual:
+POPULATION_SIZE: 10
+GENERATION_COUNT: 50
+P_CROSSOVER: 80
+P_MUTATION: 10
+LENGTH: 2
+CROSSIN_POINT: 1
+GOAL_DISTANCE: 0
+DISTANCE_COST: 10
+CAR_COST: 10000
+
+Parameters SuperInvidual:
+ORDER_CAPACITY: 32
+CAR_COST: 500
+KM_COST: 10
+OVERLOAD_PENALTY: 100
+CROSSIN_POINT: 30
+
+
+2020-03-29 18:09:22
+
+Fitness Invidual: 33.1446	Labské Chrčice-Jankovice-Černá u Bohdanče-Lázně Bohdaneč
+Fitness Invidual: 56.6877	Kasalice-Dašice-Horní Ředice-Horní Jelení
+Fitness Invidual: 67.0773	Hlavečník-Morašice-Mokošín-Choltice-Neratov-Lány u Dašic-Časy
+Fitness Invidual: 34.2879	Mikulovice-Borek-Dolní Ředice-Dolní Roveň
+Fitness Invidual: 70.5405	Chvojenec-Moravany-Čepí-Chvaletice
+Fitness Invidual: 41.6361	Chrtníky-Bezděkov-Bukovka-Borek
+Fitness Invidual: 46.5201	Brloh-Křičeň-Čeperka-Němčice-Ostřešany
+Fitness Invidual: 84.1158	Býšť-Kunětice-Holotín-Chýšť-Kladruby nad Labem-Kojice
+Fitness Invidual: 52.7361	Hrobice-Dubany-Litošice-Malé Výkleky
+Fitness Invidual: 65.0793	Jaroslav-Choteč-Dolany-Barchov-Jedousov
+Fitness Invidual: 54.5676	Ostřetín-Holice-Libišany-Jeníkovice
+Fitness Invidual: 50.0499	Lipoltice-Opatovice nad Labem-Dříteč-Kostěnice
+Fitness Invidual: 26.5401	Břehy-Jezbořice-Pardubice
+Fitness Invidual: 34.9317	Bukovina nad Labem-Bukovina u Přelouče
+Fitness SuperInvidual: 14200
+Inviduals: 14
+
